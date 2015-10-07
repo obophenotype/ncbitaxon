@@ -2,31 +2,13 @@
 
 The NCBITaxon ontology is an automatic translation of the [NCBI taxonomy database](http://www.ncbi.nlm.nih.gov/taxonomy) into obo/owl.
 
-# Mapping to obo/owl
+# Details
 
-The translation treats each taxon as an obo/owl class whose instances (for most branches of the ontology) would be individual organisms. For example:
+For details on using the ontology, see the OBO page:
 
-    'Craig Venter' instance_of NCBITaxon_9606 (Homo sapiens)
+http://obofoundry.org/ontology/ncbitaxon.html
 
-The translation faithfully reproduces all of the content of the source database, even where this contravenes OBO guidelines. For example:
-
- * The root class is called 'root', rather than something like 'organism'
- * Plural names are used (both Linnaean and common names). E.g. "mammals"
- * The organismhood of certain classes might be contested - either biologically ("viruses") or ontologically ("environmental samples")
- * Synonyms may include quotation marks as part of the text
-
-## PURLs
-
-The purls for this ontology are:
-
- * http://purl.obolibrary.org/obo/ncbitaxon.owl (official purl for *ontology*)
- * http://purl.obolibrary.org/obo/ncbitaxon.obo (obo-format version)
-
-The PURLs should be resolvable in OntoBee. E.g.
-
- * [http://purl.obolibrary.org/obo/NCBITaxon_9606](http://purl.obolibrary.org/obo/NCBITaxon_9606) (Homo sapiens)
- * http://purl.obolibrary.org/obo/NCBITaxon_7711 (Chordates)
- * http://purl.obolibrary.org/obo/NCBITaxon_7227 (Danio rerio)
+This README details with technical aspects of the build
 
 ## Releases
 
@@ -42,39 +24,15 @@ team that informally handles this are:
  * Chris Mungall, LBNL/GO/Monarch/Uberon/OBO
  * Peter Midford, Phenoscape
 
-## Extensions
+## Subsets
 
-The GO uses an extension of NCBITaxon for grouping purposes. See:
+Currently there is one subset, ncbitaxon/subsets/taxslim - for details, see [subsets/README.md](subsets/README.md)
 
-* http://purl.obolibrary.org/obo/go/extensions/go-taxon-groupings.owl
+## Licensing
 
-this ontology includes new classes in the NCBITaxon_Union namespace. These classes are all defined using unions - for example Prokaryote = Eubacteria OR Archae
+The license for this software is BSD3. See the [LICENSE](LICENSE) file.
 
-## Taxon Constraints
-
-One of the main uses for the NCBITaxon ontology is to define taxon constraints in a multi-species ontology. For details, see:
-
- * Waclaw Kusnierczyk (2008) [Taxonomy-based partitioning of the Gene Ontology](http://dx.doi.org/10.1016/j.jbi.2007.07.007), *Journal of Biomedical Informatics*
- * Deegan Née Clark, J. I., Dimmer, E. C., and Mungall, C. J. (2010). [Formalization of taxon-based constraints to detect inconsistencies in annotation and ontology development](http://www.biomedcentral.com/1471-2105/11/530). *BMC Bioinformatics 11, 530**
- * [Taxon constraints in OWL](http://douroucouli.wordpress.com/2012/04/24/taxon-constraints-in-owl) (blog post)
- * [Taxon constraints in Uberon](https://github.com/obophenotype/uberon/wiki/Taxon-constraints)
- * [A Taxonomy for Immunologists](http://ceur-ws.org/Vol-1060/icbo2013_submission_76.pdf) **ICBO 2013**
-
-## Mailing Lists
-
- * https://lists.sourceforge.net/lists/listinfo/obo-taxonomy
- * http://groups.google.com/group/obo-taxonomy
-
-## Tracker
-
-Note that this differs from other OBO ontologies in that it is a
-translation of a database produced external to OBO. If you wish to
-suggest actual taxonomy changes to the database, contact NCBI.
-
-The NCBI staff are very responsive and helpful, [as this post from the Bgee team shows](https://bgeedb.wordpress.com/2013/05/29/new-taxon-dipnotetrapodomorpha-in-ncbi-taxonomy/)
-
-If you wish to suggest changes to the *translation* then contact the
-maintainer or the mail list above.
+Note that the *content* of the ontology is not covered by this software license. The content comes from NCBI.
 
 ## Citing the NCBITaxon ontology
 
