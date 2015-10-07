@@ -27,5 +27,12 @@ rp-subset.obo: rp-README.txt
 
 rpids.txt: rp-subset.obo
 
-new-taxon-subset-ids.txt: taxon-subset-ids.txt rpids.txt
+gene_association.goa_uniprot_noiea.gz:
+	wget http://www.geneontology.org/gene-associations/$@ -O $@
+
+go-tax-ids.txt: gene_association.goa_uniprot_noiea.gz
+	gzip -dc $< | cut -f13 | grep ^taxon: | sort -u | perl -npe 's@^taxon:@NCBITaxon:@g;s@\|@\n@' > $@.tmp && sort -u $@.tmp > $@
+
+new-taxon-subset-ids.txt: taxon-subset-ids.txt rpids.txt go-tax-ids.txt
 	sort -u $^ > $@
+
