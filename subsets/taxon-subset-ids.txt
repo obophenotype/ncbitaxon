@@ -1,0 +1,3 @@
+# This file contains additional ids to be included in the taxslim
+# Each line is one taxon id, for example: NCBITaxon:9606
+ 
