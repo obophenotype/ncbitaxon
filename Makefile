@@ -2,6 +2,8 @@ all: ncbitaxon.obo
 NCBI_MEMORY=8G
 OORT_MEMORY=$(NCBI_MEMORY)
 
+test: all
+
 taxonomy.dat:
 	wget ftp://ftp.ebi.ac.uk/pub/databases/taxonomy/$@ -O $@.tmp && mv $@.tmp $@
 

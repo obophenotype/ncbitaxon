@@ -15,4 +15,7 @@ OBO NCBITaxon administrators can add to the slim by adding to
 [taxon-subset-ids.txt](taxon-subset-ids.txt). This will ensure the
 taxon plus ancestors are included in the slim the next release.
 
+Note that the taxslim.obo used in this repository is *not* the release
+version. The release is produced by Jenkins and consumed by the OBO
+library build.
 
