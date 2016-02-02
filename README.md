@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.org/cmungall/ncbitaxon.svg?branch=master)](https://travis-ci.org/cmungall/ncbitaxon)
+[![Build Status](https://travis-ci.org/obophenotype/ncbitaxon.svg?branch=master)](https://travis-ci.org/obophenotype/ncbitaxon)
+[![DOI](https://zenodo.org/badge/13996/obophenotype/ncbitaxon.svg)](https://zenodo.org/badge/latestdoi/13996/obophenotype/ncbitaxon)
+
 
 # Build for NCBITaxon Ontology
 
