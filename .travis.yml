@@ -7,6 +7,7 @@ before_script:
   - export PATH=$PATH:$PWD/bin
   - wget http://build.berkeleybop.org/userContent/owltools/owltools -O bin/owltools
   - wget http://build.berkeleybop.org/userContent/owltools/ncbi2owl -O bin/ncbi2owl
+  - wget http://build.berkeleybop.org/userContent/owltools/ncbi2owl.jar -O bin/ncbi2owl.jar
   - wget http://build.berkeleybop.org/userContent/owltools/ontology-release-runner -O bin/ontology-release-runner
   - wget http://build.berkeleybop.org/userContent/owltools/owltools-runner-all.jar -O bin/owltools-runner-all.jar
   - wget http://build.berkeleybop.org/userContent/owltools/owltools-oort-all.jar -O bin/owltools-oort-all.jar
