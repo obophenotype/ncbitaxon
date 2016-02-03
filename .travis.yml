@@ -14,7 +14,7 @@ before_script:
   - chmod +x bin/*
 
 # command to run tests
-script: make test NCBI_MEMORY=6G
+script: make test NCBI_MEMORY=3G
 
 #after_success:
 #  coveralls
