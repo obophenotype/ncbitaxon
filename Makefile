@@ -1,5 +1,5 @@
 all: ncbitaxon.obo
-NCBI_MEMORY=8G
+NCBI_MEMORY=12G
 OORT_MEMORY=$(NCBI_MEMORY)
 
 test: taxonomy.dat taxdmp.zip
