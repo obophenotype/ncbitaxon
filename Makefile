@@ -15,7 +15,8 @@ ncbitaxon.owl: taxonomy.dat taxdmp.zip
 .PRECIOUS: ncbitaxon.owl
 
 ncbitaxon.obo: ncbitaxon.owl
-	OORT_MEMORY=$(OORT_MEMORY) ontology-release-runner --ignoreLock --skip-release-folder --skip-format owx --skip-format owl --no-subsets --outdir . --simple --allow-overwrite --no-reasoner $<
+	OWLTOOLS_MEMORY=$(NCBI_MEMORY) owltools $< -o -f obo $@.tmp && mv $@.tmp $@
+##	OORT_MEMORY=$(OORT_MEMORY) ontology-release-runner --ignoreLock --skip-release-folder --skip-format owx --skip-format owl --no-subsets --outdir . --simple --allow-overwrite --no-reasoner $<
 
 #ncbitaxon.owl: ncbitaxon-src.obo
 #	ontology-release-runner --allow-overwrite --outdir . --no-reasoner --asserted $<
