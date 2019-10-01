@@ -5,10 +5,10 @@ OORT_MEMORY=$(NCBI_MEMORY)
 test: taxonomy.dat taxdmp.zip
 
 taxonomy.dat:
-	wget ftp://ftp.ebi.ac.uk/pub/databases/taxonomy/$@ -O $@.tmp && mv $@.tmp $@
+	wget http://ftp.ebi.ac.uk/pub/databases/taxonomy/$@ -O $@.tmp && mv $@.tmp $@
 
 taxdmp.zip:
-	wget ftp://ftp.ncbi.nih.gov/pub/taxonomy/$@ -O $@.tmp && mv $@.tmp $@
+	wget http://ftp.ncbi.nih.gov/pub/taxonomy/$@ -O $@.tmp && mv $@.tmp $@
 
 ncbitaxon.owl: taxonomy.dat taxdmp.zip
 	NCBI_MEMORY=$(NCBI_MEMORY) ncbi2owl -t
