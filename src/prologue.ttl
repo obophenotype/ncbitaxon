@@ -1,0 +1,331 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix : <http://purl.obolibrary.org/obo/ncbitaxon.owl#> .
+@prefix obo: <http://purl.obolibrary.org/obo/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix oboInOwl: <http://www.geneontology.org/formats/oboInOwl#> .
+@prefix ncbitaxon: <http://purl.obolibrary.org/obo/ncbitaxon#> .
+@prefix NCBITaxon: <http://purl.obolibrary.org/obo/NCBITaxon_> .
+
+obo:IAO_0000115
+    a owl:AnnotationProperty ;
+    rdfs:label "definition"^^xsd:string .
+
+<http://purl.obolibrary.org/obo/NCBITaxon#_species_group>
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "species group"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+<http://purl.obolibrary.org/obo/NCBITaxon#_species_subgroup>
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "species subgroup"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+<http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank>
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:comment "This is an abstract class for use with the NCBI taxonomy to name the depth of the node within the tree. The link between the node term and the rank is only visible if you are using an obo 1.3 aware browser/editor; otherwise this can be ignored."^^xsd:string ;
+    rdfs:label "taxonomic rank"^^xsd:string .
+
+obo:NCBITaxon_class
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "class"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_family
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "family"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_forma
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "forma"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_genus
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "genus"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_infraclass
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "infraclass"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_infraorder
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "infraorder"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_kingdom
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "kingdom"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_order
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "order"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_parvorder
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "parvorder"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_phylum
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "phylum"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_species
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "species"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_subclass
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "subclass"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_subfamily
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "subfamily"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_subgenus
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "subgenus"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_subkingdom
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "subkingdom"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_suborder
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "suborder"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_subphylum
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "subphylum"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_subspecies
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "subspecies"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_subtribe
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "subtribe"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_superclass
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "superclass"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_superfamily
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "superfamily"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_superkingdom
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "superkingdom"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_superorder
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "superorder"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_superphylum
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "superphylum"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_tribe
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "tribe"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+obo:NCBITaxon_varietas
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:Class ;
+    rdfs:label "varietas"^^xsd:string ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> .
+
+ncbitaxon:acronym
+    oboInOwl:hasScope "oio:hasBroadSynonym"^^xsd:string ;
+    a owl:AnnotationProperty ;
+    rdfs:label "acronym"^^xsd:string ;
+    rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
+
+ncbitaxon:anamorph
+    oboInOwl:hasScope "oio:hasRelatedSynonym"^^xsd:string ;
+    a owl:AnnotationProperty ;
+    rdfs:label "anamorph"^^xsd:string ;
+    rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
+
+ncbitaxon:blast_name
+    oboInOwl:hasScope "oio:hasRelatedSynonym"^^xsd:string ;
+    a owl:AnnotationProperty ;
+    rdfs:label "blast name"^^xsd:string ;
+    rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
+
+ncbitaxon:common_name
+    oboInOwl:hasScope "oio:hasExactSynonym"^^xsd:string ;
+    a owl:AnnotationProperty ;
+    rdfs:label "common name"^^xsd:string ;
+    rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
+
+ncbitaxon:equivalent_name
+    oboInOwl:hasScope "oio:hasExactSynonym"^^xsd:string ;
+    a owl:AnnotationProperty ;
+    rdfs:label "equivalent name"^^xsd:string ;
+    rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
+
+ncbitaxon:genbank_acronym
+    oboInOwl:hasScope "oio:hasBroadSynonym"^^xsd:string ;
+    a owl:AnnotationProperty ;
+    rdfs:label "genbank acronym"^^xsd:string ;
+    rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
+
+ncbitaxon:genbank_anamorph
+    oboInOwl:hasScope "oio:hasRelatedSynonym"^^xsd:string ;
+    a owl:AnnotationProperty ;
+    rdfs:label "genbank anamorph"^^xsd:string ;
+    rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
+
+ncbitaxon:genbank_common_name
+    oboInOwl:hasScope "oio:hasExactSynonym"^^xsd:string ;
+    a owl:AnnotationProperty ;
+    rdfs:label "genbank common name"^^xsd:string ;
+    rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
+
+ncbitaxon:genbank_synonym
+    oboInOwl:hasScope "oio:hasRelatedSynonym"^^xsd:string ;
+    a owl:AnnotationProperty ;
+    rdfs:label "genbank synonym"^^xsd:string ;
+    rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
+
+ncbitaxon:has_rank
+    obo:IAO_0000115 "A metadata relation between a class and its taxonomic rank (eg species, family)"^^xsd:string ;
+    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string ;
+    a owl:AnnotationProperty ;
+    rdfs:comment "This is an abstract class for use with the NCBI taxonomy to name the depth of the node within the tree. The link between the node term and the rank is only visible if you are using an obo 1.3 aware browser/editor; otherwise this can be ignored"^^xsd:string ;
+    rdfs:label "has_rank"^^xsd:string .
+
+ncbitaxon:in_part
+    oboInOwl:hasScope "oio:hasRelatedSynonym"^^xsd:string ;
+    a owl:AnnotationProperty ;
+    rdfs:label "in-part"^^xsd:string ;
+    rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
+
+ncbitaxon:misnomer
+    oboInOwl:hasScope "oio:hasRelatedSynonym"^^xsd:string ;
+    a owl:AnnotationProperty ;
+    rdfs:label "misnomer"^^xsd:string ;
+    rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
+
+ncbitaxon:misspelling
+    oboInOwl:hasScope "oio:hasRelatedSynonym"^^xsd:string ;
+    a owl:AnnotationProperty ;
+    rdfs:label "misspelling"^^xsd:string ;
+    rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
+
+ncbitaxon:scientific_name
+    oboInOwl:hasScope "oio:hasExactSynonym"^^xsd:string ;
+    a owl:AnnotationProperty ;
+    rdfs:label "scientific name"^^xsd:string ;
+    rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
+
+ncbitaxon:synonym
+    oboInOwl:hasScope "oio:hasRelatedSynonym"^^xsd:string ;
+    a owl:AnnotationProperty ;
+    rdfs:label "synonym"^^xsd:string ;
+    rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
+
+ncbitaxon:teleomorph
+    oboInOwl:hasScope "oio:hasRelatedSynonym"^^xsd:string ;
+    a owl:AnnotationProperty ;
+    rdfs:label "teleomorph"^^xsd:string ;
+    rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
+
+<http://purl.obolibrary.org/obo/ncbitaxon.owl>
+    a owl:Ontology ;
+    rdfs:comment "Autogenerated by OWLTools-NCBIConverter."^^xsd:string ;
+    owl:versionIRI <http://purl.obolibrary.org/obo/ncbitaxon/2019-11-24/ncbitaxon.owl> .
+
+oboInOwl:SynonymTypeProperty
+    a owl:AnnotationProperty ;
+    rdfs:label "synonym_type_property"^^xsd:string .
+
+oboInOwl:hasAlternativeId
+    a owl:AnnotationProperty ;
+    rdfs:label "has_alternative_id"^^xsd:string .
+
+oboInOwl:hasBroadSynonym
+    a owl:AnnotationProperty ;
+    rdfs:label "has_broad_synonym"^^xsd:string .
+
+oboInOwl:hasDbXref
+    a owl:AnnotationProperty ;
+    rdfs:label "database_cross_reference"^^xsd:string .
+
+oboInOwl:hasExactSynonym
+    a owl:AnnotationProperty ;
+    rdfs:label "has_exact_synonym"^^xsd:string .
+
+oboInOwl:hasOBOFormatVersion
+    a owl:AnnotationProperty ;
+    rdfs:label "has_obo_format_version"^^xsd:string .
+
+oboInOwl:hasOBONamespace
+    a owl:AnnotationProperty ;
+    rdfs:label "has_obo_namespace"^^xsd:string .
+
+oboInOwl:hasRelatedSynonym
+    a owl:AnnotationProperty ;
+    rdfs:label "has_related_synonym"^^xsd:string .
+
+oboInOwl:hasScope
+    a owl:AnnotationProperty ;
+    rdfs:label "has_scope"^^xsd:string .
+
+oboInOwl:hasSynonymType
+    a owl:AnnotationProperty ;
+    rdfs:label "has_synonym_type"^^xsd:string .
+

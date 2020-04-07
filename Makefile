@@ -1,26 +1,19 @@
-all: ncbitaxon.obo
-NCBI_MEMORY=12G
-OORT_MEMORY=$(NCBI_MEMORY)
+.PHONY: all
+all: ncbitaxon.owl ncbitaxon.obo
 
-test: taxonomy.dat taxdmp.zip
+.PHONY: clean
+clean:
+	rm -rf build
 
-taxonomy.dat:
-	wget http://ftp.ebi.ac.uk/pub/databases/taxonomy/$@ -O $@.tmp && mv $@.tmp $@
+ROBOT := java -Xmx16g -jar bin/robot.jar
 
-taxdmp.zip:
-	wget http://ftp.ncbi.nih.gov/pub/taxonomy/$@ -O $@.tmp && mv $@.tmp $@
+build/taxdmp.zip: | build
+	curl -L -o $@ https://ftp.ncbi.nih.gov/pub/taxonomy/taxdmp.zip
 
-ncbitaxon.owl: taxonomy.dat taxdmp.zip
-	NCBI_MEMORY=$(NCBI_MEMORY) ncbi2owl -t
+ncbitaxon.ttl: src/ncbitaxon.py src/prologue.ttl build/taxdmp.zip
+	python3 $^ $@
+
 .PRECIOUS: ncbitaxon.owl
-
-ncbitaxon.obo: ncbitaxon.owl
-	OWLTOOLS_MEMORY=$(NCBI_MEMORY) owltools $< -o -f obo $@.tmp && mv $@.tmp $@
-##	OORT_MEMORY=$(OORT_MEMORY) ontology-release-runner --ignoreLock --skip-release-folder --skip-format owx --skip-format owl --no-subsets --outdir . --simple --allow-overwrite --no-reasoner $<
-
-#ncbitaxon.owl: ncbitaxon-src.obo
-#	ontology-release-runner --allow-overwrite --outdir . --no-reasoner --asserted $<
-# requires go-perl
-#ncbitaxon-src.obo: taxonomy.dat
-#	go2obo -f ncbi_taxonomy $< > $@.tmp && mv $@.tmp $@
-#.PRECIOUS: ncbitaxon-src.obo
+.PRECIOUS: ncbitaxon.obo
+ncbitaxon.owl ncbitaxon.obo: ncbitaxon.ttl
+	$(ROBOT) convert -i $< -o $@
