@@ -5,6 +5,7 @@ import io
 import zipfile
 
 from collections import defaultdict
+from datetime import date
 
 
 exact_synonym   = 'oboInOwl:hasExactSynonym'
@@ -141,7 +142,7 @@ def main():
     citations = defaultdict(list)
     with open(args.turtle, "w") as turtle:
         with open(args.prologue) as prologue:
-            turtle.write(prologue.read())
+            turtle.write(prologue.read().replace("DATE", date.today().isoformat()))
 
         # TODO: ontology
         # TODO: annotation properties
