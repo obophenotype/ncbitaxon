@@ -50,15 +50,13 @@ def convert_names(tax_id, names):
     for name, unique, name_class in names:
         if name_class == "scientific name":
             synonym = name
-            if unique != '':
-                synonym = unique
             synonym = synonym.replace('"', '\\"')
             output.append(f"""
 NCBITaxon:{tax_id} rdfs:label "{synonym}"^^xsd:string .""")
         elif name_class in predicates:
             synonym = name.replace('"', '\\"')
             predicate = predicates[name_class]
-            synonym_type = name_class.replace(" ", "_")
+            synonym_type = name_class.replace(" ", "_").replace("-", "_")
             output.append(f"""
 NCBITaxon:{tax_id} {predicate} "{synonym}"^^xsd:string .
 [ a owl:Axiom
@@ -70,7 +68,7 @@ NCBITaxon:{tax_id} {predicate} "{synonym}"^^xsd:string .
     return output
 
 
-def convert_node(node, merged, names):
+def convert_node(node, merged, names, citations):
     tax_id = node["tax_id"]
     output = [f"NCBITaxon:{tax_id} a owl:Class"]
 
@@ -84,12 +82,15 @@ def convert_node(node, merged, names):
         rank = rank.replace(" ", "_")
         output.append(f"; ncbitaxon:has_rank NCBITaxon:{rank}")
     
-    for merge in merged:
-        output.append(f'; oboInOwl:hasAlternativeId "NCBITaxon:{merge}"^^xsd:string')
-
     gc_id = node["genetic_code_id"]
     if gc_id:
         output.append(f'; oboInOwl:hasDbXref "GC_ID:{gc_id}"^^xsd:string')
+
+    for merge in merged:
+        output.append(f'; oboInOwl:hasAlternativeId "NCBITaxon:{merge}"^^xsd:string')
+
+    for pubmed_id in citations:
+        output.append(f'; oboInOwl:hasDbXref "PMID:{pubmed_id}"^^xsd:string')
 
     output.append('; oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string')
     output.append(".")
@@ -97,6 +98,10 @@ def convert_node(node, merged, names):
     output += convert_names(tax_id, names)
 
     return "\n".join(output)
+
+
+def split_line(line):
+    return [x.strip() for x in line.split("	|")]
 
 
 def main():
@@ -125,10 +130,11 @@ def main():
         taxa = set()
         with open(args.taxa) as taxalist:
             for line in taxalist:
-                taxa.add(line.strip())
+                taxa.add(line.split()[0])
 
     names = defaultdict(list)
     merged = defaultdict(list)
+    citations = defaultdict(list)
     with open(args.turtle, "w") as turtle:
         with open(args.prologue) as prologue:
             turtle.write(prologue.read())
@@ -136,33 +142,41 @@ def main():
         with zipfile.ZipFile(args.taxdmp) as taxdmp:
             with taxdmp.open("names.dmp") as dmp:
                 for line in io.TextIOWrapper(dmp):
-                    tax_id, name, unique, name_class, _ = [x.strip() for x in line.split("|")]
-                    if taxa and tax_id in taxa:
-                        names[tax_id].append([name, unique, name_class])
+                    tax_id, name, unique, name_class, _ = split_line(line)
+                    names[tax_id].append([name, unique, name_class])
                     if limit and int(tax_id) > limit:
                         break
 
             with taxdmp.open("merged.dmp") as dmp:
                 for line in io.TextIOWrapper(dmp):
-                    old_tax_id, new_tax_id, _ = [x.strip() for x in line.split("|")]
-                    if taxa and new_tax_id in taxa:
-                        merged[new_tax_id].append(old_tax_id)
+                    old_tax_id, new_tax_id, _ = split_line(line)
+                    merged[new_tax_id].append(old_tax_id)
 
-            # TODO: citations
+            with taxdmp.open("citations.dmp") as dmp:
+                for line in io.TextIOWrapper(dmp):
+                    cit_id, cit_key, pubmed_id, medline_id, url, text, tax_id_list, _ = split_line(line)
+                    # WARN: the pubmed_id is always "0", we treat medline_id as pubmed_id
+                    if medline_id == "0":
+                        continue
+                    for tax_id in tax_id_list.split():
+                        if taxa and tax_id not in taxa:
+                            continue
+                        citations[tax_id].append(medline_id)
 
             with taxdmp.open("nodes.dmp") as dmp:
                 for line in io.TextIOWrapper(dmp):
                     node = {}
-                    fields = [x.strip() for x in line.split("|")]
+                    fields = split_line(line)
                     for i in range(0, min(len(fields), len(nodes_fields))):
                         node[nodes_fields[i]] = fields[i]
                     tax_id = node["tax_id"]
-                    if taxa and tax_id in taxa:
-                        result = convert_node(node, merged[tax_id], names[tax_id])
-                        turtle.write(result)
+                    if taxa and tax_id not in taxa:
+                        continue
+                    result = convert_node(node, merged[tax_id], names[tax_id], citations[tax_id])
+                    turtle.write(result)
                     if limit and int(tax_id) > limit:
                         break
-            # TODO: merged
+
             # TODO: delnodes
 
 

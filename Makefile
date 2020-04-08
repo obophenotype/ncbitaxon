@@ -52,21 +52,23 @@ build/Nov2019/ncbi2owl.jar: bin/ncbi2owl.jar | build/Nov2019
 build/Nov2019/ncbitaxon.owl: build/Nov2019/ncbi2owl build/Nov2019/ncbi2owl.jar build/Nov2019/taxonomy.dat build/Nov2019/taxdmp.zip
 	cd build/Nov2019 && NCBI_MEMORY=16G ./ncbi2owl -t
 
-build/Nov2019/ncbitaxon_small.owl: src/extract_test.py build/Nov2019/ncbitaxon.owl taxa.txt
+build/Nov2019/ncbitaxon_small.owl: src/extract_test.py build/Nov2019/ncbitaxon.owl taxa.tsv
 	python3 $^ $@
 
-build/Nov2019/ncbitaxon_new.ttl: src/ncbitaxon.py src/prologue.ttl build/Nov2019/taxdmp.zip taxa.txt
+build/Nov2019/ncbitaxon_new.ttl: src/ncbitaxon.py src/prologue.ttl build/Nov2019/taxdmp.zip taxa.tsv
 	python3 $^ $@
 
 build/Nov2019/ncbitaxon_new.owl: build/Nov2019/ncbitaxon_new.ttl
 	$(ROBOT) convert -i $< -o $@
 
-build/Nov2019/ncbitaxon_new_small.owl: src/extract_test.py build/Nov2019/ncbitaxon_new.owl taxa.txt
+build/Nov2019/ncbitaxon_new_small.owl: src/extract_test.py build/Nov2019/ncbitaxon_new.owl taxa.tsv
 	python3 $^ $@
 
-.PHONY:
 build/Nov2019/ncbitaxon.diff: build/Nov2019/ncbitaxon_small.owl build/Nov2019/ncbitaxon_new_small.owl
-	diff $^ > $@
-# $(ROBOT) diff --left $(word 1,$^) --right $(word 2,$^) --output $@
+	-diff $^ > $@
 
-test: build/Nov2019/ncbitaxon.diff
+build/Nov2019/ncbitaxon_robot.diff: build/Nov2019/ncbitaxon_small.owl build/Nov2019/ncbitaxon_new_small.owl
+	$(ROBOT) diff --left $(word 1,$^) --right $(word 2,$^) --output $@
+
+.PHONY: test
+test: build/Nov2019/ncbitaxon.diff build/Nov2019/ncbitaxon_robot.diff

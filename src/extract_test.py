@@ -11,7 +11,7 @@ def main():
             help="The input ncbitaxon.owl file")
     parser.add_argument("taxa",
             type=str,
-            help="The file listing taxa to extract")
+            help="The TSV file listing taxa to extract")
     parser.add_argument("output",
             type=str,
             help="The output OWL file")
@@ -20,7 +20,7 @@ def main():
     taxa = set()
     with open(args.taxa) as taxalist:
         for line in taxalist:
-            taxa.add(line.strip())
+            taxa.add(line.split()[0])
 
     digits = re.compile(r'\d+')
     with open(args.output, "w") as output:
