@@ -45,16 +45,11 @@ nodes_fields = [
         "comments"                          # free-text comments and citations
 ]
 
-def convert_names(tax_id, names):
+def convert_synonyms(tax_id, synonyms):
     output = []
-    for name, unique, name_class in names:
-        if name_class == "scientific name":
-            synonym = name
+    for synonym, unique, name_class in synonyms:
+        if name_class in predicates:
             synonym = synonym.replace('"', '\\"')
-            output.append(f"""
-NCBITaxon:{tax_id} rdfs:label "{synonym}"^^xsd:string .""")
-        elif name_class in predicates:
-            synonym = name.replace('"', '\\"')
             predicate = predicates[name_class]
             synonym_type = name_class.replace(" ", "_").replace("-", "_")
             output.append(f"""
@@ -68,9 +63,10 @@ NCBITaxon:{tax_id} {predicate} "{synonym}"^^xsd:string .
     return output
 
 
-def convert_node(node, merged, names, citations):
+def convert_node(node, label, merged, synonyms, citations):
     tax_id = node["tax_id"]
     output = [f"NCBITaxon:{tax_id} a owl:Class"]
+    output.append(f'; rdfs:label "{label}"^^xsd:string')
 
     parent_tax_id = node["parent_tax_id"]
     if parent_tax_id and parent_tax_id != "" and parent_tax_id != tax_id:
@@ -95,7 +91,7 @@ def convert_node(node, merged, names, citations):
     output.append('; oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string')
     output.append(".")
 
-    output += convert_names(tax_id, names)
+    output += convert_synonyms(tax_id, synonyms)
 
     return "\n".join(output)
 
@@ -132,7 +128,9 @@ def main():
             for line in taxalist:
                 taxa.add(line.split()[0])
 
-    names = defaultdict(list)
+    scientific_names = defaultdict(list)
+    labels = {}
+    synonyms = defaultdict(list)
     merged = defaultdict(list)
     citations = defaultdict(list)
     with open(args.turtle, "w") as turtle:
@@ -143,9 +141,24 @@ def main():
             with taxdmp.open("names.dmp") as dmp:
                 for line in io.TextIOWrapper(dmp):
                     tax_id, name, unique, name_class, _ = split_line(line)
-                    names[tax_id].append([name, unique, name_class])
+                    if name_class == "scientific name":
+                        labels[tax_id] = name
+                        scientific_names[name].append([tax_id, unique])
+                    else:
+                        synonyms[tax_id].append([name, unique, name_class])
                     if limit and int(tax_id) > limit:
                         break
+
+            # use unique name only if there's a conflict
+            for name, values in scientific_names.items():
+                tax_ids = [x[0] for x in values]
+                if len(tax_ids) > 1:
+                    uniques = [x[1] for x in values]
+                    if len(tax_ids) != len(set(uniques)):
+                        print("WARN: Duplicate unique names", tax_ids, uniques)
+                    for tax_id, unique in values:
+                        labels[tax_id] = unique
+                        synonyms[tax_id].append([name, unique, "scientific name"])
 
             with taxdmp.open("merged.dmp") as dmp:
                 for line in io.TextIOWrapper(dmp):
@@ -172,7 +185,7 @@ def main():
                     tax_id = node["tax_id"]
                     if taxa and tax_id not in taxa:
                         continue
-                    result = convert_node(node, merged[tax_id], names[tax_id], citations[tax_id])
+                    result = convert_node(node, labels[tax_id], merged[tax_id], synonyms[tax_id], citations[tax_id])
                     turtle.write(result)
                     if limit and int(tax_id) > limit:
                         break
