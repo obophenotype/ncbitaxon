@@ -66,6 +66,8 @@ NCBITaxon:{tax_id} {predicate} "{synonym}"^^xsd:string .
 def convert_node(node, label, merged, synonyms, citations):
     tax_id = node["tax_id"]
     output = [f"NCBITaxon:{tax_id} a owl:Class"]
+
+    label = label.replace('"', '\\"')
     output.append(f'; rdfs:label "{label}"^^xsd:string')
 
     parent_tax_id = node["parent_tax_id"]
@@ -76,7 +78,11 @@ def convert_node(node, label, merged, synonyms, citations):
     rank = node["rank"]
     if rank and rank != "" and rank != "no rank":
         rank = rank.replace(" ", "_")
-        output.append(f"; ncbitaxon:has_rank NCBITaxon:{rank}")
+        # WARN: This is a special case for backward compatibility
+        if rank in ["species_group", "species_subgroup"]:
+            output.append(f"; ncbitaxon:has_rank obo:NCBITaxon#_{rank}")
+        else:
+            output.append(f"; ncbitaxon:has_rank NCBITaxon:{rank}")
     
     gc_id = node["genetic_code_id"]
     if gc_id:
@@ -137,6 +143,9 @@ def main():
         with open(args.prologue) as prologue:
             turtle.write(prologue.read())
 
+        # TODO: ontology
+        # TODO: annotation properties
+
         with zipfile.ZipFile(args.taxdmp) as taxdmp:
             with taxdmp.open("names.dmp") as dmp:
                 for line in io.TextIOWrapper(dmp):
@@ -191,6 +200,7 @@ def main():
                         break
 
             # TODO: delnodes
+            # TODO: ranks
 
 
 if __name__ == "__main__":

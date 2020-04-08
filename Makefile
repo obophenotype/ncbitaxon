@@ -70,5 +70,9 @@ build/Nov2019/ncbitaxon.diff: build/Nov2019/ncbitaxon_small.owl build/Nov2019/nc
 build/Nov2019/ncbitaxon_robot.diff: build/Nov2019/ncbitaxon_small.owl build/Nov2019/ncbitaxon_new_small.owl
 	$(ROBOT) diff --left $(word 1,$^) --right $(word 2,$^) --output $@
 
+# This is helpful for finding syntax errors in the Turtle
+build/ncbitaxon.owl: ncbitaxon.ttl
+	rapper -i turtle ncbitaxon.ttl -o rdfxml > build/ncbitaxon.owl
+
 .PHONY: test
 test: build/Nov2019/ncbitaxon.diff build/Nov2019/ncbitaxon_robot.diff
