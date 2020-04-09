@@ -7,6 +7,18 @@ import zipfile
 from collections import defaultdict
 from datetime import date
 
+oboInOwl = {
+    "SynonymTypeProperty": "synonym_type_property",
+    "hasAlternativeId": "has_alternative_id",
+    "hasBroadSynonym": "has_broad_synonym",
+    "hasDbXref": "database_cross_reference",
+    "hasExactSynonym": "has_exact_synonym",
+    "hasOBOFormatVersion": "has_obo_format_version",
+    "hasOBONamespace": "has_obo_namespace",
+    "hasRelatedSynonym": "has_related_synonym",
+    "hasScope": "has_scope",
+    "hasSynonymType": "has_synonym_type"
+}
 
 exact_synonym   = 'oboInOwl:hasExactSynonym'
 related_synonym = 'oboInOwl:hasRelatedSynonym'
@@ -30,6 +42,39 @@ predicates = {
   'teleomorph'          : related_synonym
 }
 
+ranks = [
+  "class",
+  "cohort",
+  "family",
+  "forma",
+  "genus",
+  "infraclass",
+  "infraorder",
+  "kingdom",
+  "order",
+  "parvorder",
+  "phylum",
+  "species group",
+  "species subgroup",
+  "species",
+  "subclass",
+  "subcohort",
+  "subfamily",
+  "subgenus",
+  "subkingdom",
+  "suborder",
+  "subphylum",
+  "subspecies",
+  "subtribe",
+  "superclass",
+  "superfamily",
+  "superkingdom",
+  "superorder",
+  "superphylum",
+  "tribe",
+  "varietas",
+]
+
 nodes_fields = [
         "tax_id",                           # node id in GenBank taxonomy database
         "parent_tax_id",                    # parent node id in GenBank taxonomy database
@@ -46,13 +91,22 @@ nodes_fields = [
         "comments"                          # free-text comments and citations
 ]
 
+
+def escape_literal(text):
+    return text.replace('"', '\\"')
+
+
+def label_to_id(text):
+    return text.replace(" ", "_").replace("-", "_")
+
+
 def convert_synonyms(tax_id, synonyms):
     output = []
     for synonym, unique, name_class in synonyms:
         if name_class in predicates:
-            synonym = synonym.replace('"', '\\"')
+            synonym = escape_literal(synonym)
             predicate = predicates[name_class]
-            synonym_type = name_class.replace(" ", "_").replace("-", "_")
+            synonym_type = label_to_id(name_class)
             output.append(f"""
 NCBITaxon:{tax_id} {predicate} "{synonym}"^^xsd:string .
 [ a owl:Axiom
@@ -68,20 +122,21 @@ def convert_node(node, label, merged, synonyms, citations):
     tax_id = node["tax_id"]
     output = [f"NCBITaxon:{tax_id} a owl:Class"]
 
-    label = label.replace('"', '\\"')
+    label = escape_literal(label)
     output.append(f'; rdfs:label "{label}"^^xsd:string')
 
     parent_tax_id = node["parent_tax_id"]
     if parent_tax_id and parent_tax_id != "" and parent_tax_id != tax_id:
         output.append(f"; rdfs:subClassOf NCBITaxon:{parent_tax_id}")
 
-    # TODO: cohort, subcohort
     rank = node["rank"]
     if rank and rank != "" and rank != "no rank":
-        rank = rank.replace(" ", "_")
+        if rank not in ranks:
+            print(f"WARN Unrecognized rank '{rank}'")
+        rank = label_to_id(rank)
         # WARN: This is a special case for backward compatibility
         if rank in ["species_group", "species_subgroup"]:
-            output.append(f"; ncbitaxon:has_rank obo:NCBITaxon#_{rank}")
+            output.append(f"; ncbitaxon:has_rank <http://purl.obolibrary.org/obo/NCBITaxon#_{rank}>")
         else:
             output.append(f"; ncbitaxon:has_rank NCBITaxon:{rank}")
     
@@ -107,47 +162,58 @@ def split_line(line):
     return [x.strip() for x in line.split("	|")]
 
 
-def main():
-    parser = argparse.ArgumentParser(
-            description="Convert NCBI Taxonomy taxdmp.zip to Turtle format")
-    parser.add_argument("prologue",
-            type=str,
-            help="The prologue of the Turtle file")
-    parser.add_argument("taxdmp",
-            type=str,
-            help="The taxdmp.zip file to read")
-    parser.add_argument("taxa",
-            type=str,
-            nargs="?",
-            help="A list of taxa to build")
-    parser.add_argument("turtle",
-            type=str,
-            help="The output Turtle file to write")
-    args = parser.parse_args()
-
-    limit = None
-    #limit = 1e7 # highest tax_id is currently 2,725,057
-
-    taxa = None
-    if args.taxa:
-        taxa = set()
-        with open(args.taxa) as taxalist:
-            for line in taxalist:
-                taxa.add(line.split()[0])
-
+def convert(taxdmp_path, output_path, taxa=None):
     scientific_names = defaultdict(list)
     labels = {}
     synonyms = defaultdict(list)
     merged = defaultdict(list)
     citations = defaultdict(list)
-    with open(args.turtle, "w") as turtle:
-        with open(args.prologue) as prologue:
-            turtle.write(prologue.read().replace("DATE", date.today().isoformat()))
+    with open(output_path, "w") as output:
+        isodate = date.today().isoformat()
+        output.write(f"""@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix obo: <http://purl.obolibrary.org/obo/> .
+@prefix oboInOwl: <http://www.geneontology.org/formats/oboInOwl#> .
+@prefix ncbitaxon: <http://purl.obolibrary.org/obo/ncbitaxon#> .
+@prefix NCBITaxon: <http://purl.obolibrary.org/obo/NCBITaxon_> .
+@prefix : <http://purl.obolibrary.org/obo/ncbitaxon.owl#> .
 
-        # TODO: ontology
-        # TODO: annotation properties
+<http://purl.obolibrary.org/obo/ncbitaxon.owl> a owl:Ontology
+; owl:versionIRI <http://purl.obolibrary.org/obo/ncbitaxon/{isodate}/ncbitaxon.owl>
+; rdfs:comment "Built by https://github.com/obophenotype/ncbitaxon"^^xsd:string
+.
 
-        with zipfile.ZipFile(args.taxdmp) as taxdmp:
+obo:IAO_0000115 a owl:AnnotationProperty
+; rdfs:label "definition"^^xsd:string
+.
+
+ncbitaxon:has_rank a owl:AnnotationProperty
+; obo:IAO_0000115 "A metadata relation between a class and its taxonomic rank (eg species, family)"^^xsd:string
+; rdfs:label "has_rank"^^xsd:string
+; rdfs:comment "This is an abstract class for use with the NCBI taxonomy to name the depth of the node within the tree. The link between the node term and the rank is only visible if you are using an obo 1.3 aware browser/editor; otherwise this can be ignored"^^xsd:string
+; oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string
+.
+""")
+        for predicate, label in oboInOwl.items():
+            output.write(f"""
+oboInOwl:{predicate} a owl:AnnotationProperty
+; rdfs:label "{label}"^^xsd:string
+.
+""")
+        for label, parent in predicates.items():
+            predicate = label_to_id(label)
+            parent = parent.replace("oboInOwl", "oio")
+            output.write(f"""
+ncbitaxon:{predicate} a owl:AnnotationProperty
+; rdfs:label "{label}"^^xsd:string
+; oboInOwl:hasScope "{parent}"^^xsd:string
+; rdfs:subPropertyOf oboInOwl:SynonymTypeProperty
+.
+""")
+
+        with zipfile.ZipFile(taxdmp_path) as taxdmp:
             with taxdmp.open("names.dmp") as dmp:
                 for line in io.TextIOWrapper(dmp):
                     tax_id, name, unique, name_class, _ = split_line(line)
@@ -156,8 +222,6 @@ def main():
                         scientific_names[name].append([tax_id, unique])
                     else:
                         synonyms[tax_id].append([name, unique, name_class])
-                    if limit and int(tax_id) > limit:
-                        break
 
             # use unique name only if there's a conflict
             for name, values in scientific_names.items():
@@ -196,13 +260,56 @@ def main():
                     if taxa and tax_id not in taxa:
                         continue
                     result = convert_node(node, labels[tax_id], merged[tax_id], synonyms[tax_id], citations[tax_id])
-                    turtle.write(result)
-                    if limit and int(tax_id) > limit:
-                        break
+                    output.write(result)
 
             # TODO: delnodes
-            # TODO: ranks
 
+        output.write("""
+<http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> a owl:Class
+; rdfs:label "taxonomic rank"^^xsd:string
+; rdfs:comment "This is an abstract class for use with the NCBI taxonomy to name the depth of the node within the tree. The link between the node term and the rank is only visible if you are using an obo 1.3 aware browser/editor; otherwise this can be ignored."^^xsd:string
+; oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string
+.
+""")
+        for label in ranks:
+            rank = label_to_id(label)
+            if rank in ["species_group", "species_subgroup"]:
+                iri = f"<http://purl.obolibrary.org/obo/NCBITaxon#_{rank}>"
+            else:
+                iri = f"NCBITaxon:{rank}"
+            output.write(f"""
+{iri} a owl:Class
+; rdfs:label "{label}"^^xsd:string
+; rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank>
+; oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string
+.
+""")
+
+
+def main():
+    parser = argparse.ArgumentParser(
+            description="Convert NCBI Taxonomy taxdmp.zip to Turtle format")
+    parser.add_argument("taxdmp",
+            type=str,
+            help="The taxdmp.zip file to read")
+    parser.add_argument("taxa",
+            type=str,
+            nargs="?",
+            help="A list of taxa to build")
+    # TODO: upper, lower
+    parser.add_argument("turtle",
+            type=str,
+            help="The output Turtle file to write")
+    args = parser.parse_args()
+
+    taxa = None
+    if args.taxa:
+        taxa = set()
+        with open(args.taxa) as taxalist:
+            for line in taxalist:
+                taxa.add(line.split()[0])
+
+    convert(args.taxdmp, args.turtle, taxa)
 
 if __name__ == "__main__":
     main()

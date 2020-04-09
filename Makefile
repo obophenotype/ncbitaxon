@@ -16,7 +16,7 @@ build/robot.jar: | build
 build/taxdmp.zip: | build
 	curl -L -o $@ https://ftp.ncbi.nih.gov/pub/taxonomy/taxdmp.zip
 
-ncbitaxon.ttl: src/ncbitaxon.py src/prologue.ttl build/taxdmp.zip
+ncbitaxon.ttl: src/ncbitaxon.py build/taxdmp.zip
 	python3 $^ $@
 
 .PRECIOUS: ncbitaxon.owl
@@ -55,7 +55,7 @@ build/Nov2019/ncbitaxon.owl: build/Nov2019/ncbi2owl build/Nov2019/ncbi2owl.jar b
 build/Nov2019/ncbitaxon_small.owl: src/extract_test.py build/Nov2019/ncbitaxon.owl taxa.tsv
 	python3 $^ $@
 
-build/Nov2019/ncbitaxon_new.ttl: src/ncbitaxon.py src/prologue.ttl build/Nov2019/taxdmp.zip taxa.tsv
+build/Nov2019/ncbitaxon_new.ttl: src/ncbitaxon.py build/Nov2019/taxdmp.zip taxa.tsv
 	python3 $^ $@
 
 build/Nov2019/ncbitaxon_new.owl: build/Nov2019/ncbitaxon_new.ttl
