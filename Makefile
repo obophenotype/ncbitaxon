@@ -10,8 +10,7 @@ build:
 
 ROBOT := java -Xmx16g -jar build/robot.jar
 build/robot.jar: | build
-	curl -L -o $@ https://build.obolibrary.io/job/ontodev/job/robot/job/mireot-rdfxml/lastSuccessfulBuild/artifact/bin/robot.jar
-# curl -L -o $@ https://github.com/ontodev/robot/releases/download/v1.6.0/robot.jar
+	curl -L -o $@ https://github.com/ontodev/robot/releases/download/v1.6.0/robot.jar
 
 build/taxdmp.zip: | build
 	curl -L -o $@ https://ftp.ncbi.nih.gov/pub/taxonomy/taxdmp.zip
