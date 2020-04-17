@@ -120,6 +120,10 @@ pipeline {
 					onlyIfSuccessful: true
 					archiveArtifacts artifacts: "ncbitaxon.owl",
 					onlyIfSuccessful: true
+					archiveArtifacts artifacts: "build/Nov2019/ncbitaxon_robot.diff",
+					onlyIfSuccessful: true
+					archiveArtifacts artifacts: "build/Nov2019/ncbitaxon.diff",
+					onlyIfSuccessful: true
 
 					// Now that the files are safely away onto skyhook for
 					// debugging, test for the core dump.
