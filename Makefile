@@ -1,16 +1,14 @@
 .PHONY: all
 all: ncbitaxon.owl ncbitaxon.obo
 
+ROBOT=robot
+
 .PHONY: clean
 clean:
 	rm -rf build
 
 build:
 	mkdir -p $@
-
-ROBOT := java -Xmx16g -jar build/robot.jar
-build/robot.jar: | build
-	curl -L -o $@ https://github.com/ontodev/robot/releases/download/v1.6.0/robot.jar
 
 build/taxdmp.zip: | build
 	curl -L -o $@ https://ftp.ncbi.nih.gov/pub/taxonomy/taxdmp.zip
@@ -20,12 +18,8 @@ ncbitaxon.ttl: src/ncbitaxon.py build/taxdmp.zip
 
 .PRECIOUS: ncbitaxon.owl
 .PRECIOUS: ncbitaxon.obo
-ncbitaxon.owl ncbitaxon.obo: ncbitaxon.ttl | build/robot.jar
+ncbitaxon.owl ncbitaxon.obo: ncbitaxon.ttl
 	$(ROBOT) convert -i $< -o $@
-
-
-
-
 
 
 ### Build Nov2019 version for comparison
