@@ -49,7 +49,7 @@ pipeline {
 		// possible.
 		MAKECMD = 'make'
 		// Control the ROBOT environment.
-		ROBOT_JAVA_ARGS = '-Xmx150G'
+		ROBOT_JAVA_ARGS = '-Xmx30G'
 	}
 	options{
 		//timestamps()
