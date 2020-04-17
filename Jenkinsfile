@@ -109,7 +109,7 @@ pipeline {
 					// Default namespace.
 					// sh 'OBO=http://purl.obolibrary.org/obo'
 
-				dir('./src/ontology') {
+				dir('.') {
 					retry(1){
 						sh 'make all'
 					}
