@@ -34,7 +34,7 @@ pipeline {
 		// finding artifacts.
 		ONTOLOGY_FILE_HINT = 'ncbitaxon'
 		// Ontology repo information.
-		TARGET_ONTOLOGY_BRANCH = 'python-implementation'
+		TARGET_ONTOLOGY_BRANCH = 'python-implementation-odk'
 		TARGET_ONTOLOGY_URL = 'https://github.com/obophenotype/ncbitaxon.git'
 		// The people to call when things go bad or go well. It is a
 		// comma-space "separated" string.
