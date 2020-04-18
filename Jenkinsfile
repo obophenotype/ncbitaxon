@@ -111,7 +111,13 @@ pipeline {
 
 				dir('.') {
 					retry(1){
-						sh 'make clean all'
+						sh 'make clean all -B'
+					}
+				}
+					
+				dir('./subsets') {
+					retry(1){
+						sh 'make all -B'
 					}
 				}
 
@@ -122,7 +128,11 @@ pipeline {
 					onlyIfSuccessful: true
 					archiveArtifacts artifacts: "ncbi_diff_latest_current_obo.txt",
 					onlyIfSuccessful: true
-					archiveArtifacts artifacts: "oort/*",
+					archiveArtifacts artifacts: "subsets/taxslim.owl",
+					onlyIfSuccessful: true
+					archiveArtifacts artifacts: "subsets/taxslim-disjoint-over-in-taxon.owl",
+					onlyIfSuccessful: true
+					archiveArtifacts artifacts: "subsets/taxslim.obo",
 					onlyIfSuccessful: true
 
 					// Now that the files are safely away onto skyhook for
