@@ -1,5 +1,5 @@
 .PHONY: all
-all: ncbitaxon.owl ncbitaxon.obo
+all: ncbitaxon.owl ncbitaxon.obo ncbi_diff_latest_current_obo.txt ncbi_diff_latest_current_owl.txt
 
 ROBOT=robot
 
@@ -20,6 +20,9 @@ ncbitaxon.ttl: src/ncbitaxon.py build/taxdmp.zip
 .PRECIOUS: ncbitaxon.obo
 ncbitaxon.owl ncbitaxon.obo: ncbitaxon.ttl
 	$(ROBOT) convert -i $< -o $@
+
+ncbi_diff_latest_current_%.txt: ncbitaxon.%
+	$(ROBOT) diff --left-iri http://purl.obolibrary.org/obo/ncbitaxon.$* --right ncbitaxon.$* -o $@
 
 
 ### Build Nov2019 version for comparison
