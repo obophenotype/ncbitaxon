@@ -111,7 +111,7 @@ pipeline {
 
 				dir('.') {
 					retry(1){
-						sh 'make all'
+						sh 'make clean all'
 					}
 				}
 
