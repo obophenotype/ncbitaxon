@@ -1,5 +1,7 @@
 .PHONY: all
-all: ncbitaxon.owl ncbitaxon.obo
+all: ncbitaxon.owl ncbitaxon.obo ncbi_diff_latest_current_obo.txt
+
+ROBOT=robot
 
 .PHONY: clean
 clean:
@@ -7,10 +9,6 @@ clean:
 
 build:
 	mkdir -p $@
-
-ROBOT := java -Xmx16g -jar build/robot.jar
-build/robot.jar: | build
-	curl -L -o $@ https://github.com/ontodev/robot/releases/download/v1.6.0/robot.jar
 
 build/taxdmp.zip: | build
 	curl -L -o $@ https://ftp.ncbi.nih.gov/pub/taxonomy/taxdmp.zip
@@ -20,13 +18,11 @@ ncbitaxon.ttl: src/ncbitaxon.py build/taxdmp.zip
 
 .PRECIOUS: ncbitaxon.owl
 .PRECIOUS: ncbitaxon.obo
-ncbitaxon.owl ncbitaxon.obo: ncbitaxon.ttl | build/robot.jar
+ncbitaxon.owl ncbitaxon.obo: ncbitaxon.ttl
 	$(ROBOT) convert -i $< -o $@
 
-
-
-
-
+ncbi_diff_latest_current_%.txt: ncbitaxon.%
+	$(ROBOT) diff --left-iri http://purl.obolibrary.org/obo/ncbitaxon.$* --right ncbitaxon.$* -o $@
 
 ### Build Nov2019 version for comparison
 
