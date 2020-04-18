@@ -1,5 +1,5 @@
 .PHONY: all
-all: ncbitaxon.owl ncbitaxon.obo ncbi_diff_latest_current_obo.txt ncbi_diff_latest_current_owl.txt
+all: ncbitaxon.owl ncbitaxon.obo ncbi_diff_latest_current_obo.txt
 
 ROBOT=robot
 
