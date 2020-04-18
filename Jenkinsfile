@@ -122,7 +122,7 @@ pipeline {
 					onlyIfSuccessful: true
 					archiveArtifacts artifacts: "ncbi_diff_latest_current_obo.txt",
 					onlyIfSuccessful: true
-					archiveArtifacts artifacts: "ncbi_diff_latest_current_owl.txt",
+					archiveArtifacts artifacts: "oort/*",
 					onlyIfSuccessful: true
 
 					// Now that the files are safely away onto skyhook for
