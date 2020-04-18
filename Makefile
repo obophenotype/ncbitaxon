@@ -1,12 +1,11 @@
 .PHONY: all
-all: ncbitaxon.owl ncbitaxon.obo ncbi_diff_latest_current_obo.txt subsets
+all: ncbitaxon.owl ncbitaxon.obo ncbi_diff_latest_current_obo.txt
 
 ROBOT=robot
 
 .PHONY: clean
 clean:
 	rm -rf build
-	rm -rf oort
 
 build:
 	mkdir -p $@
@@ -24,10 +23,6 @@ ncbitaxon.owl ncbitaxon.obo: ncbitaxon.ttl
 
 ncbi_diff_latest_current_%.txt: ncbitaxon.%
 	$(ROBOT) diff --left-iri http://purl.obolibrary.org/obo/ncbitaxon.$* --right ncbitaxon.$* -o $@
-
-subsets: ncbitaxon.owl
-	mkdir -p oort
-	ontology-release-runner --allow-overwrite --outdir oort --no-reasoner --asserted $<
 
 ### Build Nov2019 version for comparison
 
