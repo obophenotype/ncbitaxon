@@ -51,3 +51,14 @@ The latter is a fairly trivial translation of the former. If you are in any way 
 
 If you specifically wish to cite the OBO/OWL translation, use the URL for this page
 
+## Editors guide for running releases
+
+1. Trigger the Jenkins Job on [ci.monarchinitiative.org](https://ci.monarchinitiative.org/view/pipelines/job/ncbi_taxon/)
+2. Download all generated files from the Jenkins job (except for env.txt)
+3. On GitHub, go to [Code](https://github.com/obophenotype/ncbitaxon), and click on [releases](https://github.com/obophenotype/ncbitaxon/releases).
+4. Click "Draft a new release". The tag is something like `v2020-02-28`. Provide a title and a meaningful description, and upload all the files downloaded from the Jenkins job above. Hit `Publish release`.
+5. Click "Draft a new release". The tag is should be `currentx` (note the x). Provide a title and a meaningful description, and upload all the files downloaded from the Jenkins job above. Hit `Publish release`.
+6. Find the release labeled `current`: https://github.com/obophenotype/ncbitaxon/releases/tag/current, and delete it.
+7. Click on the release labeled `currentx` and change the name of the the label from `current`.
+
+
