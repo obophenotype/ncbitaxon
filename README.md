@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/obophenotype/ncbitaxon.svg?branch=master)](https://travis-ci.org/obophenotype/ncbitaxon)
+<!--[![Build Status](https://travis-ci.org/obophenotype/ncbitaxon.svg?branch=master)](https://travis-ci.org/obophenotype/ncbitaxon)-->
 [![DOI](https://zenodo.org/badge/13996/obophenotype/ncbitaxon.svg)](https://zenodo.org/badge/latestdoi/13996/obophenotype/ncbitaxon)
 
 
@@ -16,6 +16,8 @@ This README details with technical aspects of the build
 
 ## Releases
 
+**Outdated, see end of README for updated instructions**
+
 Releases of the obo/owl happen when the [Continuous Integration
 Job](http://build.berkeleybop.org/job/build-ncbitaxon/) is manually
 triggered. Currently this must be done by an OBO administrator. There
@@ -27,6 +29,8 @@ team that informally handles this are:
  * Frederic Bastian, BgeeDb/Uberon
  * Chris Mungall, LBNL/GO/Monarch/Uberon/OBO
  * Peter Midford, Phenoscape
+ * Bill Duncan (LBNL)
+ * Nicolas Matentzoglu (EMBL-EBI)
 
 ## Subsets
 
