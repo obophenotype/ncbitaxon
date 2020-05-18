@@ -22,7 +22,8 @@ ncbitaxon.owl ncbitaxon.obo: ncbitaxon.ttl
 	$(ROBOT) convert -i $< -o $@
 
 ncbi_diff_latest_current_%.txt: ncbitaxon.%
-	$(ROBOT) diff --left-iri http://purl.obolibrary.org/obo/ncbitaxon.$* --right ncbitaxon.$* -o $@
+	wget http://purl.obolibrary.org/obo/ncbitaxon.$* -O current_ncbitaxon.$*
+	$(ROBOT) diff --left current_ncbitaxon.$* --right ncbitaxon.$* -o $@
 
 ### Build Nov2019 version for comparison
 
