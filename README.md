@@ -19,7 +19,7 @@ This README details with technical aspects of the build
 **Outdated, see end of README for updated instructions**
 
 Releases of the obo/owl happen when the [Continuous Integration
-Job](http://build.berkeleybop.org/job/build-ncbitaxon/) is manually
+Job](https://ci.monarchinitiative.org/view/pipelines/job/ncbi_taxon/) is manually
 triggered. Currently this must be done by an OBO administrator. There
 is currently no fixed cycle, and this is generally done on demand. The
 team that informally handles this are:
