@@ -61,10 +61,5 @@ If you specifically wish to cite the OBO/OWL translation, use the URL for this p
 2. Download all generated files from the Jenkins job (except for env.txt), including the files in the [subset](https://ci.monarchinitiative.org/view/pipelines/job/ncbi_taxon/lastSuccessfulBuild/artifact/subsets/) directory.
 3. On GitHub, go to [Code](https://github.com/obophenotype/ncbitaxon), and click on [releases](https://github.com/obophenotype/ncbitaxon/releases).
 4. Click "Draft a new release". The tag is something like `v2020-02-28`. Provide a title and a meaningful description, and upload all the files downloaded from the Jenkins job above. Hit `Publish release`.
-5. Click "Draft a new release". The tag is should be `currentx` (note the x). Provide a title and a meaningful description, and upload all the files downloaded from the Jenkins job above. Hit `Publish release`.
-6. Find the release labeled `current`: https://github.com/obophenotype/ncbitaxon/releases/tag/current, and delete it.
-7. Click on the release labeled `currentx` and change the name of the the label from `current`. 
-
-Note: Do not simply delete current and recreate it because this will cause ncbitaxon to be unavailable for as long as you are uploading it. Due to its size, this can be more than an hour!
 
 
