@@ -126,6 +126,14 @@ pipeline {
 					onlyIfSuccessful: true
 					archiveArtifacts artifacts: "ncbitaxon.owl",
 					onlyIfSuccessful: true
+					archiveArtifacts artifacts: "ncbitaxon.json",
+					onlyIfSuccessful: true
+					archiveArtifacts artifacts: "ncbitaxon.obo.gz",
+					onlyIfSuccessful: true
+					archiveArtifacts artifacts: "ncbitaxon.owl.gz",
+					onlyIfSuccessful: true
+					archiveArtifacts artifacts: "ncbitaxon.json.gz",
+					onlyIfSuccessful: true
 					archiveArtifacts artifacts: "ncbi_diff_latest_current_obo.txt",
 					onlyIfSuccessful: true
 					archiveArtifacts artifacts: "subsets/taxslim.owl",

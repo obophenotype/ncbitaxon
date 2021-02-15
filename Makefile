@@ -1,5 +1,6 @@
 .PHONY: all
 all: ncbitaxon.owl ncbitaxon.obo ncbitaxon.json ncbi_diff_latest_current_obo.txt
+all: ncbitaxon.owl.gz ncbitaxon.obo.gz ncbitaxon.json.gz
 
 ROBOT=robot
 
@@ -15,6 +16,9 @@ build/taxdmp.zip: | build
 
 ncbitaxon.ttl: src/ncbitaxon.py build/taxdmp.zip
 	python3 $^ $@
+
+ncbitaxon.%.gz: ncbitaxon.%
+	gzip -c $< > $@.tmp && mv $@.tmp $@
 
 .PRECIOUS: ncbitaxon.owl
 .PRECIOUS: ncbitaxon.obo
