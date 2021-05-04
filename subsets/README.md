@@ -19,3 +19,12 @@ Note that the taxslim.obo used in this repository is *not* the release
 version. The release is produced by Jenkins and consumed by the OBO
 library build.
 
+## disjointness GCIs
+
+this makefile also includes a target for `taxslim-disjoint-over-in-taxon.owl`
+
+This is GCIs of the form
+
+    (in-taxon some A) DisjointWith (in-taxon some B)
+
+These are necessary for reasoning within the profile supported by Elk, which [does not include ONLY or Functional](https://github.com/liveontologies/elk-reasoner/wiki/OwlFeatures)
