@@ -62,4 +62,7 @@ If you specifically wish to cite the OBO/OWL translation, use the URL for this p
 3. On GitHub, go to [Code](https://github.com/obophenotype/ncbitaxon), and click on [releases](https://github.com/obophenotype/ncbitaxon/releases).
 4. Click "Draft a new release". The tag is something like `v2020-02-28`. Provide a title and a meaningful description, and upload all the files downloaded from the Jenkins job above. Hit `Publish release`.
 
+### Using gh for releases
 
+1. gh release create v2021-06-10
+1. gh release upload v2021-06-10 ../ncbitaxon_upload/archive/subsets/* ./ncbitaxon_upload/ncbitaxon.*
