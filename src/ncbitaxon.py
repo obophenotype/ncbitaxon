@@ -255,7 +255,10 @@ ncbitaxon:{predicate} a owl:AnnotationProperty
                         print("WARN: Duplicate unique names", tax_ids, uniques)
                     for tax_id, unique in values:
                         labels[tax_id] = unique
-                        synonyms[tax_id].append([name, unique, "scientific name"])
+                        if name != 'environmental samples':
+                            synonyms[tax_id].append(
+                                [name, unique, "scientific name"]
+                            )
 
             with taxdmp.open("merged.dmp") as dmp:
                 for line in io.TextIOWrapper(dmp):
