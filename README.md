@@ -63,8 +63,9 @@ If you specifically wish to cite the OBO/OWL translation, use the URL for this p
    1. make clean all -B
    2. cd subsets
    3. make all -B
+   4. cd ..
 2. gh release create v2021-06-10
-3. gh release upload v2021-06-10 ../ncbitaxon_upload/archive/subsets/* ./ncbitaxon_upload/ncbitaxon.*
+3. gh release upload v2021-06-10  ncbitaxon.json ncbitaxon.json.gz ncbitaxon.obo ncbitaxon.obo.gz ncbitaxon.owl ncbitaxon.owl.gz subsets/taxslim-disjoint-over-in-taxon.owl subsets/taxslim.obo subsets/taxslim.owl
 
 ### Using Monarch Jenkins
 
