@@ -194,7 +194,6 @@ def convert(taxdmp_path, output_path, taxa=None):
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix obo: <http://purl.obolibrary.org/obo/> .
 @prefix oboInOwl: <http://www.geneontology.org/formats/oboInOwl#> .
-@prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix terms: <http://purl.org/dc/terms/> .
 @prefix ncbitaxon: <http://purl.obolibrary.org/obo/ncbitaxon#> .
 @prefix NCBITaxon: <http://purl.obolibrary.org/obo/NCBITaxon_> .
@@ -214,8 +213,8 @@ ncbitaxon:has_rank a owl:AnnotationProperty
 ; rdfs:label "has_rank"^^xsd:string
 ; rdfs:comment "This is an abstract class for use with the NCBI taxonomy to name the depth of the node within the tree. The link between the node term and the rank is only visible if you are using an obo 1.3 aware browser/editor; otherwise this can be ignored"^^xsd:string
 ; oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string
-; dc:title "NCBI organismal classification"
-; dc:description "An ontology representation of the NCBI organismal taxonomy"
+; terms:license "NCBI organismal classification"
+; terms:license "An ontology representation of the NCBI organismal taxonomy"
 ; terms:license <https://creativecommons.org/publicdomain/zero/1.0/>
 .
 """
