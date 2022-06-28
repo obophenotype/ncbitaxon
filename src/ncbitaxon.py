@@ -213,8 +213,8 @@ ncbitaxon:has_rank a owl:AnnotationProperty
 ; rdfs:label "has_rank"^^xsd:string
 ; rdfs:comment "This is an abstract class for use with the NCBI taxonomy to name the depth of the node within the tree. The link between the node term and the rank is only visible if you are using an obo 1.3 aware browser/editor; otherwise this can be ignored"^^xsd:string
 ; oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string
-; terms:license "NCBI organismal classification"
-; terms:license "An ontology representation of the NCBI organismal taxonomy"
+; terms:title "NCBI organismal classification"
+; terms:description "An ontology representation of the NCBI organismal taxonomy"
 ; terms:license <https://creativecommons.org/publicdomain/zero/1.0/>
 .
 """
