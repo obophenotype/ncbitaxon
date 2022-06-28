@@ -194,7 +194,7 @@ def convert(taxdmp_path, output_path, taxa=None):
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix obo: <http://purl.obolibrary.org/obo/> .
 @prefix oboInOwl: <http://www.geneontology.org/formats/oboInOwl#> .
-@prefix dc:<http://purl.org/dc/elements/1.1/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix terms: <http://purl.org/dc/terms/> .
 @prefix ncbitaxon: <http://purl.obolibrary.org/obo/ncbitaxon#> .
 @prefix NCBITaxon: <http://purl.obolibrary.org/obo/NCBITaxon_> .
