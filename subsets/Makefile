@@ -1,11 +1,15 @@
 # Requirements for this Makefile
 # * owltools script is in the PATH
 # * full NCBI taxononmy in OBO is in the parent folder
+TODAY ?=                    $(shell date +%Y-%m-%d)
+VERSION=                    $(TODAY)
+ONTBASE= http://purl.obolibrary.org/obo/ncbitaxon
  
 all: taxslim taxslim-disjoint-over-in-taxon.owl 
 
 taxslim: taxon-subset-ids.txt
-	OWLTOOLS_MEMORY=8G owltools ../ncbitaxon.obo --create-slim --output-owl taxslim.owl --output-obo taxslim.obo --old-obo taxslim.obo --iri http://purl.obolibrary.org/obo/ncbitaxon/subsets/taxslim.owl --ids taxon-subset-ids.txt
+	OWLTOOLS_MEMORY=8G owltools ../ncbitaxon.obo --create-slim --output-owl taxslim.owl --output-obo taxslim.obo --old-obo taxslim.obo --iri $(ONTBASE)/subsets/taxslim.owl --ids taxon-subset-ids.txt
+	robot annotate -i taxslim.owl annotate --ontology-iri $(ONTBASE)/subsets/taxslim.owl annotate -V $(ONTBASE)/releases/$(VERSION)/subsets/taxslim.owl --annotation owl:versionInfo $(VERSION) -o taxslim.owl
 	robot convert -i taxslim.owl -f json -o taxslim.json
 
 taxslim-disjoint-over-in-taxon.owl: taxslim
