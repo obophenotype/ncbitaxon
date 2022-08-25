@@ -255,6 +255,8 @@ ncbitaxon:{predicate} a owl:AnnotationProperty
                         print("WARN: Duplicate unique names", tax_ids, uniques)
                     for tax_id, unique in values:
                         labels[tax_id] = unique
+                        # Reason for the line below 
+                        # issue #56: https://github.com/obophenotype/ncbitaxon/issues/56
                         if name != 'environmental samples':
                             synonyms[tax_id].append(
                                 [name, unique, "scientific name"]
