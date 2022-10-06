@@ -1,3 +1,18 @@
 
 subsets/taxslim.json
 .DS_Store
+aws/
+awscliv2.zip
+build/
+current_ncbitaxon.obo
+ncbi_diff_latest_current_obo.txt
+ncbitaxon.json
+ncbitaxon.json.gz
+ncbitaxon.obo
+ncbitaxon.obo.gz
+ncbitaxon.owl
+ncbitaxon.owl.gz
+ncbitaxon.ttl
+odk.sh
+subsets/taxslim-disjoint-over-in-taxon.owl
+subsets/taxslim.owl
