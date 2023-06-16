@@ -65,7 +65,7 @@ If you specifically wish to cite the OBO/OWL translation, use the URL for this p
    3. `make all -B`
    4. `cd ..`
 2. gh release create v2021-06-10
-3. gh release upload v2021-06-10  ncbitaxon.json ncbitaxon.json.gz ncbitaxon.obo ncbitaxon.obo.gz ncbitaxon.owl ncbitaxon.owl.gz subsets/taxslim-disjoint-over-in-taxon.owl subsets/taxslim.obo subsets/taxslim.owl subsets/taxslim.json
+3. gh release upload v2021-06-10  ncbitaxon.json ncbitaxon.json.gz ncbitaxon.obo ncbitaxon.obo.gz ncbitaxon.owl ncbitaxon.owl.gz subsets/taxslim-disjoint-over-in-taxon.owl subsets/taxslim.obo subsets/taxslim.owl subsets/taxslim.json ncbitaxon-disjoint-over-in-taxon.owl ncbitaxon-disjoint-over-in-taxon.owl.gz
 
 ### Using Monarch Jenkins
 
