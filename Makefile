@@ -1,6 +1,6 @@
 .PHONY: all
-all: ncbitaxon.owl ncbitaxon.obo ncbitaxon.json ncbi_diff_latest_current_obo.txt ncbitaxon-disjoint-over-in-taxon.owl
-all: ncbitaxon.owl.gz ncbitaxon.obo.gz ncbitaxon.json.gz ncbitaxon-disjoint-over-in-taxon.owl.gz
+all: ncbitaxon.owl ncbitaxon.obo ncbitaxon.json ncbi_diff_latest_current_obo.txt
+all: ncbitaxon.owl.gz ncbitaxon.obo.gz ncbitaxon.json.gz
 
 ROBOT=robot
 
@@ -76,9 +76,3 @@ build/ncbitaxon.owl: ncbitaxon.ttl
 
 .PHONY: test
 test: build/Nov2019/ncbitaxon.diff build/Nov2019/ncbitaxon_robot.diff
-
-ncbitaxon-disjoint-over-in-taxon.owl: ncbitaxon.owl
-	OWLTOOLS_MEMORY=16G owltools $< --create-taxon-disjoint-over-in-taxon --root NCBITaxon:1 --output $@.tmp.owl
-	robot query --input $< --format ttl --query add-taxon-disjoints.ru $@.tmp.ttl
-	robot merge --input $@.tmp.owl --input $@.tmp.ttl --output $@
-	rm $@.tmp.owl && rm $@.tmp.ttl
