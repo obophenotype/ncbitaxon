@@ -1,7 +1,8 @@
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX in_taxon: <http://purl.obolibrary.org/obo/RO_0002162>
-INSERT {
+CONSTRUCT {
   [  
      a owl:Restriction ;
      owl:onProperty in_taxon: ;
@@ -17,7 +18,5 @@ INSERT {
   ] .
 }
 WHERE {
-  ?subtaxon rdfs:subClassOf ?supertaxon . 
-  FILTER(isIRI(?subtaxon))
-  FILTER(STRSTARTS(STR(?subtaxon), "http://purl.obolibrary.org/obo/NCBITaxon_"))
+  ?subtaxon rdf:type owl:Class .
 }
