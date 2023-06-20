@@ -13,10 +13,10 @@ taxslim: taxon-subset-ids.txt
 	robot convert -i taxslim.owl -f json -o taxslim.json
 
 taxslim-disjoint-over-in-taxon.owl: taxslim
-	owltools taxslim.owl --create-taxon-disjoint-over-in-taxon --root NCBITaxon:1 --output $@.tmp.owl
+	owltools taxslim.owl --create-taxon-disjoint-over-in-taxon --root NCBITaxon:1
 	robot query --input taxslim.owl --format ttl --query add-taxon-disjoints.ru $@.tmp.ttl
-	robot merge --input $@.tmp.owl --input $@.tmp.ttl --output $@
-	rm $@.tmp.owl && rm $@.tmp.ttl
+	robot merge --input $@ --input $@.tmp.ttl --output $@.tmp.owl && mv $@.tmp.owl $@
+	rm $@.tmp.ttl
 
 ## The following should not be run as part of CI job.
 ## Admin for this project should run and check in results.
