@@ -14,24 +14,6 @@ http://obofoundry.org/ontology/ncbitaxon.html
 
 This README details with technical aspects of the build
 
-## Releases
-
-**Outdated, see end of README for updated instructions**
-
-Releases of the obo/owl happen when the [Continuous Integration
-Job](https://ci.monarchinitiative.org/view/pipelines/job/ncbi_taxon/) is manually
-triggered. Currently this must be done by an OBO administrator. There
-is currently no fixed cycle, and this is generally done on demand. The
-team that informally handles this are:
-
- * James Overton, IEBD/OBO
- * Heiko Dietze, LBNL/GO
- * Frederic Bastian, BgeeDb/Uberon
- * Chris Mungall, LBNL/GO/Monarch/Uberon/OBO
- * Peter Midford, Phenoscape
- * Bill Duncan (LBNL)
- * Nicolas Matentzoglu (EMBL-EBI)
-
 ## Subsets
 
 Currently there is one subset, ncbitaxon/subsets/taxslim - for details, see [subsets/README.md](subsets/README.md)
