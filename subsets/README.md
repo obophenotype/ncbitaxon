@@ -29,7 +29,8 @@ this makefile also includes a target for `taxslim-disjoint-over-in-taxon.owl`
 
 This is GCIs of the form
 
-    (in-taxon some A) DisjointWith (in-taxon some B)
+    (in_taxon some A) DisjointWith (in_taxon some B)
+    (in_taxon some X) DisjointWith (in_taxon some (not X)) for every taxon X
 
 These are necessary for reasoning within the profile supported by Elk, which [does not include ONLY or Functional](https://github.com/liveontologies/elk-reasoner/wiki/OwlFeatures)
 
