@@ -5,7 +5,7 @@ TODAY ?=                    $(shell date +%Y-%m-%d)
 VERSION=                    $(TODAY)
 ONTBASE= http://purl.obolibrary.org/obo/ncbitaxon
  
-all: taxslim taxslim-disjoint-over-in-taxon.owl 
+all: taxslim taxslim-disjoint-over-in-taxon.owl taxslim-disjoint-diff.md
 
 taxslim: taxon-subset-ids.txt
 	OWLTOOLS_MEMORY=8G owltools ../ncbitaxon.obo --create-slim --output-owl taxslim.owl --output-obo taxslim.obo --old-obo taxslim.obo --iri $(ONTBASE)/subsets/taxslim.owl --ids taxon-subset-ids.txt
@@ -15,8 +15,13 @@ taxslim: taxon-subset-ids.txt
 taxslim-disjoint-over-in-taxon.owl: taxslim
 	owltools taxslim.owl --create-taxon-disjoint-over-in-taxon --root NCBITaxon:1
 	robot query --input taxslim.owl --format ttl --query add-taxon-disjoints.ru $@.tmp.ttl
-	robot merge --input $@ --input $@.tmp.ttl --output $@.tmp.owl && mv $@.tmp.owl $@
+	robot merge --input $@ --input $@.tmp.ttl --collapse-import-closure false \
+	      annotate -V $(ONTBASE)/releases/$(VERSION)/subsets/$@ --annotation owl:versionInfo $(VERSION) --output $@.tmp.owl && mv $@.tmp.owl $@
 	rm $@.tmp.ttl
+
+taxslim-disjoint-diff.md: taxslim-disjoint-over-in-taxon.owl
+	wget http://purl.obolibrary.org/obo/ncbitaxon/subsets/$< -O current_taxslim-disjoint.owl
+	robot diff --labels true --left current_taxslim-disjoint.owl --right $< -f markdown -o $@
 
 ## The following should not be run as part of CI job.
 ## Admin for this project should run and check in results.
