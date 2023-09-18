@@ -3,6 +3,7 @@ all: ncbitaxon.owl ncbitaxon.obo ncbitaxon.json ncbi_diff_latest_current_obo.txt
 all: ncbitaxon.owl.gz ncbitaxon.obo.gz ncbitaxon.json.gz
 
 ROBOT=robot
+DATE=$(shell date '+%Y-%m-01')
 
 .PHONY: clean
 clean:
@@ -12,7 +13,7 @@ build:
 	mkdir -p $@
 
 build/taxdmp.zip: | build
-	curl -L -o $@ https://ftp.ncbi.nih.gov/pub/taxonomy/taxdmp.zip
+	curl -L -o $@ https://ftp.ncbi.nih.gov/pub/taxonomy/taxdump_archive/taxdmp_$(DATE).zip
 
 ncbitaxon.ttl: src/ncbitaxon.py build/taxdmp.zip
 	python3 $^ $@
