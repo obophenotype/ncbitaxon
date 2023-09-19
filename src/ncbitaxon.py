@@ -187,6 +187,7 @@ def convert(taxdmp_path, output_path, taxa=None):
     citations = defaultdict(list)
     with open(output_path, "w") as output:
         isodate = date.today().isoformat()
+        ncbi_date = date.today().replace(day=1)
         output.write(
             f"""@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
@@ -205,6 +206,7 @@ def convert(taxdmp_path, output_path, taxa=None):
 ; terms:description "An ontology representation of the NCBI organismal taxonomy"
 ; terms:license <https://creativecommons.org/publicdomain/zero/1.0/>
 ; rdfs:comment "Built by https://github.com/obophenotype/ncbitaxon"^^xsd:string
+; rdfs:comment "NCBI organismal taxonomy version {ncbi_date}"^^xsd:string
 .
 
 obo:IAO_0000115 a owl:AnnotationProperty
