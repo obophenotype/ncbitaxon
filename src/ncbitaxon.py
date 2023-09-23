@@ -246,8 +246,7 @@ oboInOwl:{predicate} a owl:AnnotationProperty
                     f"""
             {omo_predicate} a owl:AnnotationProperty ;
                         rdfs:label "{omo_label}"^^xsd:string .
-
-            """
+                    """
                 )
             )
 
