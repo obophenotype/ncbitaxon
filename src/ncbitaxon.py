@@ -6,6 +6,7 @@ import zipfile
 
 from collections import defaultdict
 from datetime import date
+from textwrap import dedent
 
 oboInOwl = {
     "SynonymTypeProperty": "synonym_type_property",
@@ -116,8 +117,8 @@ def convert_synonyms(tax_id, synonyms):
         if name_class in predicates:
             synonym = escape_literal(synonym)
             predicate = predicates[name_class]
-            if text in predicate_to_omo:
-                synonym_type_curie = predicate_to_omo[text]
+            if name_class in predicate_to_omo:
+                synonym_type_curie = predicate_to_omo[name_class]
             else:
                 synonym_type_curie = "ncbitaxon:" + label_to_id(name_class)
             output.append(
@@ -203,6 +204,7 @@ def convert(taxdmp_path, output_path, taxa=None):
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix obo: <http://purl.obolibrary.org/obo/> .
 @prefix oboInOwl: <http://www.geneontology.org/formats/oboInOwl#> .
+@prefix OMO: <http://purl.obolibrary.org/obo/OMO_> .
 @prefix terms: <http://purl.org/dc/terms/> .
 @prefix ncbitaxon: <http://purl.obolibrary.org/obo/ncbitaxon#> .
 @prefix NCBITaxon: <http://purl.obolibrary.org/obo/NCBITaxon_> .
@@ -237,6 +239,18 @@ oboInOwl:{predicate} a owl:AnnotationProperty
 .
 """
             )
+
+        for omo_label, omo_predicate in predicate_to_omo.items():
+            output.write(
+                dedent(
+                    f"""
+            {omo_predicate} a owl:AnnotationProperty ;
+                        rdfs:label "{omo_label}"^^xsd:string .
+
+            """
+                )
+            )
+
         for label, parent in predicates.items():
             predicate = label_to_id(label)
             parent = parent.replace("oboInOwl", "oio")
