@@ -42,6 +42,11 @@ predicates = {
     "teleomorph": related_synonym,
 }
 
+predicate_to_omo = {
+    "misspelling": "OMO:0003006",
+    "misnomer": "OMO:0003007",
+}
+
 ranks = [
     "class",
     "cohort",
@@ -111,7 +116,10 @@ def convert_synonyms(tax_id, synonyms):
         if name_class in predicates:
             synonym = escape_literal(synonym)
             predicate = predicates[name_class]
-            synonym_type = label_to_id(name_class)
+            if text in predicate_to_omo:
+                synonym_type_curie = predicate_to_omo[text]
+            else:
+                synonym_type_curie = "ncbitaxon:" + label_to_id(name_class)
             output.append(
                 f"""
 NCBITaxon:{tax_id} {predicate} "{synonym}"^^xsd:string .
@@ -119,7 +127,7 @@ NCBITaxon:{tax_id} {predicate} "{synonym}"^^xsd:string .
 ; owl:annotatedSource NCBITaxon:{tax_id}
 ; owl:annotatedProperty {predicate}
 ; owl:annotatedTarget "{synonym}"^^xsd:string
-; oboInOwl:hasSynonymType ncbitaxon:{synonym_type}
+; oboInOwl:hasSynonymType {synonym_type_curie}
 ] ."""
             )
     return output
