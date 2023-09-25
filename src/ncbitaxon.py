@@ -25,28 +25,26 @@ exact_synonym = "oboInOwl:hasExactSynonym"
 related_synonym = "oboInOwl:hasRelatedSynonym"
 broad_synonym = "oboInOwl:hasBroadSynonym"
 
+# See OMO properties at
+# https://github.com/information-artifact-ontology/ontology-metadata/blob/master/src/templates/annotation_properties.tsv
 predicates = {
-    "acronym": broad_synonym,
-    "anamorph": related_synonym,
-    "blast name": related_synonym,
-    "common name": exact_synonym,
-    "equivalent name": exact_synonym,
-    "genbank acronym": broad_synonym,
-    "genbank anamorph": related_synonym,
-    "genbank common name": exact_synonym,
-    "genbank synonym": related_synonym,
-    "in-part": related_synonym,
-    "misnomer": related_synonym,
-    "misspelling": related_synonym,
-    "synonym": related_synonym,
-    "scientific name": exact_synonym,
-    "teleomorph": related_synonym,
+    "acronym": (broad_synonym, "OMO:0003000"),  # abbreviation
+    "anamorph": (related_synonym, None),
+    "blast name": (related_synonym, None),
+    "common name": (exact_synonym, "OMO:0003003"),  # layperson synonym
+    "equivalent name": (exact_synonym, None),
+    "genbank acronym": (broad_synonym, None),
+    "genbank anamorph": (related_synonym, None),
+    "genbank common name": (exact_synonym, None),
+    "genbank synonym": (related_synonym, None),
+    "in-part": (related_synonym, None),
+    "misnomer": (related_synonym, "OMO:0003007"),  # misnomer
+    "misspelling": (related_synonym, "OMO:0003006"),  # misspelling
+    "synonym": (related_synonym, None),
+    "scientific name": (exact_synonym, None),
+    "teleomorph": (related_synonym, None),
 }
 
-predicate_to_omo = {
-    "misspelling": "OMO:0003006",
-    "misnomer": "OMO:0003007",
-}
 
 ranks = [
     "class",
@@ -116,10 +114,8 @@ def convert_synonyms(tax_id, synonyms):
     for synonym, unique, name_class in synonyms:
         if name_class in predicates:
             synonym = escape_literal(synonym)
-            predicate = predicates[name_class]
-            if name_class in predicate_to_omo:
-                synonym_type_curie = predicate_to_omo[name_class]
-            else:
+            predicate, synonym_type_curie = predicates[name_class]
+            if synonym_type_curie is None:
                 synonym_type_curie = "ncbitaxon:" + label_to_id(name_class)
             output.append(
                 f"""
@@ -250,7 +246,9 @@ oboInOwl:{predicate} a owl:AnnotationProperty
                 )
             )
 
-        for label, parent in predicates.items():
+        for label, (parent, omo_curie) in predicates.items():
+            if omo_curie is not None:
+                continue
             predicate = label_to_id(label)
             parent = parent.replace("oboInOwl", "oio")
             output.write(
