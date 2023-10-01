@@ -237,15 +237,16 @@ oboInOwl:{predicate} a owl:AnnotationProperty
             )
 
         for label, (parent, omo_curie) in predicates.items():
+            parent = parent.replace("oboInOwl", "oio")
             if omo_curie is not None:
                 output.write(dedent(f"""
                     {omo_curie} a owl:AnnotationProperty ;
                         rdfs:label "{label}"^^xsd:string ;
+                        oboInOwl:hasScope "{parent}"^^xsd:string ;
                         rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
                 """))
             else:
                 predicate = label_to_id(label)
-                parent = parent.replace("oboInOwl", "oio")
                 output.write(dedent(f"""
                     ncbitaxon:{predicate} a owl:AnnotationProperty ;
                         rdfs:label "{label}"^^xsd:string ;
