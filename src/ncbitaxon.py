@@ -236,23 +236,16 @@ oboInOwl:{predicate} a owl:AnnotationProperty
 """
             )
 
-        for label, (parent, omo_curie) in predicates.items():
+        for label, (parent, curie) in predicates.items():
             parent = parent.replace("oboInOwl", "oio")
-            if omo_curie is not None:
-                output.write(dedent(f"""
-                    {omo_curie} a owl:AnnotationProperty ;
-                        rdfs:label "{label}"^^xsd:string ;
-                        oboInOwl:hasScope "{parent}"^^xsd:string ;
-                        rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
-                """))
-            else:
-                predicate = label_to_id(label)
-                output.write(dedent(f"""
-                    ncbitaxon:{predicate} a owl:AnnotationProperty ;
-                        rdfs:label "{label}"^^xsd:string ;
-                        oboInOwl:hasScope "{parent}"^^xsd:string ;
-                        rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
-                """))
+            if curie is None:
+                curie = f"ncbitaxon:{label_to_id(label)}"
+            output.write(dedent(f"""
+                {curie} a owl:AnnotationProperty ;
+                    rdfs:label "{label}"^^xsd:string ;
+                    oboInOwl:hasScope "{parent}"^^xsd:string ;
+                    rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
+            """))
 
         with zipfile.ZipFile(taxdmp_path) as taxdmp:
             with taxdmp.open("names.dmp") as dmp:
