@@ -80,6 +80,16 @@ ranks = [
     "superphylum",
     "tribe",
     "varietas",
+    "strain",
+    "serogroup",
+    "biotype",
+    "clade",
+    "forma specialis",
+    "isolate",
+    "serotype",
+    "genotype",
+    "morph",
+    "pathogroup",
 ]
 
 nodes_fields = [
