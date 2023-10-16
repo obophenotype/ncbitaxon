@@ -3,8 +3,7 @@
 import argparse
 import io
 import zipfile
-
-from collections import defaultdict
+from collections import Counter, defaultdict
 from datetime import date
 
 oboInOwl = {
@@ -104,6 +103,8 @@ nodes_fields = [
     "comments",  # free-text comments and citations
 ]
 
+UNRECOGNIZED_RANKS = Counter()
+
 
 def escape_literal(text):
     return text.replace('"', '\\"')
@@ -151,7 +152,9 @@ def convert_node(node, label, merged, synonyms, citations):
     rank = node["rank"]
     if rank and rank != "" and rank != "no rank":
         if rank not in ranks:
-            print(f"WARN Unrecognized rank '{rank}'")
+            if rank not in UNRECOGNIZED_RANKS:
+                print(f"unrecognized rank: '{rank}'")
+            UNRECOGNIZED_RANKS[rank] += 1
         rank = label_to_id(rank)
         # WARN: This is a special case for backward compatibility
         if rank in ["species_group", "species_subgroup"]:
@@ -321,6 +324,8 @@ ncbitaxon:{predicate} a owl:AnnotationProperty
                     )
                     output.write(result)
 
+            print("Summary of unrecognized ranks:")
+            print(UNRECOGNIZED_RANKS)
             # TODO: delnodes
 
         output.write(
