@@ -31,7 +31,7 @@ predicates = {
     "acronym": (broad_synonym, "OMO:0003000", "abbreviation"),
     "anamorph": (related_synonym, None, None),
     "blast name": (related_synonym, None, None),
-    "common name": (exact_synonym, "OMO:0003003", "layperson synonym"), 
+    "common name": (exact_synonym, "OMO:0003003", "layperson synonym"),
     "equivalent name": (exact_synonym, None, None),
     "genbank acronym": (broad_synonym, None, None),
     "genbank anamorph": (related_synonym, None, None),
@@ -249,14 +249,18 @@ oboInOwl:{predicate} a owl:AnnotationProperty
         for ad_hoc_label, (parent, curie, label) in predicates.items():
             parent = parent.replace("oboInOwl", "oio")
             if curie is None and label is None:
-                label = ad_hoc_label
-                curie = f"ncbitaxon:{label_to_id(label)}"
-            output.write(dedent(f"""
-                {curie} a owl:AnnotationProperty ;
-                    rdfs:label "{label}"^^xsd:string ;
-                    oboInOwl:hasScope "{parent}"^^xsd:string ;
-                    rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
-            """))
+                output.write(dedent(f"""
+                    ncbitaxon:{label_to_id(ad_hoc_label)} a owl:AnnotationProperty ;
+                        rdfs:label "{ad_hoc_label}"^^xsd:string ;
+                        oboInOwl:hasScope "{parent}"^^xsd:string ;
+                        rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
+                """))
+            else:
+                output.write(dedent(f"""
+                    {curie} a owl:AnnotationProperty ;
+                        rdfs:label "{label}"^^xsd:string ;
+                        rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
+                """))
 
         with zipfile.ZipFile(taxdmp_path) as taxdmp:
             with taxdmp.open("names.dmp") as dmp:
