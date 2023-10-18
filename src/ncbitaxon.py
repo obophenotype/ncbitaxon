@@ -5,6 +5,7 @@ import io
 import zipfile
 from collections import Counter, defaultdict
 from datetime import date
+from textwrap import dedent
 
 oboInOwl = {
     "SynonymTypeProperty": "synonym_type_property",
@@ -123,16 +124,17 @@ def convert_synonyms(tax_id, synonyms):
             synonym = escape_literal(synonym)
             predicate = predicates[name_class]
             synonym_type = label_to_id(name_class)
-            output.append(
-                f"""
-NCBITaxon:{tax_id} {predicate} "{synonym}"^^xsd:string .
-[ a owl:Axiom
-; owl:annotatedSource NCBITaxon:{tax_id}
-; owl:annotatedProperty {predicate}
-; owl:annotatedTarget "{synonym}"^^xsd:string
-; oboInOwl:hasSynonymType ncbitaxon:{synonym_type}
-] ."""
-            )
+            # todo skip adding axiom on synonym_type == "synonym"
+            output.append(dedent(f"""\
+                NCBITaxon:{tax_id} {predicate} "{synonym}"^^xsd:string .
+                [ 
+                    a owl:Axiom; 
+                    owl:annotatedSource NCBITaxon:{tax_id} ;
+                    owl:annotatedProperty {predicate} ; 
+                    owl:annotatedTarget "{synonym}"^^xsd:string ; 
+                    oboInOwl:hasSynonymType ncbitaxon:{synonym_type}
+                ] .
+            """))
     return output
 
 
@@ -140,14 +142,14 @@ def convert_node(node, label, merged, synonyms, citations):
     """Given a node dictionary, a label string, and lists for merged, synonyms, and citations,
     return a Turtle string representing this tax_id."""
     tax_id = node["tax_id"]
-    output = [f"NCBITaxon:{tax_id} a owl:Class"]
+    first_row = f"\nNCBITaxon:{tax_id} a owl:Class ;"
 
     label = escape_literal(label)
-    output.append(f'; rdfs:label "{label}"^^xsd:string')
+    output = [f'rdfs:label "{label}"^^xsd:string ;']
 
     parent_tax_id = node["parent_tax_id"]
     if parent_tax_id and parent_tax_id != "" and parent_tax_id != tax_id:
-        output.append(f"; rdfs:subClassOf NCBITaxon:{parent_tax_id}")
+        output.append(f"rdfs:subClassOf NCBITaxon:{parent_tax_id} ;")
 
     rank = node["rank"]
     if rank and rank != "" and rank != "no rank":
@@ -159,27 +161,33 @@ def convert_node(node, label, merged, synonyms, citations):
         # WARN: This is a special case for backward compatibility
         if rank in ["species_group", "species_subgroup"]:
             output.append(
-                f"; ncbitaxon:has_rank <http://purl.obolibrary.org/obo/NCBITaxon#_{rank}>"
+                f"ncbitaxon:has_rank <http://purl.obolibrary.org/obo/NCBITaxon#_{rank}> ;"
             )
         else:
-            output.append(f"; ncbitaxon:has_rank NCBITaxon:{rank}")
-
-    gc_id = node["genetic_code_id"]
-    if gc_id:
-        output.append(f'; oboInOwl:hasDbXref "GC_ID:{gc_id}"^^xsd:string')
+            output.append(f"ncbitaxon:has_rank NCBITaxon:{rank} ;")
 
     for merge in merged:
-        output.append(f'; oboInOwl:hasAlternativeId "NCBITaxon:{merge}"^^xsd:string')
+        output.append(f'oboInOwl:hasAlternativeId "NCBITaxon:{merge}"^^xsd:string ;')
 
-    for pubmed_id in citations:
-        output.append(f'; oboInOwl:hasDbXref "PMID:{pubmed_id}"^^xsd:string')
+    dbxrefs = [f"PMID:{pubmed_id}" for pubmed_id in citations]
+    gc_id = node["genetic_code_id"]
+    if gc_id:
+        dbxrefs.append(f"GC_ID:{gc_id}")
 
-    output.append('; oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string')
-    output.append(".")
+    if len(dbxrefs) == 1:
+        output.append(f'oboInOwl:hasDbXref "{dbxrefs[0]}"^^xsd:string ;')
+    else:
+        output.append(f'oboInOwl:hasDbXref "{dbxrefs[0]}"^^xsd:string ,')
+        for dbxref in dbxrefs[1:-1]:
+            output.append(f'    "{dbxref}"^^xsd:string ,')
+        output.append(f'    "{dbxrefs[-1]}"^^xsd:string ;')
 
-    output += convert_synonyms(tax_id, synonyms)
+    output.append('oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string .\n')
 
-    return "\n".join(output)
+    rows = [first_row]
+    rows.extend(f"    {row}" for row in output)
+    rows.extend(convert_synonyms(tax_id, synonyms))
+    return "\n".join(rows)
 
 
 def split_line(line):
@@ -201,59 +209,50 @@ def convert(taxdmp_path, output_path, taxa=None):
     with open(output_path, "w") as output:
         isodate = date.today().isoformat()
         ncbi_date = date.today().replace(day=1)
-        output.write(
-            f"""@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-@prefix owl: <http://www.w3.org/2002/07/owl#> .
-@prefix obo: <http://purl.obolibrary.org/obo/> .
-@prefix oboInOwl: <http://www.geneontology.org/formats/oboInOwl#> .
-@prefix terms: <http://purl.org/dc/terms/> .
-@prefix ncbitaxon: <http://purl.obolibrary.org/obo/ncbitaxon#> .
-@prefix NCBITaxon: <http://purl.obolibrary.org/obo/NCBITaxon_> .
-@prefix : <http://purl.obolibrary.org/obo/ncbitaxon.owl#> .
+        output.write(dedent(f"""\
+            @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+            @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+            @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+            @prefix owl: <http://www.w3.org/2002/07/owl#> .
+            @prefix obo: <http://purl.obolibrary.org/obo/> .
+            @prefix oboInOwl: <http://www.geneontology.org/formats/oboInOwl#> .
+            @prefix terms: <http://purl.org/dc/terms/> .
+            @prefix ncbitaxon: <http://purl.obolibrary.org/obo/ncbitaxon#> .
+            @prefix NCBITaxon: <http://purl.obolibrary.org/obo/NCBITaxon_> .
+            @prefix : <http://purl.obolibrary.org/obo/ncbitaxon.owl#> .
 
-<http://purl.obolibrary.org/obo/ncbitaxon.owl> a owl:Ontology
-; owl:versionIRI <http://purl.obolibrary.org/obo/ncbitaxon/{isodate}/ncbitaxon.owl>
-; terms:title "NCBI organismal classification"
-; terms:description "An ontology representation of the NCBI organismal taxonomy"
-; terms:license <https://creativecommons.org/publicdomain/zero/1.0/>
-; rdfs:comment "Built by https://github.com/obophenotype/ncbitaxon"^^xsd:string
-; rdfs:comment "NCBI organismal taxonomy version {ncbi_date}"^^xsd:string
-.
+            <http://purl.obolibrary.org/obo/ncbitaxon.owl> a owl:Ontology ;
+                owl:versionIRI <http://purl.obolibrary.org/obo/ncbitaxon/{isodate}/ncbitaxon.owl> ;
+                terms:title "NCBI organismal classification"; 
+                terms:description "An ontology representation of the NCBI organismal taxonomy" ;
+                terms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+                rdfs:comment "Built by https://github.com/obophenotype/ncbitaxon"^^xsd:string ;
+                rdfs:comment "NCBI organismal taxonomy version {ncbi_date}"^^xsd:string .
 
-obo:IAO_0000115 a owl:AnnotationProperty
-; rdfs:label "definition"^^xsd:string
-.
+            obo:IAO_0000115 a owl:AnnotationProperty ;
+                rdfs:label "definition"^^xsd:string .
 
-ncbitaxon:has_rank a owl:AnnotationProperty
-; obo:IAO_0000115 "A metadata relation between a class and its taxonomic rank (eg species, family)"^^xsd:string
-; rdfs:label "has_rank"^^xsd:string
-; rdfs:comment "This is an abstract class for use with the NCBI taxonomy to name the depth of the node within the tree. The link between the node term and the rank is only visible if you are using an obo 1.3 aware browser/editor; otherwise this can be ignored"^^xsd:string
-; oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string
-.
-"""
-        )
+            ncbitaxon:has_rank a owl:AnnotationProperty ; 
+                obo:IAO_0000115 "A metadata relation between a class and its taxonomic rank (eg species, family)"^^xsd:string ;
+                rdfs:label "has_rank"^^xsd:string ;
+                rdfs:comment "This is an abstract class for use with the NCBI taxonomy to name the depth of the node within the tree. The link between the node term and the rank is only visible if you are using an obo 1.3 aware browser/editor; otherwise this can be ignored"^^xsd:string;
+                oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string .\n
+        """))
         for predicate, label in oboInOwl.items():
-            output.write(
-                f"""
-oboInOwl:{predicate} a owl:AnnotationProperty
-; rdfs:label "{label}"^^xsd:string
-.
-"""
-            )
+            output.write(dedent(f"""\
+                oboInOwl:{predicate} a owl:AnnotationProperty ; 
+                    rdfs:label "{label}"^^xsd:string .\n
+            """))
         for label, parent in predicates.items():
             predicate = label_to_id(label)
             parent = parent.replace("oboInOwl", "oio")
             output.write(
-                f"""
-ncbitaxon:{predicate} a owl:AnnotationProperty
-; rdfs:label "{label}"^^xsd:string
-; oboInOwl:hasScope "{parent}"^^xsd:string
-; rdfs:subPropertyOf oboInOwl:SynonymTypeProperty
-.
-"""
-            )
+                dedent(f"""\
+                ncbitaxon:{predicate} a owl:AnnotationProperty ;
+                    rdfs:label "{label}"^^xsd:string ;
+                    oboInOwl:hasScope "{parent}"^^xsd:string ;
+                    rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .\n
+            """))
 
         with zipfile.ZipFile(taxdmp_path) as taxdmp:
             with taxdmp.open("names.dmp") as dmp:
@@ -274,7 +273,7 @@ ncbitaxon:{predicate} a owl:AnnotationProperty
                         print("WARN: Duplicate unique names", tax_ids, uniques)
                     for tax_id, unique in values:
                         labels[tax_id] = unique
-                        # Reason for the line below 
+                        # Reason for the line below
                         # issue #56: https://github.com/obophenotype/ncbitaxon/issues/56
                         if name != 'environmental samples':
                             synonyms[tax_id].append(
@@ -328,30 +327,24 @@ ncbitaxon:{predicate} a owl:AnnotationProperty
             print(UNRECOGNIZED_RANKS)
             # TODO: delnodes
 
-        output.write(
-            """
-<http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> a owl:Class
-; rdfs:label "taxonomic rank"^^xsd:string
-; rdfs:comment "This is an abstract class for use with the NCBI taxonomy to name the depth of the node within the tree. The link between the node term and the rank is only visible if you are using an obo 1.3 aware browser/editor; otherwise this can be ignored."^^xsd:string
-; oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string
-.
-"""
-        )
+        output.write(dedent("""
+            <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> a owl:Class ; 
+                rdfs:label "taxonomic rank"^^xsd:string ;
+                rdfs:comment "This is an abstract class for use with the NCBI taxonomy to name the depth of the node within the tree. The link between the node term and the rank is only visible if you are using an obo 1.3 aware browser/editor; otherwise this can be ignored."^^xsd:string ;
+                oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string .
+        """))
         for label in ranks:
             rank = label_to_id(label)
             if rank in ["species_group", "species_subgroup"]:
                 iri = f"<http://purl.obolibrary.org/obo/NCBITaxon#_{rank}>"
             else:
                 iri = f"NCBITaxon:{rank}"
-            output.write(
-                f"""
-{iri} a owl:Class
-; rdfs:label "{label}"^^xsd:string
-; rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank>
-; oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string
-.
-"""
-            )
+            output.write(dedent(f"""
+                {iri} a owl:Class ; 
+                    rdfs:label "{label}"^^xsd:string ;
+                    rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> ;
+                    oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string .
+            """))
 
 
 def main():
