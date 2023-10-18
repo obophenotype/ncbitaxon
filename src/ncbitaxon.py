@@ -215,6 +215,7 @@ def convert(taxdmp_path, output_path, taxa=None):
 
 <http://purl.obolibrary.org/obo/ncbitaxon.owl> a owl:Ontology
 ; owl:versionIRI <http://purl.obolibrary.org/obo/ncbitaxon/{isodate}/ncbitaxon.owl>
+; owl:versionInfo "{isodate}"^^xsd:string
 ; terms:title "NCBI organismal classification"
 ; terms:description "An ontology representation of the NCBI organismal taxonomy"
 ; terms:license <https://creativecommons.org/publicdomain/zero/1.0/>
