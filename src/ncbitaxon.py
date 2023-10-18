@@ -3,8 +3,7 @@
 import argparse
 import io
 import zipfile
-
-from collections import defaultdict
+from collections import Counter, defaultdict
 from datetime import date
 from textwrap import dedent
 
@@ -108,6 +107,8 @@ nodes_fields = [
     "comments",  # free-text comments and citations
 ]
 
+UNRECOGNIZED_RANKS = Counter()
+
 
 def escape_literal(text):
     return text.replace('"', '\\"')
@@ -156,7 +157,9 @@ def convert_node(node, label, merged, synonyms, citations):
     rank = node["rank"]
     if rank and rank != "" and rank != "no rank":
         if rank not in ranks:
-            print(f"WARN Unrecognized rank '{rank}'")
+            if rank not in UNRECOGNIZED_RANKS:
+                print(f"unrecognized rank: '{rank}'")
+            UNRECOGNIZED_RANKS[rank] += 1
         rank = label_to_id(rank)
         # WARN: This is a special case for backward compatibility
         if rank in ["species_group", "species_subgroup"]:
@@ -218,6 +221,7 @@ def convert(taxdmp_path, output_path, taxa=None):
 
 <http://purl.obolibrary.org/obo/ncbitaxon.owl> a owl:Ontology
 ; owl:versionIRI <http://purl.obolibrary.org/obo/ncbitaxon/{isodate}/ncbitaxon.owl>
+; owl:versionInfo "{isodate}"^^xsd:string
 ; terms:title "NCBI organismal classification"
 ; terms:description "An ontology representation of the NCBI organismal taxonomy"
 ; terms:license <https://creativecommons.org/publicdomain/zero/1.0/>
@@ -331,6 +335,8 @@ oboInOwl:{predicate} a owl:AnnotationProperty
                     )
                     output.write(result)
 
+            print("Summary of unrecognized ranks:")
+            print(UNRECOGNIZED_RANKS)
             # TODO: delnodes
 
         output.write(
