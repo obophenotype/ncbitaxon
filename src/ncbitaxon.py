@@ -5,6 +5,7 @@ import io
 import zipfile
 from collections import Counter, defaultdict
 from datetime import date
+from textwrap import dedent
 
 oboInOwl = {
     "SynonymTypeProperty": "synonym_type_property",
@@ -23,23 +24,26 @@ exact_synonym = "oboInOwl:hasExactSynonym"
 related_synonym = "oboInOwl:hasRelatedSynonym"
 broad_synonym = "oboInOwl:hasBroadSynonym"
 
+# See OMO properties at
+# https://github.com/information-artifact-ontology/ontology-metadata/blob/master/src/templates/annotation_properties.tsv
 predicates = {
-    "acronym": broad_synonym,
-    "anamorph": related_synonym,
-    "blast name": related_synonym,
-    "common name": exact_synonym,
-    "equivalent name": exact_synonym,
-    "genbank acronym": broad_synonym,
-    "genbank anamorph": related_synonym,
-    "genbank common name": exact_synonym,
-    "genbank synonym": related_synonym,
-    "in-part": related_synonym,
-    "misnomer": related_synonym,
-    "misspelling": related_synonym,
-    "synonym": related_synonym,
-    "scientific name": exact_synonym,
-    "teleomorph": related_synonym,
+    "acronym": (broad_synonym, "OMO:0003012", "acronym"),
+    "anamorph": (related_synonym, None, None),
+    "blast name": (related_synonym, None, None),
+    "common name": (exact_synonym, "OMO:0003003", "layperson synonym"),
+    "equivalent name": (exact_synonym, None, None),
+    "genbank acronym": (broad_synonym, None, None),
+    "genbank anamorph": (related_synonym, None, None),
+    "genbank common name": (exact_synonym, None, None),
+    "genbank synonym": (related_synonym, None, None),
+    "in-part": (related_synonym, None, None),
+    "misnomer": (related_synonym, "OMO:0003007", "misnomer"),
+    "misspelling": (related_synonym, "OMO:0003006", "misspelling"),
+    "synonym": (related_synonym, None, None),
+    "scientific name": (exact_synonym, None, None),
+    "teleomorph": (related_synonym, None, None),
 }
+
 
 ranks = [
     "class",
@@ -121,8 +125,9 @@ def convert_synonyms(tax_id, synonyms):
     for synonym, unique, name_class in synonyms:
         if name_class in predicates:
             synonym = escape_literal(synonym)
-            predicate = predicates[name_class]
-            synonym_type = label_to_id(name_class)
+            predicate, synonym_type_curie, _ = predicates[name_class]
+            if synonym_type_curie is None:
+                synonym_type_curie = "ncbitaxon:" + label_to_id(name_class)
             output.append(
                 f"""
 NCBITaxon:{tax_id} {predicate} "{synonym}"^^xsd:string .
@@ -130,7 +135,7 @@ NCBITaxon:{tax_id} {predicate} "{synonym}"^^xsd:string .
 ; owl:annotatedSource NCBITaxon:{tax_id}
 ; owl:annotatedProperty {predicate}
 ; owl:annotatedTarget "{synonym}"^^xsd:string
-; oboInOwl:hasSynonymType ncbitaxon:{synonym_type}
+; oboInOwl:hasSynonymType {synonym_type_curie}
 ] ."""
             )
     return output
@@ -208,6 +213,7 @@ def convert(taxdmp_path, output_path, taxa=None):
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix obo: <http://purl.obolibrary.org/obo/> .
 @prefix oboInOwl: <http://www.geneontology.org/formats/oboInOwl#> .
+@prefix OMO: <http://purl.obolibrary.org/obo/OMO_> .
 @prefix terms: <http://purl.org/dc/terms/> .
 @prefix ncbitaxon: <http://purl.obolibrary.org/obo/ncbitaxon#> .
 @prefix NCBITaxon: <http://purl.obolibrary.org/obo/NCBITaxon_> .
@@ -243,18 +249,22 @@ oboInOwl:{predicate} a owl:AnnotationProperty
 .
 """
             )
-        for label, parent in predicates.items():
-            predicate = label_to_id(label)
+
+        for ad_hoc_label, (parent, curie, label) in predicates.items():
             parent = parent.replace("oboInOwl", "oio")
-            output.write(
-                f"""
-ncbitaxon:{predicate} a owl:AnnotationProperty
-; rdfs:label "{label}"^^xsd:string
-; oboInOwl:hasScope "{parent}"^^xsd:string
-; rdfs:subPropertyOf oboInOwl:SynonymTypeProperty
-.
-"""
-            )
+            if curie is None and label is None:
+                output.write(dedent(f"""
+                    ncbitaxon:{label_to_id(ad_hoc_label)} a owl:AnnotationProperty ;
+                        rdfs:label "{ad_hoc_label}"^^xsd:string ;
+                        oboInOwl:hasScope "{parent}"^^xsd:string ;
+                        rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
+                """))
+            else:
+                output.write(dedent(f"""
+                    {curie} a owl:AnnotationProperty ;
+                        rdfs:label "{label}"^^xsd:string ;
+                        rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
+                """))
 
         with zipfile.ZipFile(taxdmp_path) as taxdmp:
             with taxdmp.open("names.dmp") as dmp:
