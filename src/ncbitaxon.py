@@ -27,7 +27,7 @@ broad_synonym = "oboInOwl:hasBroadSynonym"
 # See OMO properties at
 # https://github.com/information-artifact-ontology/ontology-metadata/blob/master/src/templates/annotation_properties.tsv
 predicates = {
-    "acronym": (broad_synonym, "OMO:0003000", "abbreviation"),
+    "acronym": (broad_synonym, "OMO:0003012", "acronym"),
     "anamorph": (related_synonym, None, None),
     "blast name": (related_synonym, None, None),
     "common name": (exact_synonym, "OMO:0003003", "layperson synonym"),
