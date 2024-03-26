@@ -2,12 +2,12 @@
 
 ## Left
 - Ontology IRI: `http://purl.obolibrary.org/obo/ncbitaxon/subsets/taxslim-disjoint-over-in-taxon.owl`
-- Version IRI: `http://purl.obolibrary.org/obo/ncbitaxon/releases/2023-12-12/subsets/taxslim-disjoint-over-in-taxon.owl`
+- Version IRI: `http://purl.obolibrary.org/obo/ncbitaxon/releases/2024-02-28/subsets/taxslim-disjoint-over-in-taxon.owl`
 - Loaded from: `file:/work/subsets/current_taxslim-disjoint.owl`
 
 ## Right
 - Ontology IRI: `http://purl.obolibrary.org/obo/ncbitaxon/subsets/taxslim-disjoint-over-in-taxon.owl`
-- Version IRI: `http://purl.obolibrary.org/obo/ncbitaxon/releases/2024-02-28/subsets/taxslim-disjoint-over-in-taxon.owl`
+- Version IRI: `http://purl.obolibrary.org/obo/ncbitaxon/releases/2024-03-26/subsets/taxslim-disjoint-over-in-taxon.owl`
 - Loaded from: `file:/work/subsets/taxslim-disjoint-over-in-taxon.owl`
 
 ### Ontology imports 
@@ -16,2971 +16,1723 @@
 
 ### Ontology annotations 
 #### Removed
-- [versionInfo](http://www.w3.org/2002/07/owl#versionInfo) "2023-12-12" 
-
-#### Added
 - [versionInfo](http://www.w3.org/2002/07/owl#versionInfo) "2024-02-28" 
 
+#### Added
+- [versionInfo](http://www.w3.org/2002/07/owl#versionInfo) "2024-03-26" 
 
-### 16SrI (Aster yellows group) `http://purl.obolibrary.org/obo/NCBITaxon_3042590`
+
+### Acetoanaerobium `http://purl.obolibrary.org/obo/NCBITaxon_186831`
 #### Removed
-- [16SrI (Aster yellows group)](http://purl.obolibrary.org/obo/NCBITaxon_3042590) DisjointWith [unclassified phytoplasmas](http://purl.obolibrary.org/obo/NCBITaxon_85635) 
+- [Acetoanaerobium](http://purl.obolibrary.org/obo/NCBITaxon_186831) DisjointWith [Peptostreptococcaceae incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_200630) 
+
+- [Acetoanaerobium](http://purl.obolibrary.org/obo/NCBITaxon_186831) DisjointWith [Clostridioides](http://purl.obolibrary.org/obo/NCBITaxon_1870884) 
+
+
+
+### Acidobacteriaceae `http://purl.obolibrary.org/obo/NCBITaxon_204434`
 
 #### Added
-- [16SrI (Aster yellows group)](http://purl.obolibrary.org/obo/NCBITaxon_3042590) DisjointWith [NCBITaxon_3098986](http://purl.obolibrary.org/obo/NCBITaxon_3098986) 
+- [Acidobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_204434) DisjointWith [NCBITaxon_3121618](http://purl.obolibrary.org/obo/NCBITaxon_3121618) 
 
 
-### 16SrII (Peanut WB group) `http://purl.obolibrary.org/obo/NCBITaxon_85621`
+### Acidobacterium `http://purl.obolibrary.org/obo/NCBITaxon_33973`
 #### Removed
-- [16SrII (Peanut WB group)](http://purl.obolibrary.org/obo/NCBITaxon_85621) DisjointWith [unclassified phytoplasmas](http://purl.obolibrary.org/obo/NCBITaxon_85635) 
+- [Acidobacterium](http://purl.obolibrary.org/obo/NCBITaxon_33973) DisjointWith [Koribacter](http://purl.obolibrary.org/obo/NCBITaxon_658061) 
 
 
 
-### 16SrIII (X-disease group) `http://purl.obolibrary.org/obo/NCBITaxon_85623`
+### Agathobacter `http://purl.obolibrary.org/obo/NCBITaxon_1766253`
 #### Removed
-- [16SrIII (X-disease group)](http://purl.obolibrary.org/obo/NCBITaxon_85623) DisjointWith [unclassified phytoplasmas](http://purl.obolibrary.org/obo/NCBITaxon_85635) 
+- [Agathobacter](http://purl.obolibrary.org/obo/NCBITaxon_1766253) DisjointWith [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) 
 
 
 
-### 16SrIX (Pigeon pea witches'-broom group) `http://purl.obolibrary.org/obo/NCBITaxon_85629`
+### Alkaliphilus `http://purl.obolibrary.org/obo/NCBITaxon_114627`
 #### Removed
-- [16SrIX (Pigeon pea witches'-broom group)](http://purl.obolibrary.org/obo/NCBITaxon_85629) DisjointWith [unclassified phytoplasmas](http://purl.obolibrary.org/obo/NCBITaxon_85635) 
+- [Alkaliphilus](http://purl.obolibrary.org/obo/NCBITaxon_114627) DisjointWith [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) 
+
+- [Alkaliphilus](http://purl.obolibrary.org/obo/NCBITaxon_114627) DisjointWith [Clostridium](http://purl.obolibrary.org/obo/NCBITaxon_1485) 
+
+- [Alkaliphilus](http://purl.obolibrary.org/obo/NCBITaxon_114627) DisjointWith [Caloramator](http://purl.obolibrary.org/obo/NCBITaxon_44258) 
+
+- [Alkaliphilus](http://purl.obolibrary.org/obo/NCBITaxon_114627) DisjointWith [Candidatus Arthromitus](http://purl.obolibrary.org/obo/NCBITaxon_49082) 
+
+- [Alkaliphilus](http://purl.obolibrary.org/obo/NCBITaxon_114627) DisjointWith [Hathewaya](http://purl.obolibrary.org/obo/NCBITaxon_1769729) 
+
+- [Alkaliphilus](http://purl.obolibrary.org/obo/NCBITaxon_114627) DisjointWith [Paraclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849822) 
 
 
 
-### 16SrV (Elm yellows group) `http://purl.obolibrary.org/obo/NCBITaxon_85625`
+### Amazona `http://purl.obolibrary.org/obo/NCBITaxon_12929`
 #### Removed
-- [16SrV (Elm yellows group)](http://purl.obolibrary.org/obo/NCBITaxon_85625) DisjointWith [unclassified phytoplasmas](http://purl.obolibrary.org/obo/NCBITaxon_85635) 
+- Class: [Amazona](http://purl.obolibrary.org/obo/NCBITaxon_12929) 
 
 
 
-### 16SrVI (Clover proliferation group) `http://purl.obolibrary.org/obo/NCBITaxon_85626`
+### Amazona ochrocephala `http://purl.obolibrary.org/obo/NCBITaxon_151761`
 #### Removed
-- [16SrVI (Clover proliferation group)](http://purl.obolibrary.org/obo/NCBITaxon_85626) DisjointWith [unclassified phytoplasmas](http://purl.obolibrary.org/obo/NCBITaxon_85635) 
+- Class: [Amazona ochrocephala](http://purl.obolibrary.org/obo/NCBITaxon_151761) 
 
 
 
-### 16SrVII (Ash yellows group) `http://purl.obolibrary.org/obo/NCBITaxon_85627`
-#### Removed
-- [16SrVII (Ash yellows group)](http://purl.obolibrary.org/obo/NCBITaxon_85627) DisjointWith [unclassified phytoplasmas](http://purl.obolibrary.org/obo/NCBITaxon_85635) 
-
-
-
-### 16SrVIII (Loofah witches'-broom group) `http://purl.obolibrary.org/obo/NCBITaxon_85628`
-#### Removed
-- [16SrVIII (Loofah witches'-broom group)](http://purl.obolibrary.org/obo/NCBITaxon_85628) DisjointWith [unclassified phytoplasmas](http://purl.obolibrary.org/obo/NCBITaxon_85635) 
-
-
-
-### 16SrX (Apple proliferation group) `http://purl.obolibrary.org/obo/NCBITaxon_85630`
-#### Removed
-- [16SrX (Apple proliferation group)](http://purl.obolibrary.org/obo/NCBITaxon_85630) DisjointWith [unclassified phytoplasmas](http://purl.obolibrary.org/obo/NCBITaxon_85635) 
-
-
-
-### 16SrXII (Stolbur group) `http://purl.obolibrary.org/obo/NCBITaxon_85632`
-#### Removed
-- [16SrXII (Stolbur group)](http://purl.obolibrary.org/obo/NCBITaxon_85632) DisjointWith [unclassified phytoplasmas](http://purl.obolibrary.org/obo/NCBITaxon_85635) 
-
-
-
-### Abalone herpesvirus Victoria/AUS/2009 `http://purl.obolibrary.org/obo/NCBITaxon_1241371`
+### Amolops `http://purl.obolibrary.org/obo/NCBITaxon_109940`
 
 #### Added
-- [Abalone herpesvirus Victoria/AUS/2009](http://purl.obolibrary.org/obo/NCBITaxon_1241371) DisjointWith [Haliotid herpesvirus 1](http://purl.obolibrary.org/obo/NCBITaxon_1513231) 
+- [Amolops](http://purl.obolibrary.org/obo/NCBITaxon_109940) DisjointWith [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) 
 
 
-### Acaryochloridales `http://purl.obolibrary.org/obo/NCBITaxon_3079744`
+### Anaerotignum `http://purl.obolibrary.org/obo/NCBITaxon_2039240`
 #### Removed
-- Class: [Acaryochloridales](http://purl.obolibrary.org/obo/NCBITaxon_3079744) 
+- [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [Butyrivibrio](http://purl.obolibrary.org/obo/NCBITaxon_830) 
+
+- [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [Lacrimispora](http://purl.obolibrary.org/obo/NCBITaxon_2719231) 
+
+- [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [Lachnospira](http://purl.obolibrary.org/obo/NCBITaxon_28050) 
+
+- [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [Blautia](http://purl.obolibrary.org/obo/NCBITaxon_572511) 
+
+- [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [Anaerobutyricum](http://purl.obolibrary.org/obo/NCBITaxon_2569097) 
+
+- [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [Enterocloster](http://purl.obolibrary.org/obo/NCBITaxon_2719313) 
+
+- [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [Coprococcus](http://purl.obolibrary.org/obo/NCBITaxon_33042) 
+
+- [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [Oribacterium](http://purl.obolibrary.org/obo/NCBITaxon_265975) 
+
+- [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [Pseudobutyrivibrio](http://purl.obolibrary.org/obo/NCBITaxon_46205) 
+
+- [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [Lachnospiraceae incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_2840493) 
+
+- [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [Anaerostipes](http://purl.obolibrary.org/obo/NCBITaxon_207244) 
+
+- [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [Mediterraneibacter](http://purl.obolibrary.org/obo/NCBITaxon_2316020) 
+
+- [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [Roseburia](http://purl.obolibrary.org/obo/NCBITaxon_841) 
 
 
 
-### Acheilognathidae `http://purl.obolibrary.org/obo/NCBITaxon_2509195`
+### Aquarana `http://purl.obolibrary.org/obo/NCBITaxon_121236`
+#### Removed
+- [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) DisjointWith [unclassified Rana](http://purl.obolibrary.org/obo/NCBITaxon_121276) 
 
 #### Added
-- [Acheilognathidae](http://purl.obolibrary.org/obo/NCBITaxon_2509195) DisjointWith [NCBITaxon_2743744](http://purl.obolibrary.org/obo/NCBITaxon_2743744) 
+- [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) DisjointWith [Rana <genus>](http://purl.obolibrary.org/obo/NCBITaxon_8399) 
 
+- [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) DisjointWith [Sylvirana](http://purl.obolibrary.org/obo/NCBITaxon_1659747) 
 
-### Acidovorax `http://purl.obolibrary.org/obo/NCBITaxon_12916`
-#### Removed
-- [Acidovorax](http://purl.obolibrary.org/obo/NCBITaxon_12916) DisjointWith [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) 
+- [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) DisjointWith [Pulchrana](http://purl.obolibrary.org/obo/NCBITaxon_1659745) 
 
+- [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) DisjointWith [Lithobates](http://purl.obolibrary.org/obo/NCBITaxon_192752) 
 
+- [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) DisjointWith [Glandirana](http://purl.obolibrary.org/obo/NCBITaxon_167931) 
 
-### Acinetobacter phage SH-Ab 15497 `http://purl.obolibrary.org/obo/NCBITaxon_2060946`
-#### Removed
-- [Acinetobacter phage SH-Ab 15497](http://purl.obolibrary.org/obo/NCBITaxon_2060946) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) DisjointWith [Rugosa](http://purl.obolibrary.org/obo/NCBITaxon_1673081) 
 
+- [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) DisjointWith [Nidirana](http://purl.obolibrary.org/obo/NCBITaxon_2054187) 
 
-
-### Ackermannviridae `http://purl.obolibrary.org/obo/NCBITaxon_2169529`
-
-#### Added
-- [Ackermannviridae](http://purl.obolibrary.org/obo/NCBITaxon_2169529) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [Ackermannviridae](http://purl.obolibrary.org/obo/NCBITaxon_2169529) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-
-### Aerococcus incertae sedis `http://purl.obolibrary.org/obo/NCBITaxon_3078850`
-#### Removed
-- Class: [Aerococcus incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_3078850) 
-
-
-
-### Aerococcus sp. Group 1 `http://purl.obolibrary.org/obo/NCBITaxon_2976812`
-#### Removed
-- Class: [Aerococcus sp. Group 1](http://purl.obolibrary.org/obo/NCBITaxon_2976812) 
-
-
-
-### Aliceevansviridae `http://purl.obolibrary.org/obo/NCBITaxon_3044455`
-
-#### Added
-- [Aliceevansviridae](http://purl.obolibrary.org/obo/NCBITaxon_3044455) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [Aliceevansviridae](http://purl.obolibrary.org/obo/NCBITaxon_3044455) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-
-### Alicycliphilus `http://purl.obolibrary.org/obo/NCBITaxon_201096`
-#### Removed
-- [Alicycliphilus](http://purl.obolibrary.org/obo/NCBITaxon_201096) DisjointWith [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) 
-
-
-
-### Ancylobacter aquaticus `http://purl.obolibrary.org/obo/NCBITaxon_100`
-
-#### Added
-- [Ancylobacter aquaticus](http://purl.obolibrary.org/obo/NCBITaxon_100) DisjointWith [Starkeya novella](http://purl.obolibrary.org/obo/NCBITaxon_921) 
-
-
-### Apopatosoma `http://purl.obolibrary.org/obo/NCBITaxon_3082828`
-#### Removed
-- Class: [Apopatosoma](http://purl.obolibrary.org/obo/NCBITaxon_3082828) 
-
+- [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) DisjointWith [Hydrophylax <frogs & toads>](http://purl.obolibrary.org/obo/NCBITaxon_1729444) 
 
 
 ### Aquificota `http://purl.obolibrary.org/obo/NCBITaxon_200783`
 
 #### Added
-- [Aquificota](http://purl.obolibrary.org/obo/NCBITaxon_200783) DisjointWith [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
-
-
-### Autographiviridae `http://purl.obolibrary.org/obo/NCBITaxon_2731643`
-
-#### Added
-- [Autographiviridae](http://purl.obolibrary.org/obo/NCBITaxon_2731643) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [Autographiviridae](http://purl.obolibrary.org/obo/NCBITaxon_2731643) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-
-### Azeredovirinae `http://purl.obolibrary.org/obo/NCBITaxon_2842522`
-
-#### Added
-- [Azeredovirinae](http://purl.obolibrary.org/obo/NCBITaxon_2842522) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [Azeredovirinae](http://purl.obolibrary.org/obo/NCBITaxon_2842522) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-
-### Azospirillaceae `http://purl.obolibrary.org/obo/NCBITaxon_2829815`
-
-#### Added
-- [Azospirillaceae](http://purl.obolibrary.org/obo/NCBITaxon_2829815) DisjointWith [NCBITaxon_3036766](http://purl.obolibrary.org/obo/NCBITaxon_3036766) 
-
-- [Azospirillaceae](http://purl.obolibrary.org/obo/NCBITaxon_2829815) DisjointWith [NCBITaxon_3031145](http://purl.obolibrary.org/obo/NCBITaxon_3031145) 
-
-
-### Bacillus phage PBS2 `http://purl.obolibrary.org/obo/NCBITaxon_10684`
-#### Removed
-- [Bacillus phage PBS2](http://purl.obolibrary.org/obo/NCBITaxon_10684) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-- [Bacillus phage PBS2](http://purl.obolibrary.org/obo/NCBITaxon_10684) DisjointWith [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
-
-
-
-### Bacillus phage SF6 `http://purl.obolibrary.org/obo/NCBITaxon_10773`
-#### Removed
-- [Bacillus phage SF6](http://purl.obolibrary.org/obo/NCBITaxon_10773) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-- [Bacillus phage SF6](http://purl.obolibrary.org/obo/NCBITaxon_10773) DisjointWith [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
-
-
-
-### Bacillus phage SPP1 `http://purl.obolibrary.org/obo/NCBITaxon_10724`
-#### Removed
-- [Bacillus phage SPP1](http://purl.obolibrary.org/obo/NCBITaxon_10724) DisjointWith [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
-
-- [Bacillus phage SPP1](http://purl.obolibrary.org/obo/NCBITaxon_10724) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Bacillus phage SPR `http://purl.obolibrary.org/obo/NCBITaxon_10725`
-#### Removed
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Bacillus phage rho15 `http://purl.obolibrary.org/obo/NCBITaxon_36451`
-#### Removed
-- [Bacillus phage rho15](http://purl.obolibrary.org/obo/NCBITaxon_36451) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
+- [Aquificota](http://purl.obolibrary.org/obo/NCBITaxon_200783) DisjointWith [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
 
 ### Bacteria incertae sedis `http://purl.obolibrary.org/obo/NCBITaxon_2323`
 
 #### Added
-- [Bacteria incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_2323) DisjointWith [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+- [Bacteria incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_2323) DisjointWith [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
 
-### Bcepmuvirus `http://purl.obolibrary.org/obo/NCBITaxon_1198139`
+### Bdellovibrionota `http://purl.obolibrary.org/obo/NCBITaxon_3018035`
 
 #### Added
-- [Bcepmuvirus](http://purl.obolibrary.org/obo/NCBITaxon_1198139) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [Bcepmuvirus](http://purl.obolibrary.org/obo/NCBITaxon_1198139) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [Bdellovibrionota](http://purl.obolibrary.org/obo/NCBITaxon_3018035) DisjointWith [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
 
-### Botrychium `http://purl.obolibrary.org/obo/NCBITaxon_13829`
+### Borrelia duttonii `http://purl.obolibrary.org/obo/NCBITaxon_40834`
+
+#### Added
+- [Borrelia duttonii](http://purl.obolibrary.org/obo/NCBITaxon_40834) DisjointWith [NCBITaxon_47466](http://purl.obolibrary.org/obo/NCBITaxon_47466) 
+
+
+### Borrelia hermsii `http://purl.obolibrary.org/obo/NCBITaxon_140`
+
+#### Added
+- [Borrelia hermsii](http://purl.obolibrary.org/obo/NCBITaxon_140) DisjointWith [NCBITaxon_47466](http://purl.obolibrary.org/obo/NCBITaxon_47466) 
+
+
+### Borrelia parkeri `http://purl.obolibrary.org/obo/NCBITaxon_141`
+
+#### Added
+- [Borrelia parkeri](http://purl.obolibrary.org/obo/NCBITaxon_141) DisjointWith [NCBITaxon_47466](http://purl.obolibrary.org/obo/NCBITaxon_47466) 
+
+
+### Borrelia recurrentis `http://purl.obolibrary.org/obo/NCBITaxon_44449`
+
+#### Added
+- [Borrelia recurrentis](http://purl.obolibrary.org/obo/NCBITaxon_44449) DisjointWith [NCBITaxon_47466](http://purl.obolibrary.org/obo/NCBITaxon_47466) 
+
+
+### Borrelia turicatae `http://purl.obolibrary.org/obo/NCBITaxon_142`
+
+#### Added
+- [Borrelia turicatae](http://purl.obolibrary.org/obo/NCBITaxon_142) DisjointWith [NCBITaxon_47466](http://purl.obolibrary.org/obo/NCBITaxon_47466) 
+
+
+### Bubalus carabanensis `http://purl.obolibrary.org/obo/NCBITaxon_346063`
 #### Removed
-- Class: [Botrychium](http://purl.obolibrary.org/obo/NCBITaxon_13829) 
+- [Bubalus carabanensis](http://purl.obolibrary.org/obo/NCBITaxon_346063) DisjointWith [Bubalus quarlesi](http://purl.obolibrary.org/obo/NCBITaxon_56640) 
+
+- [Bubalus carabanensis](http://purl.obolibrary.org/obo/NCBITaxon_346063) DisjointWith [Bubalus mindorensis](http://purl.obolibrary.org/obo/NCBITaxon_56639) 
+
+- [Bubalus carabanensis](http://purl.obolibrary.org/obo/NCBITaxon_346063) DisjointWith [Bubalus bubalis](http://purl.obolibrary.org/obo/NCBITaxon_89462) 
 
 
 
-### Bronfenbrennervirinae `http://purl.obolibrary.org/obo/NCBITaxon_2842523`
-
-#### Added
-- [Bronfenbrennervirinae](http://purl.obolibrary.org/obo/NCBITaxon_2842523) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [Bronfenbrennervirinae](http://purl.obolibrary.org/obo/NCBITaxon_2842523) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-
-### Bubo scandiacus `http://purl.obolibrary.org/obo/NCBITaxon_371907`
+### Bubalus depressicornis `http://purl.obolibrary.org/obo/NCBITaxon_27596`
+#### Removed
+- [Bubalus depressicornis](http://purl.obolibrary.org/obo/NCBITaxon_27596) DisjointWith [Bubalus carabanensis](http://purl.obolibrary.org/obo/NCBITaxon_346063) 
 
 #### Added
-- [Bubo scandiacus](http://purl.obolibrary.org/obo/NCBITaxon_371907) DisjointWith [NCBITaxon_56268](http://purl.obolibrary.org/obo/NCBITaxon_56268) 
+- [Bubalus depressicornis](http://purl.obolibrary.org/obo/NCBITaxon_27596) DisjointWith [NCBITaxon_3119969](http://purl.obolibrary.org/obo/NCBITaxon_3119969) 
+
+
+### Bubo virginianus `http://purl.obolibrary.org/obo/NCBITaxon_56268`
+#### Removed
+- Class: [Bubo virginianus](http://purl.obolibrary.org/obo/NCBITaxon_56268) 
+
+
+
+### Buteo swainsoni `http://purl.obolibrary.org/obo/NCBITaxon_156757`
+#### Removed
+- Class: [Buteo swainsoni](http://purl.obolibrary.org/obo/NCBITaxon_156757) 
+
+
+
+### Caldicellulosiruptorales `http://purl.obolibrary.org/obo/NCBITaxon_3071001`
+#### Removed
+- [Caldicellulosiruptorales](http://purl.obolibrary.org/obo/NCBITaxon_3071001) DisjointWith [Natranaerobiales](http://purl.obolibrary.org/obo/NCBITaxon_485256) 
+
+- [Caldicellulosiruptorales](http://purl.obolibrary.org/obo/NCBITaxon_3071001) DisjointWith [Halanaerobiales](http://purl.obolibrary.org/obo/NCBITaxon_53433) 
+
+- [Caldicellulosiruptorales](http://purl.obolibrary.org/obo/NCBITaxon_3071001) DisjointWith [Thermoanaerobacterales](http://purl.obolibrary.org/obo/NCBITaxon_68295) 
+
 
 
 ### Caldisericota/Cryosericota group `http://purl.obolibrary.org/obo/NCBITaxon_2498710`
 
 #### Added
-- [Caldisericota/Cryosericota group](http://purl.obolibrary.org/obo/NCBITaxon_2498710) DisjointWith [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+- [Caldisericota/Cryosericota group](http://purl.obolibrary.org/obo/NCBITaxon_2498710) DisjointWith [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
 
 ### Calditrichota `http://purl.obolibrary.org/obo/NCBITaxon_1930617`
 
 #### Added
-- [Calditrichota](http://purl.obolibrary.org/obo/NCBITaxon_1930617) DisjointWith [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+- [Calditrichota](http://purl.obolibrary.org/obo/NCBITaxon_1930617) DisjointWith [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
 
 ### Campylobacterota `http://purl.obolibrary.org/obo/NCBITaxon_29547`
 
 #### Added
-- [Campylobacterota](http://purl.obolibrary.org/obo/NCBITaxon_29547) DisjointWith [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
-
-
-### Candidatus Colimorpha enterica `http://purl.obolibrary.org/obo/NCBITaxon_3083063`
-#### Removed
-- Class: [Candidatus Colimorpha enterica](http://purl.obolibrary.org/obo/NCBITaxon_3083063) 
-
-
-
-### Casadabanvirus `http://purl.obolibrary.org/obo/NCBITaxon_1623286`
-
-#### Added
-- [Casadabanvirus](http://purl.obolibrary.org/obo/NCBITaxon_1623286) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [Casadabanvirus](http://purl.obolibrary.org/obo/NCBITaxon_1623286) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [Campylobacterota](http://purl.obolibrary.org/obo/NCBITaxon_29547) DisjointWith [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
 
 ### Caulobacterales `http://purl.obolibrary.org/obo/NCBITaxon_204458`
 
 #### Added
-- [Caulobacterales](http://purl.obolibrary.org/obo/NCBITaxon_204458) DisjointWith [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) 
+- [Caulobacterales](http://purl.obolibrary.org/obo/NCBITaxon_204458) DisjointWith [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
 
 
-### Ceduovirus `http://purl.obolibrary.org/obo/NCBITaxon_186532`
+### Cellulosilyticaceae `http://purl.obolibrary.org/obo/NCBITaxon_3018741`
+#### Removed
+- [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) DisjointWith [Eubacteriales incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_538999) 
 
-#### Added
-- [Ceduovirus](http://purl.obolibrary.org/obo/NCBITaxon_186532) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) DisjointWith [Syntrophomonadaceae](http://purl.obolibrary.org/obo/NCBITaxon_68298) 
 
-- [Ceduovirus](http://purl.obolibrary.org/obo/NCBITaxon_186532) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) DisjointWith [Heliobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_31984) 
 
+- [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) DisjointWith [unclassified Eubacteriales](http://purl.obolibrary.org/obo/NCBITaxon_39779) 
 
-### Ceeclamvirinae `http://purl.obolibrary.org/obo/NCBITaxon_2946628`
+- [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) DisjointWith [Symbiobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_543349) 
 
-#### Added
-- [Ceeclamvirinae](http://purl.obolibrary.org/obo/NCBITaxon_2946628) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [Ceeclamvirinae](http://purl.obolibrary.org/obo/NCBITaxon_2946628) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-
-### Cervus canadensis roosevelti `http://purl.obolibrary.org/obo/NCBITaxon_65383`
+- [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) DisjointWith [Clostridiaceae](http://purl.obolibrary.org/obo/NCBITaxon_31979) 
 
 #### Added
-- [Cervus canadensis roosevelti](http://purl.obolibrary.org/obo/NCBITaxon_65383) DisjointWith [NCBITaxon_9861](http://purl.obolibrary.org/obo/NCBITaxon_9861) 
+- [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) DisjointWith [NCBITaxon_3118652](http://purl.obolibrary.org/obo/NCBITaxon_3118652) 
+
+
+### Cervus canadensis canadensis `http://purl.obolibrary.org/obo/NCBITaxon_9861`
+#### Removed
+- Class: [Cervus canadensis canadensis](http://purl.obolibrary.org/obo/NCBITaxon_9861) 
+
 
 
 ### Chrysiogenota `http://purl.obolibrary.org/obo/NCBITaxon_200938`
 
 #### Added
-- [Chrysiogenota](http://purl.obolibrary.org/obo/NCBITaxon_200938) DisjointWith [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+- [Chrysiogenota](http://purl.obolibrary.org/obo/NCBITaxon_200938) DisjointWith [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
 
-### Clavibacter michiganensis `http://purl.obolibrary.org/obo/NCBITaxon_28447`
+### Clostridia `http://purl.obolibrary.org/obo/NCBITaxon_186801`
 
 #### Added
-- [Clavibacter michiganensis](http://purl.obolibrary.org/obo/NCBITaxon_28447) DisjointWith [Clavibacter michiganensis subsp. sepedonicus](http://purl.obolibrary.org/obo/NCBITaxon_31964) 
+- [Clostridia](http://purl.obolibrary.org/obo/NCBITaxon_186801) DisjointWith [NCBITaxon_2840488](http://purl.obolibrary.org/obo/NCBITaxon_2840488) 
 
 
-### Clavibacter michiganensis subsp. sepedonicus `http://purl.obolibrary.org/obo/NCBITaxon_31964`
+### Clostridioides `http://purl.obolibrary.org/obo/NCBITaxon_1870884`
 #### Removed
-- [Clavibacter michiganensis subsp. sepedonicus](http://purl.obolibrary.org/obo/NCBITaxon_31964) DisjointWith [Clavibacter michiganensis subsp. michiganensis](http://purl.obolibrary.org/obo/NCBITaxon_33013) 
+- [Clostridioides](http://purl.obolibrary.org/obo/NCBITaxon_1870884) DisjointWith [Filifactor](http://purl.obolibrary.org/obo/NCBITaxon_44259) 
 
 
 
-### Clostridium botulinum D phage `http://purl.obolibrary.org/obo/NCBITaxon_29342`
+### Clostridium `http://purl.obolibrary.org/obo/NCBITaxon_1485`
 #### Removed
-- [Clostridium botulinum D phage](http://purl.obolibrary.org/obo/NCBITaxon_29342) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [Clostridium](http://purl.obolibrary.org/obo/NCBITaxon_1485) DisjointWith [Paraclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849822) 
 
 
 
-### Clostridium phage c-st `http://purl.obolibrary.org/obo/NCBITaxon_12336`
+### Clostridium phage phi CD119 `http://purl.obolibrary.org/obo/NCBITaxon_2883936`
 #### Removed
-- [Clostridium phage c-st](http://purl.obolibrary.org/obo/NCBITaxon_12336) DisjointWith [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
-
-- [Clostridium phage c-st](http://purl.obolibrary.org/obo/NCBITaxon_12336) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Clostridium phage phi8074-B1 `http://purl.obolibrary.org/obo/NCBITaxon_1147137`
-#### Removed
-- [Clostridium phage phi8074-B1](http://purl.obolibrary.org/obo/NCBITaxon_1147137) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-- [Clostridium phage phi8074-B1](http://purl.obolibrary.org/obo/NCBITaxon_1147137) DisjointWith [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
-
-
-
-### Coleofasciculales `http://purl.obolibrary.org/obo/NCBITaxon_3079753`
-#### Removed
-- Class: [Coleofasciculales](http://purl.obolibrary.org/obo/NCBITaxon_3079753) 
-
-
-
-### Colimorpha `http://purl.obolibrary.org/obo/NCBITaxon_3082834`
-#### Removed
-- Class: [Colimorpha](http://purl.obolibrary.org/obo/NCBITaxon_3082834) 
-
-
-
-### Comamonas `http://purl.obolibrary.org/obo/NCBITaxon_283`
-#### Removed
-- [Comamonas](http://purl.obolibrary.org/obo/NCBITaxon_283) DisjointWith [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) 
+- Class: [Clostridium phage phi CD119](http://purl.obolibrary.org/obo/NCBITaxon_2883936) 
 
 
 
 ### Coprothermobacterota `http://purl.obolibrary.org/obo/NCBITaxon_2138240`
 
 #### Added
-- [Coprothermobacterota](http://purl.obolibrary.org/obo/NCBITaxon_2138240) DisjointWith [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
-
-
-### Corndogvirus `http://purl.obolibrary.org/obo/NCBITaxon_1623285`
-
-#### Added
-- [Corndogvirus](http://purl.obolibrary.org/obo/NCBITaxon_1623285) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [Corndogvirus](http://purl.obolibrary.org/obo/NCBITaxon_1623285) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-
-### Crocinitomicaceae `http://purl.obolibrary.org/obo/NCBITaxon_1853230`
-
-#### Added
-- [Crocinitomicaceae](http://purl.obolibrary.org/obo/NCBITaxon_1853230) DisjointWith [NCBITaxon_3024551](http://purl.obolibrary.org/obo/NCBITaxon_3024551) 
-
-
-### Cryomorphaceae `http://purl.obolibrary.org/obo/NCBITaxon_246874`
-
-#### Added
-- [Cryomorphaceae](http://purl.obolibrary.org/obo/NCBITaxon_246874) DisjointWith [NCBITaxon_3024551](http://purl.obolibrary.org/obo/NCBITaxon_3024551) 
-
-
-### Cucurbita hybrid cultivar `http://purl.obolibrary.org/obo/NCBITaxon_170850`
-#### Removed
-- [Cucurbita hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_170850) DisjointWith [Cucurbita moschata](http://purl.obolibrary.org/obo/NCBITaxon_3662) 
-
-- [Cucurbita hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_170850) DisjointWith [Cucurbita pepo](http://purl.obolibrary.org/obo/NCBITaxon_3663) 
-
-- [Cucurbita hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_170850) DisjointWith [Cucurbita maxima](http://purl.obolibrary.org/obo/NCBITaxon_3661) 
-
-
-
-### Cupidesulfovibrio oxamicus `http://purl.obolibrary.org/obo/NCBITaxon_32016`
-
-#### Added
-- [Cupidesulfovibrio oxamicus](http://purl.obolibrary.org/obo/NCBITaxon_32016) DisjointWith [Desulfovibrio vulgaris](http://purl.obolibrary.org/obo/NCBITaxon_881) 
-
-
-### Cyanophage S-2L `http://purl.obolibrary.org/obo/NCBITaxon_260586`
-#### Removed
-- [Cyanophage S-2L](http://purl.obolibrary.org/obo/NCBITaxon_260586) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Cyanoramphus `http://purl.obolibrary.org/obo/NCBITaxon_114431`
-
-#### Added
-- [Cyanoramphus](http://purl.obolibrary.org/obo/NCBITaxon_114431) DisjointWith [NCBITaxon_12929](http://purl.obolibrary.org/obo/NCBITaxon_12929) 
-
-
-### Danionidae `http://purl.obolibrary.org/obo/NCBITaxon_2743709`
-
-#### Added
-- [Danionidae](http://purl.obolibrary.org/obo/NCBITaxon_2743709) DisjointWith [NCBITaxon_2743744](http://purl.obolibrary.org/obo/NCBITaxon_2743744) 
+- [Coprothermobacterota](http://purl.obolibrary.org/obo/NCBITaxon_2138240) DisjointWith [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
 
 ### Deferribacterota `http://purl.obolibrary.org/obo/NCBITaxon_200930`
 
 #### Added
-- [Deferribacterota](http://purl.obolibrary.org/obo/NCBITaxon_200930) DisjointWith [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+- [Deferribacterota](http://purl.obolibrary.org/obo/NCBITaxon_200930) DisjointWith [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
 
-### Demerecviridae `http://purl.obolibrary.org/obo/NCBITaxon_2731690`
+### Desulfallaceae `http://purl.obolibrary.org/obo/NCBITaxon_2867375`
+#### Removed
+- [Desulfallaceae](http://purl.obolibrary.org/obo/NCBITaxon_2867375) DisjointWith [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) 
+
+
+
+### Desulfitobacteriaceae `http://purl.obolibrary.org/obo/NCBITaxon_2937909`
+#### Removed
+- [Desulfitobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_2937909) DisjointWith [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) 
+
+
+
+### Desulfotomaculaceae `http://purl.obolibrary.org/obo/NCBITaxon_2937910`
+#### Removed
+- [Desulfotomaculaceae](http://purl.obolibrary.org/obo/NCBITaxon_2937910) DisjointWith [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) 
+
+
+
+### Dickeya `http://purl.obolibrary.org/obo/NCBITaxon_204037`
 
 #### Added
-- [Demerecviridae](http://purl.obolibrary.org/obo/NCBITaxon_2731690) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [Demerecviridae](http://purl.obolibrary.org/obo/NCBITaxon_2731690) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [Dickeya](http://purl.obolibrary.org/obo/NCBITaxon_204037) DisjointWith [NCBITaxon_3059405](http://purl.obolibrary.org/obo/NCBITaxon_3059405) 
 
 
-### Desulfovibrio desulfuricans `http://purl.obolibrary.org/obo/NCBITaxon_876`
+### Dorea `http://purl.obolibrary.org/obo/NCBITaxon_189330`
 #### Removed
-- [Desulfovibrio desulfuricans](http://purl.obolibrary.org/obo/NCBITaxon_876) DisjointWith [Desulfovibrio vulgaris](http://purl.obolibrary.org/obo/NCBITaxon_881) 
+- [Dorea](http://purl.obolibrary.org/obo/NCBITaxon_189330) DisjointWith [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) 
 
 
 
-### Desulfovibrio multispirans `http://purl.obolibrary.org/obo/NCBITaxon_32018`
+### Eubacteriaceae `http://purl.obolibrary.org/obo/NCBITaxon_186806`
 #### Removed
-- [Desulfovibrio multispirans](http://purl.obolibrary.org/obo/NCBITaxon_32018) DisjointWith [Desulfovibrio vulgaris](http://purl.obolibrary.org/obo/NCBITaxon_881) 
+- [Eubacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_186806) DisjointWith [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) 
 
 
 
-### Detrevirus `http://purl.obolibrary.org/obo/NCBITaxon_1623287`
+### Eubacteriales `http://purl.obolibrary.org/obo/NCBITaxon_186802`
+#### Removed
+- [Eubacteriales](http://purl.obolibrary.org/obo/NCBITaxon_186802) DisjointWith [Caldicellulosiruptorales](http://purl.obolibrary.org/obo/NCBITaxon_3071001) 
 
 #### Added
-- [Detrevirus](http://purl.obolibrary.org/obo/NCBITaxon_1623287) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [Eubacteriales](http://purl.obolibrary.org/obo/NCBITaxon_186802) DisjointWith [NCBITaxon_3082720](http://purl.obolibrary.org/obo/NCBITaxon_3082720) 
 
-- [Detrevirus](http://purl.obolibrary.org/obo/NCBITaxon_1623287) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-
-### Diaphorininae `http://purl.obolibrary.org/obo/NCBITaxon_3101716`
-#### Removed
-- Class: [Diaphorininae](http://purl.obolibrary.org/obo/NCBITaxon_3101716) 
-
-
-
-### Diaphorobacter `http://purl.obolibrary.org/obo/NCBITaxon_238749`
-#### Removed
-- [Diaphorobacter](http://purl.obolibrary.org/obo/NCBITaxon_238749) DisjointWith [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) 
-
-
-
-### Drexlerviridae `http://purl.obolibrary.org/obo/NCBITaxon_2731691`
-
-#### Added
-- [Drexlerviridae](http://purl.obolibrary.org/obo/NCBITaxon_2731691) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [Drexlerviridae](http://purl.obolibrary.org/obo/NCBITaxon_2731691) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-
-### Endolissoclinum `http://purl.obolibrary.org/obo/NCBITaxon_1263978`
-#### Removed
-- [Endolissoclinum](http://purl.obolibrary.org/obo/NCBITaxon_1263978) DisjointWith [Novispirillum](http://purl.obolibrary.org/obo/NCBITaxon_660514) 
-
-
-
-### Enhodamvirus `http://purl.obolibrary.org/obo/NCBITaxon_1922329`
-
-#### Added
-- [Enhodamvirus](http://purl.obolibrary.org/obo/NCBITaxon_1922329) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [Enhodamvirus](http://purl.obolibrary.org/obo/NCBITaxon_1922329) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-
-### Enterobacteria phage P4 `http://purl.obolibrary.org/obo/NCBITaxon_10680`
-#### Removed
-- [Enterobacteria phage P4](http://purl.obolibrary.org/obo/NCBITaxon_10680) DisjointWith [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
-
-- [Enterobacteria phage P4](http://purl.obolibrary.org/obo/NCBITaxon_10680) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Enterobacteria phage SfV `http://purl.obolibrary.org/obo/NCBITaxon_55884`
-#### Removed
-- [Enterobacteria phage SfV](http://purl.obolibrary.org/obo/NCBITaxon_55884) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Enterobacteria phage VT1-Sakai `http://purl.obolibrary.org/obo/NCBITaxon_462299`
-#### Removed
-- [Enterobacteria phage VT1-Sakai](http://purl.obolibrary.org/obo/NCBITaxon_462299) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Enterobacteria phage phi21 `http://purl.obolibrary.org/obo/NCBITaxon_10737`
-#### Removed
-- [Enterobacteria phage phi21](http://purl.obolibrary.org/obo/NCBITaxon_10737) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-- [Enterobacteria phage phi21](http://purl.obolibrary.org/obo/NCBITaxon_10737) DisjointWith [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
-
-
-
-### Enterobacteria phage phi80 `http://purl.obolibrary.org/obo/NCBITaxon_10713`
-#### Removed
-- [Enterobacteria phage phi80](http://purl.obolibrary.org/obo/NCBITaxon_10713) DisjointWith [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
-
-- [Enterobacteria phage phi80](http://purl.obolibrary.org/obo/NCBITaxon_10713) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Eurypygiformes `http://purl.obolibrary.org/obo/NCBITaxon_3073798`
-#### Removed
-- Class: [Eurypygiformes](http://purl.obolibrary.org/obo/NCBITaxon_3073798) 
-
-
-
-### Eurypygimorphae `http://purl.obolibrary.org/obo/NCBITaxon_3073796`
-#### Removed
-- Class: [Eurypygimorphae](http://purl.obolibrary.org/obo/NCBITaxon_3073796) 
-
+- [Eubacteriales](http://purl.obolibrary.org/obo/NCBITaxon_186802) DisjointWith [NCBITaxon_3085636](http://purl.obolibrary.org/obo/NCBITaxon_3085636) 
 
 
 ### FCB group `http://purl.obolibrary.org/obo/NCBITaxon_1783270`
 
 #### Added
-- [FCB group](http://purl.obolibrary.org/obo/NCBITaxon_1783270) DisjointWith [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
-
-
-### Fromanvirus `http://purl.obolibrary.org/obo/NCBITaxon_186764`
-
-#### Added
-- [Fromanvirus](http://purl.obolibrary.org/obo/NCBITaxon_186764) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [Fromanvirus](http://purl.obolibrary.org/obo/NCBITaxon_186764) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [FCB group](http://purl.obolibrary.org/obo/NCBITaxon_1783270) DisjointWith [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
 
 ### GCIs 
 #### Removed
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Shigella phage SfII](http://purl.obolibrary.org/obo/NCBITaxon_66284) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Haloquadratum](http://purl.obolibrary.org/obo/NCBITaxon_293431) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halorubrum](http://purl.obolibrary.org/obo/NCBITaxon_56688) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paraclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849822) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Caloramator](http://purl.obolibrary.org/obo/NCBITaxon_44258) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Streptococcus phage Dp-1](http://purl.obolibrary.org/obo/NCBITaxon_59241) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eubacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_186806) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Phage PS119](http://purl.obolibrary.org/obo/NCBITaxon_83128) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Serratia sp. ATCC 39006](http://purl.obolibrary.org/obo/NCBITaxon_104623) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Serratia sp. E-15](http://purl.obolibrary.org/obo/NCBITaxon_617) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Enterobacteria phage P4](http://purl.obolibrary.org/obo/NCBITaxon_10680) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcus](http://purl.obolibrary.org/obo/NCBITaxon_1257) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptoclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1481960) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [16SrVIII (Loofah witches'-broom group)](http://purl.obolibrary.org/obo/NCBITaxon_85628) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified phytoplasmas](http://purl.obolibrary.org/obo/NCBITaxon_85635) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptoclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1481960) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Filifactor](http://purl.obolibrary.org/obo/NCBITaxon_44259) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Shigella phage SfX](http://purl.obolibrary.org/obo/NCBITaxon_10874) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Desulfitobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_2937909) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clostridium phage phi8074-B1](http://purl.obolibrary.org/obo/NCBITaxon_1147137) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptoclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1481960) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Acetoanaerobium](http://purl.obolibrary.org/obo/NCBITaxon_186831) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lactococcus phage r1t](http://purl.obolibrary.org/obo/NCBITaxon_43685) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Acetoanaerobium](http://purl.obolibrary.org/obo/NCBITaxon_186831) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clostridioides](http://purl.obolibrary.org/obo/NCBITaxon_1870884) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Staphylococcus phage L54a](http://purl.obolibrary.org/obo/NCBITaxon_10727) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bubalus carabanensis](http://purl.obolibrary.org/obo/NCBITaxon_346063) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bubalus mindorensis](http://purl.obolibrary.org/obo/NCBITaxon_56639) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Haloferax](http://purl.obolibrary.org/obo/NCBITaxon_2251) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halorubrum](http://purl.obolibrary.org/obo/NCBITaxon_56688) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptoclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1481960) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clostridioides](http://purl.obolibrary.org/obo/NCBITaxon_1870884) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Geminicoccaceae](http://purl.obolibrary.org/obo/NCBITaxon_2066434) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Azospirillaceae](http://purl.obolibrary.org/obo/NCBITaxon_2829815) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Syntrophomonadaceae](http://purl.obolibrary.org/obo/NCBITaxon_68298) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Magnetospirillum molischianum](http://purl.obolibrary.org/obo/NCBITaxon_1083) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Magnetospirillum magneticum](http://purl.obolibrary.org/obo/NCBITaxon_84159) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mediterraneibacter](http://purl.obolibrary.org/obo/NCBITaxon_2316020) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Variovorax](http://purl.obolibrary.org/obo/NCBITaxon_34072) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptoclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1481960) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paeniclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849828) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_128735) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa multiflora](http://purl.obolibrary.org/obo/NCBITaxon_74647) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Alkaliphilus](http://purl.obolibrary.org/obo/NCBITaxon_114627) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Caloramator](http://purl.obolibrary.org/obo/NCBITaxon_44258) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Delftia](http://purl.obolibrary.org/obo/NCBITaxon_80865) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Alkaliphilus](http://purl.obolibrary.org/obo/NCBITaxon_114627) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clostridium](http://purl.obolibrary.org/obo/NCBITaxon_1485) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhodothermus phage RM378](http://purl.obolibrary.org/obo/NCBITaxon_148943) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachnospiraceae incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_2840493) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lactobacillus phage LL-H](http://purl.obolibrary.org/obo/NCBITaxon_12348) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lacrimispora](http://purl.obolibrary.org/obo/NCBITaxon_2719231) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cyanophage S-2L](http://purl.obolibrary.org/obo/NCBITaxon_260586) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Heteractis crispa](http://purl.obolibrary.org/obo/NCBITaxon_175771) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Heteractis magnifica](http://purl.obolibrary.org/obo/NCBITaxon_38281) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clostridium botulinum D phage](http://purl.obolibrary.org/obo/NCBITaxon_29342) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Alkaliphilus](http://purl.obolibrary.org/obo/NCBITaxon_114627) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paraclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849822) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Streptococcus phage B30](http://purl.obolibrary.org/obo/NCBITaxon_209152) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcus](http://purl.obolibrary.org/obo/NCBITaxon_1257) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Filifactor](http://purl.obolibrary.org/obo/NCBITaxon_44259) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Listeria phage A500](http://purl.obolibrary.org/obo/NCBITaxon_40522) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Desulfotomaculaceae](http://purl.obolibrary.org/obo/NCBITaxon_2937910) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Enterobacteria phage VT1-Sakai](http://purl.obolibrary.org/obo/NCBITaxon_462299) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Eubacteriales](http://purl.obolibrary.org/obo/NCBITaxon_39779) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lactococcus phage r1t](http://purl.obolibrary.org/obo/NCBITaxon_43685) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Moorellales](http://purl.obolibrary.org/obo/NCBITaxon_3039167) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Caldicellulosiruptorales](http://purl.obolibrary.org/obo/NCBITaxon_3071001) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Serratia phage KSP100](http://purl.obolibrary.org/obo/NCBITaxon_552529) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Enterocloster](http://purl.obolibrary.org/obo/NCBITaxon_2719313) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_128735) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa californica](http://purl.obolibrary.org/obo/NCBITaxon_74641) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186807) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Diaphorobacter](http://purl.obolibrary.org/obo/NCBITaxon_238749) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Dorea](http://purl.obolibrary.org/obo/NCBITaxon_189330) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [16SrVI (Clover proliferation group)](http://purl.obolibrary.org/obo/NCBITaxon_85626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified phytoplasmas](http://purl.obolibrary.org/obo/NCBITaxon_85635) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bubalus carabanensis](http://purl.obolibrary.org/obo/NCBITaxon_346063) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bubalus bubalis](http://purl.obolibrary.org/obo/NCBITaxon_89462) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Enterobacteria phage phi21](http://purl.obolibrary.org/obo/NCBITaxon_10737) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_85635](http://purl.obolibrary.org/obo/NCBITaxon_85635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_85635](http://purl.obolibrary.org/obo/NCBITaxon_85635))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Verminephrobacter](http://purl.obolibrary.org/obo/NCBITaxon_364316) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachnospira](http://purl.obolibrary.org/obo/NCBITaxon_28050) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Serratia phage KSP100](http://purl.obolibrary.org/obo/NCBITaxon_552529) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eubacteriales incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_538999) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage rho15](http://purl.obolibrary.org/obo/NCBITaxon_36451) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerobutyricum](http://purl.obolibrary.org/obo/NCBITaxon_2569097) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_128735) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa carolina](http://purl.obolibrary.org/obo/NCBITaxon_74638) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Desulfitobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_2937909) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Synechococcus phage S-WHM1](http://purl.obolibrary.org/obo/NCBITaxon_65015) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Serratia sp. ATCC 39006](http://purl.obolibrary.org/obo/NCBITaxon_104623) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Serratia sp. FS14](http://purl.obolibrary.org/obo/NCBITaxon_1327989) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Enterobacteria phage phi80](http://purl.obolibrary.org/obo/NCBITaxon_10713) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachnoclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1506553) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Salmonella phage PMBT28](http://purl.obolibrary.org/obo/NCBITaxon_2081904) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Coprococcus](http://purl.obolibrary.org/obo/NCBITaxon_33042) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [16SrIX (Pigeon pea witches'-broom group)](http://purl.obolibrary.org/obo/NCBITaxon_85629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified phytoplasmas](http://purl.obolibrary.org/obo/NCBITaxon_85635) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186928) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Prevotella dentalis](http://purl.obolibrary.org/obo/NCBITaxon_52227) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Prevotella ruminicola](http://purl.obolibrary.org/obo/NCBITaxon_839) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Syntrophomonadaceae](http://purl.obolibrary.org/obo/NCBITaxon_68298) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thermoanaerobacteraceae](http://purl.obolibrary.org/obo/NCBITaxon_186814) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thermodesulfobiaceae](http://purl.obolibrary.org/obo/NCBITaxon_227387) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Caldicellulosiruptorales](http://purl.obolibrary.org/obo/NCBITaxon_3071001) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Natranaerobiales](http://purl.obolibrary.org/obo/NCBITaxon_485256) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Magnetospirillum fulvum](http://purl.obolibrary.org/obo/NCBITaxon_1082) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Magnetospirillum magnetotacticum](http://purl.obolibrary.org/obo/NCBITaxon_188) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Heliobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_31984) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Staphylococcus phage phiH5](http://purl.obolibrary.org/obo/NCBITaxon_538529) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Enterobacteria phage VT1-Sakai](http://purl.obolibrary.org/obo/NCBITaxon_462299) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Oribacterium](http://purl.obolibrary.org/obo/NCBITaxon_265975) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Shigella phage SfII](http://purl.obolibrary.org/obo/NCBITaxon_66284) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [environmental samples <firmicutes,family Lachnospiraceae>](http://purl.obolibrary.org/obo/NCBITaxon_189703) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Salmonella phage PMBT28](http://purl.obolibrary.org/obo/NCBITaxon_2081904) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcaceae incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_200630) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Filifactor](http://purl.obolibrary.org/obo/NCBITaxon_44259) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhizobium phage 16-3](http://purl.obolibrary.org/obo/NCBITaxon_10704) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Alkaliphilus](http://purl.obolibrary.org/obo/NCBITaxon_114627) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Candidatus Arthromitus](http://purl.obolibrary.org/obo/NCBITaxon_49082) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Prevotella bivia](http://purl.obolibrary.org/obo/NCBITaxon_28125) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Prevotella ruminicola](http://purl.obolibrary.org/obo/NCBITaxon_839) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thermincolaceae](http://purl.obolibrary.org/obo/NCBITaxon_2937911) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Listeria phage A500](http://purl.obolibrary.org/obo/NCBITaxon_40522) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186807) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhizobium phage 16-3](http://purl.obolibrary.org/obo/NCBITaxon_10704) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Tyzzerella](http://purl.obolibrary.org/obo/NCBITaxon_1506577) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Streptococcus pneumoniae phage HB-3](http://purl.obolibrary.org/obo/NCBITaxon_10728) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clostridium](http://purl.obolibrary.org/obo/NCBITaxon_1485) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paraclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849822) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [16SrX (Apple proliferation group)](http://purl.obolibrary.org/obo/NCBITaxon_85630) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified phytoplasmas](http://purl.obolibrary.org/obo/NCBITaxon_85635) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_586419](http://purl.obolibrary.org/obo/NCBITaxon_586419) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_586419](http://purl.obolibrary.org/obo/NCBITaxon_586419))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halorubrum](http://purl.obolibrary.org/obo/NCBITaxon_56688) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halogeometricum](http://purl.obolibrary.org/obo/NCBITaxon_60846) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Symbiobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_543349) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Enterobacteria phage SfV](http://purl.obolibrary.org/obo/NCBITaxon_55884) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paeniclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849828) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Filifactor](http://purl.obolibrary.org/obo/NCBITaxon_44259) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPP1](http://purl.obolibrary.org/obo/NCBITaxon_10724) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186807) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Streptococcus phage T12](http://purl.obolibrary.org/obo/NCBITaxon_35344) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paeniclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849828) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Acetoanaerobium](http://purl.obolibrary.org/obo/NCBITaxon_186831) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lactococcus phage TP901-1](http://purl.obolibrary.org/obo/NCBITaxon_35345) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rana <subgenus>](http://purl.obolibrary.org/obo/NCBITaxon_121175) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_128735) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa rugosa](http://purl.obolibrary.org/obo/NCBITaxon_74645) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eubacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_186806) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Phage PS34](http://purl.obolibrary.org/obo/NCBITaxon_83127) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Eubacteriales](http://purl.obolibrary.org/obo/NCBITaxon_39779) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ralstonia solanacearum](http://purl.obolibrary.org/obo/NCBITaxon_305) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ralstonia pickettii](http://purl.obolibrary.org/obo/NCBITaxon_329) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eubacteriales incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_538999) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_128735) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa stellata](http://purl.obolibrary.org/obo/NCBITaxon_74655) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paraclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849822) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lactococcus phage phi-vML3](http://purl.obolibrary.org/obo/NCBITaxon_10746) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Roseburia](http://purl.obolibrary.org/obo/NCBITaxon_841) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Enterobacteria phage SfV](http://purl.obolibrary.org/obo/NCBITaxon_55884) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bubalus carabanensis](http://purl.obolibrary.org/obo/NCBITaxon_346063) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bubalus quarlesi](http://purl.obolibrary.org/obo/NCBITaxon_56640) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Xenophilus](http://purl.obolibrary.org/obo/NCBITaxon_151754) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Koribacter](http://purl.obolibrary.org/obo/NCBITaxon_658061) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Granulicella](http://purl.obolibrary.org/obo/NCBITaxon_940557) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [16SrIII (X-disease group)](http://purl.obolibrary.org/obo/NCBITaxon_85623) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified phytoplasmas](http://purl.obolibrary.org/obo/NCBITaxon_85635) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Desulfallaceae](http://purl.obolibrary.org/obo/NCBITaxon_2867375) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Synechococcus phage S-RSM2](http://purl.obolibrary.org/obo/NCBITaxon_264653) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Desulfallaceae](http://purl.obolibrary.org/obo/NCBITaxon_2867375) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Streptococcus phage EJ-1](http://purl.obolibrary.org/obo/NCBITaxon_12402) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Intestinibacter](http://purl.obolibrary.org/obo/NCBITaxon_1505657) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Acetoanaerobium](http://purl.obolibrary.org/obo/NCBITaxon_186831) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Haemophilus phage S2](http://purl.obolibrary.org/obo/NCBITaxon_53000) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudobutyrivibrio](http://purl.obolibrary.org/obo/NCBITaxon_46205) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clostridium phage phi8074-B1](http://purl.obolibrary.org/obo/NCBITaxon_1147137) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Heliobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_31984) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Acinetobacter phage SH-Ab 15497](http://purl.obolibrary.org/obo/NCBITaxon_2060946) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Blautia](http://purl.obolibrary.org/obo/NCBITaxon_572511) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thermodesulfobiaceae](http://purl.obolibrary.org/obo/NCBITaxon_227387) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thermoanaerobacterales Family III. Incertae Sedis](http://purl.obolibrary.org/obo/NCBITaxon_543371) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thermosediminibacterales](http://purl.obolibrary.org/obo/NCBITaxon_2770089) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Caldicellulosiruptorales](http://purl.obolibrary.org/obo/NCBITaxon_3071001) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Enterobacteria phage phi80](http://purl.obolibrary.org/obo/NCBITaxon_10713) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Oscillospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_216572) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Enterobacteria phage P4](http://purl.obolibrary.org/obo/NCBITaxon_10680) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Syntrophomonadaceae](http://purl.obolibrary.org/obo/NCBITaxon_68298) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa acicularis](http://purl.obolibrary.org/obo/NCBITaxon_117260) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_128735) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Agathobacter](http://purl.obolibrary.org/obo/NCBITaxon_1766253) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [16SrII (Peanut WB group)](http://purl.obolibrary.org/obo/NCBITaxon_85621) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified phytoplasmas](http://purl.obolibrary.org/obo/NCBITaxon_85635) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Desulfotomaculaceae](http://purl.obolibrary.org/obo/NCBITaxon_2937910) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_128735) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa chinensis](http://purl.obolibrary.org/obo/NCBITaxon_74649) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Oscillospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_216572) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Magnetospirillum](http://purl.obolibrary.org/obo/NCBITaxon_13134) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Novispirillum](http://purl.obolibrary.org/obo/NCBITaxon_660514) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clostridiaceae](http://purl.obolibrary.org/obo/NCBITaxon_31979) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Listeria phage A118](http://purl.obolibrary.org/obo/NCBITaxon_40521) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eubacteriales incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_538999) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Streptococcus phage EJ-1](http://purl.obolibrary.org/obo/NCBITaxon_12402) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Heliobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_31984) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clostridium phage c-st](http://purl.obolibrary.org/obo/NCBITaxon_12336) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Symbiobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_543349) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage PBS2](http://purl.obolibrary.org/obo/NCBITaxon_10684) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clostridiaceae](http://purl.obolibrary.org/obo/NCBITaxon_31979) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pararhodospirillum](http://purl.obolibrary.org/obo/NCBITaxon_1612157) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Novispirillum](http://purl.obolibrary.org/obo/NCBITaxon_660514) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptoclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1481960) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcaceae incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_200630) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhodoferax](http://purl.obolibrary.org/obo/NCBITaxon_28065) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Symbiobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_543349) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Prevotella denticola](http://purl.obolibrary.org/obo/NCBITaxon_28129) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Prevotella ruminicola](http://purl.obolibrary.org/obo/NCBITaxon_839) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eubacteriales](http://purl.obolibrary.org/obo/NCBITaxon_186802) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Caldicellulosiruptorales](http://purl.obolibrary.org/obo/NCBITaxon_3071001) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lactococcus phage TP901-1](http://purl.obolibrary.org/obo/NCBITaxon_35345) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2646925](http://purl.obolibrary.org/obo/NCBITaxon_2646925) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_2646925](http://purl.obolibrary.org/obo/NCBITaxon_2646925))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage rho15](http://purl.obolibrary.org/obo/NCBITaxon_36451) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Desulfallaceae](http://purl.obolibrary.org/obo/NCBITaxon_2867375) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paracidovorax](http://purl.obolibrary.org/obo/NCBITaxon_3051137) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Eubacteriales](http://purl.obolibrary.org/obo/NCBITaxon_39779) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Acidovorax](http://purl.obolibrary.org/obo/NCBITaxon_12916) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Oscillospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_216572) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_128735) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa odorata](http://purl.obolibrary.org/obo/NCBITaxon_267246) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerostipes](http://purl.obolibrary.org/obo/NCBITaxon_207244) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lactobacillus phage LL-H](http://purl.obolibrary.org/obo/NCBITaxon_12348) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Intestinibacter](http://purl.obolibrary.org/obo/NCBITaxon_1505657) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Filifactor](http://purl.obolibrary.org/obo/NCBITaxon_44259) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clostridium phage c-st](http://purl.obolibrary.org/obo/NCBITaxon_12336) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pantherana](http://purl.obolibrary.org/obo/NCBITaxon_121178) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Magnetospirillum magnetotacticum](http://purl.obolibrary.org/obo/NCBITaxon_188) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Magnetospirillum gryphiswaldense](http://purl.obolibrary.org/obo/NCBITaxon_55518) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Butyrivibrio](http://purl.obolibrary.org/obo/NCBITaxon_830) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Enterobacteria phage phi21](http://purl.obolibrary.org/obo/NCBITaxon_10737) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcus](http://purl.obolibrary.org/obo/NCBITaxon_1257) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Acetoanaerobium](http://purl.obolibrary.org/obo/NCBITaxon_186831) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Streptococcus phage T12](http://purl.obolibrary.org/obo/NCBITaxon_35344) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Caldicellulosiruptorales](http://purl.obolibrary.org/obo/NCBITaxon_3071001) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halanaerobiales](http://purl.obolibrary.org/obo/NCBITaxon_53433) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Ralstonia](http://purl.obolibrary.org/obo/NCBITaxon_209769) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ralstonia solanacearum](http://purl.obolibrary.org/obo/NCBITaxon_305) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clostridiaceae](http://purl.obolibrary.org/obo/NCBITaxon_31979) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Magnetospirillum gryphiswaldense](http://purl.obolibrary.org/obo/NCBITaxon_55518) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Magnetospirillum magneticum](http://purl.obolibrary.org/obo/NCBITaxon_84159) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Caldicellulosiruptorales](http://purl.obolibrary.org/obo/NCBITaxon_3071001) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thermoanaerobacterales](http://purl.obolibrary.org/obo/NCBITaxon_68295) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Prevotella](http://purl.obolibrary.org/obo/NCBITaxon_2638335) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Prevotella ruminicola](http://purl.obolibrary.org/obo/NCBITaxon_839) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Desulfitobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_2937909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clavibacter michiganensis subsp. sepedonicus](http://purl.obolibrary.org/obo/NCBITaxon_31964) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clavibacter michiganensis subsp. michiganensis](http://purl.obolibrary.org/obo/NCBITaxon_33013) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Desulfotomaculaceae](http://purl.obolibrary.org/obo/NCBITaxon_2937910) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [16SrI (Aster yellows group)](http://purl.obolibrary.org/obo/NCBITaxon_3042590) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified phytoplasmas](http://purl.obolibrary.org/obo/NCBITaxon_85635) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thermincolaceae](http://purl.obolibrary.org/obo/NCBITaxon_2937911) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Rana](http://purl.obolibrary.org/obo/NCBITaxon_121276) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [16SrXII (Stolbur group)](http://purl.obolibrary.org/obo/NCBITaxon_85632) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified phytoplasmas](http://purl.obolibrary.org/obo/NCBITaxon_85635) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_335058](http://purl.obolibrary.org/obo/NCBITaxon_335058) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_335058](http://purl.obolibrary.org/obo/NCBITaxon_335058))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thermodesulfobiaceae](http://purl.obolibrary.org/obo/NCBITaxon_227387) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thermoanaerobacterales Family IV. Incertae Sedis](http://purl.obolibrary.org/obo/NCBITaxon_543372) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eubacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_186806) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Geminicoccaceae](http://purl.obolibrary.org/obo/NCBITaxon_2066434) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhodospirillaceae](http://purl.obolibrary.org/obo/NCBITaxon_41295) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Acetoanaerobium](http://purl.obolibrary.org/obo/NCBITaxon_186831) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcaceae incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_200630) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Synechococcus phage S-RSM2](http://purl.obolibrary.org/obo/NCBITaxon_264653) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thermincolaceae](http://purl.obolibrary.org/obo/NCBITaxon_2937911) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ralstonia pseudosolanacearum](http://purl.obolibrary.org/obo/NCBITaxon_1310165) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ralstonia pickettii](http://purl.obolibrary.org/obo/NCBITaxon_329) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptoclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1481960) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Intestinibacter](http://purl.obolibrary.org/obo/NCBITaxon_1505657) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [16SrV (Elm yellows group)](http://purl.obolibrary.org/obo/NCBITaxon_85625) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified phytoplasmas](http://purl.obolibrary.org/obo/NCBITaxon_85635) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paraclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849822) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Candidatus Arthromitus](http://purl.obolibrary.org/obo/NCBITaxon_49082) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_128735) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa foetida](http://purl.obolibrary.org/obo/NCBITaxon_74629) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Alkaliphilus](http://purl.obolibrary.org/obo/NCBITaxon_114627) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Terriglobus](http://purl.obolibrary.org/obo/NCBITaxon_392733) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Koribacter](http://purl.obolibrary.org/obo/NCBITaxon_658061) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SF6](http://purl.obolibrary.org/obo/NCBITaxon_10773) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hathewaya](http://purl.obolibrary.org/obo/NCBITaxon_1769729) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paraclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849822) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [16SrVII (Ash yellows group)](http://purl.obolibrary.org/obo/NCBITaxon_85627) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified phytoplasmas](http://purl.obolibrary.org/obo/NCBITaxon_85635) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bubalus depressicornis](http://purl.obolibrary.org/obo/NCBITaxon_27596) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bubalus carabanensis](http://purl.obolibrary.org/obo/NCBITaxon_346063) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Haemophilus phage S2](http://purl.obolibrary.org/obo/NCBITaxon_53000) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clostridioides](http://purl.obolibrary.org/obo/NCBITaxon_1870884) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Filifactor](http://purl.obolibrary.org/obo/NCBITaxon_44259) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Shigella phage SfX](http://purl.obolibrary.org/obo/NCBITaxon_10874) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Alkaliphilus](http://purl.obolibrary.org/obo/NCBITaxon_114627) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hathewaya](http://purl.obolibrary.org/obo/NCBITaxon_1769729) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ralstonia pseudosolanacearum](http://purl.obolibrary.org/obo/NCBITaxon_1310165) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Ralstonia](http://purl.obolibrary.org/obo/NCBITaxon_209769) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Acidobacterium](http://purl.obolibrary.org/obo/NCBITaxon_33973) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Koribacter](http://purl.obolibrary.org/obo/NCBITaxon_658061) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Staphylococcus phage L54a](http://purl.obolibrary.org/obo/NCBITaxon_10727) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lactococcus phage phi-vML3](http://purl.obolibrary.org/obo/NCBITaxon_10746) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_128735) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa canina](http://purl.obolibrary.org/obo/NCBITaxon_74635) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Phage PS119](http://purl.obolibrary.org/obo/NCBITaxon_83128) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Staphylococcus phage phiH5](http://purl.obolibrary.org/obo/NCBITaxon_538529) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gerbera jamesonii](http://purl.obolibrary.org/obo/NCBITaxon_13547) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gerbera hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_18101) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Comamonadaceae](http://purl.obolibrary.org/obo/NCBITaxon_83494) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Alicycliphilus](http://purl.obolibrary.org/obo/NCBITaxon_201096) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cucurbita hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_170850) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cucurbita maxima](http://purl.obolibrary.org/obo/NCBITaxon_3661) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Desulfovibrio desulfuricans](http://purl.obolibrary.org/obo/NCBITaxon_876) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Desulfovibrio vulgaris](http://purl.obolibrary.org/obo/NCBITaxon_881) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cucurbita hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_170850) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cucurbita pepo](http://purl.obolibrary.org/obo/NCBITaxon_3663) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cyanophage S-2L](http://purl.obolibrary.org/obo/NCBITaxon_260586) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Prevotella ruminicola](http://purl.obolibrary.org/obo/NCBITaxon_839) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [environmental samples <CFB group bacteria,genus Prevotella>](http://purl.obolibrary.org/obo/NCBITaxon_84374) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Streptococcus phage Dp-1](http://purl.obolibrary.org/obo/NCBITaxon_59241) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Desulfovibrio](http://purl.obolibrary.org/obo/NCBITaxon_2593640) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Desulfovibrio vulgaris](http://purl.obolibrary.org/obo/NCBITaxon_881) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SF6](http://purl.obolibrary.org/obo/NCBITaxon_10773) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Polaromonas](http://purl.obolibrary.org/obo/NCBITaxon_52972) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vibrio phage CP-T1](http://purl.obolibrary.org/obo/NCBITaxon_10689) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Geminicoccaceae](http://purl.obolibrary.org/obo/NCBITaxon_2066434) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Acetobacteraceae](http://purl.obolibrary.org/obo/NCBITaxon_433) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Streptococcus pneumoniae phage HB-3](http://purl.obolibrary.org/obo/NCBITaxon_10728) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Comamonas](http://purl.obolibrary.org/obo/NCBITaxon_283) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Prevotella intermedia](http://purl.obolibrary.org/obo/NCBITaxon_28131) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Prevotella ruminicola](http://purl.obolibrary.org/obo/NCBITaxon_839) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Endolissoclinum](http://purl.obolibrary.org/obo/NCBITaxon_1263978) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Novispirillum](http://purl.obolibrary.org/obo/NCBITaxon_660514) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vibrio phage CP-T1](http://purl.obolibrary.org/obo/NCBITaxon_10689) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhodothermus phage RM378](http://purl.obolibrary.org/obo/NCBITaxon_148943) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clostridium botulinum D phage](http://purl.obolibrary.org/obo/NCBITaxon_29342) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage PBS2](http://purl.obolibrary.org/obo/NCBITaxon_10684) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hydrogenophaga](http://purl.obolibrary.org/obo/NCBITaxon_47420) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Synechococcus phage S-WHM1](http://purl.obolibrary.org/obo/NCBITaxon_65015) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Geminicoccaceae](http://purl.obolibrary.org/obo/NCBITaxon_2066434) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thalassospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_2844866) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_128735) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa x damascena](http://purl.obolibrary.org/obo/NCBITaxon_3765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Acinetobacter phage SH-Ab 15497](http://purl.obolibrary.org/obo/NCBITaxon_2060946) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhodospirillum](http://purl.obolibrary.org/obo/NCBITaxon_1081) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Novispirillum](http://purl.obolibrary.org/obo/NCBITaxon_660514) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Symbiobacter](http://purl.obolibrary.org/obo/NCBITaxon_1436289) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Phage PS34](http://purl.obolibrary.org/obo/NCBITaxon_83127) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ramlibacter](http://purl.obolibrary.org/obo/NCBITaxon_174951) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Streptococcus phage B30](http://purl.obolibrary.org/obo/NCBITaxon_209152) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPP1](http://purl.obolibrary.org/obo/NCBITaxon_10724) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Magnetospirillum fulvum](http://purl.obolibrary.org/obo/NCBITaxon_1082) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Magnetospirillum magneticum](http://purl.obolibrary.org/obo/NCBITaxon_84159) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Magnetospirillum molischianum](http://purl.obolibrary.org/obo/NCBITaxon_1083) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Magnetospirillum magnetotacticum](http://purl.obolibrary.org/obo/NCBITaxon_188) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Listeria phage A118](http://purl.obolibrary.org/obo/NCBITaxon_40521) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Desulfovibrio multispirans](http://purl.obolibrary.org/obo/NCBITaxon_32018) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Desulfovibrio vulgaris](http://purl.obolibrary.org/obo/NCBITaxon_881) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cucurbita hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_170850) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cucurbita moschata](http://purl.obolibrary.org/obo/NCBITaxon_3662) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Herbinix](http://purl.obolibrary.org/obo/NCBITaxon_1663717) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) 
 
 #### Added
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [delta/epsilon subdivisions](http://purl.obolibrary.org/obo/NCBITaxon_68525) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Coprothermobacterota](http://purl.obolibrary.org/obo/NCBITaxon_2138240) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ravinvirus](http://purl.obolibrary.org/obo/NCBITaxon_308911) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hylarana](http://purl.obolibrary.org/obo/NCBITaxon_1008893) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002444](http://purl.obolibrary.org/obo/NCBITaxon_3002444) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3002444](http://purl.obolibrary.org/obo/NCBITaxon_3002444))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [PVC group](http://purl.obolibrary.org/obo/NCBITaxon_1783257) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Haloferacaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644056) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_1963271](http://purl.obolibrary.org/obo/NCBITaxon_1963271) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3122430](http://purl.obolibrary.org/obo/NCBITaxon_3122430) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3122430](http://purl.obolibrary.org/obo/NCBITaxon_3122430))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Uetakevirus](http://purl.obolibrary.org/obo/NCBITaxon_542960) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_262928](http://purl.obolibrary.org/obo/NCBITaxon_262928) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_262928](http://purl.obolibrary.org/obo/NCBITaxon_262928))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Elusimicrobiota](http://purl.obolibrary.org/obo/NCBITaxon_74152) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2840488](http://purl.obolibrary.org/obo/NCBITaxon_2840488) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Erysipelotrichia](http://purl.obolibrary.org/obo/NCBITaxon_526524) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Salasmaviridae](http://purl.obolibrary.org/obo/NCBITaxon_2842328) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Borrelia hermsii](http://purl.obolibrary.org/obo/NCBITaxon_140) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_47466](http://purl.obolibrary.org/obo/NCBITaxon_47466) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3098986](http://purl.obolibrary.org/obo/NCBITaxon_3098986) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [16SrVII (Ash yellows group)](http://purl.obolibrary.org/obo/NCBITaxon_85627) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Caldisericota/Cryosericota group](http://purl.obolibrary.org/obo/NCBITaxon_2498710) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ceeclamvirinae](http://purl.obolibrary.org/obo/NCBITaxon_2946628) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Elusimicrobiota](http://purl.obolibrary.org/obo/NCBITaxon_74152) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Omegavirus](http://purl.obolibrary.org/obo/NCBITaxon_1623292) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Intestinibacter](http://purl.obolibrary.org/obo/NCBITaxon_1505657) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paraclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849822) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pteropus pselaphon](http://purl.obolibrary.org/obo/NCBITaxon_1496133) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Dickeya](http://purl.obolibrary.org/obo/NCBITaxon_204037) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3059405](http://purl.obolibrary.org/obo/NCBITaxon_3059405) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bronfenbrennervirinae](http://purl.obolibrary.org/obo/NCBITaxon_2842523) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Geminicoccales](http://purl.obolibrary.org/obo/NCBITaxon_3108222) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa californica](http://purl.obolibrary.org/obo/NCBITaxon_74641) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhodospirillales](http://purl.obolibrary.org/obo/NCBITaxon_204441) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Spirochaetota](http://purl.obolibrary.org/obo/NCBITaxon_203691) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_1289469](http://purl.obolibrary.org/obo/NCBITaxon_1289469) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_1289469](http://purl.obolibrary.org/obo/NCBITaxon_1289469))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Omegavirus](http://purl.obolibrary.org/obo/NCBITaxon_1623292) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3119969](http://purl.obolibrary.org/obo/NCBITaxon_3119969) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bubalus quarlesi](http://purl.obolibrary.org/obo/NCBITaxon_56640) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Synergistota](http://purl.obolibrary.org/obo/NCBITaxon_508458) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3118655](http://purl.obolibrary.org/obo/NCBITaxon_3118655) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3118655](http://purl.obolibrary.org/obo/NCBITaxon_3118655))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pteropus hypomelanus](http://purl.obolibrary.org/obo/NCBITaxon_9405) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thermosediminibacterales](http://purl.obolibrary.org/obo/NCBITaxon_2770089) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3085636](http://purl.obolibrary.org/obo/NCBITaxon_3085636) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Enhodamvirus](http://purl.obolibrary.org/obo/NCBITaxon_1922329) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3119969](http://purl.obolibrary.org/obo/NCBITaxon_3119969) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bubalus bubalis](http://purl.obolibrary.org/obo/NCBITaxon_89462) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Piscinibacter](http://purl.obolibrary.org/obo/NCBITaxon_1114981) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_93681](http://purl.obolibrary.org/obo/NCBITaxon_93681) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paraclostridium bifermentans](http://purl.obolibrary.org/obo/NCBITaxon_1490) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paeniclostridium sordellii](http://purl.obolibrary.org/obo/NCBITaxon_1505) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Fusobacteriota](http://purl.obolibrary.org/obo/NCBITaxon_32066) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3082720](http://purl.obolibrary.org/obo/NCBITaxon_3082720) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halanaerobiales](http://purl.obolibrary.org/obo/NCBITaxon_53433) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Caulobacterales](http://purl.obolibrary.org/obo/NCBITaxon_204458) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_56268](http://purl.obolibrary.org/obo/NCBITaxon_56268) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_56268](http://purl.obolibrary.org/obo/NCBITaxon_56268))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Sanguirana](http://purl.obolibrary.org/obo/NCBITaxon_1208497) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Calditrichota](http://purl.obolibrary.org/obo/NCBITaxon_1930617) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3082720](http://purl.obolibrary.org/obo/NCBITaxon_3082720) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thermoanaerobacterales](http://purl.obolibrary.org/obo/NCBITaxon_68295) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_9861](http://purl.obolibrary.org/obo/NCBITaxon_9861) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cervus canadensis nelsoni](http://purl.obolibrary.org/obo/NCBITaxon_9864) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3120161](http://purl.obolibrary.org/obo/NCBITaxon_3120161) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3120161](http://purl.obolibrary.org/obo/NCBITaxon_3120161))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Azeredovirinae](http://purl.obolibrary.org/obo/NCBITaxon_2842522) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2840488](http://purl.obolibrary.org/obo/NCBITaxon_2840488) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Bacillota](http://purl.obolibrary.org/obo/NCBITaxon_84086) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lomovskayavirus](http://purl.obolibrary.org/obo/NCBITaxon_308912) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Borrelia recurrentis](http://purl.obolibrary.org/obo/NCBITaxon_44449) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_47466](http://purl.obolibrary.org/obo/NCBITaxon_47466) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pteropus dasymallus](http://purl.obolibrary.org/obo/NCBITaxon_126282) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eubacteriales](http://purl.obolibrary.org/obo/NCBITaxon_186802) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3082720](http://purl.obolibrary.org/obo/NCBITaxon_3082720) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pteropus rufus](http://purl.obolibrary.org/obo/NCBITaxon_196297) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3059405](http://purl.obolibrary.org/obo/NCBITaxon_3059405) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Brenneria](http://purl.obolibrary.org/obo/NCBITaxon_71655) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3060307](http://purl.obolibrary.org/obo/NCBITaxon_3060307) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3060307](http://purl.obolibrary.org/obo/NCBITaxon_3060307))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Holosporales](http://purl.obolibrary.org/obo/NCBITaxon_1921002) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa carolina](http://purl.obolibrary.org/obo/NCBITaxon_74638) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lithobates](http://purl.obolibrary.org/obo/NCBITaxon_192752) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Spizizenvirus](http://purl.obolibrary.org/obo/NCBITaxon_2843460) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thermosediminibacterales](http://purl.obolibrary.org/obo/NCBITaxon_2770089) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3082720](http://purl.obolibrary.org/obo/NCBITaxon_3082720) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_12929](http://purl.obolibrary.org/obo/NCBITaxon_12929) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Platycercus](http://purl.obolibrary.org/obo/NCBITaxon_35541) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3122428](http://purl.obolibrary.org/obo/NCBITaxon_3122428) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3122428](http://purl.obolibrary.org/obo/NCBITaxon_3122428))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2649300](http://purl.obolibrary.org/obo/NCBITaxon_2649300) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_2649300](http://purl.obolibrary.org/obo/NCBITaxon_2649300))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_1283208](http://purl.obolibrary.org/obo/NCBITaxon_1283208) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Tombusviridae](http://purl.obolibrary.org/obo/NCBITaxon_39738) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Danionidae](http://purl.obolibrary.org/obo/NCBITaxon_2743709) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2743744](http://purl.obolibrary.org/obo/NCBITaxon_2743744) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paraclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849822) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcaceae incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_200630) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Autographiviridae](http://purl.obolibrary.org/obo/NCBITaxon_2731643) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_1283209](http://purl.obolibrary.org/obo/NCBITaxon_1283209) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_1283209](http://purl.obolibrary.org/obo/NCBITaxon_1283209))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3031145](http://purl.obolibrary.org/obo/NCBITaxon_3031145) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Acetobacteraceae](http://purl.obolibrary.org/obo/NCBITaxon_433) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Spirochaetota](http://purl.obolibrary.org/obo/NCBITaxon_203691) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Detrevirus](http://purl.obolibrary.org/obo/NCBITaxon_1623287) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3120162](http://purl.obolibrary.org/obo/NCBITaxon_3120162) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bruynoghevirus](http://purl.obolibrary.org/obo/NCBITaxon_545932) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3118652](http://purl.obolibrary.org/obo/NCBITaxon_3118652) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3099318](http://purl.obolibrary.org/obo/NCBITaxon_3099318) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3099318](http://purl.obolibrary.org/obo/NCBITaxon_3099318))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3082720](http://purl.obolibrary.org/obo/NCBITaxon_3082720) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Natranaerobiales](http://purl.obolibrary.org/obo/NCBITaxon_485256) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2620334](http://purl.obolibrary.org/obo/NCBITaxon_2620334) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_2620334](http://purl.obolibrary.org/obo/NCBITaxon_2620334))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Acidobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_204434) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3121618](http://purl.obolibrary.org/obo/NCBITaxon_3121618) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa canina](http://purl.obolibrary.org/obo/NCBITaxon_74635) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3118656](http://purl.obolibrary.org/obo/NCBITaxon_3118656) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3118656](http://purl.obolibrary.org/obo/NCBITaxon_3118656))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pteropus speciosus](http://purl.obolibrary.org/obo/NCBITaxon_161599) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3118652](http://purl.obolibrary.org/obo/NCBITaxon_3118652) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Leptothrix <b-proteobacteria>](http://purl.obolibrary.org/obo/NCBITaxon_88) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_93681](http://purl.obolibrary.org/obo/NCBITaxon_93681) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Calditrichota](http://purl.obolibrary.org/obo/NCBITaxon_1930617) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thermodesulfobacteriota](http://purl.obolibrary.org/obo/NCBITaxon_200940) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rana <genus>](http://purl.obolibrary.org/obo/NCBITaxon_8399) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_93681](http://purl.obolibrary.org/obo/NCBITaxon_93681) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_93681](http://purl.obolibrary.org/obo/NCBITaxon_93681))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_1283208](http://purl.obolibrary.org/obo/NCBITaxon_1283208) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_1283208](http://purl.obolibrary.org/obo/NCBITaxon_1283208))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_244585](http://purl.obolibrary.org/obo/NCBITaxon_244585) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Urocyon cinereoargenteus](http://purl.obolibrary.org/obo/NCBITaxon_55040) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3119969](http://purl.obolibrary.org/obo/NCBITaxon_3119969) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bubalus mindorensis](http://purl.obolibrary.org/obo/NCBITaxon_56639) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nankokuvirus](http://purl.obolibrary.org/obo/NCBITaxon_1925779) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Staphylococcus](http://purl.obolibrary.org/obo/NCBITaxon_1279) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076173](http://purl.obolibrary.org/obo/NCBITaxon_3076173) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Wbetavirus](http://purl.obolibrary.org/obo/NCBITaxon_1623308) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076173](http://purl.obolibrary.org/obo/NCBITaxon_3076173) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3076173](http://purl.obolibrary.org/obo/NCBITaxon_3076173))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thalassospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_2844866) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3036766](http://purl.obolibrary.org/obo/NCBITaxon_3036766) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Fusobacteriota](http://purl.obolibrary.org/obo/NCBITaxon_32066) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aliceevansviridae](http://purl.obolibrary.org/obo/NCBITaxon_3044455) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bdellovibrionota](http://purl.obolibrary.org/obo/NCBITaxon_3018035) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hoylesella](http://purl.obolibrary.org/obo/NCBITaxon_2974257) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_558436](http://purl.obolibrary.org/obo/NCBITaxon_558436) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Sylvirana](http://purl.obolibrary.org/obo/NCBITaxon_1659747) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_156757](http://purl.obolibrary.org/obo/NCBITaxon_156757) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_156757](http://purl.obolibrary.org/obo/NCBITaxon_156757))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hyphomonadales](http://purl.obolibrary.org/obo/NCBITaxon_2800060) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Abalone herpesvirus Victoria/AUS/2009](http://purl.obolibrary.org/obo/NCBITaxon_1241371) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Haliotid herpesvirus 1](http://purl.obolibrary.org/obo/NCBITaxon_1513231) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Magnetococcales](http://purl.obolibrary.org/obo/NCBITaxon_1191478) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_12929](http://purl.obolibrary.org/obo/NCBITaxon_12929) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nestor](http://purl.obolibrary.org/obo/NCBITaxon_176042) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [FCB group](http://purl.obolibrary.org/obo/NCBITaxon_1783270) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3098986](http://purl.obolibrary.org/obo/NCBITaxon_3098986) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3098986](http://purl.obolibrary.org/obo/NCBITaxon_3098986))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3118655](http://purl.obolibrary.org/obo/NCBITaxon_3118655) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3118656](http://purl.obolibrary.org/obo/NCBITaxon_3118656) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rubrivivax](http://purl.obolibrary.org/obo/NCBITaxon_28067) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_93681](http://purl.obolibrary.org/obo/NCBITaxon_93681) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thermotogota](http://purl.obolibrary.org/obo/NCBITaxon_200918) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [PVC group](http://purl.obolibrary.org/obo/NCBITaxon_1783257) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Amolops](http://purl.obolibrary.org/obo/NCBITaxon_109940) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Microwolfvirus](http://purl.obolibrary.org/obo/NCBITaxon_2942894) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hyphomicrobiales](http://purl.obolibrary.org/obo/NCBITaxon_356) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Oshimavirus](http://purl.obolibrary.org/obo/NCBITaxon_1623293) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Borrelia duttonii](http://purl.obolibrary.org/obo/NCBITaxon_40834) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_47466](http://purl.obolibrary.org/obo/NCBITaxon_47466) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Schmidvirus](http://purl.obolibrary.org/obo/NCBITaxon_1987146) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Moorellales](http://purl.obolibrary.org/obo/NCBITaxon_3039167) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3085636](http://purl.obolibrary.org/obo/NCBITaxon_3085636) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa foetida](http://purl.obolibrary.org/obo/NCBITaxon_74629) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3122428](http://purl.obolibrary.org/obo/NCBITaxon_3122428) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Stichodactyla](http://purl.obolibrary.org/obo/NCBITaxon_6122) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Chrysiogenota](http://purl.obolibrary.org/obo/NCBITaxon_200938) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Alphaproteobacteria incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_82117) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bruynoghevirus](http://purl.obolibrary.org/obo/NCBITaxon_545932) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Glandirana](http://purl.obolibrary.org/obo/NCBITaxon_167931) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pteropus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_143291) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3118655](http://purl.obolibrary.org/obo/NCBITaxon_3118655) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Sphingomonadales](http://purl.obolibrary.org/obo/NCBITaxon_204457) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3121618](http://purl.obolibrary.org/obo/NCBITaxon_3121618) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3121618](http://purl.obolibrary.org/obo/NCBITaxon_3121618))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rockefellervirus](http://purl.obolibrary.org/obo/NCBITaxon_2843445) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3082720](http://purl.obolibrary.org/obo/NCBITaxon_3082720) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3085636](http://purl.obolibrary.org/obo/NCBITaxon_3085636) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2608663](http://purl.obolibrary.org/obo/NCBITaxon_2608663) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_2608663](http://purl.obolibrary.org/obo/NCBITaxon_2608663))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Tissierellia](http://purl.obolibrary.org/obo/NCBITaxon_1737404) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2840488](http://purl.obolibrary.org/obo/NCBITaxon_2840488) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2608663](http://purl.obolibrary.org/obo/NCBITaxon_2608663) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cucurbita maxima](http://purl.obolibrary.org/obo/NCBITaxon_3661) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Fromanvirus](http://purl.obolibrary.org/obo/NCBITaxon_186764) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacteria incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_2323) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2649300](http://purl.obolibrary.org/obo/NCBITaxon_2649300) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Macropus fuliginosus](http://purl.obolibrary.org/obo/NCBITaxon_9316) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2840488](http://purl.obolibrary.org/obo/NCBITaxon_2840488) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [environmental samples <firmicutes,phylum Bacillota>](http://purl.obolibrary.org/obo/NCBITaxon_47928) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3098986](http://purl.obolibrary.org/obo/NCBITaxon_3098986) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [16SrIX (Pigeon pea witches'-broom group)](http://purl.obolibrary.org/obo/NCBITaxon_85629) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Musicola](http://purl.obolibrary.org/obo/NCBITaxon_2884243) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3059405](http://purl.obolibrary.org/obo/NCBITaxon_3059405) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2743744](http://purl.obolibrary.org/obo/NCBITaxon_2743744) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cyprinidae](http://purl.obolibrary.org/obo/NCBITaxon_7953) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Sphingomonadales](http://purl.obolibrary.org/obo/NCBITaxon_204457) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nitrospinae/Tectomicrobia group](http://purl.obolibrary.org/obo/NCBITaxon_1802340) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hydrophylax <frogs & toads>](http://purl.obolibrary.org/obo/NCBITaxon_1729444) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhodospirillales](http://purl.obolibrary.org/obo/NCBITaxon_204441) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clostridia](http://purl.obolibrary.org/obo/NCBITaxon_186801) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2840488](http://purl.obolibrary.org/obo/NCBITaxon_2840488) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3036766](http://purl.obolibrary.org/obo/NCBITaxon_3036766) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhodospirillaceae](http://purl.obolibrary.org/obo/NCBITaxon_41295) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3120748](http://purl.obolibrary.org/obo/NCBITaxon_3120748) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3120748](http://purl.obolibrary.org/obo/NCBITaxon_3120748))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Casadabanvirus](http://purl.obolibrary.org/obo/NCBITaxon_1623286) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3118652](http://purl.obolibrary.org/obo/NCBITaxon_3118652) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3118652](http://purl.obolibrary.org/obo/NCBITaxon_3118652))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ackermannviridae](http://purl.obolibrary.org/obo/NCBITaxon_2169529) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mammaliicoccus](http://purl.obolibrary.org/obo/NCBITaxon_2803850) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076173](http://purl.obolibrary.org/obo/NCBITaxon_3076173) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Phikzvirus](http://purl.obolibrary.org/obo/NCBITaxon_680115) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3118656](http://purl.obolibrary.org/obo/NCBITaxon_3118656) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3120162](http://purl.obolibrary.org/obo/NCBITaxon_3120162) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ceduovirus](http://purl.obolibrary.org/obo/NCBITaxon_186532) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonadota](http://purl.obolibrary.org/obo/NCBITaxon_1224) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_1963271](http://purl.obolibrary.org/obo/NCBITaxon_1963271) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_1963271](http://purl.obolibrary.org/obo/NCBITaxon_1963271))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nitrospirota](http://purl.obolibrary.org/obo/NCBITaxon_40117) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Spbetavirus](http://purl.obolibrary.org/obo/NCBITaxon_680116) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3120453](http://purl.obolibrary.org/obo/NCBITaxon_3120453) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3120453](http://purl.obolibrary.org/obo/NCBITaxon_3120453))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhodobacterales](http://purl.obolibrary.org/obo/NCBITaxon_204455) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rauchvirus](http://purl.obolibrary.org/obo/NCBITaxon_542959) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3118655](http://purl.obolibrary.org/obo/NCBITaxon_3118655) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3120162](http://purl.obolibrary.org/obo/NCBITaxon_3120162) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cupidesulfovibrio oxamicus](http://purl.obolibrary.org/obo/NCBITaxon_32016) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Desulfovibrio vulgaris](http://purl.obolibrary.org/obo/NCBITaxon_881) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3118679](http://purl.obolibrary.org/obo/NCBITaxon_3118679) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3118679](http://purl.obolibrary.org/obo/NCBITaxon_3118679))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3098986](http://purl.obolibrary.org/obo/NCBITaxon_3098986) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [16SrVI (Clover proliferation group)](http://purl.obolibrary.org/obo/NCBITaxon_85626) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Candidatus Pelagibacterales](http://purl.obolibrary.org/obo/NCBITaxon_54526) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mesyanzhinovviridae](http://purl.obolibrary.org/obo/NCBITaxon_2946162) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3120162](http://purl.obolibrary.org/obo/NCBITaxon_3120162) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3120162](http://purl.obolibrary.org/obo/NCBITaxon_3120162))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Bacteria](http://purl.obolibrary.org/obo/NCBITaxon_49928) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pectobacterium](http://purl.obolibrary.org/obo/NCBITaxon_122277) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3059405](http://purl.obolibrary.org/obo/NCBITaxon_3059405) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rauchvirus](http://purl.obolibrary.org/obo/NCBITaxon_542959) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eubacteriales](http://purl.obolibrary.org/obo/NCBITaxon_186802) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3085636](http://purl.obolibrary.org/obo/NCBITaxon_3085636) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pteropus pumilus](http://purl.obolibrary.org/obo/NCBITaxon_161598) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pulchrana](http://purl.obolibrary.org/obo/NCBITaxon_1659745) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Weeksellaceae](http://purl.obolibrary.org/obo/NCBITaxon_2762318) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3024551](http://purl.obolibrary.org/obo/NCBITaxon_3024551) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Chrysiogenota](http://purl.obolibrary.org/obo/NCBITaxon_200938) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hapunavirus](http://purl.obolibrary.org/obo/NCBITaxon_1198976) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2908167](http://purl.obolibrary.org/obo/NCBITaxon_2908167) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_2908167](http://purl.obolibrary.org/obo/NCBITaxon_2908167))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3031145](http://purl.obolibrary.org/obo/NCBITaxon_3031145) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhodospirillaceae](http://purl.obolibrary.org/obo/NCBITaxon_41295) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3118655](http://purl.obolibrary.org/obo/NCBITaxon_3118655) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3120161](http://purl.obolibrary.org/obo/NCBITaxon_3120161) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hyphomonadales](http://purl.obolibrary.org/obo/NCBITaxon_2800060) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Acidobacteriota](http://purl.obolibrary.org/obo/NCBITaxon_57723) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Caldisericota/Cryosericota group](http://purl.obolibrary.org/obo/NCBITaxon_2498710) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thermodesulfobacteriota](http://purl.obolibrary.org/obo/NCBITaxon_200940) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hyphomicrobiales](http://purl.obolibrary.org/obo/NCBITaxon_356) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3120161](http://purl.obolibrary.org/obo/NCBITaxon_3120161) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_558436](http://purl.obolibrary.org/obo/NCBITaxon_558436) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Prevotella](http://purl.obolibrary.org/obo/NCBITaxon_838) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2840488](http://purl.obolibrary.org/obo/NCBITaxon_2840488) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_2840488](http://purl.obolibrary.org/obo/NCBITaxon_2840488))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pteropus scapulatus](http://purl.obolibrary.org/obo/NCBITaxon_94117) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bubalus depressicornis](http://purl.obolibrary.org/obo/NCBITaxon_27596) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3119969](http://purl.obolibrary.org/obo/NCBITaxon_3119969) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hapunavirus](http://purl.obolibrary.org/obo/NCBITaxon_1198976) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3085636](http://purl.obolibrary.org/obo/NCBITaxon_3085636) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3085636](http://purl.obolibrary.org/obo/NCBITaxon_3085636))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Oshimavirus](http://purl.obolibrary.org/obo/NCBITaxon_1623293) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3122428](http://purl.obolibrary.org/obo/NCBITaxon_3122428) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Heteractis](http://purl.obolibrary.org/obo/NCBITaxon_38280) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3059405](http://purl.obolibrary.org/obo/NCBITaxon_3059405) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3059405](http://purl.obolibrary.org/obo/NCBITaxon_3059405))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Straboviridae](http://purl.obolibrary.org/obo/NCBITaxon_2946170) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3118656](http://purl.obolibrary.org/obo/NCBITaxon_3118656) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3120161](http://purl.obolibrary.org/obo/NCBITaxon_3120161) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hendrixvirinae](http://purl.obolibrary.org/obo/NCBITaxon_2842527) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3118656](http://purl.obolibrary.org/obo/NCBITaxon_3118656) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3024551](http://purl.obolibrary.org/obo/NCBITaxon_3024551) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Flavobacteriales incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_313602) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Odorrana](http://purl.obolibrary.org/obo/NCBITaxon_121155) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Sepvirinae](http://purl.obolibrary.org/obo/NCBITaxon_1981156) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Maricaulales](http://purl.obolibrary.org/obo/NCBITaxon_2800059) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peduoviridae](http://purl.obolibrary.org/obo/NCBITaxon_2946167) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_47466](http://purl.obolibrary.org/obo/NCBITaxon_47466) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_47466](http://purl.obolibrary.org/obo/NCBITaxon_47466))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gordonclarkvirinae](http://purl.obolibrary.org/obo/NCBITaxon_3044644) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paraclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849822) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paeniclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849828) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gobionidae](http://purl.obolibrary.org/obo/NCBITaxon_2743714) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2743744](http://purl.obolibrary.org/obo/NCBITaxon_2743744) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Borrelia parkeri](http://purl.obolibrary.org/obo/NCBITaxon_141) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_47466](http://purl.obolibrary.org/obo/NCBITaxon_47466) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pteropus vampyrus](http://purl.obolibrary.org/obo/NCBITaxon_132908) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Borrelia turicatae](http://purl.obolibrary.org/obo/NCBITaxon_142) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_47466](http://purl.obolibrary.org/obo/NCBITaxon_47466) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Segatella](http://purl.obolibrary.org/obo/NCBITaxon_2974251) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_558436](http://purl.obolibrary.org/obo/NCBITaxon_558436) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Dictyoglomota](http://purl.obolibrary.org/obo/NCBITaxon_68297) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bronfenbrennervirinae](http://purl.obolibrary.org/obo/NCBITaxon_2842523) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3120163](http://purl.obolibrary.org/obo/NCBITaxon_3120163) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3120163](http://purl.obolibrary.org/obo/NCBITaxon_3120163))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_12929](http://purl.obolibrary.org/obo/NCBITaxon_12929) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_12929](http://purl.obolibrary.org/obo/NCBITaxon_12929))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thermodesulfobiota](http://purl.obolibrary.org/obo/NCBITaxon_3002442) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa chinensis](http://purl.obolibrary.org/obo/NCBITaxon_74649) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lederbergvirus](http://purl.obolibrary.org/obo/NCBITaxon_186794) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3085636](http://purl.obolibrary.org/obo/NCBITaxon_3085636) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halanaerobiales](http://purl.obolibrary.org/obo/NCBITaxon_53433) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lomovskayavirus](http://purl.obolibrary.org/obo/NCBITaxon_308912) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [environmental samples <bacteria,superkingdom Bacteria>](http://purl.obolibrary.org/obo/NCBITaxon_48479) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Caudoviricetes](http://purl.obolibrary.org/obo/NCBITaxon_2788787) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pelophylax](http://purl.obolibrary.org/obo/NCBITaxon_121164) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3098986](http://purl.obolibrary.org/obo/NCBITaxon_3098986) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [16SrXII (Stolbur group)](http://purl.obolibrary.org/obo/NCBITaxon_85632) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3082720](http://purl.obolibrary.org/obo/NCBITaxon_3082720) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3082720](http://purl.obolibrary.org/obo/NCBITaxon_3082720))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mesyanzhinovviridae](http://purl.obolibrary.org/obo/NCBITaxon_2946162) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3120161](http://purl.obolibrary.org/obo/NCBITaxon_3120161) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3120162](http://purl.obolibrary.org/obo/NCBITaxon_3120162) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Casadabanvirus](http://purl.obolibrary.org/obo/NCBITaxon_1623286) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paraclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849822) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clostridioides](http://purl.obolibrary.org/obo/NCBITaxon_1870884) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_151761](http://purl.obolibrary.org/obo/NCBITaxon_151761) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_151761](http://purl.obolibrary.org/obo/NCBITaxon_151761))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Bacteria](http://purl.obolibrary.org/obo/NCBITaxon_49928) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002443](http://purl.obolibrary.org/obo/NCBITaxon_3002443) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3002443](http://purl.obolibrary.org/obo/NCBITaxon_3002443))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2840488](http://purl.obolibrary.org/obo/NCBITaxon_2840488) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacilli](http://purl.obolibrary.org/obo/NCBITaxon_91061) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_558436](http://purl.obolibrary.org/obo/NCBITaxon_558436) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paraprevotella](http://purl.obolibrary.org/obo/NCBITaxon_577309) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3119969](http://purl.obolibrary.org/obo/NCBITaxon_3119969) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3119969](http://purl.obolibrary.org/obo/NCBITaxon_3119969))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pbunavirus](http://purl.obolibrary.org/obo/NCBITaxon_1198980) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076173](http://purl.obolibrary.org/obo/NCBITaxon_3076173) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Macrococcus](http://purl.obolibrary.org/obo/NCBITaxon_69965) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Drexlerviridae](http://purl.obolibrary.org/obo/NCBITaxon_2731691) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nitrospinae/Tectomicrobia group](http://purl.obolibrary.org/obo/NCBITaxon_1802340) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vertoviridae](http://purl.obolibrary.org/obo/NCBITaxon_2946172) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhodothalassiales](http://purl.obolibrary.org/obo/NCBITaxon_1544799) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peduoviridae](http://purl.obolibrary.org/obo/NCBITaxon_2946167) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2840488](http://purl.obolibrary.org/obo/NCBITaxon_2840488) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Negativicutes](http://purl.obolibrary.org/obo/NCBITaxon_909932) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Phikzvirus](http://purl.obolibrary.org/obo/NCBITaxon_680115) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Peptostreptococcus](http://purl.obolibrary.org/obo/NCBITaxon_1257) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paraclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849822) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thermotogota](http://purl.obolibrary.org/obo/NCBITaxon_200918) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_213633](http://purl.obolibrary.org/obo/NCBITaxon_213633) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_213633](http://purl.obolibrary.org/obo/NCBITaxon_213633))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Methylibium](http://purl.obolibrary.org/obo/NCBITaxon_316612) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_93681](http://purl.obolibrary.org/obo/NCBITaxon_93681) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3119833](http://purl.obolibrary.org/obo/NCBITaxon_3119833) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3119833](http://purl.obolibrary.org/obo/NCBITaxon_3119833))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3098986](http://purl.obolibrary.org/obo/NCBITaxon_3098986) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [16SrVIII (Loofah witches'-broom group)](http://purl.obolibrary.org/obo/NCBITaxon_85628) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rugosa](http://purl.obolibrary.org/obo/NCBITaxon_1673081) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Drexlerviridae](http://purl.obolibrary.org/obo/NCBITaxon_2731691) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aquificota](http://purl.obolibrary.org/obo/NCBITaxon_200783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Schitoviridae](http://purl.obolibrary.org/obo/NCBITaxon_2842329) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nidirana](http://purl.obolibrary.org/obo/NCBITaxon_2054187) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3024551](http://purl.obolibrary.org/obo/NCBITaxon_3024551) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Blattabacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_39782) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rickettsiales](http://purl.obolibrary.org/obo/NCBITaxon_766) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Sendosyvirus](http://purl.obolibrary.org/obo/NCBITaxon_2843452) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3085636](http://purl.obolibrary.org/obo/NCBITaxon_3085636) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thermoanaerobacterales](http://purl.obolibrary.org/obo/NCBITaxon_68295) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Myxococcota](http://purl.obolibrary.org/obo/NCBITaxon_2818505) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Campylobacterota](http://purl.obolibrary.org/obo/NCBITaxon_29547) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_9322](http://purl.obolibrary.org/obo/NCBITaxon_9322) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_9322](http://purl.obolibrary.org/obo/NCBITaxon_9322))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Terrabacteria group](http://purl.obolibrary.org/obo/NCBITaxon_1783272) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Tanichthyidae](http://purl.obolibrary.org/obo/NCBITaxon_2743742) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2743744](http://purl.obolibrary.org/obo/NCBITaxon_2743744) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3085636](http://purl.obolibrary.org/obo/NCBITaxon_3085636) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Natranaerobiales](http://purl.obolibrary.org/obo/NCBITaxon_485256) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Azospirillaceae](http://purl.obolibrary.org/obo/NCBITaxon_2829815) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3036766](http://purl.obolibrary.org/obo/NCBITaxon_3036766) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Deferribacterota](http://purl.obolibrary.org/obo/NCBITaxon_200930) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa x damascena](http://purl.obolibrary.org/obo/NCBITaxon_3765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Moorellales](http://purl.obolibrary.org/obo/NCBITaxon_3039167) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3082720](http://purl.obolibrary.org/obo/NCBITaxon_3082720) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ounavirinae](http://purl.obolibrary.org/obo/NCBITaxon_1985285) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Myxococcota](http://purl.obolibrary.org/obo/NCBITaxon_2818505) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Corndogvirus](http://purl.obolibrary.org/obo/NCBITaxon_1623285) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Synergistota](http://purl.obolibrary.org/obo/NCBITaxon_508458) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_1963271](http://purl.obolibrary.org/obo/NCBITaxon_1963271) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Haloferacales](http://purl.obolibrary.org/obo/NCBITaxon_2678336) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [delta/epsilon subdivisions](http://purl.obolibrary.org/obo/NCBITaxon_68525) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gerbera jamesonii](http://purl.obolibrary.org/obo/NCBITaxon_13547) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2620334](http://purl.obolibrary.org/obo/NCBITaxon_2620334) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Parvularculales](http://purl.obolibrary.org/obo/NCBITaxon_255473) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Leuciscidae](http://purl.obolibrary.org/obo/NCBITaxon_2743726) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2743744](http://purl.obolibrary.org/obo/NCBITaxon_2743744) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pteropus alecto](http://purl.obolibrary.org/obo/NCBITaxon_9402) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_244585](http://purl.obolibrary.org/obo/NCBITaxon_244585) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_244585](http://purl.obolibrary.org/obo/NCBITaxon_244585))) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Punavirus](http://purl.obolibrary.org/obo/NCBITaxon_186789) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ackermannviridae](http://purl.obolibrary.org/obo/NCBITaxon_2169529) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Candidatus Pelagibacterales](http://purl.obolibrary.org/obo/NCBITaxon_54526) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aliceevansviridae](http://purl.obolibrary.org/obo/NCBITaxon_3044455) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3031145](http://purl.obolibrary.org/obo/NCBITaxon_3031145) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3031145](http://purl.obolibrary.org/obo/NCBITaxon_3031145))) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Azospirillaceae](http://purl.obolibrary.org/obo/NCBITaxon_2829815) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3031145](http://purl.obolibrary.org/obo/NCBITaxon_3031145) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Wbetavirus](http://purl.obolibrary.org/obo/NCBITaxon_1623308) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2743744](http://purl.obolibrary.org/obo/NCBITaxon_2743744) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_2743744](http://purl.obolibrary.org/obo/NCBITaxon_2743744))) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rockefellervirus](http://purl.obolibrary.org/obo/NCBITaxon_2843445) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Spizizenvirus](http://purl.obolibrary.org/obo/NCBITaxon_2843460) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Herelleviridae](http://purl.obolibrary.org/obo/NCBITaxon_2560065) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Schmidvirus](http://purl.obolibrary.org/obo/NCBITaxon_1987146) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Salasmaviridae](http://purl.obolibrary.org/obo/NCBITaxon_2842328) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kochitakasuvirus](http://purl.obolibrary.org/obo/NCBITaxon_1982590) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ravinvirus](http://purl.obolibrary.org/obo/NCBITaxon_308911) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Autographiviridae](http://purl.obolibrary.org/obo/NCBITaxon_2731643) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2608663](http://purl.obolibrary.org/obo/NCBITaxon_2608663) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cucurbita moschata](http://purl.obolibrary.org/obo/NCBITaxon_3662) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Magnetococcales](http://purl.obolibrary.org/obo/NCBITaxon_1191478) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kochitakasuvirus](http://purl.obolibrary.org/obo/NCBITaxon_1982590) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Demerecviridae](http://purl.obolibrary.org/obo/NCBITaxon_2731690) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lederbergvirus](http://purl.obolibrary.org/obo/NCBITaxon_186794) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lubbockvirus](http://purl.obolibrary.org/obo/NCBITaxon_1912144) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3024551](http://purl.obolibrary.org/obo/NCBITaxon_3024551) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Flavobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_49546) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kyanoviridae](http://purl.obolibrary.org/obo/NCBITaxon_2946160) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Schitoviridae](http://purl.obolibrary.org/obo/NCBITaxon_2842329) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Campylobacterota](http://purl.obolibrary.org/obo/NCBITaxon_29547) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cervus canadensis roosevelti](http://purl.obolibrary.org/obo/NCBITaxon_65383) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_9861](http://purl.obolibrary.org/obo/NCBITaxon_9861) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cryomorphaceae](http://purl.obolibrary.org/obo/NCBITaxon_246874) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3024551](http://purl.obolibrary.org/obo/NCBITaxon_3024551) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa rugosa](http://purl.obolibrary.org/obo/NCBITaxon_74645) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3115558](http://purl.obolibrary.org/obo/NCBITaxon_3115558) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3115558](http://purl.obolibrary.org/obo/NCBITaxon_3115558))) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Caudoviricetes](http://purl.obolibrary.org/obo/NCBITaxon_2788787) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lambdavirus](http://purl.obolibrary.org/obo/NCBITaxon_186765) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Spbetavirus](http://purl.obolibrary.org/obo/NCBITaxon_680116) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2602359](http://purl.obolibrary.org/obo/NCBITaxon_2602359) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_2602359](http://purl.obolibrary.org/obo/NCBITaxon_2602359))) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Acheilognathidae](http://purl.obolibrary.org/obo/NCBITaxon_2509195) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2743744](http://purl.obolibrary.org/obo/NCBITaxon_2743744) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rickettsiales](http://purl.obolibrary.org/obo/NCBITaxon_766) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Terrabacteria group](http://purl.obolibrary.org/obo/NCBITaxon_1783272) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Maricaulales](http://purl.obolibrary.org/obo/NCBITaxon_2800059) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Demerecviridae](http://purl.obolibrary.org/obo/NCBITaxon_2731690) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2649300](http://purl.obolibrary.org/obo/NCBITaxon_2649300) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Macropus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_9317) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rountreeviridae](http://purl.obolibrary.org/obo/NCBITaxon_2842327) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2684971](http://purl.obolibrary.org/obo/NCBITaxon_2684971) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_2684971](http://purl.obolibrary.org/obo/NCBITaxon_2684971))) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pbunavirus](http://purl.obolibrary.org/obo/NCBITaxon_1198980) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442))) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3098986](http://purl.obolibrary.org/obo/NCBITaxon_3098986) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [16SrIII (X-disease group)](http://purl.obolibrary.org/obo/NCBITaxon_85623) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_156757](http://purl.obolibrary.org/obo/NCBITaxon_156757) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Buteo buteo](http://purl.obolibrary.org/obo/NCBITaxon_30397) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Fromanvirus](http://purl.obolibrary.org/obo/NCBITaxon_186764) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cyanoramphus](http://purl.obolibrary.org/obo/NCBITaxon_114431) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_12929](http://purl.obolibrary.org/obo/NCBITaxon_12929) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3031145](http://purl.obolibrary.org/obo/NCBITaxon_3031145) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3036766](http://purl.obolibrary.org/obo/NCBITaxon_3036766) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3116862](http://purl.obolibrary.org/obo/NCBITaxon_3116862) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ralstonia pickettii](http://purl.obolibrary.org/obo/NCBITaxon_329) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Muvirus](http://purl.obolibrary.org/obo/NCBITaxon_186777) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Deferribacterota](http://purl.obolibrary.org/obo/NCBITaxon_200930) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3036766](http://purl.obolibrary.org/obo/NCBITaxon_3036766) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3036766](http://purl.obolibrary.org/obo/NCBITaxon_3036766))) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_27716](http://purl.obolibrary.org/obo/NCBITaxon_27716) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_27716](http://purl.obolibrary.org/obo/NCBITaxon_27716))) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Schleiferiaceae](http://purl.obolibrary.org/obo/NCBITaxon_1333713) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3024551](http://purl.obolibrary.org/obo/NCBITaxon_3024551) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Corndogvirus](http://purl.obolibrary.org/obo/NCBITaxon_1623285) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thalassospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_2844866) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3031145](http://purl.obolibrary.org/obo/NCBITaxon_3031145) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kyanoviridae](http://purl.obolibrary.org/obo/NCBITaxon_2946160) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Ralstonia](http://purl.obolibrary.org/obo/NCBITaxon_209769) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3116862](http://purl.obolibrary.org/obo/NCBITaxon_3116862) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa stellata](http://purl.obolibrary.org/obo/NCBITaxon_74655) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Parvularculales](http://purl.obolibrary.org/obo/NCBITaxon_255473) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_9861](http://purl.obolibrary.org/obo/NCBITaxon_9861) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_9861](http://purl.obolibrary.org/obo/NCBITaxon_9861))) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Weiservirinae](http://purl.obolibrary.org/obo/NCBITaxon_2946648) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2743744](http://purl.obolibrary.org/obo/NCBITaxon_2743744) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Xenocyprididae](http://purl.obolibrary.org/obo/NCBITaxon_2743745) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bubo scandiacus](http://purl.obolibrary.org/obo/NCBITaxon_371907) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_56268](http://purl.obolibrary.org/obo/NCBITaxon_56268) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhodothalassiales](http://purl.obolibrary.org/obo/NCBITaxon_1544799) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vertoviridae](http://purl.obolibrary.org/obo/NCBITaxon_2946172) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ounavirinae](http://purl.obolibrary.org/obo/NCBITaxon_1985285) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lambdavirus](http://purl.obolibrary.org/obo/NCBITaxon_186765) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa odorata](http://purl.obolibrary.org/obo/NCBITaxon_267246) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3036766](http://purl.obolibrary.org/obo/NCBITaxon_3036766) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Acetobacteraceae](http://purl.obolibrary.org/obo/NCBITaxon_433) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ideonella](http://purl.obolibrary.org/obo/NCBITaxon_36862) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_93681](http://purl.obolibrary.org/obo/NCBITaxon_93681) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Muvirus](http://purl.obolibrary.org/obo/NCBITaxon_186777) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_12929](http://purl.obolibrary.org/obo/NCBITaxon_12929) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ara](http://purl.obolibrary.org/obo/NCBITaxon_9225) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nitrospirota](http://purl.obolibrary.org/obo/NCBITaxon_40117) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3060698](http://purl.obolibrary.org/obo/NCBITaxon_3060698) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3060698](http://purl.obolibrary.org/obo/NCBITaxon_3060698))) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [environmental samples <bacteria,superkingdom Bacteria>](http://purl.obolibrary.org/obo/NCBITaxon_48479) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Acidobacteriota](http://purl.obolibrary.org/obo/NCBITaxon_57723) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821))) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bcepmuvirus](http://purl.obolibrary.org/obo/NCBITaxon_1198139) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3024551](http://purl.obolibrary.org/obo/NCBITaxon_3024551) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3024551](http://purl.obolibrary.org/obo/NCBITaxon_3024551))) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Sendosyvirus](http://purl.obolibrary.org/obo/NCBITaxon_2843452) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa acicularis](http://purl.obolibrary.org/obo/NCBITaxon_117260) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3098986](http://purl.obolibrary.org/obo/NCBITaxon_3098986) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [16SrV (Elm yellows group)](http://purl.obolibrary.org/obo/NCBITaxon_85625) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ceeclamvirinae](http://purl.obolibrary.org/obo/NCBITaxon_2946628) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clavibacter michiganensis](http://purl.obolibrary.org/obo/NCBITaxon_28447) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clavibacter michiganensis subsp. sepedonicus](http://purl.obolibrary.org/obo/NCBITaxon_31964) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudomonadota](http://purl.obolibrary.org/obo/NCBITaxon_1224) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Skunavirus](http://purl.obolibrary.org/obo/NCBITaxon_1623305) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Holosporales](http://purl.obolibrary.org/obo/NCBITaxon_1921002) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Uetakevirus](http://purl.obolibrary.org/obo/NCBITaxon_542960) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crocinitomicaceae](http://purl.obolibrary.org/obo/NCBITaxon_1853230) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3024551](http://purl.obolibrary.org/obo/NCBITaxon_3024551) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Herelleviridae](http://purl.obolibrary.org/obo/NCBITaxon_2560065) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pteropus poliocephalus](http://purl.obolibrary.org/obo/NCBITaxon_9403) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3098986](http://purl.obolibrary.org/obo/NCBITaxon_3098986) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [16SrII (Peanut WB group)](http://purl.obolibrary.org/obo/NCBITaxon_85621) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002))) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rosa multiflora](http://purl.obolibrary.org/obo/NCBITaxon_74647) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Coprothermobacterota](http://purl.obolibrary.org/obo/NCBITaxon_2138240) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2883936](http://purl.obolibrary.org/obo/NCBITaxon_2883936) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_2883936](http://purl.obolibrary.org/obo/NCBITaxon_2883936))) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_558436](http://purl.obolibrary.org/obo/NCBITaxon_558436) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_558436](http://purl.obolibrary.org/obo/NCBITaxon_558436))) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Caulobacterales](http://purl.obolibrary.org/obo/NCBITaxon_204458) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rountreeviridae](http://purl.obolibrary.org/obo/NCBITaxon_2842327) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_27717](http://purl.obolibrary.org/obo/NCBITaxon_27717) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_27717](http://purl.obolibrary.org/obo/NCBITaxon_27717))) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nankokuvirus](http://purl.obolibrary.org/obo/NCBITaxon_1925779) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Azeredovirinae](http://purl.obolibrary.org/obo/NCBITaxon_2842522) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Enhodamvirus](http://purl.obolibrary.org/obo/NCBITaxon_1922329) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gordonclarkvirinae](http://purl.obolibrary.org/obo/NCBITaxon_3044644) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Alphaproteobacteria incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_82117) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Skunavirus](http://purl.obolibrary.org/obo/NCBITaxon_1623305) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2608663](http://purl.obolibrary.org/obo/NCBITaxon_2608663) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cucurbita pepo](http://purl.obolibrary.org/obo/NCBITaxon_3663) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ancylobacter aquaticus](http://purl.obolibrary.org/obo/NCBITaxon_100) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Starkeya novella](http://purl.obolibrary.org/obo/NCBITaxon_921) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhodobacterales](http://purl.obolibrary.org/obo/NCBITaxon_204455) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2743744](http://purl.obolibrary.org/obo/NCBITaxon_2743744) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cyprinoidei intergeneric hybrids](http://purl.obolibrary.org/obo/NCBITaxon_564289) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2870378](http://purl.obolibrary.org/obo/NCBITaxon_2870378) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_2870378](http://purl.obolibrary.org/obo/NCBITaxon_2870378))) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Dictyoglomota](http://purl.obolibrary.org/obo/NCBITaxon_68297) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bcepmuvirus](http://purl.obolibrary.org/obo/NCBITaxon_1198139) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3116862](http://purl.obolibrary.org/obo/NCBITaxon_3116862) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3116862](http://purl.obolibrary.org/obo/NCBITaxon_3116862))) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [16SrI (Aster yellows group)](http://purl.obolibrary.org/obo/NCBITaxon_3042590) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3098986](http://purl.obolibrary.org/obo/NCBITaxon_3098986) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Punavirus](http://purl.obolibrary.org/obo/NCBITaxon_186789) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Sepvirinae](http://purl.obolibrary.org/obo/NCBITaxon_1981156) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_12929](http://purl.obolibrary.org/obo/NCBITaxon_12929) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Psittacula](http://purl.obolibrary.org/obo/NCBITaxon_9227) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Weiservirinae](http://purl.obolibrary.org/obo/NCBITaxon_2946648) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Microwolfvirus](http://purl.obolibrary.org/obo/NCBITaxon_2942894) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lubbockvirus](http://purl.obolibrary.org/obo/NCBITaxon_1912144) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hendrixvirinae](http://purl.obolibrary.org/obo/NCBITaxon_2842527) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [FCB group](http://purl.obolibrary.org/obo/NCBITaxon_1783270) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ceduovirus](http://purl.obolibrary.org/obo/NCBITaxon_186532) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aquificota](http://purl.obolibrary.org/obo/NCBITaxon_200783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pteropus rodricensis](http://purl.obolibrary.org/obo/NCBITaxon_77216) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3098986](http://purl.obolibrary.org/obo/NCBITaxon_3098986) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [16SrX (Apple proliferation group)](http://purl.obolibrary.org/obo/NCBITaxon_85630) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Detrevirus](http://purl.obolibrary.org/obo/NCBITaxon_1623287) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bdellovibrionota](http://purl.obolibrary.org/obo/NCBITaxon_3018035) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacteria incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_2323) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3031148](http://purl.obolibrary.org/obo/NCBITaxon_3031148) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3031148](http://purl.obolibrary.org/obo/NCBITaxon_3031148))) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Straboviridae](http://purl.obolibrary.org/obo/NCBITaxon_2946170) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-
-### Geitlerinemataceae `http://purl.obolibrary.org/obo/NCBITaxon_3079752`
+### Geminicoccales `http://purl.obolibrary.org/obo/NCBITaxon_3108222`
 #### Removed
-- Class: [Geitlerinemataceae](http://purl.obolibrary.org/obo/NCBITaxon_3079752) 
-
-
-
-### Geitlerinematales `http://purl.obolibrary.org/obo/NCBITaxon_3079751`
-#### Removed
-- Class: [Geitlerinematales](http://purl.obolibrary.org/obo/NCBITaxon_3079751) 
-
-
-
-### Geminicoccaceae `http://purl.obolibrary.org/obo/NCBITaxon_2066434`
-#### Removed
-- [Geminicoccaceae](http://purl.obolibrary.org/obo/NCBITaxon_2066434) DisjointWith [Acetobacteraceae](http://purl.obolibrary.org/obo/NCBITaxon_433) 
-
-- [Geminicoccaceae](http://purl.obolibrary.org/obo/NCBITaxon_2066434) DisjointWith [Azospirillaceae](http://purl.obolibrary.org/obo/NCBITaxon_2829815) 
-
-- [Geminicoccaceae](http://purl.obolibrary.org/obo/NCBITaxon_2066434) DisjointWith [Thalassospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_2844866) 
-
-- [Geminicoccaceae](http://purl.obolibrary.org/obo/NCBITaxon_2066434) DisjointWith [Rhodospirillaceae](http://purl.obolibrary.org/obo/NCBITaxon_41295) 
-
-
-
-### Gerbera jamesonii `http://purl.obolibrary.org/obo/NCBITaxon_13547`
-#### Removed
-- [Gerbera jamesonii](http://purl.obolibrary.org/obo/NCBITaxon_13547) DisjointWith [Gerbera hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_18101) 
+- Class: [Geminicoccales](http://purl.obolibrary.org/obo/NCBITaxon_3108222) 
 
 #### Added
-- [Gerbera jamesonii](http://purl.obolibrary.org/obo/NCBITaxon_13547) DisjointWith [NCBITaxon_2620334](http://purl.obolibrary.org/obo/NCBITaxon_2620334) 
+- [Geminicoccales](http://purl.obolibrary.org/obo/NCBITaxon_3108222) DisjointWith [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
 
 
-### Gobionidae `http://purl.obolibrary.org/obo/NCBITaxon_2743714`
-
-#### Added
-- [Gobionidae](http://purl.obolibrary.org/obo/NCBITaxon_2743714) DisjointWith [NCBITaxon_2743744](http://purl.obolibrary.org/obo/NCBITaxon_2743744) 
-
-
-### Gomontiellales `http://purl.obolibrary.org/obo/NCBITaxon_3079757`
+### Halorubraceae `http://purl.obolibrary.org/obo/NCBITaxon_1963271`
 #### Removed
-- Class: [Gomontiellales](http://purl.obolibrary.org/obo/NCBITaxon_3079757) 
+- Class: [Halorubraceae](http://purl.obolibrary.org/obo/NCBITaxon_1963271) 
 
 
 
-### Gordonclarkvirinae `http://purl.obolibrary.org/obo/NCBITaxon_3044644`
+### Hathewaya `http://purl.obolibrary.org/obo/NCBITaxon_1769729`
 #### Removed
-- Class: [Gordonclarkvirinae](http://purl.obolibrary.org/obo/NCBITaxon_3044644) 
-
-#### Added
-- [Gordonclarkvirinae](http://purl.obolibrary.org/obo/NCBITaxon_3044644) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [Gordonclarkvirinae](http://purl.obolibrary.org/obo/NCBITaxon_3044644) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [Hathewaya](http://purl.obolibrary.org/obo/NCBITaxon_1769729) DisjointWith [Paraclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849822) 
 
 
-### Haemophilus phage S2 `http://purl.obolibrary.org/obo/NCBITaxon_53000`
+
+### Herbinix `http://purl.obolibrary.org/obo/NCBITaxon_1663717`
 #### Removed
-- [Haemophilus phage S2](http://purl.obolibrary.org/obo/NCBITaxon_53000) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [Herbinix](http://purl.obolibrary.org/obo/NCBITaxon_1663717) DisjointWith [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) 
 
 
 
-### Haloferacaceae `http://purl.obolibrary.org/obo/NCBITaxon_1644056`
-
-#### Added
-- [Haloferacaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644056) DisjointWith [NCBITaxon_1963271](http://purl.obolibrary.org/obo/NCBITaxon_1963271) 
-
-
-### Haloferax `http://purl.obolibrary.org/obo/NCBITaxon_2251`
+### Heteractis crispa `http://purl.obolibrary.org/obo/NCBITaxon_175771`
 #### Removed
-- [Haloferax](http://purl.obolibrary.org/obo/NCBITaxon_2251) DisjointWith [Halorubrum](http://purl.obolibrary.org/obo/NCBITaxon_56688) 
+- [Heteractis crispa](http://purl.obolibrary.org/obo/NCBITaxon_175771) DisjointWith [Heteractis magnifica](http://purl.obolibrary.org/obo/NCBITaxon_38281) 
 
-
-
-### Haloquadratum `http://purl.obolibrary.org/obo/NCBITaxon_293431`
-#### Removed
-- [Haloquadratum](http://purl.obolibrary.org/obo/NCBITaxon_293431) DisjointWith [Halorubrum](http://purl.obolibrary.org/obo/NCBITaxon_56688) 
-
-
-
-### Halorubrum `http://purl.obolibrary.org/obo/NCBITaxon_56688`
-#### Removed
-- [Halorubrum](http://purl.obolibrary.org/obo/NCBITaxon_56688) DisjointWith [Halogeometricum](http://purl.obolibrary.org/obo/NCBITaxon_60846) 
-
-
-
-### Halothecacae `http://purl.obolibrary.org/obo/NCBITaxon_3079756`
-#### Removed
-- Class: [Halothecacae](http://purl.obolibrary.org/obo/NCBITaxon_3079756) 
-
-
-
-### Hapunavirus `http://purl.obolibrary.org/obo/NCBITaxon_1198976`
-
-#### Added
-- [Hapunavirus](http://purl.obolibrary.org/obo/NCBITaxon_1198976) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [Hapunavirus](http://purl.obolibrary.org/obo/NCBITaxon_1198976) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-
-### Heligmosomidae `http://purl.obolibrary.org/obo/NCBITaxon_126396`
-#### Removed
-- Class: [Heligmosomidae](http://purl.obolibrary.org/obo/NCBITaxon_126396) 
-
-
-
-### Hendrixvirinae `http://purl.obolibrary.org/obo/NCBITaxon_2842527`
-
-#### Added
-- [Hendrixvirinae](http://purl.obolibrary.org/obo/NCBITaxon_2842527) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [Hendrixvirinae](http://purl.obolibrary.org/obo/NCBITaxon_2842527) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-
-### Hepeviridae `http://purl.obolibrary.org/obo/NCBITaxon_3079366`
-#### Removed
-- Class: [Hepeviridae](http://purl.obolibrary.org/obo/NCBITaxon_3079366) 
-
-
-
-### Herelleviridae `http://purl.obolibrary.org/obo/NCBITaxon_2560065`
-
-#### Added
-- [Herelleviridae](http://purl.obolibrary.org/obo/NCBITaxon_2560065) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [Herelleviridae](http://purl.obolibrary.org/obo/NCBITaxon_2560065) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
 
 
 ### Holosporales `http://purl.obolibrary.org/obo/NCBITaxon_1921002`
 
 #### Added
-- [Holosporales](http://purl.obolibrary.org/obo/NCBITaxon_1921002) DisjointWith [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) 
+- [Holosporales](http://purl.obolibrary.org/obo/NCBITaxon_1921002) DisjointWith [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
 
 
-### Hoylesella `http://purl.obolibrary.org/obo/NCBITaxon_2974257`
+### Hungatella `http://purl.obolibrary.org/obo/NCBITaxon_1649459`
+#### Removed
+- [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [Paraclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849822) 
 
-#### Added
-- [Hoylesella](http://purl.obolibrary.org/obo/NCBITaxon_2974257) DisjointWith [NCBITaxon_558436](http://purl.obolibrary.org/obo/NCBITaxon_558436) 
 
 
 ### Hylarana `http://purl.obolibrary.org/obo/NCBITaxon_1008893`
-#### Removed
-- Class: [Hylarana](http://purl.obolibrary.org/obo/NCBITaxon_1008893) 
 
+#### Added
+- [Hylarana](http://purl.obolibrary.org/obo/NCBITaxon_1008893) DisjointWith [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) 
 
 
 ### Hyphomonadales `http://purl.obolibrary.org/obo/NCBITaxon_2800060`
 
 #### Added
-- [Hyphomonadales](http://purl.obolibrary.org/obo/NCBITaxon_2800060) DisjointWith [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) 
+- [Hyphomonadales](http://purl.obolibrary.org/obo/NCBITaxon_2800060) DisjointWith [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
 
 
-### Ideonella `http://purl.obolibrary.org/obo/NCBITaxon_36862`
+### Intestinibacter `http://purl.obolibrary.org/obo/NCBITaxon_1505657`
+#### Removed
+- [Intestinibacter](http://purl.obolibrary.org/obo/NCBITaxon_1505657) DisjointWith [Filifactor](http://purl.obolibrary.org/obo/NCBITaxon_44259) 
+
+- [Intestinibacter](http://purl.obolibrary.org/obo/NCBITaxon_1505657) DisjointWith [Acetoanaerobium](http://purl.obolibrary.org/obo/NCBITaxon_186831) 
 
 #### Added
-- [Ideonella](http://purl.obolibrary.org/obo/NCBITaxon_36862) DisjointWith [NCBITaxon_93681](http://purl.obolibrary.org/obo/NCBITaxon_93681) 
+- [Intestinibacter](http://purl.obolibrary.org/obo/NCBITaxon_1505657) DisjointWith [Paraclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849822) 
 
 
-### Klebsiella phage K11 `http://purl.obolibrary.org/obo/NCBITaxon_532077`
+### Koribacter `http://purl.obolibrary.org/obo/NCBITaxon_658061`
 #### Removed
-- Class: [Klebsiella phage K11](http://purl.obolibrary.org/obo/NCBITaxon_532077) 
+- [Koribacter](http://purl.obolibrary.org/obo/NCBITaxon_658061) DisjointWith [Granulicella](http://purl.obolibrary.org/obo/NCBITaxon_940557) 
 
 
 
-### Kochitakasuvirus `http://purl.obolibrary.org/obo/NCBITaxon_1982590`
+### Lachnoclostridium `http://purl.obolibrary.org/obo/NCBITaxon_1506553`
+#### Removed
+- [Lachnoclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1506553) DisjointWith [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) 
+
+
+
+### Lachnospiraceae `http://purl.obolibrary.org/obo/NCBITaxon_186803`
+#### Removed
+- [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [Symbiobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_543349) 
+
+- [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [Syntrophomonadaceae](http://purl.obolibrary.org/obo/NCBITaxon_68298) 
+
+- [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) 
+
+- [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [Eubacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_186806) 
+
+- [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [Clostridiaceae](http://purl.obolibrary.org/obo/NCBITaxon_31979) 
+
+- [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [Oscillospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_216572) 
+
+- [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [Desulfitobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_2937909) 
+
+- [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [Desulfallaceae](http://purl.obolibrary.org/obo/NCBITaxon_2867375) 
+
+- [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [Desulfotomaculaceae](http://purl.obolibrary.org/obo/NCBITaxon_2937910) 
+
+- [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [unclassified Eubacteriales](http://purl.obolibrary.org/obo/NCBITaxon_39779) 
+
+- [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [Thermincolaceae](http://purl.obolibrary.org/obo/NCBITaxon_2937911) 
+
+- [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [Eubacteriales incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_538999) 
+
+- [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [Peptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186807) 
+
+- [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [Heliobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_31984) 
 
 #### Added
-- [Kochitakasuvirus](http://purl.obolibrary.org/obo/NCBITaxon_1982590) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [Kochitakasuvirus](http://purl.obolibrary.org/obo/NCBITaxon_1982590) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186803) DisjointWith [NCBITaxon_3118652](http://purl.obolibrary.org/obo/NCBITaxon_3118652) 
 
 
-### Kyanoviridae `http://purl.obolibrary.org/obo/NCBITaxon_2946160`
-
-#### Added
-- [Kyanoviridae](http://purl.obolibrary.org/obo/NCBITaxon_2946160) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [Kyanoviridae](http://purl.obolibrary.org/obo/NCBITaxon_2946160) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-
-### Lactobacillus phage LL-H `http://purl.obolibrary.org/obo/NCBITaxon_12348`
+### Macropus sp. `http://purl.obolibrary.org/obo/NCBITaxon_9322`
 #### Removed
-- [Lactobacillus phage LL-H](http://purl.obolibrary.org/obo/NCBITaxon_12348) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- Class: [Macropus sp.](http://purl.obolibrary.org/obo/NCBITaxon_9322) 
 
-- [Lactobacillus phage LL-H](http://purl.obolibrary.org/obo/NCBITaxon_12348) DisjointWith [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
-
-
-
-### Lactococcus phage TP901-1 `http://purl.obolibrary.org/obo/NCBITaxon_35345`
-#### Removed
-- [Lactococcus phage TP901-1](http://purl.obolibrary.org/obo/NCBITaxon_35345) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Lactococcus phage phi-vML3 `http://purl.obolibrary.org/obo/NCBITaxon_10746`
-#### Removed
-- [Lactococcus phage phi-vML3](http://purl.obolibrary.org/obo/NCBITaxon_10746) DisjointWith [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
-
-- [Lactococcus phage phi-vML3](http://purl.obolibrary.org/obo/NCBITaxon_10746) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Lactococcus phage r1t `http://purl.obolibrary.org/obo/NCBITaxon_43685`
-#### Removed
-- [Lactococcus phage r1t](http://purl.obolibrary.org/obo/NCBITaxon_43685) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Lambdavirus `http://purl.obolibrary.org/obo/NCBITaxon_186765`
-
-#### Added
-- [Lambdavirus](http://purl.obolibrary.org/obo/NCBITaxon_186765) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [Lambdavirus](http://purl.obolibrary.org/obo/NCBITaxon_186765) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-
-### Lederbergvirus `http://purl.obolibrary.org/obo/NCBITaxon_186794`
-
-#### Added
-- [Lederbergvirus](http://purl.obolibrary.org/obo/NCBITaxon_186794) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [Lederbergvirus](http://purl.obolibrary.org/obo/NCBITaxon_186794) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-
-### Leptographium `http://purl.obolibrary.org/obo/NCBITaxon_96312`
-#### Removed
-- Class: [Leptographium](http://purl.obolibrary.org/obo/NCBITaxon_96312) 
-
-
-
-### Leptolyngbya group `http://purl.obolibrary.org/obo/NCBITaxon_3081713`
-#### Removed
-- Class: [Leptolyngbya group](http://purl.obolibrary.org/obo/NCBITaxon_3081713) 
-
-
-
-### Leptolyngbyales `http://purl.obolibrary.org/obo/NCBITaxon_3079749`
-#### Removed
-- Class: [Leptolyngbyales](http://purl.obolibrary.org/obo/NCBITaxon_3079749) 
-
-
-
-### Leptothrix <b-proteobacteria> `http://purl.obolibrary.org/obo/NCBITaxon_88`
-
-#### Added
-- [Leptothrix <b-proteobacteria>](http://purl.obolibrary.org/obo/NCBITaxon_88) DisjointWith [NCBITaxon_93681](http://purl.obolibrary.org/obo/NCBITaxon_93681) 
-
-
-### Leuciscidae `http://purl.obolibrary.org/obo/NCBITaxon_2743726`
-
-#### Added
-- [Leuciscidae](http://purl.obolibrary.org/obo/NCBITaxon_2743726) DisjointWith [NCBITaxon_2743744](http://purl.obolibrary.org/obo/NCBITaxon_2743744) 
-
-
-### Listeria phage A118 `http://purl.obolibrary.org/obo/NCBITaxon_40521`
-#### Removed
-- [Listeria phage A118](http://purl.obolibrary.org/obo/NCBITaxon_40521) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Listeria phage A500 `http://purl.obolibrary.org/obo/NCBITaxon_40522`
-#### Removed
-- [Listeria phage A500](http://purl.obolibrary.org/obo/NCBITaxon_40522) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Lubbockvirus `http://purl.obolibrary.org/obo/NCBITaxon_1912144`
-
-#### Added
-- [Lubbockvirus](http://purl.obolibrary.org/obo/NCBITaxon_1912144) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [Lubbockvirus](http://purl.obolibrary.org/obo/NCBITaxon_1912144) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
 
 
 ### Magnetococcales `http://purl.obolibrary.org/obo/NCBITaxon_1191478`
 
 #### Added
-- [Magnetococcales](http://purl.obolibrary.org/obo/NCBITaxon_1191478) DisjointWith [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) 
+- [Magnetococcales](http://purl.obolibrary.org/obo/NCBITaxon_1191478) DisjointWith [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
 
 
-### Magnetospirillum `http://purl.obolibrary.org/obo/NCBITaxon_13134`
+### Magnetospirillaceae `http://purl.obolibrary.org/obo/NCBITaxon_3036766`
 #### Removed
-- [Magnetospirillum](http://purl.obolibrary.org/obo/NCBITaxon_13134) DisjointWith [Novispirillum](http://purl.obolibrary.org/obo/NCBITaxon_660514) 
+- Class: [Magnetospirillaceae](http://purl.obolibrary.org/obo/NCBITaxon_3036766) 
 
 
 
-### Magnetospirillum fulvum `http://purl.obolibrary.org/obo/NCBITaxon_1082`
-#### Removed
-- [Magnetospirillum fulvum](http://purl.obolibrary.org/obo/NCBITaxon_1082) DisjointWith [Magnetospirillum magneticum](http://purl.obolibrary.org/obo/NCBITaxon_84159) 
+### Mammaliicoccus `http://purl.obolibrary.org/obo/NCBITaxon_2803850`
 
-- [Magnetospirillum fulvum](http://purl.obolibrary.org/obo/NCBITaxon_1082) DisjointWith [Magnetospirillum magnetotacticum](http://purl.obolibrary.org/obo/NCBITaxon_188) 
-
-
-
-### Magnetospirillum gryphiswaldense `http://purl.obolibrary.org/obo/NCBITaxon_55518`
-#### Removed
-- [Magnetospirillum gryphiswaldense](http://purl.obolibrary.org/obo/NCBITaxon_55518) DisjointWith [Magnetospirillum magneticum](http://purl.obolibrary.org/obo/NCBITaxon_84159) 
-
-
-
-### Magnetospirillum magnetotacticum `http://purl.obolibrary.org/obo/NCBITaxon_188`
-#### Removed
-- [Magnetospirillum magnetotacticum](http://purl.obolibrary.org/obo/NCBITaxon_188) DisjointWith [Magnetospirillum gryphiswaldense](http://purl.obolibrary.org/obo/NCBITaxon_55518) 
-
-
-
-### Magnetospirillum molischianum `http://purl.obolibrary.org/obo/NCBITaxon_1083`
-#### Removed
-- [Magnetospirillum molischianum](http://purl.obolibrary.org/obo/NCBITaxon_1083) DisjointWith [Magnetospirillum magnetotacticum](http://purl.obolibrary.org/obo/NCBITaxon_188) 
-
-- [Magnetospirillum molischianum](http://purl.obolibrary.org/obo/NCBITaxon_1083) DisjointWith [Magnetospirillum magneticum](http://purl.obolibrary.org/obo/NCBITaxon_84159) 
-
+#### Added
+- [Mammaliicoccus](http://purl.obolibrary.org/obo/NCBITaxon_2803850) DisjointWith [NCBITaxon_3076173](http://purl.obolibrary.org/obo/NCBITaxon_3076173) 
 
 
 ### Maricaulales `http://purl.obolibrary.org/obo/NCBITaxon_2800059`
 
 #### Added
-- [Maricaulales](http://purl.obolibrary.org/obo/NCBITaxon_2800059) DisjointWith [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) 
+- [Maricaulales](http://purl.obolibrary.org/obo/NCBITaxon_2800059) DisjointWith [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
 
 
-### Megamimivirinae `http://purl.obolibrary.org/obo/NCBITaxon_3044648`
+### Miltoncavirus `http://purl.obolibrary.org/obo/NCBITaxon_3044765`
 #### Removed
-- Class: [Megamimivirinae](http://purl.obolibrary.org/obo/NCBITaxon_3044648) 
+- Class: [Miltoncavirus](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
 
 
 
-### Mesyanzhinovviridae `http://purl.obolibrary.org/obo/NCBITaxon_2946162`
-
-#### Added
-- [Mesyanzhinovviridae](http://purl.obolibrary.org/obo/NCBITaxon_2946162) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [Mesyanzhinovviridae](http://purl.obolibrary.org/obo/NCBITaxon_2946162) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-
-### Metastrongylidae `http://purl.obolibrary.org/obo/NCBITaxon_55271`
+### Miltoncavirus PhiPA3 `http://purl.obolibrary.org/obo/NCBITaxon_3060307`
 #### Removed
-- Class: [Metastrongylidae](http://purl.obolibrary.org/obo/NCBITaxon_55271) 
+- Class: [Miltoncavirus PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_3060307) 
 
 
 
-### Methylibium `http://purl.obolibrary.org/obo/NCBITaxon_316612`
-
-#### Added
-- [Methylibium](http://purl.obolibrary.org/obo/NCBITaxon_316612) DisjointWith [NCBITaxon_93681](http://purl.obolibrary.org/obo/NCBITaxon_93681) 
-
-
-### Microwolfvirus `http://purl.obolibrary.org/obo/NCBITaxon_2942894`
+### Moorellales `http://purl.obolibrary.org/obo/NCBITaxon_3039167`
+#### Removed
+- [Moorellales](http://purl.obolibrary.org/obo/NCBITaxon_3039167) DisjointWith [Caldicellulosiruptorales](http://purl.obolibrary.org/obo/NCBITaxon_3071001) 
 
 #### Added
-- [Microwolfvirus](http://purl.obolibrary.org/obo/NCBITaxon_2942894) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [Moorellales](http://purl.obolibrary.org/obo/NCBITaxon_3039167) DisjointWith [NCBITaxon_3085636](http://purl.obolibrary.org/obo/NCBITaxon_3085636) 
 
-- [Microwolfvirus](http://purl.obolibrary.org/obo/NCBITaxon_2942894) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [Moorellales](http://purl.obolibrary.org/obo/NCBITaxon_3039167) DisjointWith [NCBITaxon_3082720](http://purl.obolibrary.org/obo/NCBITaxon_3082720) 
 
 
-### Muvirus `http://purl.obolibrary.org/obo/NCBITaxon_186777`
+### Musicola `http://purl.obolibrary.org/obo/NCBITaxon_2884243`
 
 #### Added
-- [Muvirus](http://purl.obolibrary.org/obo/NCBITaxon_186777) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [Muvirus](http://purl.obolibrary.org/obo/NCBITaxon_186777) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [Musicola](http://purl.obolibrary.org/obo/NCBITaxon_2884243) DisjointWith [NCBITaxon_3059405](http://purl.obolibrary.org/obo/NCBITaxon_3059405) 
 
 
 ### Myxococcota `http://purl.obolibrary.org/obo/NCBITaxon_2818505`
 
 #### Added
-- [Myxococcota](http://purl.obolibrary.org/obo/NCBITaxon_2818505) DisjointWith [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+- [Myxococcota](http://purl.obolibrary.org/obo/NCBITaxon_2818505) DisjointWith [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
 
-### NCBITaxon_12929 `http://purl.obolibrary.org/obo/NCBITaxon_12929`
-
-#### Added
-- Class: [NCBITaxon_12929](http://purl.obolibrary.org/obo/NCBITaxon_12929) 
-
-- [NCBITaxon_12929](http://purl.obolibrary.org/obo/NCBITaxon_12929) DisjointWith [Platycercus](http://purl.obolibrary.org/obo/NCBITaxon_35541) 
-
-- [NCBITaxon_12929](http://purl.obolibrary.org/obo/NCBITaxon_12929) DisjointWith [Psittacula](http://purl.obolibrary.org/obo/NCBITaxon_9227) 
-
-- [NCBITaxon_12929](http://purl.obolibrary.org/obo/NCBITaxon_12929) DisjointWith [Nestor](http://purl.obolibrary.org/obo/NCBITaxon_176042) 
-
-- [NCBITaxon_12929](http://purl.obolibrary.org/obo/NCBITaxon_12929) DisjointWith [Ara](http://purl.obolibrary.org/obo/NCBITaxon_9225) 
-
-
-### NCBITaxon_151761 `http://purl.obolibrary.org/obo/NCBITaxon_151761`
+### NCBITaxon_1283208 `http://purl.obolibrary.org/obo/NCBITaxon_1283208`
 
 #### Added
-- Class: [NCBITaxon_151761](http://purl.obolibrary.org/obo/NCBITaxon_151761) 
+- Class: [NCBITaxon_1283208](http://purl.obolibrary.org/obo/NCBITaxon_1283208) 
+
+- [NCBITaxon_1283208](http://purl.obolibrary.org/obo/NCBITaxon_1283208) DisjointWith [Tombusviridae](http://purl.obolibrary.org/obo/NCBITaxon_39738) 
 
 
-### NCBITaxon_156757 `http://purl.obolibrary.org/obo/NCBITaxon_156757`
-
-#### Added
-- Class: [NCBITaxon_156757](http://purl.obolibrary.org/obo/NCBITaxon_156757) 
-
-- [NCBITaxon_156757](http://purl.obolibrary.org/obo/NCBITaxon_156757) DisjointWith [Buteo buteo](http://purl.obolibrary.org/obo/NCBITaxon_30397) 
-
-
-### NCBITaxon_1963271 `http://purl.obolibrary.org/obo/NCBITaxon_1963271`
+### NCBITaxon_1283209 `http://purl.obolibrary.org/obo/NCBITaxon_1283209`
 
 #### Added
-- Class: [NCBITaxon_1963271](http://purl.obolibrary.org/obo/NCBITaxon_1963271) 
-
-- [NCBITaxon_1963271](http://purl.obolibrary.org/obo/NCBITaxon_1963271) DisjointWith [unclassified Haloferacales](http://purl.obolibrary.org/obo/NCBITaxon_2678336) 
+- Class: [NCBITaxon_1283209](http://purl.obolibrary.org/obo/NCBITaxon_1283209) 
 
 
-### NCBITaxon_2245002 `http://purl.obolibrary.org/obo/NCBITaxon_2245002`
+### NCBITaxon_1289469 `http://purl.obolibrary.org/obo/NCBITaxon_1289469`
 
 #### Added
-- Class: [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) 
-
-- [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) DisjointWith [Rosa foetida](http://purl.obolibrary.org/obo/NCBITaxon_74629) 
-
-- [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) DisjointWith [Rosa multiflora](http://purl.obolibrary.org/obo/NCBITaxon_74647) 
-
-- [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) DisjointWith [Rosa canina](http://purl.obolibrary.org/obo/NCBITaxon_74635) 
-
-- [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) DisjointWith [Rosa stellata](http://purl.obolibrary.org/obo/NCBITaxon_74655) 
-
-- [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) DisjointWith [Rosa rugosa](http://purl.obolibrary.org/obo/NCBITaxon_74645) 
-
-- [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) DisjointWith [Rosa carolina](http://purl.obolibrary.org/obo/NCBITaxon_74638) 
-
-- [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) DisjointWith [Rosa californica](http://purl.obolibrary.org/obo/NCBITaxon_74641) 
-
-- [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) DisjointWith [Rosa x damascena](http://purl.obolibrary.org/obo/NCBITaxon_3765) 
-
-- [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) DisjointWith [Rosa chinensis](http://purl.obolibrary.org/obo/NCBITaxon_74649) 
-
-- [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) DisjointWith [Rosa odorata](http://purl.obolibrary.org/obo/NCBITaxon_267246) 
+- Class: [NCBITaxon_1289469](http://purl.obolibrary.org/obo/NCBITaxon_1289469) 
 
 
-### NCBITaxon_244585 `http://purl.obolibrary.org/obo/NCBITaxon_244585`
+### NCBITaxon_213633 `http://purl.obolibrary.org/obo/NCBITaxon_213633`
 
 #### Added
-- Class: [NCBITaxon_244585](http://purl.obolibrary.org/obo/NCBITaxon_244585) 
-
-- [NCBITaxon_244585](http://purl.obolibrary.org/obo/NCBITaxon_244585) DisjointWith [Urocyon cinereoargenteus](http://purl.obolibrary.org/obo/NCBITaxon_55040) 
+- Class: [NCBITaxon_213633](http://purl.obolibrary.org/obo/NCBITaxon_213633) 
 
 
-### NCBITaxon_2602359 `http://purl.obolibrary.org/obo/NCBITaxon_2602359`
+### NCBITaxon_262928 `http://purl.obolibrary.org/obo/NCBITaxon_262928`
 
 #### Added
-- Class: [NCBITaxon_2602359](http://purl.obolibrary.org/obo/NCBITaxon_2602359) 
+- Class: [NCBITaxon_262928](http://purl.obolibrary.org/obo/NCBITaxon_262928) 
 
 
-### NCBITaxon_2608663 `http://purl.obolibrary.org/obo/NCBITaxon_2608663`
-
-#### Added
-- Class: [NCBITaxon_2608663](http://purl.obolibrary.org/obo/NCBITaxon_2608663) 
-
-- [NCBITaxon_2608663](http://purl.obolibrary.org/obo/NCBITaxon_2608663) DisjointWith [Cucurbita maxima](http://purl.obolibrary.org/obo/NCBITaxon_3661) 
-
-- [NCBITaxon_2608663](http://purl.obolibrary.org/obo/NCBITaxon_2608663) DisjointWith [Cucurbita moschata](http://purl.obolibrary.org/obo/NCBITaxon_3662) 
-
-- [NCBITaxon_2608663](http://purl.obolibrary.org/obo/NCBITaxon_2608663) DisjointWith [Cucurbita pepo](http://purl.obolibrary.org/obo/NCBITaxon_3663) 
-
-
-### NCBITaxon_2620334 `http://purl.obolibrary.org/obo/NCBITaxon_2620334`
+### NCBITaxon_2840488 `http://purl.obolibrary.org/obo/NCBITaxon_2840488`
 
 #### Added
-- Class: [NCBITaxon_2620334](http://purl.obolibrary.org/obo/NCBITaxon_2620334) 
+- Class: [NCBITaxon_2840488](http://purl.obolibrary.org/obo/NCBITaxon_2840488) 
+
+- [NCBITaxon_2840488](http://purl.obolibrary.org/obo/NCBITaxon_2840488) DisjointWith [Erysipelotrichia](http://purl.obolibrary.org/obo/NCBITaxon_526524) 
+
+- [NCBITaxon_2840488](http://purl.obolibrary.org/obo/NCBITaxon_2840488) DisjointWith [unclassified Bacillota](http://purl.obolibrary.org/obo/NCBITaxon_84086) 
+
+- [NCBITaxon_2840488](http://purl.obolibrary.org/obo/NCBITaxon_2840488) DisjointWith [environmental samples <firmicutes,phylum Bacillota>](http://purl.obolibrary.org/obo/NCBITaxon_47928) 
+
+- [NCBITaxon_2840488](http://purl.obolibrary.org/obo/NCBITaxon_2840488) DisjointWith [Negativicutes](http://purl.obolibrary.org/obo/NCBITaxon_909932) 
+
+- [NCBITaxon_2840488](http://purl.obolibrary.org/obo/NCBITaxon_2840488) DisjointWith [Bacilli](http://purl.obolibrary.org/obo/NCBITaxon_91061) 
 
 
-### NCBITaxon_2649300 `http://purl.obolibrary.org/obo/NCBITaxon_2649300`
-
-#### Added
-- Class: [NCBITaxon_2649300](http://purl.obolibrary.org/obo/NCBITaxon_2649300) 
-
-- [NCBITaxon_2649300](http://purl.obolibrary.org/obo/NCBITaxon_2649300) DisjointWith [Macropus fuliginosus](http://purl.obolibrary.org/obo/NCBITaxon_9316) 
-
-- [NCBITaxon_2649300](http://purl.obolibrary.org/obo/NCBITaxon_2649300) DisjointWith [Macropus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_9317) 
-
-
-### NCBITaxon_2684971 `http://purl.obolibrary.org/obo/NCBITaxon_2684971`
-
-#### Added
-- Class: [NCBITaxon_2684971](http://purl.obolibrary.org/obo/NCBITaxon_2684971) 
-
-
-### NCBITaxon_2743744 `http://purl.obolibrary.org/obo/NCBITaxon_2743744`
+### NCBITaxon_2908167 `http://purl.obolibrary.org/obo/NCBITaxon_2908167`
 
 #### Added
-- Class: [NCBITaxon_2743744](http://purl.obolibrary.org/obo/NCBITaxon_2743744) 
-
-- [NCBITaxon_2743744](http://purl.obolibrary.org/obo/NCBITaxon_2743744) DisjointWith [Cyprinoidei intergeneric hybrids](http://purl.obolibrary.org/obo/NCBITaxon_564289) 
-
-- [NCBITaxon_2743744](http://purl.obolibrary.org/obo/NCBITaxon_2743744) DisjointWith [Cyprinidae](http://purl.obolibrary.org/obo/NCBITaxon_7953) 
-
-- [NCBITaxon_2743744](http://purl.obolibrary.org/obo/NCBITaxon_2743744) DisjointWith [Xenocyprididae](http://purl.obolibrary.org/obo/NCBITaxon_2743745) 
+- Class: [NCBITaxon_2908167](http://purl.obolibrary.org/obo/NCBITaxon_2908167) 
 
 
-### NCBITaxon_27716 `http://purl.obolibrary.org/obo/NCBITaxon_27716`
+### NCBITaxon_3059405 `http://purl.obolibrary.org/obo/NCBITaxon_3059405`
 
 #### Added
-- Class: [NCBITaxon_27716](http://purl.obolibrary.org/obo/NCBITaxon_27716) 
+- Class: [NCBITaxon_3059405](http://purl.obolibrary.org/obo/NCBITaxon_3059405) 
+
+- [NCBITaxon_3059405](http://purl.obolibrary.org/obo/NCBITaxon_3059405) DisjointWith [Brenneria](http://purl.obolibrary.org/obo/NCBITaxon_71655) 
 
 
-### NCBITaxon_27717 `http://purl.obolibrary.org/obo/NCBITaxon_27717`
-
-#### Added
-- Class: [NCBITaxon_27717](http://purl.obolibrary.org/obo/NCBITaxon_27717) 
-
-
-### NCBITaxon_2870378 `http://purl.obolibrary.org/obo/NCBITaxon_2870378`
+### NCBITaxon_3076173 `http://purl.obolibrary.org/obo/NCBITaxon_3076173`
 
 #### Added
-- Class: [NCBITaxon_2870378](http://purl.obolibrary.org/obo/NCBITaxon_2870378) 
+- Class: [NCBITaxon_3076173](http://purl.obolibrary.org/obo/NCBITaxon_3076173) 
+
+- [NCBITaxon_3076173](http://purl.obolibrary.org/obo/NCBITaxon_3076173) DisjointWith [Macrococcus](http://purl.obolibrary.org/obo/NCBITaxon_69965) 
 
 
-### NCBITaxon_2883936 `http://purl.obolibrary.org/obo/NCBITaxon_2883936`
-
-#### Added
-- Class: [NCBITaxon_2883936](http://purl.obolibrary.org/obo/NCBITaxon_2883936) 
-
-
-### NCBITaxon_3002442 `http://purl.obolibrary.org/obo/NCBITaxon_3002442`
+### NCBITaxon_3082720 `http://purl.obolibrary.org/obo/NCBITaxon_3082720`
 
 #### Added
-- Class: [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+- Class: [NCBITaxon_3082720](http://purl.obolibrary.org/obo/NCBITaxon_3082720) 
 
-- [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) DisjointWith [unclassified Bacteria](http://purl.obolibrary.org/obo/NCBITaxon_49928) 
+- [NCBITaxon_3082720](http://purl.obolibrary.org/obo/NCBITaxon_3082720) DisjointWith [Natranaerobiales](http://purl.obolibrary.org/obo/NCBITaxon_485256) 
 
-- [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) DisjointWith [environmental samples <bacteria,superkingdom Bacteria>](http://purl.obolibrary.org/obo/NCBITaxon_48479) 
+- [NCBITaxon_3082720](http://purl.obolibrary.org/obo/NCBITaxon_3082720) DisjointWith [NCBITaxon_3085636](http://purl.obolibrary.org/obo/NCBITaxon_3085636) 
 
-- [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) DisjointWith [Fusobacteriota](http://purl.obolibrary.org/obo/NCBITaxon_32066) 
+- [NCBITaxon_3082720](http://purl.obolibrary.org/obo/NCBITaxon_3082720) DisjointWith [Halanaerobiales](http://purl.obolibrary.org/obo/NCBITaxon_53433) 
 
-- [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) DisjointWith [Dictyoglomota](http://purl.obolibrary.org/obo/NCBITaxon_68297) 
-
-- [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) DisjointWith [Acidobacteriota](http://purl.obolibrary.org/obo/NCBITaxon_57723) 
-
-- [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) DisjointWith [Bdellovibrionota](http://purl.obolibrary.org/obo/NCBITaxon_3018035) 
-
-- [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) DisjointWith [Synergistota](http://purl.obolibrary.org/obo/NCBITaxon_508458) 
-
-- [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) DisjointWith [delta/epsilon subdivisions](http://purl.obolibrary.org/obo/NCBITaxon_68525) 
-
-- [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) DisjointWith [Nitrospirota](http://purl.obolibrary.org/obo/NCBITaxon_40117) 
-
-- [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) DisjointWith [Elusimicrobiota](http://purl.obolibrary.org/obo/NCBITaxon_74152) 
+- [NCBITaxon_3082720](http://purl.obolibrary.org/obo/NCBITaxon_3082720) DisjointWith [Thermoanaerobacterales](http://purl.obolibrary.org/obo/NCBITaxon_68295) 
 
 
-### NCBITaxon_3002443 `http://purl.obolibrary.org/obo/NCBITaxon_3002443`
+### NCBITaxon_3085636 `http://purl.obolibrary.org/obo/NCBITaxon_3085636`
 
 #### Added
-- Class: [NCBITaxon_3002443](http://purl.obolibrary.org/obo/NCBITaxon_3002443) 
+- Class: [NCBITaxon_3085636](http://purl.obolibrary.org/obo/NCBITaxon_3085636) 
+
+- [NCBITaxon_3085636](http://purl.obolibrary.org/obo/NCBITaxon_3085636) DisjointWith [Thermoanaerobacterales](http://purl.obolibrary.org/obo/NCBITaxon_68295) 
+
+- [NCBITaxon_3085636](http://purl.obolibrary.org/obo/NCBITaxon_3085636) DisjointWith [Natranaerobiales](http://purl.obolibrary.org/obo/NCBITaxon_485256) 
+
+- [NCBITaxon_3085636](http://purl.obolibrary.org/obo/NCBITaxon_3085636) DisjointWith [Halanaerobiales](http://purl.obolibrary.org/obo/NCBITaxon_53433) 
 
 
-### NCBITaxon_3002444 `http://purl.obolibrary.org/obo/NCBITaxon_3002444`
-
-#### Added
-- Class: [NCBITaxon_3002444](http://purl.obolibrary.org/obo/NCBITaxon_3002444) 
-
-
-### NCBITaxon_3024551 `http://purl.obolibrary.org/obo/NCBITaxon_3024551`
-
-#### Added
-- Class: [NCBITaxon_3024551](http://purl.obolibrary.org/obo/NCBITaxon_3024551) 
-
-- [NCBITaxon_3024551](http://purl.obolibrary.org/obo/NCBITaxon_3024551) DisjointWith [Blattabacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_39782) 
-
-- [NCBITaxon_3024551](http://purl.obolibrary.org/obo/NCBITaxon_3024551) DisjointWith [Flavobacteriales incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_313602) 
-
-- [NCBITaxon_3024551](http://purl.obolibrary.org/obo/NCBITaxon_3024551) DisjointWith [Flavobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_49546) 
-
-
-### NCBITaxon_3031145 `http://purl.obolibrary.org/obo/NCBITaxon_3031145`
+### NCBITaxon_3118652 `http://purl.obolibrary.org/obo/NCBITaxon_3118652`
 
 #### Added
-- Class: [NCBITaxon_3031145](http://purl.obolibrary.org/obo/NCBITaxon_3031145) 
-
-- [NCBITaxon_3031145](http://purl.obolibrary.org/obo/NCBITaxon_3031145) DisjointWith [Acetobacteraceae](http://purl.obolibrary.org/obo/NCBITaxon_433) 
-
-- [NCBITaxon_3031145](http://purl.obolibrary.org/obo/NCBITaxon_3031145) DisjointWith [NCBITaxon_3036766](http://purl.obolibrary.org/obo/NCBITaxon_3036766) 
-
-- [NCBITaxon_3031145](http://purl.obolibrary.org/obo/NCBITaxon_3031145) DisjointWith [Rhodospirillaceae](http://purl.obolibrary.org/obo/NCBITaxon_41295) 
+- Class: [NCBITaxon_3118652](http://purl.obolibrary.org/obo/NCBITaxon_3118652) 
 
 
-### NCBITaxon_3031148 `http://purl.obolibrary.org/obo/NCBITaxon_3031148`
+### NCBITaxon_3118655 `http://purl.obolibrary.org/obo/NCBITaxon_3118655`
 
 #### Added
-- Class: [NCBITaxon_3031148](http://purl.obolibrary.org/obo/NCBITaxon_3031148) 
+- Class: [NCBITaxon_3118655](http://purl.obolibrary.org/obo/NCBITaxon_3118655) 
+
+- [NCBITaxon_3118655](http://purl.obolibrary.org/obo/NCBITaxon_3118655) DisjointWith [NCBITaxon_3118656](http://purl.obolibrary.org/obo/NCBITaxon_3118656) 
+
+- [NCBITaxon_3118655](http://purl.obolibrary.org/obo/NCBITaxon_3118655) DisjointWith [NCBITaxon_3120161](http://purl.obolibrary.org/obo/NCBITaxon_3120161) 
+
+- [NCBITaxon_3118655](http://purl.obolibrary.org/obo/NCBITaxon_3118655) DisjointWith [NCBITaxon_3120162](http://purl.obolibrary.org/obo/NCBITaxon_3120162) 
 
 
-### NCBITaxon_3036766 `http://purl.obolibrary.org/obo/NCBITaxon_3036766`
-
-#### Added
-- Class: [NCBITaxon_3036766](http://purl.obolibrary.org/obo/NCBITaxon_3036766) 
-
-- [NCBITaxon_3036766](http://purl.obolibrary.org/obo/NCBITaxon_3036766) DisjointWith [Rhodospirillaceae](http://purl.obolibrary.org/obo/NCBITaxon_41295) 
-
-- [NCBITaxon_3036766](http://purl.obolibrary.org/obo/NCBITaxon_3036766) DisjointWith [Acetobacteraceae](http://purl.obolibrary.org/obo/NCBITaxon_433) 
-
-
-### NCBITaxon_3044765 `http://purl.obolibrary.org/obo/NCBITaxon_3044765`
+### NCBITaxon_3118656 `http://purl.obolibrary.org/obo/NCBITaxon_3118656`
 
 #### Added
-- Class: [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- Class: [NCBITaxon_3118656](http://purl.obolibrary.org/obo/NCBITaxon_3118656) 
 
-- [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) DisjointWith [Rauchvirus](http://purl.obolibrary.org/obo/NCBITaxon_542959) 
+- [NCBITaxon_3118656](http://purl.obolibrary.org/obo/NCBITaxon_3118656) DisjointWith [NCBITaxon_3120162](http://purl.obolibrary.org/obo/NCBITaxon_3120162) 
 
-- [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) DisjointWith [Ravinvirus](http://purl.obolibrary.org/obo/NCBITaxon_308911) 
-
-- [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) DisjointWith [Spbetavirus](http://purl.obolibrary.org/obo/NCBITaxon_680116) 
-
-- [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) DisjointWith [Lomovskayavirus](http://purl.obolibrary.org/obo/NCBITaxon_308912) 
-
-- [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) DisjointWith [Bruynoghevirus](http://purl.obolibrary.org/obo/NCBITaxon_545932) 
-
-- [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) DisjointWith [Uetakevirus](http://purl.obolibrary.org/obo/NCBITaxon_542960) 
-
-- [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) DisjointWith [Phikzvirus](http://purl.obolibrary.org/obo/NCBITaxon_680115) 
+- [NCBITaxon_3118656](http://purl.obolibrary.org/obo/NCBITaxon_3118656) DisjointWith [NCBITaxon_3120161](http://purl.obolibrary.org/obo/NCBITaxon_3120161) 
 
 
-### NCBITaxon_3044821 `http://purl.obolibrary.org/obo/NCBITaxon_3044821`
+### NCBITaxon_3118679 `http://purl.obolibrary.org/obo/NCBITaxon_3118679`
 
 #### Added
-- Class: [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) DisjointWith [Bruynoghevirus](http://purl.obolibrary.org/obo/NCBITaxon_545932) 
-
-- [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) DisjointWith [Phikzvirus](http://purl.obolibrary.org/obo/NCBITaxon_680115) 
-
-- [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) DisjointWith [Spbetavirus](http://purl.obolibrary.org/obo/NCBITaxon_680116) 
-
-- [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) DisjointWith [Uetakevirus](http://purl.obolibrary.org/obo/NCBITaxon_542960) 
-
-- [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) DisjointWith [Lomovskayavirus](http://purl.obolibrary.org/obo/NCBITaxon_308912) 
-
-- [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) DisjointWith [Rauchvirus](http://purl.obolibrary.org/obo/NCBITaxon_542959) 
-
-- [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) DisjointWith [Ravinvirus](http://purl.obolibrary.org/obo/NCBITaxon_308911) 
+- Class: [NCBITaxon_3118679](http://purl.obolibrary.org/obo/NCBITaxon_3118679) 
 
 
-### NCBITaxon_3060307 `http://purl.obolibrary.org/obo/NCBITaxon_3060307`
+### NCBITaxon_3119832 `http://purl.obolibrary.org/obo/NCBITaxon_3119832`
 
 #### Added
-- Class: [NCBITaxon_3060307](http://purl.obolibrary.org/obo/NCBITaxon_3060307) 
+- Class: [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
+
+- [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) DisjointWith [Candidatus Pelagibacterales](http://purl.obolibrary.org/obo/NCBITaxon_54526) 
+
+- [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) DisjointWith [Alphaproteobacteria incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_82117) 
+
+- [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) DisjointWith [Rickettsiales](http://purl.obolibrary.org/obo/NCBITaxon_766) 
+
+- [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) DisjointWith [Hyphomicrobiales](http://purl.obolibrary.org/obo/NCBITaxon_356) 
 
 
-### NCBITaxon_3060698 `http://purl.obolibrary.org/obo/NCBITaxon_3060698`
-
-#### Added
-- Class: [NCBITaxon_3060698](http://purl.obolibrary.org/obo/NCBITaxon_3060698) 
-
-
-### NCBITaxon_3098986 `http://purl.obolibrary.org/obo/NCBITaxon_3098986`
-
-#### Added
-- Class: [NCBITaxon_3098986](http://purl.obolibrary.org/obo/NCBITaxon_3098986) 
-
-- [NCBITaxon_3098986](http://purl.obolibrary.org/obo/NCBITaxon_3098986) DisjointWith [16SrIII (X-disease group)](http://purl.obolibrary.org/obo/NCBITaxon_85623) 
-
-- [NCBITaxon_3098986](http://purl.obolibrary.org/obo/NCBITaxon_3098986) DisjointWith [16SrVII (Ash yellows group)](http://purl.obolibrary.org/obo/NCBITaxon_85627) 
-
-- [NCBITaxon_3098986](http://purl.obolibrary.org/obo/NCBITaxon_3098986) DisjointWith [16SrX (Apple proliferation group)](http://purl.obolibrary.org/obo/NCBITaxon_85630) 
-
-- [NCBITaxon_3098986](http://purl.obolibrary.org/obo/NCBITaxon_3098986) DisjointWith [16SrV (Elm yellows group)](http://purl.obolibrary.org/obo/NCBITaxon_85625) 
-
-- [NCBITaxon_3098986](http://purl.obolibrary.org/obo/NCBITaxon_3098986) DisjointWith [16SrIX (Pigeon pea witches'-broom group)](http://purl.obolibrary.org/obo/NCBITaxon_85629) 
-
-- [NCBITaxon_3098986](http://purl.obolibrary.org/obo/NCBITaxon_3098986) DisjointWith [16SrVI (Clover proliferation group)](http://purl.obolibrary.org/obo/NCBITaxon_85626) 
-
-- [NCBITaxon_3098986](http://purl.obolibrary.org/obo/NCBITaxon_3098986) DisjointWith [16SrVIII (Loofah witches'-broom group)](http://purl.obolibrary.org/obo/NCBITaxon_85628) 
-
-- [NCBITaxon_3098986](http://purl.obolibrary.org/obo/NCBITaxon_3098986) DisjointWith [16SrXII (Stolbur group)](http://purl.obolibrary.org/obo/NCBITaxon_85632) 
-
-- [NCBITaxon_3098986](http://purl.obolibrary.org/obo/NCBITaxon_3098986) DisjointWith [16SrII (Peanut WB group)](http://purl.obolibrary.org/obo/NCBITaxon_85621) 
-
-
-### NCBITaxon_3099318 `http://purl.obolibrary.org/obo/NCBITaxon_3099318`
+### NCBITaxon_3119833 `http://purl.obolibrary.org/obo/NCBITaxon_3119833`
 
 #### Added
-- Class: [NCBITaxon_3099318](http://purl.obolibrary.org/obo/NCBITaxon_3099318) 
+- Class: [NCBITaxon_3119833](http://purl.obolibrary.org/obo/NCBITaxon_3119833) 
 
 
-### NCBITaxon_3108222 `http://purl.obolibrary.org/obo/NCBITaxon_3108222`
-
-#### Added
-- Class: [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) 
-
-- [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) DisjointWith [Hyphomicrobiales](http://purl.obolibrary.org/obo/NCBITaxon_356) 
-
-- [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) DisjointWith [Candidatus Pelagibacterales](http://purl.obolibrary.org/obo/NCBITaxon_54526) 
-
-- [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) DisjointWith [Alphaproteobacteria incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_82117) 
-
-- [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) DisjointWith [Rickettsiales](http://purl.obolibrary.org/obo/NCBITaxon_766) 
-
-
-### NCBITaxon_3115558 `http://purl.obolibrary.org/obo/NCBITaxon_3115558`
+### NCBITaxon_3119969 `http://purl.obolibrary.org/obo/NCBITaxon_3119969`
 
 #### Added
-- Class: [NCBITaxon_3115558](http://purl.obolibrary.org/obo/NCBITaxon_3115558) 
+- Class: [NCBITaxon_3119969](http://purl.obolibrary.org/obo/NCBITaxon_3119969) 
+
+- [NCBITaxon_3119969](http://purl.obolibrary.org/obo/NCBITaxon_3119969) DisjointWith [Bubalus bubalis](http://purl.obolibrary.org/obo/NCBITaxon_89462) 
+
+- [NCBITaxon_3119969](http://purl.obolibrary.org/obo/NCBITaxon_3119969) DisjointWith [Bubalus mindorensis](http://purl.obolibrary.org/obo/NCBITaxon_56639) 
+
+- [NCBITaxon_3119969](http://purl.obolibrary.org/obo/NCBITaxon_3119969) DisjointWith [Bubalus quarlesi](http://purl.obolibrary.org/obo/NCBITaxon_56640) 
 
 
-### NCBITaxon_3116862 `http://purl.obolibrary.org/obo/NCBITaxon_3116862`
-
-#### Added
-- Class: [NCBITaxon_3116862](http://purl.obolibrary.org/obo/NCBITaxon_3116862) 
-
-- [NCBITaxon_3116862](http://purl.obolibrary.org/obo/NCBITaxon_3116862) DisjointWith [Ralstonia pickettii](http://purl.obolibrary.org/obo/NCBITaxon_329) 
-
-
-### NCBITaxon_328804 `http://purl.obolibrary.org/obo/NCBITaxon_328804`
+### NCBITaxon_3120161 `http://purl.obolibrary.org/obo/NCBITaxon_3120161`
 
 #### Added
-- Class: [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) 
+- Class: [NCBITaxon_3120161](http://purl.obolibrary.org/obo/NCBITaxon_3120161) 
 
-- [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) DisjointWith [Pteropus poliocephalus](http://purl.obolibrary.org/obo/NCBITaxon_9403) 
-
-- [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) DisjointWith [Pteropus rodricensis](http://purl.obolibrary.org/obo/NCBITaxon_77216) 
-
-- [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) DisjointWith [Pteropus scapulatus](http://purl.obolibrary.org/obo/NCBITaxon_94117) 
-
-- [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) DisjointWith [Pteropus alecto](http://purl.obolibrary.org/obo/NCBITaxon_9402) 
-
-- [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) DisjointWith [Pteropus hypomelanus](http://purl.obolibrary.org/obo/NCBITaxon_9405) 
+- [NCBITaxon_3120161](http://purl.obolibrary.org/obo/NCBITaxon_3120161) DisjointWith [NCBITaxon_3120162](http://purl.obolibrary.org/obo/NCBITaxon_3120162) 
 
 
-### NCBITaxon_558436 `http://purl.obolibrary.org/obo/NCBITaxon_558436`
+### NCBITaxon_3120162 `http://purl.obolibrary.org/obo/NCBITaxon_3120162`
 
 #### Added
-- Class: [NCBITaxon_558436](http://purl.obolibrary.org/obo/NCBITaxon_558436) 
-
-- [NCBITaxon_558436](http://purl.obolibrary.org/obo/NCBITaxon_558436) DisjointWith [Paraprevotella](http://purl.obolibrary.org/obo/NCBITaxon_577309) 
-
-- [NCBITaxon_558436](http://purl.obolibrary.org/obo/NCBITaxon_558436) DisjointWith [Prevotella](http://purl.obolibrary.org/obo/NCBITaxon_838) 
+- Class: [NCBITaxon_3120162](http://purl.obolibrary.org/obo/NCBITaxon_3120162) 
 
 
-### NCBITaxon_56268 `http://purl.obolibrary.org/obo/NCBITaxon_56268`
+### NCBITaxon_3120163 `http://purl.obolibrary.org/obo/NCBITaxon_3120163`
 
 #### Added
-- Class: [NCBITaxon_56268](http://purl.obolibrary.org/obo/NCBITaxon_56268) 
+- Class: [NCBITaxon_3120163](http://purl.obolibrary.org/obo/NCBITaxon_3120163) 
 
 
-### NCBITaxon_9322 `http://purl.obolibrary.org/obo/NCBITaxon_9322`
-
-#### Added
-- Class: [NCBITaxon_9322](http://purl.obolibrary.org/obo/NCBITaxon_9322) 
-
-
-### NCBITaxon_93681 `http://purl.obolibrary.org/obo/NCBITaxon_93681`
+### NCBITaxon_3120453 `http://purl.obolibrary.org/obo/NCBITaxon_3120453`
 
 #### Added
-- Class: [NCBITaxon_93681](http://purl.obolibrary.org/obo/NCBITaxon_93681) 
+- Class: [NCBITaxon_3120453](http://purl.obolibrary.org/obo/NCBITaxon_3120453) 
 
 
-### NCBITaxon_9861 `http://purl.obolibrary.org/obo/NCBITaxon_9861`
-
-#### Added
-- Class: [NCBITaxon_9861](http://purl.obolibrary.org/obo/NCBITaxon_9861) 
-
-- [NCBITaxon_9861](http://purl.obolibrary.org/obo/NCBITaxon_9861) DisjointWith [Cervus canadensis nelsoni](http://purl.obolibrary.org/obo/NCBITaxon_9864) 
-
-
-### Nankokuvirus `http://purl.obolibrary.org/obo/NCBITaxon_1925779`
+### NCBITaxon_3120748 `http://purl.obolibrary.org/obo/NCBITaxon_3120748`
 
 #### Added
-- [Nankokuvirus](http://purl.obolibrary.org/obo/NCBITaxon_1925779) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- Class: [NCBITaxon_3120748](http://purl.obolibrary.org/obo/NCBITaxon_3120748) 
 
-- [Nankokuvirus](http://purl.obolibrary.org/obo/NCBITaxon_1925779) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+
+### NCBITaxon_3121618 `http://purl.obolibrary.org/obo/NCBITaxon_3121618`
+
+#### Added
+- Class: [NCBITaxon_3121618](http://purl.obolibrary.org/obo/NCBITaxon_3121618) 
+
+
+### NCBITaxon_3122428 `http://purl.obolibrary.org/obo/NCBITaxon_3122428`
+
+#### Added
+- Class: [NCBITaxon_3122428](http://purl.obolibrary.org/obo/NCBITaxon_3122428) 
+
+- [NCBITaxon_3122428](http://purl.obolibrary.org/obo/NCBITaxon_3122428) DisjointWith [Stichodactyla](http://purl.obolibrary.org/obo/NCBITaxon_6122) 
+
+- [NCBITaxon_3122428](http://purl.obolibrary.org/obo/NCBITaxon_3122428) DisjointWith [Heteractis](http://purl.obolibrary.org/obo/NCBITaxon_38280) 
+
+
+### NCBITaxon_3122430 `http://purl.obolibrary.org/obo/NCBITaxon_3122430`
+
+#### Added
+- Class: [NCBITaxon_3122430](http://purl.obolibrary.org/obo/NCBITaxon_3122430) 
+
+
+### NCBITaxon_3123113 `http://purl.obolibrary.org/obo/NCBITaxon_3123113`
+
+#### Added
+- Class: [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
+
+- [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) DisjointWith [Synergistota](http://purl.obolibrary.org/obo/NCBITaxon_508458) 
+
+- [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) DisjointWith [Elusimicrobiota](http://purl.obolibrary.org/obo/NCBITaxon_74152) 
+
+- [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) DisjointWith [delta/epsilon subdivisions](http://purl.obolibrary.org/obo/NCBITaxon_68525) 
+
+- [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) DisjointWith [Dictyoglomota](http://purl.obolibrary.org/obo/NCBITaxon_68297) 
+
+- [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) DisjointWith [environmental samples <bacteria,superkingdom Bacteria>](http://purl.obolibrary.org/obo/NCBITaxon_48479) 
+
+- [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) DisjointWith [Acidobacteriota](http://purl.obolibrary.org/obo/NCBITaxon_57723) 
+
+- [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) DisjointWith [Nitrospirota](http://purl.obolibrary.org/obo/NCBITaxon_40117) 
+
+- [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) DisjointWith [Fusobacteriota](http://purl.obolibrary.org/obo/NCBITaxon_32066) 
+
+- [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) DisjointWith [unclassified Bacteria](http://purl.obolibrary.org/obo/NCBITaxon_49928) 
+
+
+### NCBITaxon_47466 `http://purl.obolibrary.org/obo/NCBITaxon_47466`
+
+#### Added
+- Class: [NCBITaxon_47466](http://purl.obolibrary.org/obo/NCBITaxon_47466) 
 
 
 ### Nitrospinae/Tectomicrobia group `http://purl.obolibrary.org/obo/NCBITaxon_1802340`
 
 #### Added
-- [Nitrospinae/Tectomicrobia group](http://purl.obolibrary.org/obo/NCBITaxon_1802340) DisjointWith [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+- [Nitrospinae/Tectomicrobia group](http://purl.obolibrary.org/obo/NCBITaxon_1802340) DisjointWith [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
 
-### Omegavirus `http://purl.obolibrary.org/obo/NCBITaxon_1623292`
-
-#### Added
-- [Omegavirus](http://purl.obolibrary.org/obo/NCBITaxon_1623292) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [Omegavirus](http://purl.obolibrary.org/obo/NCBITaxon_1623292) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+### Novispirillaceae `http://purl.obolibrary.org/obo/NCBITaxon_3031145`
+#### Removed
+- Class: [Novispirillaceae](http://purl.obolibrary.org/obo/NCBITaxon_3031145) 
 
 
-### Oshimavirus `http://purl.obolibrary.org/obo/NCBITaxon_1623293`
+
+### Odorrana `http://purl.obolibrary.org/obo/NCBITaxon_121155`
 
 #### Added
-- [Oshimavirus](http://purl.obolibrary.org/obo/NCBITaxon_1623293) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [Oshimavirus](http://purl.obolibrary.org/obo/NCBITaxon_1623293) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [Odorrana](http://purl.obolibrary.org/obo/NCBITaxon_121155) DisjointWith [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) 
 
 
-### Ounavirinae `http://purl.obolibrary.org/obo/NCBITaxon_1985285`
+### Oscillospiraceae `http://purl.obolibrary.org/obo/NCBITaxon_216572`
+#### Removed
+- [Oscillospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_216572) DisjointWith [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) 
 
-#### Added
-- [Ounavirinae](http://purl.obolibrary.org/obo/NCBITaxon_1985285) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
 
-- [Ounavirinae](http://purl.obolibrary.org/obo/NCBITaxon_1985285) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+
+### Owenweeksiaceae `http://purl.obolibrary.org/obo/NCBITaxon_3024551`
+#### Removed
+- Class: [Owenweeksiaceae](http://purl.obolibrary.org/obo/NCBITaxon_3024551) 
+
 
 
 ### PVC group `http://purl.obolibrary.org/obo/NCBITaxon_1783257`
 
 #### Added
-- [PVC group](http://purl.obolibrary.org/obo/NCBITaxon_1783257) DisjointWith [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+- [PVC group](http://purl.obolibrary.org/obo/NCBITaxon_1783257) DisjointWith [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
 
-### Paracidovorax `http://purl.obolibrary.org/obo/NCBITaxon_3051137`
+### Paeniclostridium `http://purl.obolibrary.org/obo/NCBITaxon_1849828`
 #### Removed
-- [Paracidovorax](http://purl.obolibrary.org/obo/NCBITaxon_3051137) DisjointWith [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) 
+- [Paeniclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849828) DisjointWith [Filifactor](http://purl.obolibrary.org/obo/NCBITaxon_44259) 
+
+- [Paeniclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849828) DisjointWith [Acetoanaerobium](http://purl.obolibrary.org/obo/NCBITaxon_186831) 
 
 
 
-### Pararhodospirillum `http://purl.obolibrary.org/obo/NCBITaxon_1612157`
+### Pantherana `http://purl.obolibrary.org/obo/NCBITaxon_121178`
 #### Removed
-- [Pararhodospirillum](http://purl.obolibrary.org/obo/NCBITaxon_1612157) DisjointWith [Novispirillum](http://purl.obolibrary.org/obo/NCBITaxon_660514) 
+- [Pantherana](http://purl.obolibrary.org/obo/NCBITaxon_121178) DisjointWith [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) 
+
+
+
+### Paraclostridium `http://purl.obolibrary.org/obo/NCBITaxon_1849822`
+#### Removed
+- [Paraclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849822) DisjointWith [Candidatus Arthromitus](http://purl.obolibrary.org/obo/NCBITaxon_49082) 
+
+- [Paraclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849822) DisjointWith [Caloramator](http://purl.obolibrary.org/obo/NCBITaxon_44258) 
+
+#### Added
+- [Paraclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849822) DisjointWith [Clostridioides](http://purl.obolibrary.org/obo/NCBITaxon_1870884) 
+
+- [Paraclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849822) DisjointWith [Paeniclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849828) 
+
+- [Paraclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849822) DisjointWith [Peptostreptococcaceae incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_200630) 
+
+
+### Paraclostridium bifermentans `http://purl.obolibrary.org/obo/NCBITaxon_1490`
+
+#### Added
+- [Paraclostridium bifermentans](http://purl.obolibrary.org/obo/NCBITaxon_1490) DisjointWith [Paeniclostridium sordellii](http://purl.obolibrary.org/obo/NCBITaxon_1505) 
+
+
+### Paramagnetospirillum `http://purl.obolibrary.org/obo/NCBITaxon_3031148`
+#### Removed
+- Class: [Paramagnetospirillum](http://purl.obolibrary.org/obo/NCBITaxon_3031148) 
 
 
 
 ### Parvularculales `http://purl.obolibrary.org/obo/NCBITaxon_255473`
 
 #### Added
-- [Parvularculales](http://purl.obolibrary.org/obo/NCBITaxon_255473) DisjointWith [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) 
+- [Parvularculales](http://purl.obolibrary.org/obo/NCBITaxon_255473) DisjointWith [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
 
 
-### Pbunavirus `http://purl.obolibrary.org/obo/NCBITaxon_1198980`
-
-#### Added
-- [Pbunavirus](http://purl.obolibrary.org/obo/NCBITaxon_1198980) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [Pbunavirus](http://purl.obolibrary.org/obo/NCBITaxon_1198980) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-
-### Peduoviridae `http://purl.obolibrary.org/obo/NCBITaxon_2946167`
+### Pectobacterium `http://purl.obolibrary.org/obo/NCBITaxon_122277`
 
 #### Added
-- [Peduoviridae](http://purl.obolibrary.org/obo/NCBITaxon_2946167) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [Peduoviridae](http://purl.obolibrary.org/obo/NCBITaxon_2946167) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [Pectobacterium](http://purl.obolibrary.org/obo/NCBITaxon_122277) DisjointWith [NCBITaxon_3059405](http://purl.obolibrary.org/obo/NCBITaxon_3059405) 
 
 
-### Pelomonas `http://purl.obolibrary.org/obo/NCBITaxon_335058`
-#### Removed
-- [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) DisjointWith [unclassified Comamonadaceae](http://purl.obolibrary.org/obo/NCBITaxon_83494) 
-
-- [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) DisjointWith [Delftia](http://purl.obolibrary.org/obo/NCBITaxon_80865) 
-
-- [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) DisjointWith [Variovorax](http://purl.obolibrary.org/obo/NCBITaxon_34072) 
-
-- [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) DisjointWith [Hydrogenophaga](http://purl.obolibrary.org/obo/NCBITaxon_47420) 
-
-- [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) DisjointWith [Polaromonas](http://purl.obolibrary.org/obo/NCBITaxon_52972) 
-
-- [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) DisjointWith [Verminephrobacter](http://purl.obolibrary.org/obo/NCBITaxon_364316) 
-
-
-
-### Phaethontiformes `http://purl.obolibrary.org/obo/NCBITaxon_3073797`
-#### Removed
-- Class: [Phaethontiformes](http://purl.obolibrary.org/obo/NCBITaxon_3073797) 
-
-
-
-### Phage PS119 `http://purl.obolibrary.org/obo/NCBITaxon_83128`
-#### Removed
-- [Phage PS119](http://purl.obolibrary.org/obo/NCBITaxon_83128) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Phage PS34 `http://purl.obolibrary.org/obo/NCBITaxon_83127`
-#### Removed
-- [Phage PS34](http://purl.obolibrary.org/obo/NCBITaxon_83127) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Picosynechococcus `http://purl.obolibrary.org/obo/NCBITaxon_3079908`
-#### Removed
-- Class: [Picosynechococcus](http://purl.obolibrary.org/obo/NCBITaxon_3079908) 
-
-
-
-### Pigea `http://purl.obolibrary.org/obo/NCBITaxon_3049546`
-#### Removed
-- Class: [Pigea](http://purl.obolibrary.org/obo/NCBITaxon_3049546) 
-
-
-
-### Piscinibacter `http://purl.obolibrary.org/obo/NCBITaxon_1114981`
-#### Removed
-- Class: [Piscinibacter](http://purl.obolibrary.org/obo/NCBITaxon_1114981) 
+### Pelophylax `http://purl.obolibrary.org/obo/NCBITaxon_121164`
 
 #### Added
-- [Piscinibacter](http://purl.obolibrary.org/obo/NCBITaxon_1114981) DisjointWith [NCBITaxon_93681](http://purl.obolibrary.org/obo/NCBITaxon_93681) 
+- [Pelophylax](http://purl.obolibrary.org/obo/NCBITaxon_121164) DisjointWith [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) 
 
 
-### Prevotella bivia `http://purl.obolibrary.org/obo/NCBITaxon_28125`
+### Peptoclostridium `http://purl.obolibrary.org/obo/NCBITaxon_1481960`
 #### Removed
-- [Prevotella bivia](http://purl.obolibrary.org/obo/NCBITaxon_28125) DisjointWith [Prevotella ruminicola](http://purl.obolibrary.org/obo/NCBITaxon_839) 
+- [Peptoclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1481960) DisjointWith [Intestinibacter](http://purl.obolibrary.org/obo/NCBITaxon_1505657) 
+
+- [Peptoclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1481960) DisjointWith [Paeniclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849828) 
+
+- [Peptoclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1481960) DisjointWith [Acetoanaerobium](http://purl.obolibrary.org/obo/NCBITaxon_186831) 
+
+- [Peptoclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1481960) DisjointWith [Clostridioides](http://purl.obolibrary.org/obo/NCBITaxon_1870884) 
+
+- [Peptoclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1481960) DisjointWith [Peptostreptococcaceae incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_200630) 
+
+- [Peptoclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1481960) DisjointWith [Filifactor](http://purl.obolibrary.org/obo/NCBITaxon_44259) 
 
 
 
-### Prevotella dentalis `http://purl.obolibrary.org/obo/NCBITaxon_52227`
+### Peptococcaceae `http://purl.obolibrary.org/obo/NCBITaxon_186807`
 #### Removed
-- [Prevotella dentalis](http://purl.obolibrary.org/obo/NCBITaxon_52227) DisjointWith [Prevotella ruminicola](http://purl.obolibrary.org/obo/NCBITaxon_839) 
+- [Peptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186807) DisjointWith [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) 
 
 
 
-### Prevotella denticola `http://purl.obolibrary.org/obo/NCBITaxon_28129`
+### Peptostreptococcaceae `http://purl.obolibrary.org/obo/NCBITaxon_186804`
 #### Removed
-- [Prevotella denticola](http://purl.obolibrary.org/obo/NCBITaxon_28129) DisjointWith [Prevotella ruminicola](http://purl.obolibrary.org/obo/NCBITaxon_839) 
+- [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [unclassified Eubacteriales](http://purl.obolibrary.org/obo/NCBITaxon_39779) 
+
+- [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [Desulfallaceae](http://purl.obolibrary.org/obo/NCBITaxon_2867375) 
+
+- [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [Oscillospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_216572) 
+
+- [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [Syntrophomonadaceae](http://purl.obolibrary.org/obo/NCBITaxon_68298) 
+
+- [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [Desulfotomaculaceae](http://purl.obolibrary.org/obo/NCBITaxon_2937910) 
+
+- [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) 
+
+- [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [Eubacteriales incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_538999) 
+
+- [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [Desulfitobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_2937909) 
+
+- [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [Peptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186807) 
+
+- [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [Symbiobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_543349) 
+
+- [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [Thermincolaceae](http://purl.obolibrary.org/obo/NCBITaxon_2937911) 
+
+- [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [Heliobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_31984) 
+
+- [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [Eubacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_186806) 
+
+- [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [Clostridiaceae](http://purl.obolibrary.org/obo/NCBITaxon_31979) 
+
+#### Added
+- [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [NCBITaxon_3118655](http://purl.obolibrary.org/obo/NCBITaxon_3118655) 
+
+- [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [NCBITaxon_3120162](http://purl.obolibrary.org/obo/NCBITaxon_3120162) 
+
+- [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [NCBITaxon_3120161](http://purl.obolibrary.org/obo/NCBITaxon_3120161) 
+
+- [Peptostreptococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_186804) DisjointWith [NCBITaxon_3118656](http://purl.obolibrary.org/obo/NCBITaxon_3118656) 
 
 
-
-### Prevotella intermedia `http://purl.obolibrary.org/obo/NCBITaxon_28131`
+### Peptostreptococcaceae incertae sedis `http://purl.obolibrary.org/obo/NCBITaxon_200630`
 #### Removed
-- [Prevotella intermedia](http://purl.obolibrary.org/obo/NCBITaxon_28131) DisjointWith [Prevotella ruminicola](http://purl.obolibrary.org/obo/NCBITaxon_839) 
+- [Peptostreptococcaceae incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_200630) DisjointWith [Filifactor](http://purl.obolibrary.org/obo/NCBITaxon_44259) 
 
 
 
-### Prevotella ruminicola `http://purl.obolibrary.org/obo/NCBITaxon_839`
+### Peptostreptococcus `http://purl.obolibrary.org/obo/NCBITaxon_1257`
 #### Removed
-- [Prevotella ruminicola](http://purl.obolibrary.org/obo/NCBITaxon_839) DisjointWith [environmental samples <CFB group bacteria,genus Prevotella>](http://purl.obolibrary.org/obo/NCBITaxon_84374) 
+- [Peptostreptococcus](http://purl.obolibrary.org/obo/NCBITaxon_1257) DisjointWith [Acetoanaerobium](http://purl.obolibrary.org/obo/NCBITaxon_186831) 
 
+- [Peptostreptococcus](http://purl.obolibrary.org/obo/NCBITaxon_1257) DisjointWith [Filifactor](http://purl.obolibrary.org/obo/NCBITaxon_44259) 
 
+- [Peptostreptococcus](http://purl.obolibrary.org/obo/NCBITaxon_1257) DisjointWith [Peptoclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1481960) 
 
-### Prochlorotrichales `http://purl.obolibrary.org/obo/NCBITaxon_3079745`
-#### Removed
-- Class: [Prochlorotrichales](http://purl.obolibrary.org/obo/NCBITaxon_3079745) 
-
-
-
-### Przondovirus `http://purl.obolibrary.org/obo/NCBITaxon_1985720`
-#### Removed
-- Class: [Przondovirus](http://purl.obolibrary.org/obo/NCBITaxon_1985720) 
-
-
-
-### Przondovirus K11 `http://purl.obolibrary.org/obo/NCBITaxon_1985724`
-#### Removed
-- Class: [Przondovirus K11](http://purl.obolibrary.org/obo/NCBITaxon_1985724) 
-
+#### Added
+- [Peptostreptococcus](http://purl.obolibrary.org/obo/NCBITaxon_1257) DisjointWith [Paraclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1849822) 
 
 
 ### Pseudomonadota `http://purl.obolibrary.org/obo/NCBITaxon_1224`
 
 #### Added
-- [Pseudomonadota](http://purl.obolibrary.org/obo/NCBITaxon_1224) DisjointWith [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+- [Pseudomonadota](http://purl.obolibrary.org/obo/NCBITaxon_1224) DisjointWith [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
 
-### Pseudomonas phage 201phi2-1 `http://purl.obolibrary.org/obo/NCBITaxon_198110`
+### Pteropus conspicillatus `http://purl.obolibrary.org/obo/NCBITaxon_328804`
 #### Removed
-- [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [Cyanophage S-2L](http://purl.obolibrary.org/obo/NCBITaxon_260586) 
-
-- [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [Phage PS34](http://purl.obolibrary.org/obo/NCBITaxon_83127) 
-
-- [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [Streptococcus phage B30](http://purl.obolibrary.org/obo/NCBITaxon_209152) 
-
-- [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [Phage PS119](http://purl.obolibrary.org/obo/NCBITaxon_83128) 
-
-- [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [Listeria phage A500](http://purl.obolibrary.org/obo/NCBITaxon_40522) 
-
-- [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [Clostridium botulinum D phage](http://purl.obolibrary.org/obo/NCBITaxon_29342) 
-
-- [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [Listeria phage A118](http://purl.obolibrary.org/obo/NCBITaxon_40521) 
-
-- [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [Streptococcus phage Dp-1](http://purl.obolibrary.org/obo/NCBITaxon_59241) 
-
-- [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [Enterobacteria phage VT1-Sakai](http://purl.obolibrary.org/obo/NCBITaxon_462299) 
-
-- [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [Salmonella phage PMBT28](http://purl.obolibrary.org/obo/NCBITaxon_2081904) 
-
-- [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [Lactococcus phage TP901-1](http://purl.obolibrary.org/obo/NCBITaxon_35345) 
-
-- [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [Synechococcus phage S-WHM1](http://purl.obolibrary.org/obo/NCBITaxon_65015) 
-
-- [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [Enterobacteria phage SfV](http://purl.obolibrary.org/obo/NCBITaxon_55884) 
-
-- [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [Synechococcus phage S-RSM2](http://purl.obolibrary.org/obo/NCBITaxon_264653) 
-
-- [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-- [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [Serratia phage KSP100](http://purl.obolibrary.org/obo/NCBITaxon_552529) 
-
-- [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [Staphylococcus phage phiH5](http://purl.obolibrary.org/obo/NCBITaxon_538529) 
-
-- [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [Bacillus phage rho15](http://purl.obolibrary.org/obo/NCBITaxon_36451) 
-
-- [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [Shigella phage SfII](http://purl.obolibrary.org/obo/NCBITaxon_66284) 
-
-- [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [Acinetobacter phage SH-Ab 15497](http://purl.obolibrary.org/obo/NCBITaxon_2060946) 
-
-- [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [Haemophilus phage S2](http://purl.obolibrary.org/obo/NCBITaxon_53000) 
-
-- [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [Streptococcus phage T12](http://purl.obolibrary.org/obo/NCBITaxon_35344) 
-
-- [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) DisjointWith [Lactococcus phage r1t](http://purl.obolibrary.org/obo/NCBITaxon_43685) 
+- Class: [Pteropus conspicillatus](http://purl.obolibrary.org/obo/NCBITaxon_328804) 
 
 
 
-### Psyllidae `http://purl.obolibrary.org/obo/NCBITaxon_30092`
+### Ralstonia solanacearum species complex `http://purl.obolibrary.org/obo/NCBITaxon_3116862`
 #### Removed
-- Class: [Psyllidae](http://purl.obolibrary.org/obo/NCBITaxon_30092) 
+- Class: [Ralstonia solanacearum species complex](http://purl.obolibrary.org/obo/NCBITaxon_3116862) 
 
 
 
-### Pteropus dasymallus `http://purl.obolibrary.org/obo/NCBITaxon_126282`
-
-#### Added
-- [Pteropus dasymallus](http://purl.obolibrary.org/obo/NCBITaxon_126282) DisjointWith [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) 
-
-
-### Pteropus giganteus `http://purl.obolibrary.org/obo/NCBITaxon_143291`
-
-#### Added
-- [Pteropus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_143291) DisjointWith [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) 
-
-
-### Pteropus pselaphon `http://purl.obolibrary.org/obo/NCBITaxon_1496133`
-
-#### Added
-- [Pteropus pselaphon](http://purl.obolibrary.org/obo/NCBITaxon_1496133) DisjointWith [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) 
-
-
-### Pteropus pumilus `http://purl.obolibrary.org/obo/NCBITaxon_161598`
-
-#### Added
-- [Pteropus pumilus](http://purl.obolibrary.org/obo/NCBITaxon_161598) DisjointWith [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) 
-
-
-### Pteropus rufus `http://purl.obolibrary.org/obo/NCBITaxon_196297`
-
-#### Added
-- [Pteropus rufus](http://purl.obolibrary.org/obo/NCBITaxon_196297) DisjointWith [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) 
-
-
-### Pteropus speciosus `http://purl.obolibrary.org/obo/NCBITaxon_161599`
-
-#### Added
-- [Pteropus speciosus](http://purl.obolibrary.org/obo/NCBITaxon_161599) DisjointWith [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) 
-
-
-### Pteropus vampyrus `http://purl.obolibrary.org/obo/NCBITaxon_132908`
-
-#### Added
-- [Pteropus vampyrus](http://purl.obolibrary.org/obo/NCBITaxon_132908) DisjointWith [NCBITaxon_328804](http://purl.obolibrary.org/obo/NCBITaxon_328804) 
-
-
-### Ptychostomum `http://purl.obolibrary.org/obo/NCBITaxon_576366`
+### Rana <subgenus> `http://purl.obolibrary.org/obo/NCBITaxon_121175`
 #### Removed
-- Class: [Ptychostomum](http://purl.obolibrary.org/obo/NCBITaxon_576366) 
-
-
-
-### Punavirus `http://purl.obolibrary.org/obo/NCBITaxon_186789`
-
-#### Added
-- [Punavirus](http://purl.obolibrary.org/obo/NCBITaxon_186789) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [Punavirus](http://purl.obolibrary.org/obo/NCBITaxon_186789) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-
-### Pyrgomorphinae `http://purl.obolibrary.org/obo/NCBITaxon_3078045`
-#### Removed
-- Class: [Pyrgomorphinae](http://purl.obolibrary.org/obo/NCBITaxon_3078045) 
-
-
-
-### Ralstonia pseudosolanacearum `http://purl.obolibrary.org/obo/NCBITaxon_1310165`
-#### Removed
-- [Ralstonia pseudosolanacearum](http://purl.obolibrary.org/obo/NCBITaxon_1310165) DisjointWith [unclassified Ralstonia](http://purl.obolibrary.org/obo/NCBITaxon_209769) 
-
-- [Ralstonia pseudosolanacearum](http://purl.obolibrary.org/obo/NCBITaxon_1310165) DisjointWith [Ralstonia pickettii](http://purl.obolibrary.org/obo/NCBITaxon_329) 
-
-
-
-### Ralstonia solanacearum `http://purl.obolibrary.org/obo/NCBITaxon_305`
-#### Removed
-- [Ralstonia solanacearum](http://purl.obolibrary.org/obo/NCBITaxon_305) DisjointWith [Ralstonia pickettii](http://purl.obolibrary.org/obo/NCBITaxon_329) 
-
-
-
-### Ramlibacter `http://purl.obolibrary.org/obo/NCBITaxon_174951`
-#### Removed
-- [Ramlibacter](http://purl.obolibrary.org/obo/NCBITaxon_174951) DisjointWith [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) 
-
-
-
-### Rhizobium phage 16-3 `http://purl.obolibrary.org/obo/NCBITaxon_10704`
-#### Removed
-- [Rhizobium phage 16-3](http://purl.obolibrary.org/obo/NCBITaxon_10704) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-- [Rhizobium phage 16-3](http://purl.obolibrary.org/obo/NCBITaxon_10704) DisjointWith [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
+- [Rana <subgenus>](http://purl.obolibrary.org/obo/NCBITaxon_121175) DisjointWith [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) 
 
 
 
 ### Rhodobacterales `http://purl.obolibrary.org/obo/NCBITaxon_204455`
 
 #### Added
-- [Rhodobacterales](http://purl.obolibrary.org/obo/NCBITaxon_204455) DisjointWith [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) 
-
-
-### Rhodoferax `http://purl.obolibrary.org/obo/NCBITaxon_28065`
-#### Removed
-- [Rhodoferax](http://purl.obolibrary.org/obo/NCBITaxon_28065) DisjointWith [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) 
-
+- [Rhodobacterales](http://purl.obolibrary.org/obo/NCBITaxon_204455) DisjointWith [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
 
 
 ### Rhodospirillales `http://purl.obolibrary.org/obo/NCBITaxon_204441`
 
 #### Added
-- [Rhodospirillales](http://purl.obolibrary.org/obo/NCBITaxon_204441) DisjointWith [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) 
-
-
-### Rhodospirillum `http://purl.obolibrary.org/obo/NCBITaxon_1081`
-#### Removed
-- [Rhodospirillum](http://purl.obolibrary.org/obo/NCBITaxon_1081) DisjointWith [Novispirillum](http://purl.obolibrary.org/obo/NCBITaxon_660514) 
-
+- [Rhodospirillales](http://purl.obolibrary.org/obo/NCBITaxon_204441) DisjointWith [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
 
 
 ### Rhodothalassiales `http://purl.obolibrary.org/obo/NCBITaxon_1544799`
 
 #### Added
-- [Rhodothalassiales](http://purl.obolibrary.org/obo/NCBITaxon_1544799) DisjointWith [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) 
+- [Rhodothalassiales](http://purl.obolibrary.org/obo/NCBITaxon_1544799) DisjointWith [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
 
 
-### Rhodothermus phage RM378 `http://purl.obolibrary.org/obo/NCBITaxon_148943`
+### Roseateles `http://purl.obolibrary.org/obo/NCBITaxon_93681`
 #### Removed
-- [Rhodothermus phage RM378](http://purl.obolibrary.org/obo/NCBITaxon_148943) DisjointWith [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
-
-- [Rhodothermus phage RM378](http://purl.obolibrary.org/obo/NCBITaxon_148943) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- Class: [Roseateles](http://purl.obolibrary.org/obo/NCBITaxon_93681) 
 
 
 
-### Rockefellervirus `http://purl.obolibrary.org/obo/NCBITaxon_2843445`
+### Sanguirana `http://purl.obolibrary.org/obo/NCBITaxon_1208497`
 
 #### Added
-- [Rockefellervirus](http://purl.obolibrary.org/obo/NCBITaxon_2843445) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [Rockefellervirus](http://purl.obolibrary.org/obo/NCBITaxon_2843445) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
+- [Sanguirana](http://purl.obolibrary.org/obo/NCBITaxon_1208497) DisjointWith [Aquarana](http://purl.obolibrary.org/obo/NCBITaxon_121236) 
 
 
-### Rosa acicularis `http://purl.obolibrary.org/obo/NCBITaxon_117260`
+### Serratia sp. ATCC 39006 `http://purl.obolibrary.org/obo/NCBITaxon_104623`
 #### Removed
-- [Rosa acicularis](http://purl.obolibrary.org/obo/NCBITaxon_117260) DisjointWith [Rosa hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_128735) 
+- [Serratia sp. ATCC 39006](http://purl.obolibrary.org/obo/NCBITaxon_104623) DisjointWith [Serratia sp. E-15](http://purl.obolibrary.org/obo/NCBITaxon_617) 
 
-#### Added
-- [Rosa acicularis](http://purl.obolibrary.org/obo/NCBITaxon_117260) DisjointWith [NCBITaxon_2245002](http://purl.obolibrary.org/obo/NCBITaxon_2245002) 
+- [Serratia sp. ATCC 39006](http://purl.obolibrary.org/obo/NCBITaxon_104623) DisjointWith [Serratia sp. FS14](http://purl.obolibrary.org/obo/NCBITaxon_1327989) 
 
 
-### Rosa hybrid cultivar `http://purl.obolibrary.org/obo/NCBITaxon_128735`
+
+### Serwervirus `http://purl.obolibrary.org/obo/NCBITaxon_3044821`
 #### Removed
-- [Rosa hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_128735) DisjointWith [Rosa chinensis](http://purl.obolibrary.org/obo/NCBITaxon_74649) 
-
-- [Rosa hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_128735) DisjointWith [Rosa x damascena](http://purl.obolibrary.org/obo/NCBITaxon_3765) 
-
-- [Rosa hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_128735) DisjointWith [Rosa californica](http://purl.obolibrary.org/obo/NCBITaxon_74641) 
-
-- [Rosa hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_128735) DisjointWith [Rosa stellata](http://purl.obolibrary.org/obo/NCBITaxon_74655) 
-
-- [Rosa hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_128735) DisjointWith [Rosa canina](http://purl.obolibrary.org/obo/NCBITaxon_74635) 
-
-- [Rosa hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_128735) DisjointWith [Rosa odorata](http://purl.obolibrary.org/obo/NCBITaxon_267246) 
-
-- [Rosa hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_128735) DisjointWith [Rosa carolina](http://purl.obolibrary.org/obo/NCBITaxon_74638) 
-
-- [Rosa hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_128735) DisjointWith [Rosa rugosa](http://purl.obolibrary.org/obo/NCBITaxon_74645) 
-
-- [Rosa hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_128735) DisjointWith [Rosa foetida](http://purl.obolibrary.org/obo/NCBITaxon_74629) 
-
-- [Rosa hybrid cultivar](http://purl.obolibrary.org/obo/NCBITaxon_128735) DisjointWith [Rosa multiflora](http://purl.obolibrary.org/obo/NCBITaxon_74647) 
+- Class: [Serwervirus](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
 
 
 
-### Rountreeviridae `http://purl.obolibrary.org/obo/NCBITaxon_2842327`
-
-#### Added
-- [Rountreeviridae](http://purl.obolibrary.org/obo/NCBITaxon_2842327) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [Rountreeviridae](http://purl.obolibrary.org/obo/NCBITaxon_2842327) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-
-### Rubrivivax `http://purl.obolibrary.org/obo/NCBITaxon_28067`
-
-#### Added
-- [Rubrivivax](http://purl.obolibrary.org/obo/NCBITaxon_28067) DisjointWith [NCBITaxon_93681](http://purl.obolibrary.org/obo/NCBITaxon_93681) 
-
-
-### Salasmaviridae `http://purl.obolibrary.org/obo/NCBITaxon_2842328`
-
-#### Added
-- [Salasmaviridae](http://purl.obolibrary.org/obo/NCBITaxon_2842328) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [Salasmaviridae](http://purl.obolibrary.org/obo/NCBITaxon_2842328) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-
-### Salmonella phage PMBT28 `http://purl.obolibrary.org/obo/NCBITaxon_2081904`
+### Serwervirus 201phi21 `http://purl.obolibrary.org/obo/NCBITaxon_3060698`
 #### Removed
-- [Salmonella phage PMBT28](http://purl.obolibrary.org/obo/NCBITaxon_2081904) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- Class: [Serwervirus 201phi21](http://purl.obolibrary.org/obo/NCBITaxon_3060698) 
 
-
-
-### Schitoviridae `http://purl.obolibrary.org/obo/NCBITaxon_2842329`
-
-#### Added
-- [Schitoviridae](http://purl.obolibrary.org/obo/NCBITaxon_2842329) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [Schitoviridae](http://purl.obolibrary.org/obo/NCBITaxon_2842329) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-
-### Schleiferiaceae `http://purl.obolibrary.org/obo/NCBITaxon_1333713`
-
-#### Added
-- [Schleiferiaceae](http://purl.obolibrary.org/obo/NCBITaxon_1333713) DisjointWith [NCBITaxon_3024551](http://purl.obolibrary.org/obo/NCBITaxon_3024551) 
-
-
-### Schmidvirus `http://purl.obolibrary.org/obo/NCBITaxon_1987146`
-
-#### Added
-- [Schmidvirus](http://purl.obolibrary.org/obo/NCBITaxon_1987146) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [Schmidvirus](http://purl.obolibrary.org/obo/NCBITaxon_1987146) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-
-### Segatella `http://purl.obolibrary.org/obo/NCBITaxon_2974251`
-
-#### Added
-- [Segatella](http://purl.obolibrary.org/obo/NCBITaxon_2974251) DisjointWith [NCBITaxon_558436](http://purl.obolibrary.org/obo/NCBITaxon_558436) 
-
-
-### Sendosyvirus `http://purl.obolibrary.org/obo/NCBITaxon_2843452`
-
-#### Added
-- [Sendosyvirus](http://purl.obolibrary.org/obo/NCBITaxon_2843452) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [Sendosyvirus](http://purl.obolibrary.org/obo/NCBITaxon_2843452) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-
-### Sepvirinae `http://purl.obolibrary.org/obo/NCBITaxon_1981156`
-
-#### Added
-- [Sepvirinae](http://purl.obolibrary.org/obo/NCBITaxon_1981156) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [Sepvirinae](http://purl.obolibrary.org/obo/NCBITaxon_1981156) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-
-### Serratia phage KSP100 `http://purl.obolibrary.org/obo/NCBITaxon_552529`
-#### Removed
-- [Serratia phage KSP100](http://purl.obolibrary.org/obo/NCBITaxon_552529) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Shigella phage SfII `http://purl.obolibrary.org/obo/NCBITaxon_66284`
-#### Removed
-- [Shigella phage SfII](http://purl.obolibrary.org/obo/NCBITaxon_66284) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Shigella phage SfX `http://purl.obolibrary.org/obo/NCBITaxon_10874`
-#### Removed
-- [Shigella phage SfX](http://purl.obolibrary.org/obo/NCBITaxon_10874) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-- [Shigella phage SfX](http://purl.obolibrary.org/obo/NCBITaxon_10874) DisjointWith [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
-
-
-
-### Skunavirus `http://purl.obolibrary.org/obo/NCBITaxon_1623305`
-
-#### Added
-- [Skunavirus](http://purl.obolibrary.org/obo/NCBITaxon_1623305) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [Skunavirus](http://purl.obolibrary.org/obo/NCBITaxon_1623305) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
 
 
 ### Sphingomonadales `http://purl.obolibrary.org/obo/NCBITaxon_204457`
 
 #### Added
-- [Sphingomonadales](http://purl.obolibrary.org/obo/NCBITaxon_204457) DisjointWith [NCBITaxon_3108222](http://purl.obolibrary.org/obo/NCBITaxon_3108222) 
+- [Sphingomonadales](http://purl.obolibrary.org/obo/NCBITaxon_204457) DisjointWith [NCBITaxon_3119832](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
 
 
 ### Spirochaetota `http://purl.obolibrary.org/obo/NCBITaxon_203691`
 
 #### Added
-- [Spirochaetota](http://purl.obolibrary.org/obo/NCBITaxon_203691) DisjointWith [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+- [Spirochaetota](http://purl.obolibrary.org/obo/NCBITaxon_203691) DisjointWith [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
 
-### Spizizenvirus `http://purl.obolibrary.org/obo/NCBITaxon_2843460`
-
-#### Added
-- [Spizizenvirus](http://purl.obolibrary.org/obo/NCBITaxon_2843460) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [Spizizenvirus](http://purl.obolibrary.org/obo/NCBITaxon_2843460) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-
-### Staphylococcus phage L54a `http://purl.obolibrary.org/obo/NCBITaxon_10727`
-#### Removed
-- [Staphylococcus phage L54a](http://purl.obolibrary.org/obo/NCBITaxon_10727) DisjointWith [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
-
-- [Staphylococcus phage L54a](http://purl.obolibrary.org/obo/NCBITaxon_10727) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Staphylococcus phage phiH5 `http://purl.obolibrary.org/obo/NCBITaxon_538529`
-#### Removed
-- [Staphylococcus phage phiH5](http://purl.obolibrary.org/obo/NCBITaxon_538529) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Straboviridae `http://purl.obolibrary.org/obo/NCBITaxon_2946170`
+### Staphylococcus `http://purl.obolibrary.org/obo/NCBITaxon_1279`
 
 #### Added
-- [Straboviridae](http://purl.obolibrary.org/obo/NCBITaxon_2946170) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [Straboviridae](http://purl.obolibrary.org/obo/NCBITaxon_2946170) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-
-### Streptococcus phage B30 `http://purl.obolibrary.org/obo/NCBITaxon_209152`
-#### Removed
-- [Streptococcus phage B30](http://purl.obolibrary.org/obo/NCBITaxon_209152) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Streptococcus phage Dp-1 `http://purl.obolibrary.org/obo/NCBITaxon_59241`
-#### Removed
-- [Streptococcus phage Dp-1](http://purl.obolibrary.org/obo/NCBITaxon_59241) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Streptococcus phage EJ-1 `http://purl.obolibrary.org/obo/NCBITaxon_12402`
-#### Removed
-- [Streptococcus phage EJ-1](http://purl.obolibrary.org/obo/NCBITaxon_12402) DisjointWith [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
-
-- [Streptococcus phage EJ-1](http://purl.obolibrary.org/obo/NCBITaxon_12402) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Streptococcus phage T12 `http://purl.obolibrary.org/obo/NCBITaxon_35344`
-#### Removed
-- [Streptococcus phage T12](http://purl.obolibrary.org/obo/NCBITaxon_35344) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Streptococcus pneumoniae phage HB-3 `http://purl.obolibrary.org/obo/NCBITaxon_10728`
-#### Removed
-- [Streptococcus pneumoniae phage HB-3](http://purl.obolibrary.org/obo/NCBITaxon_10728) DisjointWith [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
-
-- [Streptococcus pneumoniae phage HB-3](http://purl.obolibrary.org/obo/NCBITaxon_10728) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Strongylidae `http://purl.obolibrary.org/obo/NCBITaxon_27830`
-#### Removed
-- Class: [Strongylidae](http://purl.obolibrary.org/obo/NCBITaxon_27830) 
-
-
-
-### Suliformes `http://purl.obolibrary.org/obo/NCBITaxon_3073854`
-#### Removed
-- Class: [Suliformes](http://purl.obolibrary.org/obo/NCBITaxon_3073854) 
-
-
-
-### Symbiobacter `http://purl.obolibrary.org/obo/NCBITaxon_1436289`
-#### Removed
-- [Symbiobacter](http://purl.obolibrary.org/obo/NCBITaxon_1436289) DisjointWith [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) 
-
-
-
-### Synechococcus phage S-RSM2 `http://purl.obolibrary.org/obo/NCBITaxon_264653`
-#### Removed
-- [Synechococcus phage S-RSM2](http://purl.obolibrary.org/obo/NCBITaxon_264653) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Synechococcus phage S-WHM1 `http://purl.obolibrary.org/obo/NCBITaxon_65015`
-#### Removed
-- [Synechococcus phage S-WHM1](http://purl.obolibrary.org/obo/NCBITaxon_65015) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
-
-
-
-### Tanichthyidae `http://purl.obolibrary.org/obo/NCBITaxon_2743742`
-
-#### Added
-- [Tanichthyidae](http://purl.obolibrary.org/obo/NCBITaxon_2743742) DisjointWith [NCBITaxon_2743744](http://purl.obolibrary.org/obo/NCBITaxon_2743744) 
-
-
-### Tenoderinae `http://purl.obolibrary.org/obo/NCBITaxon_3095852`
-#### Removed
-- Class: [Tenoderinae](http://purl.obolibrary.org/obo/NCBITaxon_3095852) 
-
-
-
-### Tenoderini `http://purl.obolibrary.org/obo/NCBITaxon_3095868`
-#### Removed
-- Class: [Tenoderini](http://purl.obolibrary.org/obo/NCBITaxon_3095868) 
-
+- [Staphylococcus](http://purl.obolibrary.org/obo/NCBITaxon_1279) DisjointWith [NCBITaxon_3076173](http://purl.obolibrary.org/obo/NCBITaxon_3076173) 
 
 
 ### Terrabacteria group `http://purl.obolibrary.org/obo/NCBITaxon_1783272`
 
 #### Added
-- [Terrabacteria group](http://purl.obolibrary.org/obo/NCBITaxon_1783272) DisjointWith [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+- [Terrabacteria group](http://purl.obolibrary.org/obo/NCBITaxon_1783272) DisjointWith [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
 
-### Thalassospiraceae `http://purl.obolibrary.org/obo/NCBITaxon_2844866`
-
-#### Added
-- [Thalassospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_2844866) DisjointWith [NCBITaxon_3031145](http://purl.obolibrary.org/obo/NCBITaxon_3031145) 
-
-- [Thalassospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_2844866) DisjointWith [NCBITaxon_3036766](http://purl.obolibrary.org/obo/NCBITaxon_3036766) 
-
-
-### Thauera aminoaromatica `http://purl.obolibrary.org/obo/NCBITaxon_164330`
+### Terriglobus `http://purl.obolibrary.org/obo/NCBITaxon_392733`
 #### Removed
-- Class: [Thauera aminoaromatica](http://purl.obolibrary.org/obo/NCBITaxon_164330) 
+- [Terriglobus](http://purl.obolibrary.org/obo/NCBITaxon_392733) DisjointWith [Koribacter](http://purl.obolibrary.org/obo/NCBITaxon_658061) 
 
 
 
-### Thermoanaerobacteraceae `http://purl.obolibrary.org/obo/NCBITaxon_186814`
+### Thermincolaceae `http://purl.obolibrary.org/obo/NCBITaxon_2937911`
 #### Removed
-- [Thermoanaerobacteraceae](http://purl.obolibrary.org/obo/NCBITaxon_186814) DisjointWith [Thermodesulfobiaceae](http://purl.obolibrary.org/obo/NCBITaxon_227387) 
+- [Thermincolaceae](http://purl.obolibrary.org/obo/NCBITaxon_2937911) DisjointWith [Cellulosilyticaceae](http://purl.obolibrary.org/obo/NCBITaxon_3018741) 
 
 
 
 ### Thermodesulfobacteriota `http://purl.obolibrary.org/obo/NCBITaxon_200940`
 
 #### Added
-- [Thermodesulfobacteriota](http://purl.obolibrary.org/obo/NCBITaxon_200940) DisjointWith [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+- [Thermodesulfobacteriota](http://purl.obolibrary.org/obo/NCBITaxon_200940) DisjointWith [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
 
-### Thermodesulfobiaceae `http://purl.obolibrary.org/obo/NCBITaxon_227387`
+### Thermodesulfobiales `http://purl.obolibrary.org/obo/NCBITaxon_3002444`
 #### Removed
-- [Thermodesulfobiaceae](http://purl.obolibrary.org/obo/NCBITaxon_227387) DisjointWith [Thermoanaerobacterales Family III. Incertae Sedis](http://purl.obolibrary.org/obo/NCBITaxon_543371) 
+- Class: [Thermodesulfobiales](http://purl.obolibrary.org/obo/NCBITaxon_3002444) 
 
-- [Thermodesulfobiaceae](http://purl.obolibrary.org/obo/NCBITaxon_227387) DisjointWith [Thermoanaerobacterales Family IV. Incertae Sedis](http://purl.obolibrary.org/obo/NCBITaxon_543372) 
 
+
+### Thermodesulfobiia `http://purl.obolibrary.org/obo/NCBITaxon_3002443`
+#### Removed
+- Class: [Thermodesulfobiia](http://purl.obolibrary.org/obo/NCBITaxon_3002443) 
+
+
+
+### Thermodesulfobiota `http://purl.obolibrary.org/obo/NCBITaxon_3002442`
+#### Removed
+- Class: [Thermodesulfobiota](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+
+#### Added
+- [Thermodesulfobiota](http://purl.obolibrary.org/obo/NCBITaxon_3002442) DisjointWith [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
+
+
+### Thermosediminibacterales `http://purl.obolibrary.org/obo/NCBITaxon_2770089`
+#### Removed
+- [Thermosediminibacterales](http://purl.obolibrary.org/obo/NCBITaxon_2770089) DisjointWith [Caldicellulosiruptorales](http://purl.obolibrary.org/obo/NCBITaxon_3071001) 
+
+#### Added
+- [Thermosediminibacterales](http://purl.obolibrary.org/obo/NCBITaxon_2770089) DisjointWith [NCBITaxon_3082720](http://purl.obolibrary.org/obo/NCBITaxon_3082720) 
+
+- [Thermosediminibacterales](http://purl.obolibrary.org/obo/NCBITaxon_2770089) DisjointWith [NCBITaxon_3085636](http://purl.obolibrary.org/obo/NCBITaxon_3085636) 
 
 
 ### Thermotogota `http://purl.obolibrary.org/obo/NCBITaxon_200918`
 
 #### Added
-- [Thermotogota](http://purl.obolibrary.org/obo/NCBITaxon_200918) DisjointWith [NCBITaxon_3002442](http://purl.obolibrary.org/obo/NCBITaxon_3002442) 
+- [Thermotogota](http://purl.obolibrary.org/obo/NCBITaxon_200918) DisjointWith [NCBITaxon_3123113](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
 
 
-### Vertoviridae `http://purl.obolibrary.org/obo/NCBITaxon_2946172`
+### Tinca `http://purl.obolibrary.org/obo/NCBITaxon_27716`
+#### Removed
+- Class: [Tinca](http://purl.obolibrary.org/obo/NCBITaxon_27716) 
+
+
+
+### Tinca tinca `http://purl.obolibrary.org/obo/NCBITaxon_27717`
+#### Removed
+- Class: [Tinca tinca](http://purl.obolibrary.org/obo/NCBITaxon_27717) 
+
+
+
+### Tincidae `http://purl.obolibrary.org/obo/NCBITaxon_2743744`
+#### Removed
+- Class: [Tincidae](http://purl.obolibrary.org/obo/NCBITaxon_2743744) 
+
+
+
+### Tissierellia `http://purl.obolibrary.org/obo/NCBITaxon_1737404`
 
 #### Added
-- [Vertoviridae](http://purl.obolibrary.org/obo/NCBITaxon_2946172) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-- [Vertoviridae](http://purl.obolibrary.org/obo/NCBITaxon_2946172) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
+- [Tissierellia](http://purl.obolibrary.org/obo/NCBITaxon_1737404) DisjointWith [NCBITaxon_2840488](http://purl.obolibrary.org/obo/NCBITaxon_2840488) 
 
 
-### Vibrio phage CP-T1 `http://purl.obolibrary.org/obo/NCBITaxon_10689`
+### Tyzzerella `http://purl.obolibrary.org/obo/NCBITaxon_1506577`
 #### Removed
-- [Vibrio phage CP-T1](http://purl.obolibrary.org/obo/NCBITaxon_10689) DisjointWith [Pseudomonas phage 201phi2-1](http://purl.obolibrary.org/obo/NCBITaxon_198110) 
-
-- [Vibrio phage CP-T1](http://purl.obolibrary.org/obo/NCBITaxon_10689) DisjointWith [Pseudomonas phage PhiPA3](http://purl.obolibrary.org/obo/NCBITaxon_998086) 
+- [Tyzzerella](http://purl.obolibrary.org/obo/NCBITaxon_1506577) DisjointWith [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) 
 
 
 
-### Vibrio sp. EA2 `http://purl.obolibrary.org/obo/NCBITaxon_3079860`
+### Urocyon littoralis `http://purl.obolibrary.org/obo/NCBITaxon_244585`
 #### Removed
-- Class: [Vibrio sp. EA2](http://purl.obolibrary.org/obo/NCBITaxon_3079860) 
+- Class: [Urocyon littoralis](http://purl.obolibrary.org/obo/NCBITaxon_244585) 
 
 
 
-### Vigna cylindrica `http://purl.obolibrary.org/obo/NCBITaxon_3091605`
+### Xylanibacter `http://purl.obolibrary.org/obo/NCBITaxon_558436`
 #### Removed
-- Class: [Vigna cylindrica](http://purl.obolibrary.org/obo/NCBITaxon_3091605) 
+- Class: [Xylanibacter](http://purl.obolibrary.org/obo/NCBITaxon_558436) 
 
 
 
-### Wbetavirus `http://purl.obolibrary.org/obo/NCBITaxon_1623308`
-
-#### Added
-- [Wbetavirus](http://purl.obolibrary.org/obo/NCBITaxon_1623308) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [Wbetavirus](http://purl.obolibrary.org/obo/NCBITaxon_1623308) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-
-### Weeksellaceae `http://purl.obolibrary.org/obo/NCBITaxon_2762318`
-
-#### Added
-- [Weeksellaceae](http://purl.obolibrary.org/obo/NCBITaxon_2762318) DisjointWith [NCBITaxon_3024551](http://purl.obolibrary.org/obo/NCBITaxon_3024551) 
-
-
-### Weiservirinae `http://purl.obolibrary.org/obo/NCBITaxon_2946648`
-
-#### Added
-- [Weiservirinae](http://purl.obolibrary.org/obo/NCBITaxon_2946648) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [Weiservirinae](http://purl.obolibrary.org/obo/NCBITaxon_2946648) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-
-### Xenogale `http://purl.obolibrary.org/obo/NCBITaxon_3082989`
+### environmental samples <firmicutes,family Lachnospiraceae> `http://purl.obolibrary.org/obo/NCBITaxon_189703`
 #### Removed
-- Class: [Xenogale](http://purl.obolibrary.org/obo/NCBITaxon_3082989) 
+- [environmental samples <firmicutes,family Lachnospiraceae>](http://purl.obolibrary.org/obo/NCBITaxon_189703) DisjointWith [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) 
 
 
 
-### Xenogale naso `http://purl.obolibrary.org/obo/NCBITaxon_3082990`
+### mischivirus A1 `http://purl.obolibrary.org/obo/NCBITaxon_2870378`
 #### Removed
-- Class: [Xenogale naso](http://purl.obolibrary.org/obo/NCBITaxon_3082990) 
+- Class: [mischivirus A1](http://purl.obolibrary.org/obo/NCBITaxon_2870378) 
 
 
 
-### Xenophilus `http://purl.obolibrary.org/obo/NCBITaxon_151754`
+### unclassified Candidatus Lokiarchaeum `http://purl.obolibrary.org/obo/NCBITaxon_3099318`
 #### Removed
-- [Xenophilus](http://purl.obolibrary.org/obo/NCBITaxon_151754) DisjointWith [Pelomonas](http://purl.obolibrary.org/obo/NCBITaxon_335058) 
+- Class: [unclassified Candidatus Lokiarchaeum](http://purl.obolibrary.org/obo/NCBITaxon_3099318) 
 
 
 
-### unclassified Allorhizobium `http://purl.obolibrary.org/obo/NCBITaxon_2934935`
+### unclassified Candidatus Phytoplasma `http://purl.obolibrary.org/obo/NCBITaxon_3098986`
 #### Removed
-- Class: [unclassified Allorhizobium](http://purl.obolibrary.org/obo/NCBITaxon_2934935) 
+- Class: [unclassified Candidatus Phytoplasma](http://purl.obolibrary.org/obo/NCBITaxon_3098986) 
 
 
 
-### unclassified Caudoviricetes `http://purl.obolibrary.org/obo/NCBITaxon_2788787`
-
-#### Added
-- [unclassified Caudoviricetes](http://purl.obolibrary.org/obo/NCBITaxon_2788787) DisjointWith [NCBITaxon_3044765](http://purl.obolibrary.org/obo/NCBITaxon_3044765) 
-
-- [unclassified Caudoviricetes](http://purl.obolibrary.org/obo/NCBITaxon_2788787) DisjointWith [NCBITaxon_3044821](http://purl.obolibrary.org/obo/NCBITaxon_3044821) 
-
-
-### unclassified Desulfovibrio `http://purl.obolibrary.org/obo/NCBITaxon_2593640`
+### unclassified Cosavirus A `http://purl.obolibrary.org/obo/NCBITaxon_3115558`
 #### Removed
-- [unclassified Desulfovibrio](http://purl.obolibrary.org/obo/NCBITaxon_2593640) DisjointWith [Desulfovibrio vulgaris](http://purl.obolibrary.org/obo/NCBITaxon_881) 
+- Class: [unclassified Cosavirus A](http://purl.obolibrary.org/obo/NCBITaxon_3115558) 
 
 
 
-### unclassified Picosynechococcus `http://purl.obolibrary.org/obo/NCBITaxon_3079910`
+### unclassified Cucurbita `http://purl.obolibrary.org/obo/NCBITaxon_2608663`
 #### Removed
-- Class: [unclassified Picosynechococcus](http://purl.obolibrary.org/obo/NCBITaxon_3079910) 
+- Class: [unclassified Cucurbita](http://purl.obolibrary.org/obo/NCBITaxon_2608663) 
 
 
 
-### unclassified Prevotella `http://purl.obolibrary.org/obo/NCBITaxon_2638335`
+### unclassified Gerbera `http://purl.obolibrary.org/obo/NCBITaxon_2620334`
 #### Removed
-- [unclassified Prevotella](http://purl.obolibrary.org/obo/NCBITaxon_2638335) DisjointWith [Prevotella ruminicola](http://purl.obolibrary.org/obo/NCBITaxon_839) 
+- Class: [unclassified Gerbera](http://purl.obolibrary.org/obo/NCBITaxon_2620334) 
 
 
 
-### unclassified Ralstonia `http://purl.obolibrary.org/obo/NCBITaxon_209769`
+### unclassified Hemerocallis `http://purl.obolibrary.org/obo/NCBITaxon_2602359`
 #### Removed
-- [unclassified Ralstonia](http://purl.obolibrary.org/obo/NCBITaxon_209769) DisjointWith [Ralstonia solanacearum](http://purl.obolibrary.org/obo/NCBITaxon_305) 
+- Class: [unclassified Hemerocallis](http://purl.obolibrary.org/obo/NCBITaxon_2602359) 
 
-#### Added
-- [unclassified Ralstonia](http://purl.obolibrary.org/obo/NCBITaxon_209769) DisjointWith [NCBITaxon_3116862](http://purl.obolibrary.org/obo/NCBITaxon_3116862) 
+
+
+### unclassified Lachnospiraceae `http://purl.obolibrary.org/obo/NCBITaxon_186928`
+#### Removed
+- [unclassified Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186928) DisjointWith [Anaerotignum](http://purl.obolibrary.org/obo/NCBITaxon_2039240) 
+
+
+
+### unclassified Macropus `http://purl.obolibrary.org/obo/NCBITaxon_2649300`
+#### Removed
+- Class: [unclassified Macropus](http://purl.obolibrary.org/obo/NCBITaxon_2649300) 
+
+
+
+### unclassified Oncidium `http://purl.obolibrary.org/obo/NCBITaxon_2684971`
+#### Removed
+- Class: [unclassified Oncidium](http://purl.obolibrary.org/obo/NCBITaxon_2684971) 
+
+
+
+### unclassified Rosa `http://purl.obolibrary.org/obo/NCBITaxon_2245002`
+#### Removed
+- Class: [unclassified Rosa](http://purl.obolibrary.org/obo/NCBITaxon_2245002) 
+
