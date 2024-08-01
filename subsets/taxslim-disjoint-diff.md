@@ -2,12 +2,12 @@
 
 ## Left
 - Ontology IRI: `http://purl.obolibrary.org/obo/ncbitaxon/subsets/taxslim-disjoint-over-in-taxon.owl`
-- Version IRI: `http://purl.obolibrary.org/obo/ncbitaxon/releases/2024-03-26/subsets/taxslim-disjoint-over-in-taxon.owl`
+- Version IRI: `http://purl.obolibrary.org/obo/ncbitaxon/releases/2024-05-08/subsets/taxslim-disjoint-over-in-taxon.owl`
 - Loaded from: `file:/work/subsets/current_taxslim-disjoint.owl`
 
 ## Right
 - Ontology IRI: `http://purl.obolibrary.org/obo/ncbitaxon/subsets/taxslim-disjoint-over-in-taxon.owl`
-- Version IRI: `http://purl.obolibrary.org/obo/ncbitaxon/releases/2024-05-08/subsets/taxslim-disjoint-over-in-taxon.owl`
+- Version IRI: `http://purl.obolibrary.org/obo/ncbitaxon/releases/2024-07-03/subsets/taxslim-disjoint-over-in-taxon.owl`
 - Loaded from: `file:/work/subsets/taxslim-disjoint-over-in-taxon.owl`
 
 ### Ontology imports 
@@ -16,3899 +16,4593 @@
 
 ### Ontology annotations 
 #### Removed
-- [versionInfo](http://www.w3.org/2002/07/owl#versionInfo) "2024-03-26" 
-
-#### Added
 - [versionInfo](http://www.w3.org/2002/07/owl#versionInfo) "2024-05-08" 
 
-
-### Acremonium `http://purl.obolibrary.org/obo/NCBITaxon_159075`
-#### Removed
-- [Acremonium](http://purl.obolibrary.org/obo/NCBITaxon_159075) DisjointWith [Hapsidospora](http://purl.obolibrary.org/obo/NCBITaxon_95323) 
+#### Added
+- [versionInfo](http://www.w3.org/2002/07/owl#versionInfo) "2024-07-03" 
 
 
-
-### Aequorivita `http://purl.obolibrary.org/obo/NCBITaxon_153265`
+### Actinemys `http://purl.obolibrary.org/obo/NCBITaxon_335394`
 
 #### Added
-- [Aequorivita](http://purl.obolibrary.org/obo/NCBITaxon_153265) DisjointWith [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [Actinemys](http://purl.obolibrary.org/obo/NCBITaxon_335394) DisjointWith [NCBITaxon_85612](http://purl.obolibrary.org/obo/NCBITaxon_85612) 
 
 
-### Afifellaceae `http://purl.obolibrary.org/obo/NCBITaxon_2829802`
-
-#### Added
-- [Afifellaceae](http://purl.obolibrary.org/obo/NCBITaxon_2829802) DisjointWith [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) 
-
-
-### Alkalithermobacter `http://purl.obolibrary.org/obo/NCBITaxon_3120163`
-#### Removed
-- Class: [Alkalithermobacter](http://purl.obolibrary.org/obo/NCBITaxon_3120163) 
-
-
-
-### Allomuricauda `http://purl.obolibrary.org/obo/NCBITaxon_111500`
+### Agkistrodon conanti `http://purl.obolibrary.org/obo/NCBITaxon_2782195`
 
 #### Added
-- [Allomuricauda](http://purl.obolibrary.org/obo/NCBITaxon_111500) DisjointWith [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [Agkistrodon conanti](http://purl.obolibrary.org/obo/NCBITaxon_2782195) DisjointWith [NCBITaxon_2782196](http://purl.obolibrary.org/obo/NCBITaxon_2782196) 
 
 
-### Alphacarmotetravirus `http://purl.obolibrary.org/obo/NCBITaxon_1283209`
+### Agkistrodon contortrix laticinctus `http://purl.obolibrary.org/obo/NCBITaxon_37195`
 #### Removed
-- Class: [Alphacarmotetravirus](http://purl.obolibrary.org/obo/NCBITaxon_1283209) 
+- [Agkistrodon contortrix laticinctus](http://purl.obolibrary.org/obo/NCBITaxon_37195) DisjointWith [Agkistrodon contortrix contortrix](http://purl.obolibrary.org/obo/NCBITaxon_8713) 
 
 
 
-### Ametrida `http://purl.obolibrary.org/obo/NCBITaxon_148022`
+### Amedibacillus `http://purl.obolibrary.org/obo/NCBITaxon_2749846`
 
 #### Added
-- [Ametrida](http://purl.obolibrary.org/obo/NCBITaxon_148022) DisjointWith [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- [Amedibacillus](http://purl.obolibrary.org/obo/NCBITaxon_2749846) DisjointWith [NCBITaxon_433334](http://purl.obolibrary.org/obo/NCBITaxon_433334) 
 
 
-### Amoebophilaceae `http://purl.obolibrary.org/obo/NCBITaxon_1501348`
-
-#### Added
-- [Amoebophilaceae](http://purl.obolibrary.org/obo/NCBITaxon_1501348) DisjointWith [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) 
-
-
-### Anaerotignaceae `http://purl.obolibrary.org/obo/NCBITaxon_3118652`
-#### Removed
-- Class: [Anaerotignaceae](http://purl.obolibrary.org/obo/NCBITaxon_3118652) 
-
-
-
-### Anemone `http://purl.obolibrary.org/obo/NCBITaxon_22868`
+### Amphibolurinae `http://purl.obolibrary.org/obo/NCBITaxon_145349`
 
 #### Added
-- [Anemone](http://purl.obolibrary.org/obo/NCBITaxon_22868) DisjointWith [NCBITaxon_3137121](http://purl.obolibrary.org/obo/NCBITaxon_3137121) 
+- [Amphibolurinae](http://purl.obolibrary.org/obo/NCBITaxon_145349) DisjointWith [NCBITaxon_81954](http://purl.obolibrary.org/obo/NCBITaxon_81954) 
 
 
-### Antrozous `http://purl.obolibrary.org/obo/NCBITaxon_9439`
+### Anemone `http://purl.obolibrary.org/obo/NCBITaxon_3137121`
 #### Removed
-- [Antrozous](http://purl.obolibrary.org/obo/NCBITaxon_9439) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- Class: [Anemone](http://purl.obolibrary.org/obo/NCBITaxon_3137121) 
 
 
 
-### Aphanocladium `http://purl.obolibrary.org/obo/NCBITaxon_12941`
-#### Removed
-- [Aphanocladium](http://purl.obolibrary.org/obo/NCBITaxon_12941) DisjointWith [Hapsidospora](http://purl.obolibrary.org/obo/NCBITaxon_95323) 
-
-
-
-### Artemia franciscana `http://purl.obolibrary.org/obo/NCBITaxon_6661`
-#### Removed
-- [Artemia franciscana](http://purl.obolibrary.org/obo/NCBITaxon_6661) DisjointWith [Artemia parthenogenetica](http://purl.obolibrary.org/obo/NCBITaxon_6663) 
-
-
-
-### Artemia parthenogenetica `http://purl.obolibrary.org/obo/NCBITaxon_6663`
-#### Removed
-- [Artemia parthenogenetica](http://purl.obolibrary.org/obo/NCBITaxon_6663) DisjointWith [Artemia salina](http://purl.obolibrary.org/obo/NCBITaxon_85549) 
-
-
-
-### Artemia sinica `http://purl.obolibrary.org/obo/NCBITaxon_112780`
-#### Removed
-- [Artemia sinica](http://purl.obolibrary.org/obo/NCBITaxon_112780) DisjointWith [Artemia parthenogenetica](http://purl.obolibrary.org/obo/NCBITaxon_6663) 
-
-
-
-### Artemia sp. `http://purl.obolibrary.org/obo/NCBITaxon_6662`
+### Antaresia `http://purl.obolibrary.org/obo/NCBITaxon_196249`
 
 #### Added
-- [Artemia sp.](http://purl.obolibrary.org/obo/NCBITaxon_6662) DisjointWith [Artemia parthenogenetica](http://purl.obolibrary.org/obo/NCBITaxon_6663) 
-
-
-### Artibeus amplus `http://purl.obolibrary.org/obo/NCBITaxon_283491`
-#### Removed
-- [Artibeus amplus](http://purl.obolibrary.org/obo/NCBITaxon_283491) DisjointWith [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) 
-
-
-
-### Artibeus cinereus `http://purl.obolibrary.org/obo/NCBITaxon_40224`
-#### Removed
-- [Artibeus cinereus](http://purl.obolibrary.org/obo/NCBITaxon_40224) DisjointWith [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) 
-
-
-
-### Artibeus concolor `http://purl.obolibrary.org/obo/NCBITaxon_40225`
-#### Removed
-- [Artibeus concolor](http://purl.obolibrary.org/obo/NCBITaxon_40225) DisjointWith [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) 
-
-
-
-### Artibeus glaucus `http://purl.obolibrary.org/obo/NCBITaxon_40226`
-#### Removed
-- [Artibeus glaucus](http://purl.obolibrary.org/obo/NCBITaxon_40226) DisjointWith [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) 
-
-
-
-### Artibeus hartii `http://purl.obolibrary.org/obo/NCBITaxon_27654`
-#### Removed
-- [Artibeus hartii](http://purl.obolibrary.org/obo/NCBITaxon_27654) DisjointWith [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) 
-
-
-
-### Artibeus lituratus `http://purl.obolibrary.org/obo/NCBITaxon_27634`
-#### Removed
-- [Artibeus lituratus](http://purl.obolibrary.org/obo/NCBITaxon_27634) DisjointWith [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) 
-
-
-
-### Artibeus obscurus `http://purl.obolibrary.org/obo/NCBITaxon_40228`
-#### Removed
-- [Artibeus obscurus](http://purl.obolibrary.org/obo/NCBITaxon_40228) DisjointWith [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) 
-
-
-
-### Artibeus phaeotis `http://purl.obolibrary.org/obo/NCBITaxon_40229`
-#### Removed
-- [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) DisjointWith [Artibeus aztecus](http://purl.obolibrary.org/obo/NCBITaxon_40239) 
-
-- [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) DisjointWith [Artibeus inopinatus](http://purl.obolibrary.org/obo/NCBITaxon_51013) 
-
-- [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) DisjointWith [Artibeus toltecus](http://purl.obolibrary.org/obo/NCBITaxon_40240) 
-
-- [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) DisjointWith [Artibeus jamaicensis](http://purl.obolibrary.org/obo/NCBITaxon_9417) 
-
-- [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) DisjointWith [Artibeus fraterculus](http://purl.obolibrary.org/obo/NCBITaxon_51011) 
-
-- [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) DisjointWith [Artibeus planirostris](http://purl.obolibrary.org/obo/NCBITaxon_40230) 
-
-- [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) DisjointWith [Artibeus intermedius](http://purl.obolibrary.org/obo/NCBITaxon_51014) 
-
-- [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) DisjointWith [Artibeus anderseni](http://purl.obolibrary.org/obo/NCBITaxon_51015) 
-
-- [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) DisjointWith [Artibeus hirsutus](http://purl.obolibrary.org/obo/NCBITaxon_51012) 
-
-- [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) DisjointWith [Artibeus fimbriatus](http://purl.obolibrary.org/obo/NCBITaxon_51010) 
-
+- [Antaresia](http://purl.obolibrary.org/obo/NCBITaxon_196249) DisjointWith [NCBITaxon_3144915](http://purl.obolibrary.org/obo/NCBITaxon_3144915) 
 
 
 ### Aspergillus aculeatus `http://purl.obolibrary.org/obo/NCBITaxon_5053`
 
 #### Added
-- [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
 
 ### Aspergillus alliaceus `http://purl.obolibrary.org/obo/NCBITaxon_209559`
 #### Removed
-- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) 
+
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
+
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) 
+
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) 
+
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) 
+
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) 
+
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
+
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) 
+
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) 
+
+#### Added
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
 
 - [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
 
-- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
 
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
+
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
+
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
+
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
+
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
+
+- [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) 
 
 
 ### Aspergillus awamori `http://purl.obolibrary.org/obo/NCBITaxon_105351`
 #### Removed
-- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) 
+- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) 
 
-- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) 
+- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
-- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) 
 
-- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) 
+- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) 
 
-- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) 
+
+- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+
+- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) 
+
+- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+
+- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
+
+- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+
+- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
+
+- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
+
+- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) 
+
+- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) 
+
+- [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
 
 
 
 ### Aspergillus brasiliensis `http://purl.obolibrary.org/obo/NCBITaxon_319629`
-#### Removed
+
+#### Added
+- [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
 - [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
-
-- [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
-
-- [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
-
-- [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
 
 - [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
-
-- [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
-
 - [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
-- [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
-
-- [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
-
-- [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
-
 - [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
-
-#### Added
-- [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
-
-- [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) 
-
-- [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
-
-- [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
-
-- [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
-
-- [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
 
 
 ### Aspergillus burnettii `http://purl.obolibrary.org/obo/NCBITaxon_2508778`
 #### Removed
-- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
 
-- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
+
+- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) 
+
+- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) 
+
+- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
+
+- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
+
+- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
+
+- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+
+- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) 
+
+- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) 
+
+- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+
+- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
+
+- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) 
+
+- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) 
+
+- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
+
+- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+- [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) 
 
 
 
 ### Aspergillus carbonarius `http://purl.obolibrary.org/obo/NCBITaxon_40993`
 #### Removed
+- [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) DisjointWith [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+- [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) DisjointWith [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+- [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+
+- [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+#### Added
+- [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) DisjointWith [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
+
+- [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) DisjointWith [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
+
+- [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) DisjointWith [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
+
+- [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) DisjointWith [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
+
+- [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) DisjointWith [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
+
 - [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
 
+
+### Aspergillus clavatus `http://purl.obolibrary.org/obo/NCBITaxon_5057`
+
+#### Added
+- [Aspergillus clavatus](http://purl.obolibrary.org/obo/NCBITaxon_5057) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
 
 ### Aspergillus desertorum `http://purl.obolibrary.org/obo/NCBITaxon_1810909`
 #### Removed
-- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
 
-- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
 
-- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) 
+
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
+
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) 
+
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) 
+
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
+
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) 
+
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
+
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
+
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) 
+
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) 
+
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) 
+
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) 
+
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) 
+
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) 
+
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) 
+
+#### Added
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus calidoustus](http://purl.obolibrary.org/obo/NCBITaxon_454130) 
+
+- [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [Aspergillus versicolor](http://purl.obolibrary.org/obo/NCBITaxon_46472) 
 
 
 ### Aspergillus eucalypticola `http://purl.obolibrary.org/obo/NCBITaxon_1340029`
-#### Removed
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) 
-
+#### Added
 - [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) 
 
 - [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) 
+- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) 
+
+- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) 
 
 - [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
 
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
 
 - [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
-
-#### Added
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
-
-- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
+- [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) 
 
 
 ### Aspergillus ficuum `http://purl.obolibrary.org/obo/NCBITaxon_5058`
 #### Removed
-- [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
+- [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+
+
+### Aspergillus fischeri `http://purl.obolibrary.org/obo/NCBITaxon_36630`
+
+#### Added
+- [Aspergillus fischeri](http://purl.obolibrary.org/obo/NCBITaxon_36630) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
 
 ### Aspergillus flavipes `http://purl.obolibrary.org/obo/NCBITaxon_41900`
 
 #### Added
-- [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
+
+- [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
 
 ### Aspergillus flavus `http://purl.obolibrary.org/obo/NCBITaxon_5059`
 
 #### Added
-- [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
 
 ### Aspergillus fumisynnematus `http://purl.obolibrary.org/obo/NCBITaxon_286432`
 #### Removed
-- [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
 
-- [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
 
-- [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
 
+- [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+- [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+
+- [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
+
+- [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+- [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
+
+- [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+
+- [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
+
+- [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+
+#### Added
+- [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [Aspergillus clavatus](http://purl.obolibrary.org/obo/NCBITaxon_5057) 
+
+- [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [Aspergillus fischeri](http://purl.obolibrary.org/obo/NCBITaxon_36630) 
+
+- [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [Aspergillus fumigatus](http://purl.obolibrary.org/obo/NCBITaxon_746128) 
 
 
 ### Aspergillus giganteus `http://purl.obolibrary.org/obo/NCBITaxon_5060`
 #### Removed
-- [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) DisjointWith [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
 
+- [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+- [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+
+#### Added
+- [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) DisjointWith [Aspergillus fumigatus](http://purl.obolibrary.org/obo/NCBITaxon_746128) 
 
 
 ### Aspergillus hancockii `http://purl.obolibrary.org/obo/NCBITaxon_1873369`
 #### Removed
-- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
 
-- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) 
+
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) 
+
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) 
+
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) 
+
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) 
+
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) 
+
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
+
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) 
+
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
+
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+#### Added
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
 
 - [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
 
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
+
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
+
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
+
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
+
+- [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) 
 
 
 ### Aspergillus homomorphus `http://purl.obolibrary.org/obo/NCBITaxon_319626`
 #### Removed
+- [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+- [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+
+- [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+
+- [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+
+- [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+- [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+#### Added
 - [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+
+- [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
 
 - [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
 
+- [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) 
+
+- [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
+
+- [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
+
+- [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
+
+- [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
 
 
 ### Aspergillus japonicus `http://purl.obolibrary.org/obo/NCBITaxon_34381`
 #### Removed
+- [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+
+- [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+
+- [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+- [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+- [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+#### Added
+- [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
+
+- [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
+
+- [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
+
 - [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
 
+- [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
+
+- [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
 
 
 ### Aspergillus luchuensis `http://purl.obolibrary.org/obo/NCBITaxon_1069201`
-#### Removed
+
+#### Added
 - [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
 
 - [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
 
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) 
+- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
 - [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
 
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) 
+- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) 
+
+- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
+
+- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) 
+
+- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
 - [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
-
-#### Added
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
-
-- [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) 
 
 
 ### Aspergillus nanangensis `http://purl.obolibrary.org/obo/NCBITaxon_2582783`
 #### Removed
+- [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+
+- [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) 
+
+- [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+
+- [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) 
+
+- [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+- [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+
+- [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) 
+
+- [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) 
+
+- [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
+
+- [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+- [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) 
+
+- [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) 
+
+- [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
+
+- [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+#### Added
+- [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+
+- [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
+
 - [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
 
-- [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
+
+- [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
+
+- [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) 
+
+- [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
+
+- [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
 
 - [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
 
 
-
 ### Aspergillus neoniger `http://purl.obolibrary.org/obo/NCBITaxon_1196635`
-#### Removed
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) 
 
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) 
-
+#### Added
 - [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) 
 
 - [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
 
+- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) 
+
+- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
+
+- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) 
+
+- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+
+- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
+
 - [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) 
+- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
 
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+### Aspergillus nidulans `http://purl.obolibrary.org/obo/NCBITaxon_162425`
 
 #### Added
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) 
+- [Aspergillus nidulans](http://purl.obolibrary.org/obo/NCBITaxon_162425) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
 
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
+- [Aspergillus nidulans](http://purl.obolibrary.org/obo/NCBITaxon_162425) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
 
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
-
-- [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
+- [Aspergillus nidulans](http://purl.obolibrary.org/obo/NCBITaxon_162425) DisjointWith [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) 
 
 
 ### Aspergillus niger `http://purl.obolibrary.org/obo/NCBITaxon_5061`
 
 #### Added
-- [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
 
 ### Aspergillus novofumigatus `http://purl.obolibrary.org/obo/NCBITaxon_340412`
 #### Removed
-- [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
 
+- [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+- [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+
+- [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
+
+- [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+
+- [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+
+- [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
+
+- [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+- [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
+
+#### Added
+- [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [Aspergillus fischeri](http://purl.obolibrary.org/obo/NCBITaxon_36630) 
+
+- [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [Aspergillus fumigatus](http://purl.obolibrary.org/obo/NCBITaxon_746128) 
+
+- [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [Aspergillus clavatus](http://purl.obolibrary.org/obo/NCBITaxon_5057) 
 
 
 ### Aspergillus oryzae `http://purl.obolibrary.org/obo/NCBITaxon_5062`
 
 #### Added
-- [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
 
 ### Aspergillus pallidus `http://purl.obolibrary.org/obo/NCBITaxon_29839`
 #### Removed
-- [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
 
-- [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
+
+- [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
+
+- [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
+
+- [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+
+- [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+
+- [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
+
+- [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
 
 
 ### Aspergillus parasiticus `http://purl.obolibrary.org/obo/NCBITaxon_5067`
 #### Removed
-- [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
 
+#### Added
+- [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
 
 
 ### Aspergillus phoenicis `http://purl.obolibrary.org/obo/NCBITaxon_5063`
 #### Removed
-- [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
 
 
 ### Aspergillus pseudoglaucus `http://purl.obolibrary.org/obo/NCBITaxon_1405805`
 #### Removed
-- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
-- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
 
-- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) 
 
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) 
+
+#### Added
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus glaucus](http://purl.obolibrary.org/obo/NCBITaxon_41413) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus restrictus](http://purl.obolibrary.org/obo/NCBITaxon_5064) 
+
+- [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [Aspergillus amstelodami](http://purl.obolibrary.org/obo/NCBITaxon_5054) 
 
 
 ### Aspergillus rugulosus `http://purl.obolibrary.org/obo/NCBITaxon_41736`
 #### Removed
-- [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
+- [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
+
+- [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) DisjointWith [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+- [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) DisjointWith [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+- [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+#### Added
+- [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) DisjointWith [Aspergillus calidoustus](http://purl.obolibrary.org/obo/NCBITaxon_454130) 
+
+- [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) DisjointWith [Aspergillus versicolor](http://purl.obolibrary.org/obo/NCBITaxon_46472) 
 
 
 ### Aspergillus sclerotiicarbonarius `http://purl.obolibrary.org/obo/NCBITaxon_487660`
 #### Removed
+- [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) DisjointWith [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+- [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) DisjointWith [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+- [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+#### Added
+- [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) DisjointWith [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
+
+- [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) DisjointWith [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
+
+- [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) DisjointWith [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
+
 - [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
 
+- [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) DisjointWith [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
 
 
 ### Aspergillus sojae `http://purl.obolibrary.org/obo/NCBITaxon_41058`
 #### Removed
+- [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+
+- [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+- [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) DisjointWith [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+- [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) DisjointWith [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+#### Added
+- [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) DisjointWith [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
+
+- [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) DisjointWith [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
+
 - [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
 
+- [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) DisjointWith [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
+
+- [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) DisjointWith [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
+
+- [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) DisjointWith [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
 
 
 ### Aspergillus stellatus `http://purl.obolibrary.org/obo/NCBITaxon_1549217`
 #### Removed
-- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) 
 
-- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) 
 
-- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
 
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
+
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) 
+
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) 
+
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
+
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) 
+
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) 
+
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
+
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) 
+
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) 
+
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
+
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) 
+
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) 
+
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) 
+
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
+
+#### Added
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus calidoustus](http://purl.obolibrary.org/obo/NCBITaxon_454130) 
+
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus nidulans](http://purl.obolibrary.org/obo/NCBITaxon_162425) 
+
+- [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [Aspergillus versicolor](http://purl.obolibrary.org/obo/NCBITaxon_46472) 
 
 
 ### Aspergillus subgen. Aspergillus `http://purl.obolibrary.org/obo/NCBITaxon_2720874`
 #### Removed
-- [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
 
-- [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
-- [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+
+- [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
+
+- [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+
+- [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
+
+- [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
+
+- [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
+
+- [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+
+- [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
 
 
 ### Aspergillus subgen. Circumdati `http://purl.obolibrary.org/obo/NCBITaxon_2720871`
 #### Removed
-- [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
 
-- [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
+
+- [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+
+- [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
+
+- [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
+
+- [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+
+- [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+
+- [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
+
+- [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
 
 
 
 ### Aspergillus subgen. Cremei `http://purl.obolibrary.org/obo/NCBITaxon_2720873`
 #### Removed
-- [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
 
-- [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
 
-- [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
+
+- [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
+
+- [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
+
+- [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+
+- [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+
+- [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
+
+- [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
 
 
 ### Aspergillus subgen. Fumigati `http://purl.obolibrary.org/obo/NCBITaxon_2720872`
 #### Removed
-- [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
 
-- [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
 
-- [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
+
+- [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
+
+- [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+
+- [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+
+- [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+
+- [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+
+- [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
+
+- [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
 
 
 ### Aspergillus subgen. Nidulantes `http://purl.obolibrary.org/obo/NCBITaxon_2720870`
 #### Removed
-- [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
-- [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
 
-- [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+
+- [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
+
+- [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
+
+- [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
+
+- [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
+
+- [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
+
+- [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+
+- [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
 
 
 
 ### Aspergillus terreus `http://purl.obolibrary.org/obo/NCBITaxon_33178`
 
 #### Added
-- [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
 
+- [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-### Aspergillus tubingensis `http://purl.obolibrary.org/obo/NCBITaxon_5068`
-#### Removed
-- [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+- [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
+- [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
 
 ### Aspergillus usamii `http://purl.obolibrary.org/obo/NCBITaxon_186680`
 #### Removed
-- [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
 
-- [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
+
+- [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) 
+
+- [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
+
+- [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) 
+
+- [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+
+- [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+
+- [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+
+- [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
+
+- [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+
+- [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) 
+
+- [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) 
 
 
 
 ### Aspergillus ustus `http://purl.obolibrary.org/obo/NCBITaxon_40382`
 #### Removed
-- [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
+- [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) DisjointWith [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+- [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+- [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
+
+- [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+
+- [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) DisjointWith [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+#### Added
+- [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) DisjointWith [Aspergillus versicolor](http://purl.obolibrary.org/obo/NCBITaxon_46472) 
+
+- [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) DisjointWith [Aspergillus calidoustus](http://purl.obolibrary.org/obo/NCBITaxon_454130) 
 
 
 ### Aspergillus vadensis `http://purl.obolibrary.org/obo/NCBITaxon_288669`
-#### Removed
+
+#### Added
 - [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
-
-- [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
-
-- [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
-
-- [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
-
-- [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
-
-- [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
-
-- [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
 
 - [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
-
-- [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
-
-- [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
-
-- [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
-
 - [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
 
 - [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-#### Added
-- [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
-
-- [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
-
-- [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
-
-- [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
-
-- [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) 
-
-- [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
+- [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
 
 
-### Aurantimonadaceae `http://purl.obolibrary.org/obo/NCBITaxon_255475`
+### Atropoides picadoi `http://purl.obolibrary.org/obo/NCBITaxon_44729`
+#### Removed
+- [Atropoides picadoi](http://purl.obolibrary.org/obo/NCBITaxon_44729) DisjointWith [Atropoides nummifer](http://purl.obolibrary.org/obo/NCBITaxon_44730) 
+
+
+
+### Avulavirinae `http://purl.obolibrary.org/obo/NCBITaxon_2560069`
 
 #### Added
-- [Aurantimonadaceae](http://purl.obolibrary.org/obo/NCBITaxon_255475) DisjointWith [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) 
+- [Avulavirinae](http://purl.obolibrary.org/obo/NCBITaxon_2560069) DisjointWith [NCBITaxon_3152209](http://purl.obolibrary.org/obo/NCBITaxon_3152209) 
 
 
-### Bacillota incertae sedis `http://purl.obolibrary.org/obo/NCBITaxon_2840488`
-#### Removed
-- Class: [Bacillota incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_2840488) 
-
-
-
-### Bacillus phage PBS2 `http://purl.obolibrary.org/obo/NCBITaxon_10684`
-#### Removed
-- [Bacillus phage PBS2](http://purl.obolibrary.org/obo/NCBITaxon_10684) DisjointWith [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) 
-
-
-
-### Bacillus phage SPP1 `http://purl.obolibrary.org/obo/NCBITaxon_10724`
-#### Removed
-- [Bacillus phage SPP1](http://purl.obolibrary.org/obo/NCBITaxon_10724) DisjointWith [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) 
-
-
-
-### Bacillus phage SPR `http://purl.obolibrary.org/obo/NCBITaxon_10725`
-#### Removed
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Streptococcus phage T12](http://purl.obolibrary.org/obo/NCBITaxon_35344) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Listeria phage A500](http://purl.obolibrary.org/obo/NCBITaxon_40522) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Salmonella phage PMBT28](http://purl.obolibrary.org/obo/NCBITaxon_2081904) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Staphylococcus phage phiH5](http://purl.obolibrary.org/obo/NCBITaxon_538529) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Enterobacteria phage phi21](http://purl.obolibrary.org/obo/NCBITaxon_10737) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Streptococcus phage EJ-1](http://purl.obolibrary.org/obo/NCBITaxon_12402) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Bacillus phage rho15](http://purl.obolibrary.org/obo/NCBITaxon_36451) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Phage PS119](http://purl.obolibrary.org/obo/NCBITaxon_83128) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Rhodothermus phage RM378](http://purl.obolibrary.org/obo/NCBITaxon_148943) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Lactococcus phage phi-vML3](http://purl.obolibrary.org/obo/NCBITaxon_10746) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Cyanophage S-2L](http://purl.obolibrary.org/obo/NCBITaxon_260586) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Lactococcus phage r1t](http://purl.obolibrary.org/obo/NCBITaxon_43685) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Enterobacteria phage VT1-Sakai](http://purl.obolibrary.org/obo/NCBITaxon_462299) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Staphylococcus phage L54a](http://purl.obolibrary.org/obo/NCBITaxon_10727) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Streptococcus pneumoniae phage HB-3](http://purl.obolibrary.org/obo/NCBITaxon_10728) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Streptococcus phage B30](http://purl.obolibrary.org/obo/NCBITaxon_209152) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Lactobacillus phage LL-H](http://purl.obolibrary.org/obo/NCBITaxon_12348) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Phage PS34](http://purl.obolibrary.org/obo/NCBITaxon_83127) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Synechococcus phage S-RSM2](http://purl.obolibrary.org/obo/NCBITaxon_264653) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Shigella phage SfX](http://purl.obolibrary.org/obo/NCBITaxon_10874) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Clostridium phage c-st](http://purl.obolibrary.org/obo/NCBITaxon_12336) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Synechococcus phage S-WHM1](http://purl.obolibrary.org/obo/NCBITaxon_65015) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Clostridium botulinum D phage](http://purl.obolibrary.org/obo/NCBITaxon_29342) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Streptococcus phage Dp-1](http://purl.obolibrary.org/obo/NCBITaxon_59241) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Haemophilus phage S2](http://purl.obolibrary.org/obo/NCBITaxon_53000) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Shigella phage SfII](http://purl.obolibrary.org/obo/NCBITaxon_66284) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Lactococcus phage TP901-1](http://purl.obolibrary.org/obo/NCBITaxon_35345) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Bacillus phage SF6](http://purl.obolibrary.org/obo/NCBITaxon_10773) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Acinetobacter phage SH-Ab 15497](http://purl.obolibrary.org/obo/NCBITaxon_2060946) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Serratia phage KSP100](http://purl.obolibrary.org/obo/NCBITaxon_552529) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Enterobacteria phage SfV](http://purl.obolibrary.org/obo/NCBITaxon_55884) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Listeria phage A118](http://purl.obolibrary.org/obo/NCBITaxon_40521) 
-
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Clostridium phage phi8074-B1](http://purl.obolibrary.org/obo/NCBITaxon_1147137) 
+### Bothrocophias `http://purl.obolibrary.org/obo/NCBITaxon_230467`
 
 #### Added
-- [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [Bacillus phage phi3T](http://purl.obolibrary.org/obo/NCBITaxon_10736) 
+- [Bothrocophias](http://purl.obolibrary.org/obo/NCBITaxon_230467) DisjointWith [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) 
+
+- [Bothrocophias](http://purl.obolibrary.org/obo/NCBITaxon_230467) DisjointWith [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) 
 
 
-### Bernardetiaceae `http://purl.obolibrary.org/obo/NCBITaxon_1937968`
+### Buthus occitanus israelis `http://purl.obolibrary.org/obo/NCBITaxon_539894`
+#### Removed
+- [Buthus occitanus israelis](http://purl.obolibrary.org/obo/NCBITaxon_539894) DisjointWith [Buthus occitanus mardochei](http://purl.obolibrary.org/obo/NCBITaxon_6869) 
+
+- [Buthus occitanus israelis](http://purl.obolibrary.org/obo/NCBITaxon_539894) DisjointWith [Buthus occitanus tunetanus](http://purl.obolibrary.org/obo/NCBITaxon_6871) 
+
+
+
+### Buthus paris `http://purl.obolibrary.org/obo/NCBITaxon_1388771`
 
 #### Added
-- [Bernardetiaceae](http://purl.obolibrary.org/obo/NCBITaxon_1937968) DisjointWith [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) 
+- [Buthus paris](http://purl.obolibrary.org/obo/NCBITaxon_1388771) DisjointWith [NCBITaxon_2899555](http://purl.obolibrary.org/obo/NCBITaxon_2899555) 
 
 
-### Blastochloridaceae `http://purl.obolibrary.org/obo/NCBITaxon_2831090`
-
-#### Added
-- [Blastochloridaceae](http://purl.obolibrary.org/obo/NCBITaxon_2831090) DisjointWith [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) 
-
-
-### Boneia `http://purl.obolibrary.org/obo/NCBITaxon_270781`
-#### Removed
-- [Boneia](http://purl.obolibrary.org/obo/NCBITaxon_270781) DisjointWith [Rousettus](http://purl.obolibrary.org/obo/NCBITaxon_9406) 
-
-- [Boneia](http://purl.obolibrary.org/obo/NCBITaxon_270781) DisjointWith [Thoopterus](http://purl.obolibrary.org/obo/NCBITaxon_58086) 
-
-- [Boneia](http://purl.obolibrary.org/obo/NCBITaxon_270781) DisjointWith [Cynopterus](http://purl.obolibrary.org/obo/NCBITaxon_9399) 
-
-- [Boneia](http://purl.obolibrary.org/obo/NCBITaxon_270781) DisjointWith [Nyctimene](http://purl.obolibrary.org/obo/NCBITaxon_48987) 
-
-- [Boneia](http://purl.obolibrary.org/obo/NCBITaxon_270781) DisjointWith [Paranyctimene](http://purl.obolibrary.org/obo/NCBITaxon_270784) 
-
-
-
-### Borrelia miyamotoi `http://purl.obolibrary.org/obo/NCBITaxon_47466`
-#### Removed
-- Class: [Borrelia miyamotoi](http://purl.obolibrary.org/obo/NCBITaxon_47466) 
-
-
-
-### Bovine orthopneumovirus `http://purl.obolibrary.org/obo/NCBITaxon_11246`
+### Candida/Lodderomyces clade `http://purl.obolibrary.org/obo/NCBITaxon_1535325`
 
 #### Added
-- [Bovine orthopneumovirus](http://purl.obolibrary.org/obo/NCBITaxon_11246) DisjointWith [NCBITaxon_3136119](http://purl.obolibrary.org/obo/NCBITaxon_3136119) 
+- [Candida/Lodderomyces clade](http://purl.obolibrary.org/obo/NCBITaxon_1535325) DisjointWith [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) 
 
 
-### Bovine respiratory syncytial virus ATCC51908 `http://purl.obolibrary.org/obo/NCBITaxon_11247`
+### Candidatus Hepatoplasmataceae `http://purl.obolibrary.org/obo/NCBITaxon_3132029`
 #### Removed
-- [Bovine respiratory syncytial virus ATCC51908](http://purl.obolibrary.org/obo/NCBITaxon_11247) DisjointWith [Bovine respiratory syncytial virus strain snook](http://purl.obolibrary.org/obo/NCBITaxon_82824) 
-
-- [Bovine respiratory syncytial virus ATCC51908](http://purl.obolibrary.org/obo/NCBITaxon_11247) DisjointWith [Bovine respiratory syncytial virus strain 4642](http://purl.obolibrary.org/obo/NCBITaxon_82820) 
-
-- [Bovine respiratory syncytial virus ATCC51908](http://purl.obolibrary.org/obo/NCBITaxon_11247) DisjointWith [Bovine respiratory syncytial virus strain 220-60](http://purl.obolibrary.org/obo/NCBITaxon_82819) 
-
-- [Bovine respiratory syncytial virus ATCC51908](http://purl.obolibrary.org/obo/NCBITaxon_11247) DisjointWith [Bovine respiratory syncytial virus (strain RB94)](http://purl.obolibrary.org/obo/NCBITaxon_11249) 
-
-- [Bovine respiratory syncytial virus ATCC51908](http://purl.obolibrary.org/obo/NCBITaxon_11247) DisjointWith [Bovine respiratory syncytial virus (strain Copenhagen)](http://purl.obolibrary.org/obo/NCBITaxon_11248) 
-
-- [Bovine respiratory syncytial virus ATCC51908](http://purl.obolibrary.org/obo/NCBITaxon_11247) DisjointWith [Bovine respiratory syncytial virus strain 127](http://purl.obolibrary.org/obo/NCBITaxon_82818) 
-
-- [Bovine respiratory syncytial virus ATCC51908](http://purl.obolibrary.org/obo/NCBITaxon_11247) DisjointWith [Bovine respiratory syncytial virus strain wbh](http://purl.obolibrary.org/obo/NCBITaxon_82825) 
-
-- [Bovine respiratory syncytial virus ATCC51908](http://purl.obolibrary.org/obo/NCBITaxon_11247) DisjointWith [Bovine respiratory syncytial virus strain 375](http://purl.obolibrary.org/obo/NCBITaxon_82821) 
-
-- [Bovine respiratory syncytial virus ATCC51908](http://purl.obolibrary.org/obo/NCBITaxon_11247) DisjointWith [Bovine respiratory syncytial virus strain 220-69](http://purl.obolibrary.org/obo/NCBITaxon_82822) 
-
-- [Bovine respiratory syncytial virus ATCC51908](http://purl.obolibrary.org/obo/NCBITaxon_11247) DisjointWith [Bovine respiratory syncytial virus strain lelystad](http://purl.obolibrary.org/obo/NCBITaxon_82823) 
-
-- [Bovine respiratory syncytial virus ATCC51908](http://purl.obolibrary.org/obo/NCBITaxon_11247) DisjointWith [Bovine respiratory syncytial virus (strain 391-2)](http://purl.obolibrary.org/obo/NCBITaxon_31611) 
+- Class: [Candidatus Hepatoplasmataceae](http://purl.obolibrary.org/obo/NCBITaxon_3132029) 
 
 
 
-### Brucellaceae `http://purl.obolibrary.org/obo/NCBITaxon_118882`
+### Chrysemys `http://purl.obolibrary.org/obo/NCBITaxon_8477`
 
 #### Added
-- [Brucellaceae](http://purl.obolibrary.org/obo/NCBITaxon_118882) DisjointWith [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) 
+- [Chrysemys](http://purl.obolibrary.org/obo/NCBITaxon_8477) DisjointWith [NCBITaxon_85612](http://purl.obolibrary.org/obo/NCBITaxon_85612) 
 
 
-### Bubalus kerabau `http://purl.obolibrary.org/obo/NCBITaxon_3119969`
+### Cistugidae `http://purl.obolibrary.org/obo/NCBITaxon_3136025`
 #### Removed
-- Class: [Bubalus kerabau](http://purl.obolibrary.org/obo/NCBITaxon_3119969) 
+- Class: [Cistugidae](http://purl.obolibrary.org/obo/NCBITaxon_3136025) 
 
 
 
-### Calcarisporium `http://purl.obolibrary.org/obo/NCBITaxon_150368`
+### Clostridium `http://purl.obolibrary.org/obo/NCBITaxon_1485`
 #### Removed
-- [Calcarisporium](http://purl.obolibrary.org/obo/NCBITaxon_150368) DisjointWith [Hapsidospora](http://purl.obolibrary.org/obo/NCBITaxon_95323) 
+- [Clostridium](http://purl.obolibrary.org/obo/NCBITaxon_1485) DisjointWith [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) 
 
 
 
-### Candidatus Korobacteraceae `http://purl.obolibrary.org/obo/NCBITaxon_3121618`
+### Clover yellow mosaic virus `http://purl.obolibrary.org/obo/NCBITaxon_12177`
 #### Removed
-- Class: [Candidatus Korobacteraceae](http://purl.obolibrary.org/obo/NCBITaxon_3121618) 
-
-
-
-### Candidatus Puniceispirillaceae `http://purl.obolibrary.org/obo/NCBITaxon_3119833`
-#### Removed
-- Class: [Candidatus Puniceispirillaceae](http://purl.obolibrary.org/obo/NCBITaxon_3119833) 
-
-
-
-### Candidatus Puniceispirillales `http://purl.obolibrary.org/obo/NCBITaxon_3119832`
-#### Removed
-- Class: [Candidatus Puniceispirillales](http://purl.obolibrary.org/obo/NCBITaxon_3119832) 
-
-
-
-### Capnocytophaga `http://purl.obolibrary.org/obo/NCBITaxon_1016`
+- [Clover yellow mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12177) DisjointWith [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
 
 #### Added
-- [Capnocytophaga](http://purl.obolibrary.org/obo/NCBITaxon_1016) DisjointWith [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [Clover yellow mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12177) DisjointWith [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
 
 
-### Carmotetraviridae `http://purl.obolibrary.org/obo/NCBITaxon_1283208`
+### Corallus caninus `http://purl.obolibrary.org/obo/NCBITaxon_51861`
 #### Removed
-- Class: [Carmotetraviridae](http://purl.obolibrary.org/obo/NCBITaxon_1283208) 
+- [Corallus caninus](http://purl.obolibrary.org/obo/NCBITaxon_51861) DisjointWith [Corallus hortulanus](http://purl.obolibrary.org/obo/NCBITaxon_709348) 
 
 
 
-### Cellulophaga `http://purl.obolibrary.org/obo/NCBITaxon_104264`
+### Crassostrea gigas `http://purl.obolibrary.org/obo/NCBITaxon_29159`
+#### Removed
+- [Crassostrea gigas](http://purl.obolibrary.org/obo/NCBITaxon_29159) DisjointWith [Crassostrea virginica](http://purl.obolibrary.org/obo/NCBITaxon_6565) 
+
+
+
+### Crassostrea nippona `http://purl.obolibrary.org/obo/NCBITaxon_121615`
+#### Removed
+- [Crassostrea nippona](http://purl.obolibrary.org/obo/NCBITaxon_121615) DisjointWith [Crassostrea gigas](http://purl.obolibrary.org/obo/NCBITaxon_29159) 
+
+
+
+### Cricetulus `http://purl.obolibrary.org/obo/NCBITaxon_10028`
 
 #### Added
-- [Cellulophaga](http://purl.obolibrary.org/obo/NCBITaxon_104264) DisjointWith [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [Cricetulus](http://purl.obolibrary.org/obo/NCBITaxon_10028) DisjointWith [NCBITaxon_3122391](http://purl.obolibrary.org/obo/NCBITaxon_3122391) 
 
 
-### Centurio `http://purl.obolibrary.org/obo/NCBITaxon_27643`
+### Cricetulus griseus `http://purl.obolibrary.org/obo/NCBITaxon_10029`
+#### Removed
+- [Cricetulus griseus](http://purl.obolibrary.org/obo/NCBITaxon_10029) DisjointWith [Cricetulus migratorius](http://purl.obolibrary.org/obo/NCBITaxon_10032) 
+
+
+
+### Cricetulus longicaudatus `http://purl.obolibrary.org/obo/NCBITaxon_10030`
+#### Removed
+- [Cricetulus longicaudatus](http://purl.obolibrary.org/obo/NCBITaxon_10030) DisjointWith [Cricetulus migratorius](http://purl.obolibrary.org/obo/NCBITaxon_10032) 
+
+
+
+### Cricetus `http://purl.obolibrary.org/obo/NCBITaxon_10033`
 
 #### Added
-- [Centurio](http://purl.obolibrary.org/obo/NCBITaxon_27643) DisjointWith [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- [Cricetus](http://purl.obolibrary.org/obo/NCBITaxon_10033) DisjointWith [NCBITaxon_3122391](http://purl.obolibrary.org/obo/NCBITaxon_3122391) 
 
 
-### Chalinolobus `http://purl.obolibrary.org/obo/NCBITaxon_50352`
-#### Removed
-- [Chalinolobus](http://purl.obolibrary.org/obo/NCBITaxon_50352) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
-
-- [Chalinolobus](http://purl.obolibrary.org/obo/NCBITaxon_50352) DisjointWith [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
-
-
-
-### Chiroderma `http://purl.obolibrary.org/obo/NCBITaxon_27645`
+### Crotalus adamanteus `http://purl.obolibrary.org/obo/NCBITaxon_8729`
 
 #### Added
-- [Chiroderma](http://purl.obolibrary.org/obo/NCBITaxon_27645) DisjointWith [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- [Crotalus adamanteus](http://purl.obolibrary.org/obo/NCBITaxon_8729) DisjointWith [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
+
+- [Crotalus adamanteus](http://purl.obolibrary.org/obo/NCBITaxon_8729) DisjointWith [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
 
 
-### Christiangramia `http://purl.obolibrary.org/obo/NCBITaxon_292691`
-
-#### Added
-- [Christiangramia](http://purl.obolibrary.org/obo/NCBITaxon_292691) DisjointWith [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
-
-
-### Cistugo `http://purl.obolibrary.org/obo/NCBITaxon_712047`
-#### Removed
-- [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) DisjointWith [Myotis](http://purl.obolibrary.org/obo/NCBITaxon_9434) 
-
-- [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) DisjointWith [Antrozous](http://purl.obolibrary.org/obo/NCBITaxon_9439) 
-
-- [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) DisjointWith [Glauconycteris](http://purl.obolibrary.org/obo/NCBITaxon_909366) 
-
-- [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
-
-
-
-### Clonostachys `http://purl.obolibrary.org/obo/NCBITaxon_110564`
+### Crotalus atrox `http://purl.obolibrary.org/obo/NCBITaxon_8730`
 
 #### Added
-- [Clonostachys](http://purl.obolibrary.org/obo/NCBITaxon_110564) DisjointWith [Hapsidospora](http://purl.obolibrary.org/obo/NCBITaxon_95323) 
+- [Crotalus atrox](http://purl.obolibrary.org/obo/NCBITaxon_8730) DisjointWith [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
+
+- [Crotalus atrox](http://purl.obolibrary.org/obo/NCBITaxon_8730) DisjointWith [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
 
 
-### Cobetia `http://purl.obolibrary.org/obo/NCBITaxon_204286`
-
-#### Added
-- [Cobetia](http://purl.obolibrary.org/obo/NCBITaxon_204286) DisjointWith [NCBITaxon_3137766](http://purl.obolibrary.org/obo/NCBITaxon_3137766) 
-
-- [Cobetia](http://purl.obolibrary.org/obo/NCBITaxon_204286) DisjointWith [NCBITaxon_3137764](http://purl.obolibrary.org/obo/NCBITaxon_3137764) 
-
-
-### Colletia hystrix `http://purl.obolibrary.org/obo/NCBITaxon_262928`
-#### Removed
-- Class: [Colletia hystrix](http://purl.obolibrary.org/obo/NCBITaxon_262928) 
-
-
-
-### Corynorhinus `http://purl.obolibrary.org/obo/NCBITaxon_233861`
-#### Removed
-- [Corynorhinus](http://purl.obolibrary.org/obo/NCBITaxon_233861) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
-
-- [Corynorhinus](http://purl.obolibrary.org/obo/NCBITaxon_233861) DisjointWith [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
-
-
-
-### Croceibacter `http://purl.obolibrary.org/obo/NCBITaxon_216431`
+### Crotalus cerberus `http://purl.obolibrary.org/obo/NCBITaxon_36309`
 
 #### Added
-- [Croceibacter](http://purl.obolibrary.org/obo/NCBITaxon_216431) DisjointWith [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [Crotalus cerberus](http://purl.obolibrary.org/obo/NCBITaxon_36309) DisjointWith [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
+
+- [Crotalus cerberus](http://purl.obolibrary.org/obo/NCBITaxon_36309) DisjointWith [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
 
 
-### Cynopterus `http://purl.obolibrary.org/obo/NCBITaxon_9399`
-#### Removed
-- [Cynopterus](http://purl.obolibrary.org/obo/NCBITaxon_9399) DisjointWith [Rousettus](http://purl.obolibrary.org/obo/NCBITaxon_9406) 
-
-- [Cynopterus](http://purl.obolibrary.org/obo/NCBITaxon_9399) DisjointWith [Pteropus](http://purl.obolibrary.org/obo/NCBITaxon_9401) 
-
-
-
-### Dehalococcoidales `http://purl.obolibrary.org/obo/NCBITaxon_1202465`
-#### Removed
-- [Dehalococcoidales](http://purl.obolibrary.org/obo/NCBITaxon_1202465) DisjointWith [Dehalogenimonas](http://purl.obolibrary.org/obo/NCBITaxon_670486) 
-
-
-
-### Dehalococcoides `http://purl.obolibrary.org/obo/NCBITaxon_61434`
+### Crotalus durissus `http://purl.obolibrary.org/obo/NCBITaxon_8731`
 
 #### Added
-- [Dehalococcoides](http://purl.obolibrary.org/obo/NCBITaxon_61434) DisjointWith [Dehalogenimonas](http://purl.obolibrary.org/obo/NCBITaxon_670486) 
+- [Crotalus durissus](http://purl.obolibrary.org/obo/NCBITaxon_8731) DisjointWith [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
+
+- [Crotalus durissus](http://purl.obolibrary.org/obo/NCBITaxon_8731) DisjointWith [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
 
 
-### Dengue virus group `http://purl.obolibrary.org/obo/NCBITaxon_11052`
-#### Removed
-- [Dengue virus group](http://purl.obolibrary.org/obo/NCBITaxon_11052) DisjointWith [unclassified Flavivirus](http://purl.obolibrary.org/obo/NCBITaxon_39686) 
-
-
-
-### Devosiaceae `http://purl.obolibrary.org/obo/NCBITaxon_2831106`
+### Crotalus horridus `http://purl.obolibrary.org/obo/NCBITaxon_35024`
 
 #### Added
-- [Devosiaceae](http://purl.obolibrary.org/obo/NCBITaxon_2831106) DisjointWith [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) 
+- [Crotalus horridus](http://purl.obolibrary.org/obo/NCBITaxon_35024) DisjointWith [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
+
+- [Crotalus horridus](http://purl.obolibrary.org/obo/NCBITaxon_35024) DisjointWith [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
 
 
-### Dictyostelium sp. `http://purl.obolibrary.org/obo/NCBITaxon_5784`
-
-#### Added
-- [Dictyostelium sp.](http://purl.obolibrary.org/obo/NCBITaxon_5784) DisjointWith [Dictyostelium sp. (STRAIN GA11)](http://purl.obolibrary.org/obo/NCBITaxon_5785) 
-
-
-### Dobsonia `http://purl.obolibrary.org/obo/NCBITaxon_42146`
-#### Removed
-- [Dobsonia](http://purl.obolibrary.org/obo/NCBITaxon_42146) DisjointWith [Nyctimene](http://purl.obolibrary.org/obo/NCBITaxon_48987) 
-
-- [Dobsonia](http://purl.obolibrary.org/obo/NCBITaxon_42146) DisjointWith [Rousettus](http://purl.obolibrary.org/obo/NCBITaxon_9406) 
-
-- [Dobsonia](http://purl.obolibrary.org/obo/NCBITaxon_42146) DisjointWith [Thoopterus](http://purl.obolibrary.org/obo/NCBITaxon_58086) 
-
-- [Dobsonia](http://purl.obolibrary.org/obo/NCBITaxon_42146) DisjointWith [Cynopterus](http://purl.obolibrary.org/obo/NCBITaxon_9399) 
-
-
-
-### Dokdonia `http://purl.obolibrary.org/obo/NCBITaxon_326319`
+### Crotalus lepidus `http://purl.obolibrary.org/obo/NCBITaxon_44709`
 
 #### Added
-- [Dokdonia](http://purl.obolibrary.org/obo/NCBITaxon_326319) DisjointWith [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [Crotalus lepidus](http://purl.obolibrary.org/obo/NCBITaxon_44709) DisjointWith [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
+
+- [Crotalus lepidus](http://purl.obolibrary.org/obo/NCBITaxon_44709) DisjointWith [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
 
 
-### Dyadobacter `http://purl.obolibrary.org/obo/NCBITaxon_120831`
-#### Removed
-- [Dyadobacter](http://purl.obolibrary.org/obo/NCBITaxon_120831) DisjointWith [Leadbetterella](http://purl.obolibrary.org/obo/NCBITaxon_319458) 
-
-- [Dyadobacter](http://purl.obolibrary.org/obo/NCBITaxon_120831) DisjointWith [Emticicia](http://purl.obolibrary.org/obo/NCBITaxon_312278) 
-
-
-
-### Ectophylla `http://purl.obolibrary.org/obo/NCBITaxon_148025`
+### Crotalus mitchellii `http://purl.obolibrary.org/obo/NCBITaxon_384065`
 
 #### Added
-- [Ectophylla](http://purl.obolibrary.org/obo/NCBITaxon_148025) DisjointWith [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- [Crotalus mitchellii](http://purl.obolibrary.org/obo/NCBITaxon_384065) DisjointWith [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
+
+- [Crotalus mitchellii](http://purl.obolibrary.org/obo/NCBITaxon_384065) DisjointWith [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
 
 
-### Eidolon `http://purl.obolibrary.org/obo/NCBITaxon_58062`
-#### Removed
-- [Eidolon](http://purl.obolibrary.org/obo/NCBITaxon_58062) DisjointWith [Cynopterus](http://purl.obolibrary.org/obo/NCBITaxon_9399) 
-
-- [Eidolon](http://purl.obolibrary.org/obo/NCBITaxon_58062) DisjointWith [Rousettus](http://purl.obolibrary.org/obo/NCBITaxon_9406) 
-
-- [Eidolon](http://purl.obolibrary.org/obo/NCBITaxon_58062) DisjointWith [Thoopterus](http://purl.obolibrary.org/obo/NCBITaxon_58086) 
-
-
-
-### Emballonuridae `http://purl.obolibrary.org/obo/NCBITaxon_30562`
-#### Removed
-- [Emballonuridae](http://purl.obolibrary.org/obo/NCBITaxon_30562) DisjointWith [Megadermatidae](http://purl.obolibrary.org/obo/NCBITaxon_9409) 
-
-- [Emballonuridae](http://purl.obolibrary.org/obo/NCBITaxon_30562) DisjointWith [Rhinolophidae](http://purl.obolibrary.org/obo/NCBITaxon_58055) 
+### Crotalus molossus `http://purl.obolibrary.org/obo/NCBITaxon_8733`
 
 #### Added
-- [Emballonuridae](http://purl.obolibrary.org/obo/NCBITaxon_30562) DisjointWith [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) 
+- [Crotalus molossus](http://purl.obolibrary.org/obo/NCBITaxon_8733) DisjointWith [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
 
-- [Emballonuridae](http://purl.obolibrary.org/obo/NCBITaxon_30562) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
-
-
-### Emticicia `http://purl.obolibrary.org/obo/NCBITaxon_312278`
-#### Removed
-- [Emticicia](http://purl.obolibrary.org/obo/NCBITaxon_312278) DisjointWith [Fibrella](http://purl.obolibrary.org/obo/NCBITaxon_861914) 
+- [Crotalus molossus](http://purl.obolibrary.org/obo/NCBITaxon_8733) DisjointWith [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
 
 
-
-### Enterobacteria phage P4 `http://purl.obolibrary.org/obo/NCBITaxon_10680`
-#### Removed
-- [Enterobacteria phage P4](http://purl.obolibrary.org/obo/NCBITaxon_10680) DisjointWith [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) 
-
-
-
-### Enterobacteria phage phi80 `http://purl.obolibrary.org/obo/NCBITaxon_10713`
-#### Removed
-- [Enterobacteria phage phi80](http://purl.obolibrary.org/obo/NCBITaxon_10713) DisjointWith [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) 
-
-
-
-### Eonycteris `http://purl.obolibrary.org/obo/NCBITaxon_58064`
-#### Removed
-- [Eonycteris](http://purl.obolibrary.org/obo/NCBITaxon_58064) DisjointWith [Syconycteris](http://purl.obolibrary.org/obo/NCBITaxon_58084) 
+### Crotalus oreganus `http://purl.obolibrary.org/obo/NCBITaxon_332624`
 
 #### Added
-- [Eonycteris](http://purl.obolibrary.org/obo/NCBITaxon_58064) DisjointWith [Rousettus](http://purl.obolibrary.org/obo/NCBITaxon_9406) 
+- [Crotalus oreganus](http://purl.obolibrary.org/obo/NCBITaxon_332624) DisjointWith [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
+
+- [Crotalus oreganus](http://purl.obolibrary.org/obo/NCBITaxon_332624) DisjointWith [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
+
+- [Crotalus oreganus](http://purl.obolibrary.org/obo/NCBITaxon_332624) DisjointWith [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) 
 
 
-### Epomophorini-Myonycterini lineage `http://purl.obolibrary.org/obo/NCBITaxon_1246965`
+### Crotalus oreganus abyssus `http://purl.obolibrary.org/obo/NCBITaxon_128077`
 #### Removed
-- [Epomophorini-Myonycterini lineage](http://purl.obolibrary.org/obo/NCBITaxon_1246965) DisjointWith [Rousettus](http://purl.obolibrary.org/obo/NCBITaxon_9406) 
+- [Crotalus oreganus abyssus](http://purl.obolibrary.org/obo/NCBITaxon_128077) DisjointWith [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
 
-- [Epomophorini-Myonycterini lineage](http://purl.obolibrary.org/obo/NCBITaxon_1246965) DisjointWith [Paranyctimene](http://purl.obolibrary.org/obo/NCBITaxon_270784) 
+- [Crotalus oreganus abyssus](http://purl.obolibrary.org/obo/NCBITaxon_128077) DisjointWith [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) 
 
-- [Epomophorini-Myonycterini lineage](http://purl.obolibrary.org/obo/NCBITaxon_1246965) DisjointWith [Thoopterus](http://purl.obolibrary.org/obo/NCBITaxon_58086) 
-
-- [Epomophorini-Myonycterini lineage](http://purl.obolibrary.org/obo/NCBITaxon_1246965) DisjointWith [Nyctimene](http://purl.obolibrary.org/obo/NCBITaxon_48987) 
-
-- [Epomophorini-Myonycterini lineage](http://purl.obolibrary.org/obo/NCBITaxon_1246965) DisjointWith [Eidolon](http://purl.obolibrary.org/obo/NCBITaxon_58062) 
-
-- [Epomophorini-Myonycterini lineage](http://purl.obolibrary.org/obo/NCBITaxon_1246965) DisjointWith [Pteropus](http://purl.obolibrary.org/obo/NCBITaxon_9401) 
-
-- [Epomophorini-Myonycterini lineage](http://purl.obolibrary.org/obo/NCBITaxon_1246965) DisjointWith [Ptenochirus](http://purl.obolibrary.org/obo/NCBITaxon_132906) 
-
-- [Epomophorini-Myonycterini lineage](http://purl.obolibrary.org/obo/NCBITaxon_1246965) DisjointWith [Cynopterus](http://purl.obolibrary.org/obo/NCBITaxon_9399) 
-
-- [Epomophorini-Myonycterini lineage](http://purl.obolibrary.org/obo/NCBITaxon_1246965) DisjointWith [Dobsonia](http://purl.obolibrary.org/obo/NCBITaxon_42146) 
-
-- [Epomophorini-Myonycterini lineage](http://purl.obolibrary.org/obo/NCBITaxon_1246965) DisjointWith [Boneia](http://purl.obolibrary.org/obo/NCBITaxon_270781) 
+- [Crotalus oreganus abyssus](http://purl.obolibrary.org/obo/NCBITaxon_128077) DisjointWith [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
 
 
 
-### Eptesicus `http://purl.obolibrary.org/obo/NCBITaxon_29077`
+### Crotalus oreganus concolor `http://purl.obolibrary.org/obo/NCBITaxon_8740`
+
+#### Added
+- [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) DisjointWith [Crotalus basiliscus](http://purl.obolibrary.org/obo/NCBITaxon_8744) 
+
+- [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) DisjointWith [Crotalus cerastes](http://purl.obolibrary.org/obo/NCBITaxon_8746) 
+
+
+### Crotalus oreganus helleri `http://purl.obolibrary.org/obo/NCBITaxon_8741`
+
+#### Added
+- [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) DisjointWith [Crotalus basiliscus](http://purl.obolibrary.org/obo/NCBITaxon_8744) 
+
+- [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) DisjointWith [Crotalus cerastes](http://purl.obolibrary.org/obo/NCBITaxon_8746) 
+
+
+### Crotalus oreganus lutosus `http://purl.obolibrary.org/obo/NCBITaxon_332626`
+
+#### Added
+- [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [Crotalus cerastes](http://purl.obolibrary.org/obo/NCBITaxon_8746) 
+
+- [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [Crotalus horridus](http://purl.obolibrary.org/obo/NCBITaxon_35024) 
+
+- [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [Crotalus molossus](http://purl.obolibrary.org/obo/NCBITaxon_8733) 
+
+- [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [Crotalus viridis](http://purl.obolibrary.org/obo/NCBITaxon_8739) 
+
+- [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [Crotalus cerberus](http://purl.obolibrary.org/obo/NCBITaxon_36309) 
+
+- [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [Crotalus scutulatus](http://purl.obolibrary.org/obo/NCBITaxon_8737) 
+
+- [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [Crotalus adamanteus](http://purl.obolibrary.org/obo/NCBITaxon_8729) 
+
+- [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [Crotalus mitchellii](http://purl.obolibrary.org/obo/NCBITaxon_384065) 
+
+- [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [Crotalus ruber](http://purl.obolibrary.org/obo/NCBITaxon_8735) 
+
+- [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [Crotalus basiliscus](http://purl.obolibrary.org/obo/NCBITaxon_8744) 
+
+- [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [Crotalus durissus](http://purl.obolibrary.org/obo/NCBITaxon_8731) 
+
+- [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [Crotalus lepidus](http://purl.obolibrary.org/obo/NCBITaxon_44709) 
+
+- [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [Crotalus atrox](http://purl.obolibrary.org/obo/NCBITaxon_8730) 
+
+
+### Crotalus ruber `http://purl.obolibrary.org/obo/NCBITaxon_8735`
+
+#### Added
+- [Crotalus ruber](http://purl.obolibrary.org/obo/NCBITaxon_8735) DisjointWith [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
+
+- [Crotalus ruber](http://purl.obolibrary.org/obo/NCBITaxon_8735) DisjointWith [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
+
+
+### Crotalus scutulatus `http://purl.obolibrary.org/obo/NCBITaxon_8737`
+
+#### Added
+- [Crotalus scutulatus](http://purl.obolibrary.org/obo/NCBITaxon_8737) DisjointWith [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
+
+- [Crotalus scutulatus](http://purl.obolibrary.org/obo/NCBITaxon_8737) DisjointWith [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
+
+
+### Crotalus simus `http://purl.obolibrary.org/obo/NCBITaxon_1043007`
+
+#### Added
+- [Crotalus simus](http://purl.obolibrary.org/obo/NCBITaxon_1043007) DisjointWith [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
+
+- [Crotalus simus](http://purl.obolibrary.org/obo/NCBITaxon_1043007) DisjointWith [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) 
+
+- [Crotalus simus](http://purl.obolibrary.org/obo/NCBITaxon_1043007) DisjointWith [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
+
+
+### Crotalus tzabcan `http://purl.obolibrary.org/obo/NCBITaxon_1043006`
+
+#### Added
+- [Crotalus tzabcan](http://purl.obolibrary.org/obo/NCBITaxon_1043006) DisjointWith [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
+
+- [Crotalus tzabcan](http://purl.obolibrary.org/obo/NCBITaxon_1043006) DisjointWith [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) 
+
+- [Crotalus tzabcan](http://purl.obolibrary.org/obo/NCBITaxon_1043006) DisjointWith [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
+
+
+### Crotalus vegrandis `http://purl.obolibrary.org/obo/NCBITaxon_184545`
+
+#### Added
+- [Crotalus vegrandis](http://purl.obolibrary.org/obo/NCBITaxon_184545) DisjointWith [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) 
+
+- [Crotalus vegrandis](http://purl.obolibrary.org/obo/NCBITaxon_184545) DisjointWith [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
+
+- [Crotalus vegrandis](http://purl.obolibrary.org/obo/NCBITaxon_184545) DisjointWith [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
+
+
+### Crotalus viridis `http://purl.obolibrary.org/obo/NCBITaxon_8739`
+
+#### Added
+- [Crotalus viridis](http://purl.obolibrary.org/obo/NCBITaxon_8739) DisjointWith [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
+
+- [Crotalus viridis](http://purl.obolibrary.org/obo/NCBITaxon_8739) DisjointWith [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
+
+
+### Cymbidium mosaic virus `http://purl.obolibrary.org/obo/NCBITaxon_12178`
 #### Removed
-- [Eptesicus](http://purl.obolibrary.org/obo/NCBITaxon_29077) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [Cymbidium mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12178) DisjointWith [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
 
-- [Eptesicus](http://purl.obolibrary.org/obo/NCBITaxon_29077) DisjointWith [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+#### Added
+- [Cymbidium mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12178) DisjointWith [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
 
 
-
-### Filifactoraceae `http://purl.obolibrary.org/obo/NCBITaxon_3118655`
+### Cynopterinae `http://purl.obolibrary.org/obo/NCBITaxon_3136027`
 #### Removed
-- Class: [Filifactoraceae](http://purl.obolibrary.org/obo/NCBITaxon_3118655) 
+- Class: [Cynopterinae](http://purl.obolibrary.org/obo/NCBITaxon_3136027) 
 
 
 
-### Flammeovirgaceae `http://purl.obolibrary.org/obo/NCBITaxon_200667`
-
-#### Added
-- [Flammeovirgaceae](http://purl.obolibrary.org/obo/NCBITaxon_200667) DisjointWith [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) 
-
-
-### Flavobacterium `http://purl.obolibrary.org/obo/NCBITaxon_237`
-
-#### Added
-- [Flavobacterium](http://purl.obolibrary.org/obo/NCBITaxon_237) DisjointWith [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
-
-
-### Flexibacteraceae `http://purl.obolibrary.org/obo/NCBITaxon_2762284`
-
-#### Added
-- [Flexibacteraceae](http://purl.obolibrary.org/obo/NCBITaxon_2762284) DisjointWith [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) 
-
-
-### Formosa `http://purl.obolibrary.org/obo/NCBITaxon_225842`
-
-#### Added
-- [Formosa](http://purl.obolibrary.org/obo/NCBITaxon_225842) DisjointWith [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
-
-
-### Furipteridae `http://purl.obolibrary.org/obo/NCBITaxon_148080`
+### Dermanura `http://purl.obolibrary.org/obo/NCBITaxon_563992`
 #### Removed
-- [Furipteridae](http://purl.obolibrary.org/obo/NCBITaxon_148080) DisjointWith [Rhinolophidae](http://purl.obolibrary.org/obo/NCBITaxon_58055) 
+- Class: [Dermanura](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
 
-- [Furipteridae](http://purl.obolibrary.org/obo/NCBITaxon_148080) DisjointWith [Megadermatidae](http://purl.obolibrary.org/obo/NCBITaxon_9409) 
 
-- [Furipteridae](http://purl.obolibrary.org/obo/NCBITaxon_148080) DisjointWith [Hipposideridae](http://purl.obolibrary.org/obo/NCBITaxon_186994) 
+
+### Dicotyles `http://purl.obolibrary.org/obo/NCBITaxon_3136298`
+#### Removed
+- Class: [Dicotyles](http://purl.obolibrary.org/obo/NCBITaxon_3136298) 
+
+
+
+### Diutina `http://purl.obolibrary.org/obo/NCBITaxon_1910789`
+#### Removed
+- [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [Ambrosiozyma](http://purl.obolibrary.org/obo/NCBITaxon_36917) 
+
+- [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [Starmerella](http://purl.obolibrary.org/obo/NCBITaxon_75735) 
+
+- [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [CUG-Ala clade](http://purl.obolibrary.org/obo/NCBITaxon_2926620) 
 
 #### Added
-- [Furipteridae](http://purl.obolibrary.org/obo/NCBITaxon_148080) DisjointWith [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) 
+- [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [Millerozyma](http://purl.obolibrary.org/obo/NCBITaxon_766502) 
 
-- [Furipteridae](http://purl.obolibrary.org/obo/NCBITaxon_148080) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [Kodamaea](http://purl.obolibrary.org/obo/NCBITaxon_77850) 
+
+- [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [Scheffersomyces](http://purl.obolibrary.org/obo/NCBITaxon_766733) 
+
+- [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [Meyerozyma](http://purl.obolibrary.org/obo/NCBITaxon_766728) 
+
+- [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [Debaryomyces](http://purl.obolibrary.org/obo/NCBITaxon_4958) 
+
+- [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [Spathaspora](http://purl.obolibrary.org/obo/NCBITaxon_412764) 
+
+- [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [Yamadazyma](http://purl.obolibrary.org/obo/NCBITaxon_766765) 
+
+- [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [Kurtzmaniella](http://purl.obolibrary.org/obo/NCBITaxon_549703) 
+
+- [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [Schwanniomyces](http://purl.obolibrary.org/obo/NCBITaxon_766758) 
+
+
+### Elopocephalai `http://purl.obolibrary.org/obo/NCBITaxon_1489340`
+
+#### Added
+- [Elopocephalai](http://purl.obolibrary.org/obo/NCBITaxon_1489340) DisjointWith [NCBITaxon_70861](http://purl.obolibrary.org/obo/NCBITaxon_70861) 
+
+
+### Emys `http://purl.obolibrary.org/obo/NCBITaxon_82167`
+
+#### Added
+- [Emys](http://purl.obolibrary.org/obo/NCBITaxon_82167) DisjointWith [NCBITaxon_85612](http://purl.obolibrary.org/obo/NCBITaxon_85612) 
+
+
+### Emys orbicularis `http://purl.obolibrary.org/obo/NCBITaxon_82168`
+#### Removed
+- [Emys orbicularis](http://purl.obolibrary.org/obo/NCBITaxon_82168) DisjointWith [Emys blandingii](http://purl.obolibrary.org/obo/NCBITaxon_85613) 
+
+
+
+### Epomophorinae `http://purl.obolibrary.org/obo/NCBITaxon_3136030`
+#### Removed
+- Class: [Epomophorinae](http://purl.obolibrary.org/obo/NCBITaxon_3136030) 
+
+
+
+### Erysipelothrix `http://purl.obolibrary.org/obo/NCBITaxon_1647`
+
+#### Added
+- [Erysipelothrix](http://purl.obolibrary.org/obo/NCBITaxon_1647) DisjointWith [NCBITaxon_433334](http://purl.obolibrary.org/obo/NCBITaxon_433334) 
+
+
+### Faecalitalea `http://purl.obolibrary.org/obo/NCBITaxon_1573534`
+
+#### Added
+- [Faecalitalea](http://purl.obolibrary.org/obo/NCBITaxon_1573534) DisjointWith [NCBITaxon_433334](http://purl.obolibrary.org/obo/NCBITaxon_433334) 
+
+
+### Felis chaus `http://purl.obolibrary.org/obo/NCBITaxon_61376`
+#### Removed
+- Class: [Felis chaus](http://purl.obolibrary.org/obo/NCBITaxon_61376) 
+
+
+
+### Felis chaus x Felis catus `http://purl.obolibrary.org/obo/NCBITaxon_2576912`
+#### Removed
+- Class: [Felis chaus x Felis catus](http://purl.obolibrary.org/obo/NCBITaxon_2576912) 
+
+
+
+### Flagellimonas `http://purl.obolibrary.org/obo/NCBITaxon_444459`
+#### Removed
+- Class: [Flagellimonas](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+
+
+
+### Foxtail mosaic virus `http://purl.obolibrary.org/obo/NCBITaxon_12179`
+#### Removed
+- [Foxtail mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12179) DisjointWith [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
+
+#### Added
+- [Foxtail mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12179) DisjointWith [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
+
+
+### Frankia `http://purl.obolibrary.org/obo/NCBITaxon_1854`
+
+#### Added
+- [Frankia](http://purl.obolibrary.org/obo/NCBITaxon_1854) DisjointWith [NCBITaxon_2994362](http://purl.obolibrary.org/obo/NCBITaxon_2994362) 
+
+
+### Frankia sp. EAN1pec `http://purl.obolibrary.org/obo/NCBITaxon_298653`
+#### Removed
+- [Frankia sp. EAN1pec](http://purl.obolibrary.org/obo/NCBITaxon_298653) DisjointWith [Frankia sp. EuIK1](http://purl.obolibrary.org/obo/NCBITaxon_47227) 
+
+
+
+### Frankia sp. FaC1 `http://purl.obolibrary.org/obo/NCBITaxon_1857`
+#### Removed
+- [Frankia sp. FaC1](http://purl.obolibrary.org/obo/NCBITaxon_1857) DisjointWith [Frankia sp. EAN1pec](http://purl.obolibrary.org/obo/NCBITaxon_298653) 
+
 
 
 ### GCIs 
 #### Removed
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Phage PS34](http://purl.obolibrary.org/obo/NCBITaxon_83127) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hipposideridae](http://purl.obolibrary.org/obo/NCBITaxon_186994) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Natalidae](http://purl.obolibrary.org/obo/NCBITaxon_59446) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crassostrea nippona](http://purl.obolibrary.org/obo/NCBITaxon_121615) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crassostrea gigas](http://purl.obolibrary.org/obo/NCBITaxon_29159) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Agkistrodon contortrix laticinctus](http://purl.obolibrary.org/obo/NCBITaxon_37195) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Agkistrodon contortrix contortrix](http://purl.obolibrary.org/obo/NCBITaxon_8713) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Scotophilus](http://purl.obolibrary.org/obo/NCBITaxon_153296) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Perimyotis](http://purl.obolibrary.org/obo/NCBITaxon_2057181) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhinopomatidae](http://purl.obolibrary.org/obo/NCBITaxon_124754) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Phyllostomidae](http://purl.obolibrary.org/obo/NCBITaxon_9415) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pipistrellus](http://purl.obolibrary.org/obo/NCBITaxon_27671) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ambrosiozyma](http://purl.obolibrary.org/obo/NCBITaxon_36917) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hoeflea](http://purl.obolibrary.org/obo/NCBITaxon_274591) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Chelativorans](http://purl.obolibrary.org/obo/NCBITaxon_449972) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Myotis](http://purl.obolibrary.org/obo/NCBITaxon_9434) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ptenochirus](http://purl.obolibrary.org/obo/NCBITaxon_132906) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Dobsonia](http://purl.obolibrary.org/obo/NCBITaxon_42146) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Streptococcus phage B30](http://purl.obolibrary.org/obo/NCBITaxon_209152) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nyctimene](http://purl.obolibrary.org/obo/NCBITaxon_48987) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cynopterus](http://purl.obolibrary.org/obo/NCBITaxon_9399) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Dehalococcoidales](http://purl.obolibrary.org/obo/NCBITaxon_1202465) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Dehalogenimonas](http://purl.obolibrary.org/obo/NCBITaxon_670486) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halomonas zhaodongensis](http://purl.obolibrary.org/obo/NCBITaxon_1176240) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halomonas elongata](http://purl.obolibrary.org/obo/NCBITaxon_2746) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus albolabris](http://purl.obolibrary.org/obo/NCBITaxon_8765) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus gramineus](http://purl.obolibrary.org/obo/NCBITaxon_8767) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Dyadobacter](http://purl.obolibrary.org/obo/NCBITaxon_120831) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Leadbetterella](http://purl.obolibrary.org/obo/NCBITaxon_319458) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hoeflea](http://purl.obolibrary.org/obo/NCBITaxon_274591) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aminobacter](http://purl.obolibrary.org/obo/NCBITaxon_31988) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Frankia sp. EAN1pec](http://purl.obolibrary.org/obo/NCBITaxon_298653) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Frankia sp. EuIK1](http://purl.obolibrary.org/obo/NCBITaxon_47227) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Epomophorini-Myonycterini lineage](http://purl.obolibrary.org/obo/NCBITaxon_1246965) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nyctimene](http://purl.obolibrary.org/obo/NCBITaxon_48987) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Geobacillus sp. MAS1](http://purl.obolibrary.org/obo/NCBITaxon_1408282) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Geobacillus sp. PA-9](http://purl.obolibrary.org/obo/NCBITaxon_278858) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus borneensis](http://purl.obolibrary.org/obo/NCBITaxon_109778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus cantori](http://purl.obolibrary.org/obo/NCBITaxon_44711) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Laephotis](http://purl.obolibrary.org/obo/NCBITaxon_258926) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Serratia phage KSP100](http://purl.obolibrary.org/obo/NCBITaxon_552529) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nyctimene](http://purl.obolibrary.org/obo/NCBITaxon_48987) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rousettus](http://purl.obolibrary.org/obo/NCBITaxon_9406) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium sp.](http://purl.obolibrary.org/obo/NCBITaxon_5081) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhinolophidae](http://purl.obolibrary.org/obo/NCBITaxon_58055) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Molossidae](http://purl.obolibrary.org/obo/NCBITaxon_9436) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum abutiloides](http://purl.obolibrary.org/obo/NCBITaxon_45831) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum okadae](http://purl.obolibrary.org/obo/NCBITaxon_73575) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eptesicus](http://purl.obolibrary.org/obo/NCBITaxon_29077) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Dobsonia](http://purl.obolibrary.org/obo/NCBITaxon_42146) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nyctimene](http://purl.obolibrary.org/obo/NCBITaxon_48987) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ptenochirus](http://purl.obolibrary.org/obo/NCBITaxon_132906) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pteropus](http://purl.obolibrary.org/obo/NCBITaxon_9401) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Staphylococcus phage phiH5](http://purl.obolibrary.org/obo/NCBITaxon_538529) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ptenochirus](http://purl.obolibrary.org/obo/NCBITaxon_132906) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rousettus](http://purl.obolibrary.org/obo/NCBITaxon_9406) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus concolor](http://purl.obolibrary.org/obo/NCBITaxon_40225) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Streptococcus pneumoniae phage HB-3](http://purl.obolibrary.org/obo/NCBITaxon_10728) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hipposideridae](http://purl.obolibrary.org/obo/NCBITaxon_186994) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vespertilionidae](http://purl.obolibrary.org/obo/NCBITaxon_9431) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Starmerella](http://purl.obolibrary.org/obo/NCBITaxon_75735) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Synechococcus phage S-WHM1](http://purl.obolibrary.org/obo/NCBITaxon_65015) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum commersonii](http://purl.obolibrary.org/obo/NCBITaxon_4109) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum chacoense](http://purl.obolibrary.org/obo/NCBITaxon_4108) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hydrophis gracilis](http://purl.obolibrary.org/obo/NCBITaxon_31162) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hydrophis platurus](http://purl.obolibrary.org/obo/NCBITaxon_8688) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pteropus](http://purl.obolibrary.org/obo/NCBITaxon_9401) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rousettus](http://purl.obolibrary.org/obo/NCBITaxon_9406) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Epomophorini-Myonycterini lineage](http://purl.obolibrary.org/obo/NCBITaxon_1246965) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rousettus](http://purl.obolibrary.org/obo/NCBITaxon_9406) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum polyadenium](http://purl.obolibrary.org/obo/NCBITaxon_62893) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Salmonella phage PMBT28](http://purl.obolibrary.org/obo/NCBITaxon_2081904) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SF6](http://purl.obolibrary.org/obo/NCBITaxon_10773) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artemia franciscana](http://purl.obolibrary.org/obo/NCBITaxon_6661) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artemia parthenogenetica](http://purl.obolibrary.org/obo/NCBITaxon_6663) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Dengue virus group](http://purl.obolibrary.org/obo/NCBITaxon_11052) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Flavivirus](http://purl.obolibrary.org/obo/NCBITaxon_39686) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum lasiocarpum](http://purl.obolibrary.org/obo/NCBITaxon_227722) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum bulbocastanum](http://purl.obolibrary.org/obo/NCBITaxon_147425) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Streptococcus phage Dp-1](http://purl.obolibrary.org/obo/NCBITaxon_59241) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clostridium phage c-st](http://purl.obolibrary.org/obo/NCBITaxon_12336) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum sucrense](http://purl.obolibrary.org/obo/NCBITaxon_162494) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Emticicia](http://purl.obolibrary.org/obo/NCBITaxon_312278) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Fibrella](http://purl.obolibrary.org/obo/NCBITaxon_861914) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bovine respiratory syncytial virus ATCC51908](http://purl.obolibrary.org/obo/NCBITaxon_11247) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bovine respiratory syncytial virus strain 220-69](http://purl.obolibrary.org/obo/NCBITaxon_82822) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nycticeius](http://purl.obolibrary.org/obo/NCBITaxon_27669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus intermedius](http://purl.obolibrary.org/obo/NCBITaxon_51014) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Acinetobacter phage SH-Ab 15497](http://purl.obolibrary.org/obo/NCBITaxon_2060946) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Emballonuridae](http://purl.obolibrary.org/obo/NCBITaxon_30562) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhinolophidae](http://purl.obolibrary.org/obo/NCBITaxon_58055) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius shedaoensis](http://purl.obolibrary.org/obo/NCBITaxon_88083) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius saxatilis](http://purl.obolibrary.org/obo/NCBITaxon_92067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vespertilio](http://purl.obolibrary.org/obo/NCBITaxon_59484) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Calcarisporium](http://purl.obolibrary.org/obo/NCBITaxon_150368) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hapsidospora](http://purl.obolibrary.org/obo/NCBITaxon_95323) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Geobacillus sp. MAS1](http://purl.obolibrary.org/obo/NCBITaxon_1408282) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Geobacillus sp. Y412MC61](http://purl.obolibrary.org/obo/NCBITaxon_544556) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hypsugo](http://purl.obolibrary.org/obo/NCBITaxon_109484) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Corynorhinus](http://purl.obolibrary.org/obo/NCBITaxon_233861) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus borneensis](http://purl.obolibrary.org/obo/NCBITaxon_109778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus gramineus](http://purl.obolibrary.org/obo/NCBITaxon_8767) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Phage PS119](http://purl.obolibrary.org/obo/NCBITaxon_83128) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus fraterculus](http://purl.obolibrary.org/obo/NCBITaxon_51011) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhinolophidae](http://purl.obolibrary.org/obo/NCBITaxon_58055) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Phyllostomidae](http://purl.obolibrary.org/obo/NCBITaxon_9415) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhinopomatidae](http://purl.obolibrary.org/obo/NCBITaxon_124754) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Molossidae](http://purl.obolibrary.org/obo/NCBITaxon_9436) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Frankia sp. FaC1](http://purl.obolibrary.org/obo/NCBITaxon_1857) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Frankia sp. EAN1pec](http://purl.obolibrary.org/obo/NCBITaxon_298653) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage PBS2](http://purl.obolibrary.org/obo/NCBITaxon_10684) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus hartii](http://purl.obolibrary.org/obo/NCBITaxon_27654) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artemia parthenogenetica](http://purl.obolibrary.org/obo/NCBITaxon_6663) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artemia salina](http://purl.obolibrary.org/obo/NCBITaxon_85549) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [CUG-Ala clade](http://purl.obolibrary.org/obo/NCBITaxon_2926620) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Dobsonia](http://purl.obolibrary.org/obo/NCBITaxon_42146) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rousettus](http://purl.obolibrary.org/obo/NCBITaxon_9406) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clostridium phage phi8074-B1](http://purl.obolibrary.org/obo/NCBITaxon_1147137) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius blomhoffii](http://purl.obolibrary.org/obo/NCBITaxon_242054) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius saxatilis](http://purl.obolibrary.org/obo/NCBITaxon_92067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Synechococcus phage S-RSM2](http://purl.obolibrary.org/obo/NCBITaxon_264653) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bovine respiratory syncytial virus ATCC51908](http://purl.obolibrary.org/obo/NCBITaxon_11247) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bovine respiratory syncytial virus (strain Copenhagen)](http://purl.obolibrary.org/obo/NCBITaxon_11248) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus borneensis](http://purl.obolibrary.org/obo/NCBITaxon_109778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus stejnegeri](http://purl.obolibrary.org/obo/NCBITaxon_39682) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eonycteris](http://purl.obolibrary.org/obo/NCBITaxon_58064) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Syconycteris](http://purl.obolibrary.org/obo/NCBITaxon_58084) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nyctimene](http://purl.obolibrary.org/obo/NCBITaxon_48987) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pteropus](http://purl.obolibrary.org/obo/NCBITaxon_9401) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cricetulus longicaudatus](http://purl.obolibrary.org/obo/NCBITaxon_10030) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cricetulus migratorius](http://purl.obolibrary.org/obo/NCBITaxon_10032) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hipposideridae](http://purl.obolibrary.org/obo/NCBITaxon_186994) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Noctilionidae](http://purl.obolibrary.org/obo/NCBITaxon_94957) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halomonas anticariensis](http://purl.obolibrary.org/obo/NCBITaxon_258591) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halomonas elongata](http://purl.obolibrary.org/obo/NCBITaxon_2746) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus abyssus](http://purl.obolibrary.org/obo/NCBITaxon_128077) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus fimbriatus](http://purl.obolibrary.org/obo/NCBITaxon_51010) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus anderseni](http://purl.obolibrary.org/obo/NCBITaxon_51015) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Listeria phage A118](http://purl.obolibrary.org/obo/NCBITaxon_40521) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hydrophis gracilis](http://purl.obolibrary.org/obo/NCBITaxon_31162) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hydrophis peronii](http://purl.obolibrary.org/obo/NCBITaxon_8676) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Furipteridae](http://purl.obolibrary.org/obo/NCBITaxon_148080) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hipposideridae](http://purl.obolibrary.org/obo/NCBITaxon_186994) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus cinereus](http://purl.obolibrary.org/obo/NCBITaxon_40224) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum aculeatissimum](http://purl.obolibrary.org/obo/NCBITaxon_267265) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Megadermatidae](http://purl.obolibrary.org/obo/NCBITaxon_9409) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Molossidae](http://purl.obolibrary.org/obo/NCBITaxon_9436) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus obscurus](http://purl.obolibrary.org/obo/NCBITaxon_40228) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Staphylococcus phage L54a](http://purl.obolibrary.org/obo/NCBITaxon_10727) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Epomophorini-Myonycterini lineage](http://purl.obolibrary.org/obo/NCBITaxon_1246965) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pteropus](http://purl.obolibrary.org/obo/NCBITaxon_9401) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhinopomatidae](http://purl.obolibrary.org/obo/NCBITaxon_124754) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Furipteridae](http://purl.obolibrary.org/obo/NCBITaxon_148080) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thyropteridae](http://purl.obolibrary.org/obo/NCBITaxon_124757) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hipposideridae](http://purl.obolibrary.org/obo/NCBITaxon_186994) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ptenochirus](http://purl.obolibrary.org/obo/NCBITaxon_132906) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nyctimene](http://purl.obolibrary.org/obo/NCBITaxon_48987) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Antrozous](http://purl.obolibrary.org/obo/NCBITaxon_9439) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clostridium](http://purl.obolibrary.org/obo/NCBITaxon_1485) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Emballonuridae](http://purl.obolibrary.org/obo/NCBITaxon_30562) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Megadermatidae](http://purl.obolibrary.org/obo/NCBITaxon_9409) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halorubraceae](http://purl.obolibrary.org/obo/NCBITaxon_1963271) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Haloferacales](http://purl.obolibrary.org/obo/NCBITaxon_2678336) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eidolon](http://purl.obolibrary.org/obo/NCBITaxon_58062) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thoopterus](http://purl.obolibrary.org/obo/NCBITaxon_58086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cynopterus](http://purl.obolibrary.org/obo/NCBITaxon_9399) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rousettus](http://purl.obolibrary.org/obo/NCBITaxon_9406) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Respirovirus](http://purl.obolibrary.org/obo/NCBITaxon_186938) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Narmovirus](http://purl.obolibrary.org/obo/NCBITaxon_2560185) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thyropteridae](http://purl.obolibrary.org/obo/NCBITaxon_124757) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhinolophidae](http://purl.obolibrary.org/obo/NCBITaxon_58055) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Murina](http://purl.obolibrary.org/obo/NCBITaxon_59488) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Runella](http://purl.obolibrary.org/obo/NCBITaxon_105) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Emticicia](http://purl.obolibrary.org/obo/NCBITaxon_312278) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Tetrapisispora blattae](http://purl.obolibrary.org/obo/NCBITaxon_1071379) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Tetrapisispora phaffii](http://purl.obolibrary.org/obo/NCBITaxon_113608) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhinopomatidae](http://purl.obolibrary.org/obo/NCBITaxon_124754) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Noctilionidae](http://purl.obolibrary.org/obo/NCBITaxon_94957) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhinopomatidae](http://purl.obolibrary.org/obo/NCBITaxon_124754) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thyropteridae](http://purl.obolibrary.org/obo/NCBITaxon_124757) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus purpureomaculatus](http://purl.obolibrary.org/obo/NCBITaxon_101163) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus gramineus](http://purl.obolibrary.org/obo/NCBITaxon_8767) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius ussuriensis](http://purl.obolibrary.org/obo/NCBITaxon_35671) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius saxatilis](http://purl.obolibrary.org/obo/NCBITaxon_92067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_39686](http://purl.obolibrary.org/obo/NCBITaxon_39686) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_39686](http://purl.obolibrary.org/obo/NCBITaxon_39686))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus stejnegeri](http://purl.obolibrary.org/obo/NCBITaxon_39682) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus gramineus](http://purl.obolibrary.org/obo/NCBITaxon_8767) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Dyadobacter](http://purl.obolibrary.org/obo/NCBITaxon_120831) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Emticicia](http://purl.obolibrary.org/obo/NCBITaxon_312278) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Harpiocephalus](http://purl.obolibrary.org/obo/NCBITaxon_124748) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Acremonium](http://purl.obolibrary.org/obo/NCBITaxon_159075) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hapsidospora](http://purl.obolibrary.org/obo/NCBITaxon_95323) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hydrophis gracilis](http://purl.obolibrary.org/obo/NCBITaxon_31162) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hydrophis ornatus](http://purl.obolibrary.org/obo/NCBITaxon_8685) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nyctalus](http://purl.obolibrary.org/obo/NCBITaxon_51299) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Shigella phage SfX](http://purl.obolibrary.org/obo/NCBITaxon_10874) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Runella](http://purl.obolibrary.org/obo/NCBITaxon_105) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Leadbetterella](http://purl.obolibrary.org/obo/NCBITaxon_319458) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus abyssus](http://purl.obolibrary.org/obo/NCBITaxon_128077) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Respirovirus](http://purl.obolibrary.org/obo/NCBITaxon_186938) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Henipavirus](http://purl.obolibrary.org/obo/NCBITaxon_260964) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eidolon](http://purl.obolibrary.org/obo/NCBITaxon_58062) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rousettus](http://purl.obolibrary.org/obo/NCBITaxon_9406) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kazachstania exigua](http://purl.obolibrary.org/obo/NCBITaxon_34358) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kazachstania naganishii](http://purl.obolibrary.org/obo/NCBITaxon_588726) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus hirsutus](http://purl.obolibrary.org/obo/NCBITaxon_51012) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halomonas campaniensis](http://purl.obolibrary.org/obo/NCBITaxon_213554) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halomonas anticariensis](http://purl.obolibrary.org/obo/NCBITaxon_258591) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Flavivirus](http://purl.obolibrary.org/obo/NCBITaxon_39686) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Yellow fever virus group](http://purl.obolibrary.org/obo/NCBITaxon_40005) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus lituratus](http://purl.obolibrary.org/obo/NCBITaxon_27634) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nyctophilus](http://purl.obolibrary.org/obo/NCBITaxon_59470) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kazachstania servazzii](http://purl.obolibrary.org/obo/NCBITaxon_27293) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kazachstania naganishii](http://purl.obolibrary.org/obo/NCBITaxon_588726) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bovine respiratory syncytial virus ATCC51908](http://purl.obolibrary.org/obo/NCBITaxon_11247) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bovine respiratory syncytial virus (strain RB94)](http://purl.obolibrary.org/obo/NCBITaxon_11249) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bovine respiratory syncytial virus ATCC51908](http://purl.obolibrary.org/obo/NCBITaxon_11247) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bovine respiratory syncytial virus strain 4642](http://purl.obolibrary.org/obo/NCBITaxon_82820) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Laephotis](http://purl.obolibrary.org/obo/NCBITaxon_258926) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cricetulus griseus](http://purl.obolibrary.org/obo/NCBITaxon_10029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cricetulus migratorius](http://purl.obolibrary.org/obo/NCBITaxon_10032) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halomonas zhaodongensis](http://purl.obolibrary.org/obo/NCBITaxon_1176240) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halomonas campaniensis](http://purl.obolibrary.org/obo/NCBITaxon_213554) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Haloferacaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644056) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halorubraceae](http://purl.obolibrary.org/obo/NCBITaxon_1963271) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Morbillivirus](http://purl.obolibrary.org/obo/NCBITaxon_11229) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Respirovirus](http://purl.obolibrary.org/obo/NCBITaxon_186938) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Geobacillus sp. MAS1](http://purl.obolibrary.org/obo/NCBITaxon_1408282) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Geobacillus sp. WCH70](http://purl.obolibrary.org/obo/NCBITaxon_471223) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kazachstania humilis](http://purl.obolibrary.org/obo/NCBITaxon_51915) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kazachstania naganishii](http://purl.obolibrary.org/obo/NCBITaxon_588726) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhinolophidae](http://purl.obolibrary.org/obo/NCBITaxon_58055) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Noctilionidae](http://purl.obolibrary.org/obo/NCBITaxon_94957) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bovine respiratory syncytial virus ATCC51908](http://purl.obolibrary.org/obo/NCBITaxon_11247) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bovine respiratory syncytial virus strain 220-60](http://purl.obolibrary.org/obo/NCBITaxon_82819) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eptesicus](http://purl.obolibrary.org/obo/NCBITaxon_29077) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius brevicaudus](http://purl.obolibrary.org/obo/NCBITaxon_259325) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius halys](http://purl.obolibrary.org/obo/NCBITaxon_8714) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clostridium botulinum D phage](http://purl.obolibrary.org/obo/NCBITaxon_29342) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus puniceus](http://purl.obolibrary.org/obo/NCBITaxon_197218) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus gramineus](http://purl.obolibrary.org/obo/NCBITaxon_8767) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Enterobacteria phage SfV](http://purl.obolibrary.org/obo/NCBITaxon_55884) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ptenochirus](http://purl.obolibrary.org/obo/NCBITaxon_132906) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paranyctimene](http://purl.obolibrary.org/obo/NCBITaxon_270784) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Murina](http://purl.obolibrary.org/obo/NCBITaxon_59488) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Japanese encephalitis virus group](http://purl.obolibrary.org/obo/NCBITaxon_11071) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Flavivirus](http://purl.obolibrary.org/obo/NCBITaxon_39686) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Corallus caninus](http://purl.obolibrary.org/obo/NCBITaxon_51861) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Corallus hortulanus](http://purl.obolibrary.org/obo/NCBITaxon_709348) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Epomophorini-Myonycterini lineage](http://purl.obolibrary.org/obo/NCBITaxon_1246965) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thoopterus](http://purl.obolibrary.org/obo/NCBITaxon_58086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Enterobacteria phage VT1-Sakai](http://purl.obolibrary.org/obo/NCBITaxon_462299) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Perimyotis](http://purl.obolibrary.org/obo/NCBITaxon_2057181) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius blomhoffii](http://purl.obolibrary.org/obo/NCBITaxon_242054) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius brevicaudus](http://purl.obolibrary.org/obo/NCBITaxon_259325) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Epomophorini-Myonycterini lineage](http://purl.obolibrary.org/obo/NCBITaxon_1246965) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ptenochirus](http://purl.obolibrary.org/obo/NCBITaxon_132906) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus amplus](http://purl.obolibrary.org/obo/NCBITaxon_283491) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [tick-borne encephalitis virus group](http://purl.obolibrary.org/obo/NCBITaxon_29263) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Flavivirus](http://purl.obolibrary.org/obo/NCBITaxon_39686) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius intermedius](http://purl.obolibrary.org/obo/NCBITaxon_44732) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius saxatilis](http://purl.obolibrary.org/obo/NCBITaxon_92067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bovine respiratory syncytial virus ATCC51908](http://purl.obolibrary.org/obo/NCBITaxon_11247) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bovine respiratory syncytial virus strain lelystad](http://purl.obolibrary.org/obo/NCBITaxon_82823) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hoeflea](http://purl.obolibrary.org/obo/NCBITaxon_274591) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudaminobacter](http://purl.obolibrary.org/obo/NCBITaxon_93368) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Narcissus mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12180) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus borneensis](http://purl.obolibrary.org/obo/NCBITaxon_109778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus albolabris](http://purl.obolibrary.org/obo/NCBITaxon_8765) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus gracilis](http://purl.obolibrary.org/obo/NCBITaxon_109781) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus puniceus](http://purl.obolibrary.org/obo/NCBITaxon_197218) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bovine respiratory syncytial virus ATCC51908](http://purl.obolibrary.org/obo/NCBITaxon_11247) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bovine respiratory syncytial virus strain 375](http://purl.obolibrary.org/obo/NCBITaxon_82821) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhinopomatidae](http://purl.obolibrary.org/obo/NCBITaxon_124754) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Natalidae](http://purl.obolibrary.org/obo/NCBITaxon_59446) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus planirostris](http://purl.obolibrary.org/obo/NCBITaxon_40230) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Epomophorini-Myonycterini lineage](http://purl.obolibrary.org/obo/NCBITaxon_1246965) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Boneia](http://purl.obolibrary.org/obo/NCBITaxon_270781) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Strawberry mild yellow edge virus](http://purl.obolibrary.org/obo/NCBITaxon_12187) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ptenochirus](http://purl.obolibrary.org/obo/NCBITaxon_132906) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Boneia](http://purl.obolibrary.org/obo/NCBITaxon_270781) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus jamaicensis](http://purl.obolibrary.org/obo/NCBITaxon_9417) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halomonas zhaodongensis](http://purl.obolibrary.org/obo/NCBITaxon_1176240) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halomonas halodenitrificans](http://purl.obolibrary.org/obo/NCBITaxon_28252) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhodoblastus](http://purl.obolibrary.org/obo/NCBITaxon_168658) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Beijerinckia](http://purl.obolibrary.org/obo/NCBITaxon_532) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hipposideridae](http://purl.obolibrary.org/obo/NCBITaxon_186994) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Emballonuridae](http://purl.obolibrary.org/obo/NCBITaxon_30562) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus borneensis](http://purl.obolibrary.org/obo/NCBITaxon_109778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus gracilis](http://purl.obolibrary.org/obo/NCBITaxon_109781) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus abyssus](http://purl.obolibrary.org/obo/NCBITaxon_128077) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artemia sinica](http://purl.obolibrary.org/obo/NCBITaxon_112780) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artemia parthenogenetica](http://purl.obolibrary.org/obo/NCBITaxon_6663) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Tropidurus hispidus](http://purl.obolibrary.org/obo/NCBITaxon_44142) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Tropidurus montanus](http://purl.obolibrary.org/obo/NCBITaxon_56116) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum palustre](http://purl.obolibrary.org/obo/NCBITaxon_4115) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Potato aucuba mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12182) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Enterobacteria phage phi21](http://purl.obolibrary.org/obo/NCBITaxon_10737) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lasionycteris](http://purl.obolibrary.org/obo/NCBITaxon_27666) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Myotis](http://purl.obolibrary.org/obo/NCBITaxon_9434) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Potato virus X](http://purl.obolibrary.org/obo/NCBITaxon_12183) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhinopomatidae](http://purl.obolibrary.org/obo/NCBITaxon_124754) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mormoopidae](http://purl.obolibrary.org/obo/NCBITaxon_59445) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus gracilis](http://purl.obolibrary.org/obo/NCBITaxon_109781) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus gramineus](http://purl.obolibrary.org/obo/NCBITaxon_8767) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Atropoides picadoi](http://purl.obolibrary.org/obo/NCBITaxon_44729) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Atropoides nummifer](http://purl.obolibrary.org/obo/NCBITaxon_44730) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nyctophilus](http://purl.obolibrary.org/obo/NCBITaxon_59470) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus puniceus](http://purl.obolibrary.org/obo/NCBITaxon_197218) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus stejnegeri](http://purl.obolibrary.org/obo/NCBITaxon_39682) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhodothermus phage RM378](http://purl.obolibrary.org/obo/NCBITaxon_148943) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Plantago asiatica mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_28354) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage rho15](http://purl.obolibrary.org/obo/NCBITaxon_36451) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halomonas anticariensis](http://purl.obolibrary.org/obo/NCBITaxon_258591) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halomonas eurihalina](http://purl.obolibrary.org/obo/NCBITaxon_42566) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Haloferacales](http://purl.obolibrary.org/obo/NCBITaxon_1644055) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halobacteriales](http://purl.obolibrary.org/obo/NCBITaxon_2235) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Enterobacteria phage P4](http://purl.obolibrary.org/obo/NCBITaxon_10680) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius brevicaudus](http://purl.obolibrary.org/obo/NCBITaxon_259325) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius intermedius](http://purl.obolibrary.org/obo/NCBITaxon_44732) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clover yellow mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12177) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Caloramator](http://purl.obolibrary.org/obo/NCBITaxon_44258) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus aztecus](http://purl.obolibrary.org/obo/NCBITaxon_40239) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Glauconycteris](http://purl.obolibrary.org/obo/NCBITaxon_909366) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Natalidae](http://purl.obolibrary.org/obo/NCBITaxon_59446) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Megadermatidae](http://purl.obolibrary.org/obo/NCBITaxon_9409) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vipera berus nikolskii](http://purl.obolibrary.org/obo/NCBITaxon_1808362) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vipera berus berus](http://purl.obolibrary.org/obo/NCBITaxon_31156) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Megadermatidae](http://purl.obolibrary.org/obo/NCBITaxon_9409) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Noctilionidae](http://purl.obolibrary.org/obo/NCBITaxon_94957) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ptenochirus](http://purl.obolibrary.org/obo/NCBITaxon_132906) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eidolon](http://purl.obolibrary.org/obo/NCBITaxon_58062) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius brevicaudus](http://purl.obolibrary.org/obo/NCBITaxon_259325) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius shedaoensis](http://purl.obolibrary.org/obo/NCBITaxon_88083) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus toltecus](http://purl.obolibrary.org/obo/NCBITaxon_40240) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thyropteridae](http://purl.obolibrary.org/obo/NCBITaxon_124757) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Megadermatidae](http://purl.obolibrary.org/obo/NCBITaxon_9409) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bovine respiratory syncytial virus ATCC51908](http://purl.obolibrary.org/obo/NCBITaxon_11247) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bovine respiratory syncytial virus (strain 391-2)](http://purl.obolibrary.org/obo/NCBITaxon_31611) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Haloferacales](http://purl.obolibrary.org/obo/NCBITaxon_1644055) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Natrialbales](http://purl.obolibrary.org/obo/NCBITaxon_1644060) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lactococcus phage phi-vML3](http://purl.obolibrary.org/obo/NCBITaxon_10746) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Streptococcus phage EJ-1](http://purl.obolibrary.org/obo/NCBITaxon_12402) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Dobsonia](http://purl.obolibrary.org/obo/NCBITaxon_42146) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cynopterus](http://purl.obolibrary.org/obo/NCBITaxon_9399) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kazachstania servazzii](http://purl.obolibrary.org/obo/NCBITaxon_27293) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kazachstania africana](http://purl.obolibrary.org/obo/NCBITaxon_432096) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum cardiophyllum](http://purl.obolibrary.org/obo/NCBITaxon_160510) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum agrimoniifolium](http://purl.obolibrary.org/obo/NCBITaxon_317816) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hydrophis gracilis](http://purl.obolibrary.org/obo/NCBITaxon_31162) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hydrophis torquatus](http://purl.obolibrary.org/obo/NCBITaxon_747462) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Leiurus quinquestriatus hebraeus](http://purl.obolibrary.org/obo/NCBITaxon_6884) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Leiurus quinquestriatus quinquestriatus](http://purl.obolibrary.org/obo/NCBITaxon_6885) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Foxtail mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12179) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus puniceus](http://purl.obolibrary.org/obo/NCBITaxon_197218) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus cantori](http://purl.obolibrary.org/obo/NCBITaxon_44711) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hydrophis gracilis](http://purl.obolibrary.org/obo/NCBITaxon_31162) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hydrophis cyanocinctus](http://purl.obolibrary.org/obo/NCBITaxon_8686) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kazachstania servazzii](http://purl.obolibrary.org/obo/NCBITaxon_27293) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kazachstania humilis](http://purl.obolibrary.org/obo/NCBITaxon_51915) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Emys orbicularis](http://purl.obolibrary.org/obo/NCBITaxon_82168) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Emys blandingii](http://purl.obolibrary.org/obo/NCBITaxon_85613) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Buthus occitanus israelis](http://purl.obolibrary.org/obo/NCBITaxon_539894) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Buthus occitanus tunetanus](http://purl.obolibrary.org/obo/NCBITaxon_6871) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lily virus X](http://purl.obolibrary.org/obo/NCBITaxon_12194) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kazachstania servazzii](http://purl.obolibrary.org/obo/NCBITaxon_27293) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kazachstania exigua](http://purl.obolibrary.org/obo/NCBITaxon_34358) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Buthus occitanus israelis](http://purl.obolibrary.org/obo/NCBITaxon_539894) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Buthus occitanus mardochei](http://purl.obolibrary.org/obo/NCBITaxon_6869) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Papaya mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12181) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cymbidium mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12178) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hathewaya](http://purl.obolibrary.org/obo/NCBITaxon_1769729) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kazachstania africana](http://purl.obolibrary.org/obo/NCBITaxon_432096) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kazachstania naganishii](http://purl.obolibrary.org/obo/NCBITaxon_588726) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mandarivirus](http://purl.obolibrary.org/obo/NCBITaxon_249199) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus purpureomaculatus](http://purl.obolibrary.org/obo/NCBITaxon_101163) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus borneensis](http://purl.obolibrary.org/obo/NCBITaxon_109778) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus puniceus](http://purl.obolibrary.org/obo/NCBITaxon_197218) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus albolabris](http://purl.obolibrary.org/obo/NCBITaxon_8765) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Porcine epidemic diarrhea virus](http://purl.obolibrary.org/obo/NCBITaxon_28295) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Scotophilus bat coronavirus 512](http://purl.obolibrary.org/obo/NCBITaxon_693999) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus purpureomaculatus](http://purl.obolibrary.org/obo/NCBITaxon_101163) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus puniceus](http://purl.obolibrary.org/obo/NCBITaxon_197218) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_1246965](http://purl.obolibrary.org/obo/NCBITaxon_1246965) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_1246965](http://purl.obolibrary.org/obo/NCBITaxon_1246965))) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Candidatus Arthromitus](http://purl.obolibrary.org/obo/NCBITaxon_49082) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus borneensis](http://purl.obolibrary.org/obo/NCBITaxon_109778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus puniceus](http://purl.obolibrary.org/obo/NCBITaxon_197218) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius brevicaudus](http://purl.obolibrary.org/obo/NCBITaxon_259325) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius saxatilis](http://purl.obolibrary.org/obo/NCBITaxon_92067) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Natrialbales](http://purl.obolibrary.org/obo/NCBITaxon_1644060) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halobacteriales](http://purl.obolibrary.org/obo/NCBITaxon_2235) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crassostrea gigas](http://purl.obolibrary.org/obo/NCBITaxon_29159) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crassostrea virginica](http://purl.obolibrary.org/obo/NCBITaxon_6565) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Haloferacaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644056) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Haloferacales](http://purl.obolibrary.org/obo/NCBITaxon_2678336) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hydrophis gracilis](http://purl.obolibrary.org/obo/NCBITaxon_31162) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hydrophis semperi](http://purl.obolibrary.org/obo/NCBITaxon_66179) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kazachstania exigua](http://purl.obolibrary.org/obo/NCBITaxon_34358) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kazachstania africana](http://purl.obolibrary.org/obo/NCBITaxon_432096) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hydrophis gracilis](http://purl.obolibrary.org/obo/NCBITaxon_31162) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hydrophis schistosus](http://purl.obolibrary.org/obo/NCBITaxon_8682) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hydrophis gracilis](http://purl.obolibrary.org/obo/NCBITaxon_31162) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hydrophis stokesii](http://purl.obolibrary.org/obo/NCBITaxon_355677) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hydrophis gracilis](http://purl.obolibrary.org/obo/NCBITaxon_31162) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hydrophis lapemoides](http://purl.obolibrary.org/obo/NCBITaxon_8684) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hydrophis gracilis](http://purl.obolibrary.org/obo/NCBITaxon_31162) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hydrophis hardwickii](http://purl.obolibrary.org/obo/NCBITaxon_8781) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus cantori](http://purl.obolibrary.org/obo/NCBITaxon_44711) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus gramineus](http://purl.obolibrary.org/obo/NCBITaxon_8767) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius halys](http://purl.obolibrary.org/obo/NCBITaxon_8714) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius saxatilis](http://purl.obolibrary.org/obo/NCBITaxon_92067) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [White clover mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12188) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kazachstania africana](http://purl.obolibrary.org/obo/NCBITaxon_432096) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kazachstania humilis](http://purl.obolibrary.org/obo/NCBITaxon_51915) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius brevicaudus](http://purl.obolibrary.org/obo/NCBITaxon_259325) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius ussuriensis](http://purl.obolibrary.org/obo/NCBITaxon_35671) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
+
+#### Added
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eremothecium](http://purl.obolibrary.org/obo/NCBITaxon_33170) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus](http://purl.obolibrary.org/obo/NCBITaxon_8764) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vipera berus nikolskii](http://purl.obolibrary.org/obo/NCBITaxon_1808362) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vipera ammodytes](http://purl.obolibrary.org/obo/NCBITaxon_8704) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus clavatus](http://purl.obolibrary.org/obo/NCBITaxon_5057) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vanderwaltozyma](http://purl.obolibrary.org/obo/NCBITaxon_374469) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
 
 - [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vanderwaltozyma](http://purl.obolibrary.org/obo/NCBITaxon_374469) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paranyctimene](http://purl.obolibrary.org/obo/NCBITaxon_270784) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rousettus](http://purl.obolibrary.org/obo/NCBITaxon_9406) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aphanocladium](http://purl.obolibrary.org/obo/NCBITaxon_12941) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hapsidospora](http://purl.obolibrary.org/obo/NCBITaxon_95323) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vipera berus nikolskii](http://purl.obolibrary.org/obo/NCBITaxon_1808362) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vipera berus](http://purl.obolibrary.org/obo/NCBITaxon_31155) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus glaucus](http://purl.obolibrary.org/obo/NCBITaxon_40226) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium soppii](http://purl.obolibrary.org/obo/NCBITaxon_69789) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus durissus](http://purl.obolibrary.org/obo/NCBITaxon_8731) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumigatus](http://purl.obolibrary.org/obo/NCBITaxon_746128) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cerrophidion](http://purl.obolibrary.org/obo/NCBITaxon_44721) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pipistrellus](http://purl.obolibrary.org/obo/NCBITaxon_27671) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halomonas anticariensis](http://purl.obolibrary.org/obo/NCBITaxon_258591) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halomonas halodenitrificans](http://purl.obolibrary.org/obo/NCBITaxon_28252) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus phoenicis](http://purl.obolibrary.org/obo/NCBITaxon_5063) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum etuberosum](http://purl.obolibrary.org/obo/NCBITaxon_200525) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhodoblastus](http://purl.obolibrary.org/obo/NCBITaxon_168658) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Methylocapsa](http://purl.obolibrary.org/obo/NCBITaxon_184923) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Methylocella](http://purl.obolibrary.org/obo/NCBITaxon_120652) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhodoblastus](http://purl.obolibrary.org/obo/NCBITaxon_168658) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhizobium phage 16-3](http://purl.obolibrary.org/obo/NCBITaxon_10704) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium citrinum](http://purl.obolibrary.org/obo/NCBITaxon_5077) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
 - [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paranyctimene](http://purl.obolibrary.org/obo/NCBITaxon_270784) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eidolon](http://purl.obolibrary.org/obo/NCBITaxon_58062) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Frankia](http://purl.obolibrary.org/obo/NCBITaxon_1854) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2994362](http://purl.obolibrary.org/obo/NCBITaxon_2994362) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kazachstania](http://purl.obolibrary.org/obo/NCBITaxon_71245) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Scotophilus](http://purl.obolibrary.org/obo/NCBITaxon_153296) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachesis](http://purl.obolibrary.org/obo/NCBITaxon_8751) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhinopomatidae](http://purl.obolibrary.org/obo/NCBITaxon_124754) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Emballonuridae](http://purl.obolibrary.org/obo/NCBITaxon_30562) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Natrialbaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644061) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_2236) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum nigrum](http://purl.obolibrary.org/obo/NCBITaxon_4112) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachancea](http://purl.obolibrary.org/obo/NCBITaxon_300275) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus tzabcan](http://purl.obolibrary.org/obo/NCBITaxon_1043006) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lactococcus phage TP901-1](http://purl.obolibrary.org/obo/NCBITaxon_35345) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Haloarculaceae](http://purl.obolibrary.org/obo/NCBITaxon_1963268) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_38063](http://purl.obolibrary.org/obo/NCBITaxon_38063) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Listeria phage A500](http://purl.obolibrary.org/obo/NCBITaxon_40522) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kazachstania](http://purl.obolibrary.org/obo/NCBITaxon_71245) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Epomophorini-Myonycterini lineage](http://purl.obolibrary.org/obo/NCBITaxon_1246965) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cynopterus](http://purl.obolibrary.org/obo/NCBITaxon_9399) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vanderwaltozyma](http://purl.obolibrary.org/obo/NCBITaxon_374469) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Protobothrops](http://purl.obolibrary.org/obo/NCBITaxon_103943) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Neoromicia](http://purl.obolibrary.org/obo/NCBITaxon_568926) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum demissum](http://purl.obolibrary.org/obo/NCBITaxon_50514) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hipposideridae](http://purl.obolibrary.org/obo/NCBITaxon_186994) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Molossidae](http://purl.obolibrary.org/obo/NCBITaxon_9436) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus awamori](http://purl.obolibrary.org/obo/NCBITaxon_105351) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nycticeius](http://purl.obolibrary.org/obo/NCBITaxon_27669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Megadermatidae](http://purl.obolibrary.org/obo/NCBITaxon_9409) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mystacinidae](http://purl.obolibrary.org/obo/NCBITaxon_94959) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vespertilio](http://purl.obolibrary.org/obo/NCBITaxon_59484) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus burnettii](http://purl.obolibrary.org/obo/NCBITaxon_2508778) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Boneia](http://purl.obolibrary.org/obo/NCBITaxon_270781) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nyctimene](http://purl.obolibrary.org/obo/NCBITaxon_48987) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Chalinolobus](http://purl.obolibrary.org/obo/NCBITaxon_50352) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhinolophidae](http://purl.obolibrary.org/obo/NCBITaxon_58055) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mystacinidae](http://purl.obolibrary.org/obo/NCBITaxon_94959) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thoopterus](http://purl.obolibrary.org/obo/NCBITaxon_58086) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rousettus](http://purl.obolibrary.org/obo/NCBITaxon_9406) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bovine respiratory syncytial virus ATCC51908](http://purl.obolibrary.org/obo/NCBITaxon_11247) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bovine respiratory syncytial virus strain snook](http://purl.obolibrary.org/obo/NCBITaxon_82824) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hoeflea](http://purl.obolibrary.org/obo/NCBITaxon_274591) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mesorhizobium](http://purl.obolibrary.org/obo/NCBITaxon_68287) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Circumdati](http://purl.obolibrary.org/obo/NCBITaxon_2720871) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lactococcus phage r1t](http://purl.obolibrary.org/obo/NCBITaxon_43685) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vibrio phage CP-T1](http://purl.obolibrary.org/obo/NCBITaxon_10689) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Furipteridae](http://purl.obolibrary.org/obo/NCBITaxon_148080) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhinolophidae](http://purl.obolibrary.org/obo/NCBITaxon_58055) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Otonycteris](http://purl.obolibrary.org/obo/NCBITaxon_153292) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paranyctimene](http://purl.obolibrary.org/obo/NCBITaxon_270784) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thoopterus](http://purl.obolibrary.org/obo/NCBITaxon_58086) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus usamii](http://purl.obolibrary.org/obo/NCBITaxon_186680) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lasionycteris](http://purl.obolibrary.org/obo/NCBITaxon_27666) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum lyratum](http://purl.obolibrary.org/obo/NCBITaxon_230192) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Otonycteris](http://purl.obolibrary.org/obo/NCBITaxon_153292) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nyctimene](http://purl.obolibrary.org/obo/NCBITaxon_48987) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eidolon](http://purl.obolibrary.org/obo/NCBITaxon_58062) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Plecotus](http://purl.obolibrary.org/obo/NCBITaxon_27673) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Boneia](http://purl.obolibrary.org/obo/NCBITaxon_270781) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paranyctimene](http://purl.obolibrary.org/obo/NCBITaxon_270784) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Leadbetterella](http://purl.obolibrary.org/obo/NCBITaxon_319458) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Fibrella](http://purl.obolibrary.org/obo/NCBITaxon_861914) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Antrozous](http://purl.obolibrary.org/obo/NCBITaxon_9439) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bovine respiratory syncytial virus ATCC51908](http://purl.obolibrary.org/obo/NCBITaxon_11247) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bovine respiratory syncytial virus strain wbh](http://purl.obolibrary.org/obo/NCBITaxon_82825) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Enterobacteria phage phi80](http://purl.obolibrary.org/obo/NCBITaxon_10713) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum tuberosum](http://purl.obolibrary.org/obo/NCBITaxon_4113) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mycoplasma](http://purl.obolibrary.org/obo/NCBITaxon_2093) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Candidatus Hepatoplasma](http://purl.obolibrary.org/obo/NCBITaxon_295595) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nyctalus](http://purl.obolibrary.org/obo/NCBITaxon_51299) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum canense](http://purl.obolibrary.org/obo/NCBITaxon_421230) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Megadermatidae](http://purl.obolibrary.org/obo/NCBITaxon_9409) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Phyllostomidae](http://purl.obolibrary.org/obo/NCBITaxon_9415) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhinolophidae](http://purl.obolibrary.org/obo/NCBITaxon_58055) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vespertilionidae](http://purl.obolibrary.org/obo/NCBITaxon_9431) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Plecotus](http://purl.obolibrary.org/obo/NCBITaxon_27673) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Boneia](http://purl.obolibrary.org/obo/NCBITaxon_270781) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thoopterus](http://purl.obolibrary.org/obo/NCBITaxon_58086) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus phaeotis](http://purl.obolibrary.org/obo/NCBITaxon_40229) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus inopinatus](http://purl.obolibrary.org/obo/NCBITaxon_51013) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Haemophilus phage S2](http://purl.obolibrary.org/obo/NCBITaxon_53000) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Nidulantes](http://purl.obolibrary.org/obo/NCBITaxon_2720870) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Idionycteris](http://purl.obolibrary.org/obo/NCBITaxon_27664) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhinopomatidae](http://purl.obolibrary.org/obo/NCBITaxon_124754) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mystacinidae](http://purl.obolibrary.org/obo/NCBITaxon_94959) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum microdontum](http://purl.obolibrary.org/obo/NCBITaxon_73574) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2720874) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ficuum](http://purl.obolibrary.org/obo/NCBITaxon_5058) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halomonas anticariensis](http://purl.obolibrary.org/obo/NCBITaxon_258591) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Halomonas](http://purl.obolibrary.org/obo/NCBITaxon_2609666) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nyctimene](http://purl.obolibrary.org/obo/NCBITaxon_48987) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thoopterus](http://purl.obolibrary.org/obo/NCBITaxon_58086) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paranyctimene](http://purl.obolibrary.org/obo/NCBITaxon_270784) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cynopterus](http://purl.obolibrary.org/obo/NCBITaxon_9399) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Glauconycteris](http://purl.obolibrary.org/obo/NCBITaxon_909366) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Boneia](http://purl.obolibrary.org/obo/NCBITaxon_270781) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rousettus](http://purl.obolibrary.org/obo/NCBITaxon_9406) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eidolon](http://purl.obolibrary.org/obo/NCBITaxon_58062) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cynopterus](http://purl.obolibrary.org/obo/NCBITaxon_9399) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thoopterus](http://purl.obolibrary.org/obo/NCBITaxon_58086) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pteropus](http://purl.obolibrary.org/obo/NCBITaxon_9401) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hipposideridae](http://purl.obolibrary.org/obo/NCBITaxon_186994) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mormoopidae](http://purl.obolibrary.org/obo/NCBITaxon_59445) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Corynorhinus](http://purl.obolibrary.org/obo/NCBITaxon_233861) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halomonas zhaodongensis](http://purl.obolibrary.org/obo/NCBITaxon_1176240) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halomonas anticariensis](http://purl.obolibrary.org/obo/NCBITaxon_258591) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hipposideridae](http://purl.obolibrary.org/obo/NCBITaxon_186994) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mystacinidae](http://purl.obolibrary.org/obo/NCBITaxon_94959) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bovine respiratory syncytial virus ATCC51908](http://purl.obolibrary.org/obo/NCBITaxon_11247) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bovine respiratory syncytial virus strain 127](http://purl.obolibrary.org/obo/NCBITaxon_82818) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPP1](http://purl.obolibrary.org/obo/NCBITaxon_10724) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Idionycteris](http://purl.obolibrary.org/obo/NCBITaxon_27664) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum crispum](http://purl.obolibrary.org/obo/NCBITaxon_4110) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum torvum](http://purl.obolibrary.org/obo/NCBITaxon_119830) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus mitchellii](http://purl.obolibrary.org/obo/NCBITaxon_384065) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
 
 - [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halomonas zhaodongensis](http://purl.obolibrary.org/obo/NCBITaxon_1176240) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halomonas eurihalina](http://purl.obolibrary.org/obo/NCBITaxon_42566) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus versicolor](http://purl.obolibrary.org/obo/NCBITaxon_46472) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum subgen. Lycopersicon](http://purl.obolibrary.org/obo/NCBITaxon_49274) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Saccharomyces](http://purl.obolibrary.org/obo/NCBITaxon_4930) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Streptococcus phage T12](http://purl.obolibrary.org/obo/NCBITaxon_35344) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Papaya mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12181) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Epomophorini-Myonycterini lineage](http://purl.obolibrary.org/obo/NCBITaxon_1246965) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Dobsonia](http://purl.obolibrary.org/obo/NCBITaxon_42146) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Blautia](http://purl.obolibrary.org/obo/NCBITaxon_572511) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Epomophorini-Myonycterini lineage](http://purl.obolibrary.org/obo/NCBITaxon_1246965) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paranyctimene](http://purl.obolibrary.org/obo/NCBITaxon_270784) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_85612](http://purl.obolibrary.org/obo/NCBITaxon_85612) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_85612](http://purl.obolibrary.org/obo/NCBITaxon_85612))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhinolophidae](http://purl.obolibrary.org/obo/NCBITaxon_58055) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Natalidae](http://purl.obolibrary.org/obo/NCBITaxon_59446) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium decumbens](http://purl.obolibrary.org/obo/NCBITaxon_69771) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hipposideridae](http://purl.obolibrary.org/obo/NCBITaxon_186994) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Phyllostomidae](http://purl.obolibrary.org/obo/NCBITaxon_9415) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium herquei](http://purl.obolibrary.org/obo/NCBITaxon_69774) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Butyrivibrio](http://purl.obolibrary.org/obo/NCBITaxon_830) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
-
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Harpiocephalus](http://purl.obolibrary.org/obo/NCBITaxon_124748) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium aethiopicum](http://purl.obolibrary.org/obo/NCBITaxon_36650) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
 - [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus atrox](http://purl.obolibrary.org/obo/NCBITaxon_8730) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halomonas zhaodongensis](http://purl.obolibrary.org/obo/NCBITaxon_1176240) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Halomonas](http://purl.obolibrary.org/obo/NCBITaxon_2609666) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Meyerozyma](http://purl.obolibrary.org/obo/NCBITaxon_766728) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Fumigati](http://purl.obolibrary.org/obo/NCBITaxon_2720872) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Spathaspora](http://purl.obolibrary.org/obo/NCBITaxon_412764) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paranyctimene](http://purl.obolibrary.org/obo/NCBITaxon_270784) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Dobsonia](http://purl.obolibrary.org/obo/NCBITaxon_42146) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Agathobacter](http://purl.obolibrary.org/obo/NCBITaxon_1766253) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Shigella phage SfII](http://purl.obolibrary.org/obo/NCBITaxon_66284) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium griseofulvum](http://purl.obolibrary.org/obo/NCBITaxon_5078) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Boneia](http://purl.obolibrary.org/obo/NCBITaxon_270781) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cynopterus](http://purl.obolibrary.org/obo/NCBITaxon_9399) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lactobacillus phage LL-H](http://purl.obolibrary.org/obo/NCBITaxon_12348) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Amphibolurinae](http://purl.obolibrary.org/obo/NCBITaxon_145349) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_81954](http://purl.obolibrary.org/obo/NCBITaxon_81954) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hypsugo](http://purl.obolibrary.org/obo/NCBITaxon_109484) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachnospiraceae incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_2840493) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Furipteridae](http://purl.obolibrary.org/obo/NCBITaxon_148080) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Megadermatidae](http://purl.obolibrary.org/obo/NCBITaxon_9409) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Dorea](http://purl.obolibrary.org/obo/NCBITaxon_189330) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lingula anatina](http://purl.obolibrary.org/obo/NCBITaxon_7574) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lingula reevii](http://purl.obolibrary.org/obo/NCBITaxon_7575) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus horridus](http://purl.obolibrary.org/obo/NCBITaxon_35024) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3144915](http://purl.obolibrary.org/obo/NCBITaxon_3144915) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3144915](http://purl.obolibrary.org/obo/NCBITaxon_3144915))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum sogarandinum](http://purl.obolibrary.org/obo/NCBITaxon_52705) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bothrocophias](http://purl.obolibrary.org/obo/NCBITaxon_230467) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mormoopidae](http://purl.obolibrary.org/obo/NCBITaxon_59445) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Megadermatidae](http://purl.obolibrary.org/obo/NCBITaxon_9409) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus calidoustus](http://purl.obolibrary.org/obo/NCBITaxon_454130) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus violaceofuscus](http://purl.obolibrary.org/obo/NCBITaxon_657443) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vanderwaltozyma](http://purl.obolibrary.org/obo/NCBITaxon_374469) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Epomophorini-Myonycterini lineage](http://purl.obolibrary.org/obo/NCBITaxon_1246965) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eidolon](http://purl.obolibrary.org/obo/NCBITaxon_58062) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium chrysogenum species complex](http://purl.obolibrary.org/obo/NCBITaxon_254878) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Zygotorulaspora](http://purl.obolibrary.org/obo/NCBITaxon_1196389) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Haloferacaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644056) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Haloarculaceae](http://purl.obolibrary.org/obo/NCBITaxon_1963268) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cynopterus](http://purl.obolibrary.org/obo/NCBITaxon_9399) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pteropus](http://purl.obolibrary.org/obo/NCBITaxon_9401) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium terrestre](http://purl.obolibrary.org/obo/NCBITaxon_374132) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus subgen. Cremei](http://purl.obolibrary.org/obo/NCBITaxon_2720873) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kazachstania](http://purl.obolibrary.org/obo/NCBITaxon_71245) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Megadermatidae](http://purl.obolibrary.org/obo/NCBITaxon_9409) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vespertilionidae](http://purl.obolibrary.org/obo/NCBITaxon_9431) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus ruber](http://purl.obolibrary.org/obo/NCBITaxon_8735) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Neoromicia](http://purl.obolibrary.org/obo/NCBITaxon_568926) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium urticae](http://purl.obolibrary.org/obo/NCBITaxon_29844) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Natronoarchaeaceae](http://purl.obolibrary.org/obo/NCBITaxon_2976354) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_38063](http://purl.obolibrary.org/obo/NCBITaxon_38063) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cyanophage S-2L](http://purl.obolibrary.org/obo/NCBITaxon_260586) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus basiliscus](http://purl.obolibrary.org/obo/NCBITaxon_8744) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pallidus](http://purl.obolibrary.org/obo/NCBITaxon_29839) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3144915](http://purl.obolibrary.org/obo/NCBITaxon_3144915) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspidites](http://purl.obolibrary.org/obo/NCBITaxon_51882) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhinolophidae](http://purl.obolibrary.org/obo/NCBITaxon_58055) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mormoopidae](http://purl.obolibrary.org/obo/NCBITaxon_59445) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius](http://purl.obolibrary.org/obo/NCBITaxon_51647) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Chalinolobus](http://purl.obolibrary.org/obo/NCBITaxon_50352) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium crustosum](http://purl.obolibrary.org/obo/NCBITaxon_36656) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kluyveromyces](http://purl.obolibrary.org/obo/NCBITaxon_4910) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Naumovozyma](http://purl.obolibrary.org/obo/NCBITaxon_278028) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus](http://purl.obolibrary.org/obo/NCBITaxon_332624) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3152209](http://purl.obolibrary.org/obo/NCBITaxon_3152209) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Paramyxoviridae](http://purl.obolibrary.org/obo/NCBITaxon_336871) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium amagasakiense](http://purl.obolibrary.org/obo/NCBITaxon_63559) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Zygosaccharomyces](http://purl.obolibrary.org/obo/NCBITaxon_4953) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Haloferax](http://purl.obolibrary.org/obo/NCBITaxon_2251) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halorubrum](http://purl.obolibrary.org/obo/NCBITaxon_56688) 
 
 - [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhinopomatidae](http://purl.obolibrary.org/obo/NCBITaxon_124754) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vespertilionidae](http://purl.obolibrary.org/obo/NCBITaxon_9431) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Erysipelothrix](http://purl.obolibrary.org/obo/NCBITaxon_1647) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_433334](http://purl.obolibrary.org/obo/NCBITaxon_433334) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hypnale](http://purl.obolibrary.org/obo/NCBITaxon_44719) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Paranyctimene](http://purl.obolibrary.org/obo/NCBITaxon_270784) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pteropus](http://purl.obolibrary.org/obo/NCBITaxon_9401) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Artemia](http://purl.obolibrary.org/obo/NCBITaxon_2632105) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artemia parthenogenetica](http://purl.obolibrary.org/obo/NCBITaxon_6663) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus cerberus](http://purl.obolibrary.org/obo/NCBITaxon_36309) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Dobsonia](http://purl.obolibrary.org/obo/NCBITaxon_42146) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thoopterus](http://purl.obolibrary.org/obo/NCBITaxon_58086) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium oxalicum](http://purl.obolibrary.org/obo/NCBITaxon_69781) 
 
-#### Added
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_61376](http://purl.obolibrary.org/obo/NCBITaxon_61376) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_61376](http://purl.obolibrary.org/obo/NCBITaxon_61376))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ophryacus](http://purl.obolibrary.org/obo/NCBITaxon_88089) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Orthoflavivirus kyasanurense](http://purl.obolibrary.org/obo/NCBITaxon_3048170) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Zygotorulaspora](http://purl.obolibrary.org/obo/NCBITaxon_1196389) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2576912](http://purl.obolibrary.org/obo/NCBITaxon_2576912) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_2576912](http://purl.obolibrary.org/obo/NCBITaxon_2576912))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus ruber](http://purl.obolibrary.org/obo/NCBITaxon_8735) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Croceibacter](http://purl.obolibrary.org/obo/NCBITaxon_216431) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3144915](http://purl.obolibrary.org/obo/NCBITaxon_3144915) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Liasis](http://purl.obolibrary.org/obo/NCBITaxon_51886) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum nigrum](http://purl.obolibrary.org/obo/NCBITaxon_4112) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus](http://purl.obolibrary.org/obo/NCBITaxon_8728) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Robiginitalea](http://purl.obolibrary.org/obo/NCBITaxon_252306) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Orthoflavivirus murrayense](http://purl.obolibrary.org/obo/NCBITaxon_3048215) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vespertilionidae](http://purl.obolibrary.org/obo/NCBITaxon_9431) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum abutiloides](http://purl.obolibrary.org/obo/NCBITaxon_45831) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum polyadenium](http://purl.obolibrary.org/obo/NCBITaxon_62893) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anemone](http://purl.obolibrary.org/obo/NCBITaxon_22868) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3137121](http://purl.obolibrary.org/obo/NCBITaxon_3137121) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [environmental samples <firmicutes,family Erysipelotrichaceae>](http://purl.obolibrary.org/obo/NCBITaxon_134224) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_433334](http://purl.obolibrary.org/obo/NCBITaxon_433334) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Geobacillus sp. MAS1](http://purl.obolibrary.org/obo/NCBITaxon_1408282) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Geobacillus thermodenitrificans](http://purl.obolibrary.org/obo/NCBITaxon_33940) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus calidoustus](http://purl.obolibrary.org/obo/NCBITaxon_454130) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Christiangramia](http://purl.obolibrary.org/obo/NCBITaxon_292691) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus adamanteus](http://purl.obolibrary.org/obo/NCBITaxon_8729) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2576912](http://purl.obolibrary.org/obo/NCBITaxon_2576912) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_61376](http://purl.obolibrary.org/obo/NCBITaxon_61376) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus molossus](http://purl.obolibrary.org/obo/NCBITaxon_8733) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halorubrum](http://purl.obolibrary.org/obo/NCBITaxon_56688) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halogeometricum](http://purl.obolibrary.org/obo/NCBITaxon_60846) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Platyrrhinus](http://purl.obolibrary.org/obo/NCBITaxon_27657) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Tropidolaemus](http://purl.obolibrary.org/obo/NCBITaxon_42184) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_70861](http://purl.obolibrary.org/obo/NCBITaxon_70861) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_70861](http://purl.obolibrary.org/obo/NCBITaxon_70861))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136022](http://purl.obolibrary.org/obo/NCBITaxon_3136022) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136023](http://purl.obolibrary.org/obo/NCBITaxon_3136023) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3147916](http://purl.obolibrary.org/obo/NCBITaxon_3147916) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus gramineus](http://purl.obolibrary.org/obo/NCBITaxon_8767) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum sucrense](http://purl.obolibrary.org/obo/NCBITaxon_162494) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fischeri](http://purl.obolibrary.org/obo/NCBITaxon_36630) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Geobacillus sp. MAS1](http://purl.obolibrary.org/obo/NCBITaxon_1408282) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Geobacillus genomosp. 3](http://purl.obolibrary.org/obo/NCBITaxon_1921421) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nakaseomyces](http://purl.obolibrary.org/obo/NCBITaxon_374468) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Molossidae](http://purl.obolibrary.org/obo/NCBITaxon_9436) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus versicolor](http://purl.obolibrary.org/obo/NCBITaxon_46472) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Siansivirga](http://purl.obolibrary.org/obo/NCBITaxon_1204360) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium italicum](http://purl.obolibrary.org/obo/NCBITaxon_40296) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Orthoflavivirus flavi](http://purl.obolibrary.org/obo/NCBITaxon_3046277) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Calloselasma](http://purl.obolibrary.org/obo/NCBITaxon_8774) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Orthoflavivirus ilheusense](http://purl.obolibrary.org/obo/NCBITaxon_3052466) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lily virus X](http://purl.obolibrary.org/obo/NCBITaxon_12194) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus clavatus](http://purl.obolibrary.org/obo/NCBITaxon_5057) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum lasiocarpum](http://purl.obolibrary.org/obo/NCBITaxon_227722) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3228785](http://purl.obolibrary.org/obo/NCBITaxon_3228785) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3228785](http://purl.obolibrary.org/obo/NCBITaxon_3228785))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Maribacter](http://purl.obolibrary.org/obo/NCBITaxon_252356) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Orthoflavivirus usutuense](http://purl.obolibrary.org/obo/NCBITaxon_3048443) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Haloquadratum](http://purl.obolibrary.org/obo/NCBITaxon_293431) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halorubrum](http://purl.obolibrary.org/obo/NCBITaxon_56688) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Sinorhizobium/Ensifer group](http://purl.obolibrary.org/obo/NCBITaxon_227292) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hoeflea](http://purl.obolibrary.org/obo/NCBITaxon_274591) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Natrialbaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644061) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Haloarculaceae](http://purl.obolibrary.org/obo/NCBITaxon_1963268) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Geobacillus sp. MAS1](http://purl.obolibrary.org/obo/NCBITaxon_1408282) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Geobacillus](http://purl.obolibrary.org/obo/NCBITaxon_2642459) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nidulans](http://purl.obolibrary.org/obo/NCBITaxon_162425) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Methylobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_119045) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ametrida](http://purl.obolibrary.org/obo/NCBITaxon_148022) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3147914](http://purl.obolibrary.org/obo/NCBITaxon_3147914) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus gramineus](http://purl.obolibrary.org/obo/NCBITaxon_8767) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Chrysemys](http://purl.obolibrary.org/obo/NCBITaxon_8477) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_85612](http://purl.obolibrary.org/obo/NCBITaxon_85612) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136298](http://purl.obolibrary.org/obo/NCBITaxon_3136298) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Tayassu](http://purl.obolibrary.org/obo/NCBITaxon_9828) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3147916](http://purl.obolibrary.org/obo/NCBITaxon_3147916) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3147916](http://purl.obolibrary.org/obo/NCBITaxon_3147916))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Phyllostomidae](http://purl.obolibrary.org/obo/NCBITaxon_9415) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Orthoflavivirus kokoberaorum](http://purl.obolibrary.org/obo/NCBITaxon_3048168) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachnospira](http://purl.obolibrary.org/obo/NCBITaxon_28050) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136027](http://purl.obolibrary.org/obo/NCBITaxon_3136027) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136029](http://purl.obolibrary.org/obo/NCBITaxon_3136029) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2171616](http://purl.obolibrary.org/obo/NCBITaxon_2171616) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ostrea](http://purl.obolibrary.org/obo/NCBITaxon_37858) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136026](http://purl.obolibrary.org/obo/NCBITaxon_3136026) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136027](http://purl.obolibrary.org/obo/NCBITaxon_3136027) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Agkistrodon](http://purl.obolibrary.org/obo/NCBITaxon_8711) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bothrocophias](http://purl.obolibrary.org/obo/NCBITaxon_230467) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhizobium/Agrobacterium group](http://purl.obolibrary.org/obo/NCBITaxon_227290) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hoeflea](http://purl.obolibrary.org/obo/NCBITaxon_274591) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus horridus](http://purl.obolibrary.org/obo/NCBITaxon_35024) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cymbidium mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12178) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Flavobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_61432) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Allomuricauda](http://purl.obolibrary.org/obo/NCBITaxon_111500) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bovine orthopneumovirus](http://purl.obolibrary.org/obo/NCBITaxon_11246) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136119](http://purl.obolibrary.org/obo/NCBITaxon_3136119) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Orthoflavivirus loupingi](http://purl.obolibrary.org/obo/NCBITaxon_3048184) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus mitchellii](http://purl.obolibrary.org/obo/NCBITaxon_384065) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halomonas](http://purl.obolibrary.org/obo/NCBITaxon_2745) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3137766](http://purl.obolibrary.org/obo/NCBITaxon_3137766) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus simus](http://purl.obolibrary.org/obo/NCBITaxon_1043007) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Beijerinckiaceae](http://purl.obolibrary.org/obo/NCBITaxon_45404) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Malayopython](http://purl.obolibrary.org/obo/NCBITaxon_1496304) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3144915](http://purl.obolibrary.org/obo/NCBITaxon_3144915) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3137764](http://purl.obolibrary.org/obo/NCBITaxon_3137764) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3137764](http://purl.obolibrary.org/obo/NCBITaxon_3137764))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus viridis](http://purl.obolibrary.org/obo/NCBITaxon_8739) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Phyllostomidae](http://purl.obolibrary.org/obo/NCBITaxon_9415) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2171616](http://purl.obolibrary.org/obo/NCBITaxon_2171616) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crassostrea](http://purl.obolibrary.org/obo/NCBITaxon_6564) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bothriechis](http://purl.obolibrary.org/obo/NCBITaxon_44726) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum sogarandinum](http://purl.obolibrary.org/obo/NCBITaxon_52705) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus basiliscus](http://purl.obolibrary.org/obo/NCBITaxon_8744) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Roseivirgaceae](http://purl.obolibrary.org/obo/NCBITaxon_2762306) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachesis](http://purl.obolibrary.org/obo/NCBITaxon_8751) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136298](http://purl.obolibrary.org/obo/NCBITaxon_3136298) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pecari](http://purl.obolibrary.org/obo/NCBITaxon_35609) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Naumovozyma](http://purl.obolibrary.org/obo/NCBITaxon_278028) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Amoebophilaceae](http://purl.obolibrary.org/obo/NCBITaxon_1501348) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus durissus](http://purl.obolibrary.org/obo/NCBITaxon_8731) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Orthoflavivirus edgehillense](http://purl.obolibrary.org/obo/NCBITaxon_3047817) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus scutulatus](http://purl.obolibrary.org/obo/NCBITaxon_8737) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Polaribacter](http://purl.obolibrary.org/obo/NCBITaxon_52959) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachancea](http://purl.obolibrary.org/obo/NCBITaxon_300275) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136119](http://purl.obolibrary.org/obo/NCBITaxon_3136119) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3136119](http://purl.obolibrary.org/obo/NCBITaxon_3136119))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cytophagaceae](http://purl.obolibrary.org/obo/NCBITaxon_89373) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Agkistrodon](http://purl.obolibrary.org/obo/NCBITaxon_8711) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bacillus phage phi3T](http://purl.obolibrary.org/obo/NCBITaxon_10736) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3137121](http://purl.obolibrary.org/obo/NCBITaxon_3137121) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clematis](http://purl.obolibrary.org/obo/NCBITaxon_3452) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus amstelodami](http://purl.obolibrary.org/obo/NCBITaxon_5054) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136029](http://purl.obolibrary.org/obo/NCBITaxon_3136029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pteropodinae](http://purl.obolibrary.org/obo/NCBITaxon_77225) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vipera berus nikolskii](http://purl.obolibrary.org/obo/NCBITaxon_1808362) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vipera aspis](http://purl.obolibrary.org/obo/NCBITaxon_8706) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Myroides](http://purl.obolibrary.org/obo/NCBITaxon_76831) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus lepidus](http://purl.obolibrary.org/obo/NCBITaxon_44709) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Psychroflexus](http://purl.obolibrary.org/obo/NCBITaxon_83612) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136022](http://purl.obolibrary.org/obo/NCBITaxon_3136022) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3136022](http://purl.obolibrary.org/obo/NCBITaxon_3136022))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eonycteris](http://purl.obolibrary.org/obo/NCBITaxon_58064) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rousettus](http://purl.obolibrary.org/obo/NCBITaxon_9406) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bothrops](http://purl.obolibrary.org/obo/NCBITaxon_8721) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Spirosomataceae](http://purl.obolibrary.org/obo/NCBITaxon_2896860) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aequorivita](http://purl.obolibrary.org/obo/NCBITaxon_153265) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3145177](http://purl.obolibrary.org/obo/NCBITaxon_3145177) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hydrophis](http://purl.obolibrary.org/obo/NCBITaxon_8683) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Afifellaceae](http://purl.obolibrary.org/obo/NCBITaxon_2829802) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Orthoparamyxovirinae](http://purl.obolibrary.org/obo/NCBITaxon_2560076) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3152209](http://purl.obolibrary.org/obo/NCBITaxon_3152209) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mormoopidae](http://purl.obolibrary.org/obo/NCBITaxon_59445) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Porcine epidemic diarrhea virus](http://purl.obolibrary.org/obo/NCBITaxon_28295) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3158245](http://purl.obolibrary.org/obo/NCBITaxon_3158245) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hymenobacteraceae](http://purl.obolibrary.org/obo/NCBITaxon_1853232) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Atropoides](http://purl.obolibrary.org/obo/NCBITaxon_44728) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Zymobacter group](http://purl.obolibrary.org/obo/NCBITaxon_114403) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3137766](http://purl.obolibrary.org/obo/NCBITaxon_3137766) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Debaryomyces](http://purl.obolibrary.org/obo/NCBITaxon_4958) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Natalidae](http://purl.obolibrary.org/obo/NCBITaxon_59446) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Yamadazyma](http://purl.obolibrary.org/obo/NCBITaxon_766765) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3137766](http://purl.obolibrary.org/obo/NCBITaxon_3137766) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3137766](http://purl.obolibrary.org/obo/NCBITaxon_3137766))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2899555](http://purl.obolibrary.org/obo/NCBITaxon_2899555) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Buthus occitanus](http://purl.obolibrary.org/obo/NCBITaxon_6868) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mormoopidae](http://purl.obolibrary.org/obo/NCBITaxon_59445) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Geobacillus sp. MAS1](http://purl.obolibrary.org/obo/NCBITaxon_1408282) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Geobacillus thermoleovorans group](http://purl.obolibrary.org/obo/NCBITaxon_1505648) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum commersonii](http://purl.obolibrary.org/obo/NCBITaxon_4109) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Zobellia](http://purl.obolibrary.org/obo/NCBITaxon_112040) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Narcissus mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12180) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Brucellaceae](http://purl.obolibrary.org/obo/NCBITaxon_118882) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3148161](http://purl.obolibrary.org/obo/NCBITaxon_3148161) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius shedaoensis](http://purl.obolibrary.org/obo/NCBITaxon_88083) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bernardetiaceae](http://purl.obolibrary.org/obo/NCBITaxon_1937968) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3152209](http://purl.obolibrary.org/obo/NCBITaxon_3152209) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3152209](http://purl.obolibrary.org/obo/NCBITaxon_3152209))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3141398](http://purl.obolibrary.org/obo/NCBITaxon_3141398) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3141398](http://purl.obolibrary.org/obo/NCBITaxon_3141398))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Torulaspora](http://purl.obolibrary.org/obo/NCBITaxon_4948) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Natrialbaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644061) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Natronoarchaeaceae](http://purl.obolibrary.org/obo/NCBITaxon_2976354) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136026](http://purl.obolibrary.org/obo/NCBITaxon_3136026) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Macroglossinae <bats>](http://purl.obolibrary.org/obo/NCBITaxon_77241) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius blomhoffii](http://purl.obolibrary.org/obo/NCBITaxon_242054) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3148161](http://purl.obolibrary.org/obo/NCBITaxon_3148161) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Orthoflavivirus wesselsbronense](http://purl.obolibrary.org/obo/NCBITaxon_3048447) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus simus](http://purl.obolibrary.org/obo/NCBITaxon_1043007) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Natalidae](http://purl.obolibrary.org/obo/NCBITaxon_59446) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus](http://purl.obolibrary.org/obo/NCBITaxon_332624) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Marivirgaceae](http://purl.obolibrary.org/obo/NCBITaxon_2762301) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cricetulus](http://purl.obolibrary.org/obo/NCBITaxon_10028) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3122391](http://purl.obolibrary.org/obo/NCBITaxon_3122391) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum etuberosum](http://purl.obolibrary.org/obo/NCBITaxon_200525) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_433334](http://purl.obolibrary.org/obo/NCBITaxon_433334) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_433334](http://purl.obolibrary.org/obo/NCBITaxon_433334))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bartonellaceae](http://purl.obolibrary.org/obo/NCBITaxon_772) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mesophylla](http://purl.obolibrary.org/obo/NCBITaxon_148026) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Noctilionidae](http://purl.obolibrary.org/obo/NCBITaxon_94957) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Millerozyma](http://purl.obolibrary.org/obo/NCBITaxon_766502) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Roseburia](http://purl.obolibrary.org/obo/NCBITaxon_841) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum torvum](http://purl.obolibrary.org/obo/NCBITaxon_119830) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kluyveromyces](http://purl.obolibrary.org/obo/NCBITaxon_4910) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Xanthobacteraceae](http://purl.obolibrary.org/obo/NCBITaxon_335928) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Saccharomyces](http://purl.obolibrary.org/obo/NCBITaxon_4930) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Orthoflavivirus omskense](http://purl.obolibrary.org/obo/NCBITaxon_3048233) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3158245](http://purl.obolibrary.org/obo/NCBITaxon_3158245) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3158245](http://purl.obolibrary.org/obo/NCBITaxon_3158245))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius](http://purl.obolibrary.org/obo/NCBITaxon_51647) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Geobacillus sp. MAS1](http://purl.obolibrary.org/obo/NCBITaxon_1408282) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Geobacillus stearothermophilus](http://purl.obolibrary.org/obo/NCBITaxon_1422) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium roqueforti](http://purl.obolibrary.org/obo/NCBITaxon_5082) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Antaresia](http://purl.obolibrary.org/obo/NCBITaxon_196249) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3144915](http://purl.obolibrary.org/obo/NCBITaxon_3144915) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus vegrandis](http://purl.obolibrary.org/obo/NCBITaxon_184545) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kluyveromyces](http://purl.obolibrary.org/obo/NCBITaxon_4910) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum aculeatissimum](http://purl.obolibrary.org/obo/NCBITaxon_267265) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mesocricetus](http://purl.obolibrary.org/obo/NCBITaxon_10035) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3122391](http://purl.obolibrary.org/obo/NCBITaxon_3122391) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Centurio](http://purl.obolibrary.org/obo/NCBITaxon_27643) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136030](http://purl.obolibrary.org/obo/NCBITaxon_3136030) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pteropodinae](http://purl.obolibrary.org/obo/NCBITaxon_77225) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium brasilianum](http://purl.obolibrary.org/obo/NCBITaxon_104259) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum demissum](http://purl.obolibrary.org/obo/NCBITaxon_50514) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Torulaspora](http://purl.obolibrary.org/obo/NCBITaxon_4948) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136029](http://purl.obolibrary.org/obo/NCBITaxon_3136029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3136029](http://purl.obolibrary.org/obo/NCBITaxon_3136029))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Saccharomyces](http://purl.obolibrary.org/obo/NCBITaxon_4930) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus vegrandis](http://purl.obolibrary.org/obo/NCBITaxon_184545) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artibeus](http://purl.obolibrary.org/obo/NCBITaxon_9416) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [White clover mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12188) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Methylocystaceae](http://purl.obolibrary.org/obo/NCBITaxon_31993) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3137764](http://purl.obolibrary.org/obo/NCBITaxon_3137764) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3137766](http://purl.obolibrary.org/obo/NCBITaxon_3137766) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Orthoflavivirus japonicum](http://purl.obolibrary.org/obo/NCBITaxon_3048158) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Tetrapisispora](http://purl.obolibrary.org/obo/NCBITaxon_113604) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vampyrodes](http://purl.obolibrary.org/obo/NCBITaxon_148032) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Atropoides](http://purl.obolibrary.org/obo/NCBITaxon_44728) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Orthoflavivirus denguei](http://purl.obolibrary.org/obo/NCBITaxon_3052464) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hoeflea](http://purl.obolibrary.org/obo/NCBITaxon_274591) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Liberibacter](http://purl.obolibrary.org/obo/NCBITaxon_34019) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Enterocloster](http://purl.obolibrary.org/obo/NCBITaxon_2719313) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum tuberosum](http://purl.obolibrary.org/obo/NCBITaxon_4113) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3137121](http://purl.obolibrary.org/obo/NCBITaxon_3137121) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3137121](http://purl.obolibrary.org/obo/NCBITaxon_3137121))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3159502](http://purl.obolibrary.org/obo/NCBITaxon_3159502) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3159502](http://purl.obolibrary.org/obo/NCBITaxon_3159502))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Phodopus](http://purl.obolibrary.org/obo/NCBITaxon_10043) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3122391](http://purl.obolibrary.org/obo/NCBITaxon_3122391) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136026](http://purl.obolibrary.org/obo/NCBITaxon_3136026) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136030](http://purl.obolibrary.org/obo/NCBITaxon_3136030) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3148161](http://purl.obolibrary.org/obo/NCBITaxon_3148161) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3148161](http://purl.obolibrary.org/obo/NCBITaxon_3148161))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Blastochloridaceae](http://purl.obolibrary.org/obo/NCBITaxon_2831090) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium brevicompactum](http://purl.obolibrary.org/obo/NCBITaxon_5074) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Capnocytophaga](http://purl.obolibrary.org/obo/NCBITaxon_1016) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus restrictus](http://purl.obolibrary.org/obo/NCBITaxon_5064) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clover yellow mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12177) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_61376](http://purl.obolibrary.org/obo/NCBITaxon_61376) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Felis silvestris](http://purl.obolibrary.org/obo/NCBITaxon_9683) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Haloferacaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644056) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Natronoarchaeaceae](http://purl.obolibrary.org/obo/NCBITaxon_2976354) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Flavobacterium](http://purl.obolibrary.org/obo/NCBITaxon_237) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Protobothrops](http://purl.obolibrary.org/obo/NCBITaxon_103943) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Chiroderma](http://purl.obolibrary.org/obo/NCBITaxon_27645) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2732864](http://purl.obolibrary.org/obo/NCBITaxon_2732864) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Modestobacter marinus](http://purl.obolibrary.org/obo/NCBITaxon_477641) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cobetia](http://purl.obolibrary.org/obo/NCBITaxon_204286) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3137764](http://purl.obolibrary.org/obo/NCBITaxon_3137764) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerostipes](http://purl.obolibrary.org/obo/NCBITaxon_207244) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mycoplana](http://purl.obolibrary.org/obo/NCBITaxon_13159) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hoeflea](http://purl.obolibrary.org/obo/NCBITaxon_274591) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Stappiaceae](http://purl.obolibrary.org/obo/NCBITaxon_2821832) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2994368](http://purl.obolibrary.org/obo/NCBITaxon_2994368) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_2994368](http://purl.obolibrary.org/obo/NCBITaxon_2994368))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2792136](http://purl.obolibrary.org/obo/NCBITaxon_2792136) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lingula anatina](http://purl.obolibrary.org/obo/NCBITaxon_7574) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Candida/Lodderomyces clade](http://purl.obolibrary.org/obo/NCBITaxon_1535325) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Orthoflavivirus zikaense](http://purl.obolibrary.org/obo/NCBITaxon_3048459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Sturnira](http://purl.obolibrary.org/obo/NCBITaxon_27659) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bothrops](http://purl.obolibrary.org/obo/NCBITaxon_8721) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Orthoflavivirus aroaense](http://purl.obolibrary.org/obo/NCBITaxon_3047375) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3147912](http://purl.obolibrary.org/obo/NCBITaxon_3147912) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Corallus caninus](http://purl.obolibrary.org/obo/NCBITaxon_51861) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aurantimonadaceae](http://purl.obolibrary.org/obo/NCBITaxon_255475) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Faecalitalea](http://purl.obolibrary.org/obo/NCBITaxon_1573534) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_433334](http://purl.obolibrary.org/obo/NCBITaxon_433334) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thyropteridae](http://purl.obolibrary.org/obo/NCBITaxon_124757) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus viridis](http://purl.obolibrary.org/obo/NCBITaxon_8739) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artemia sp.](http://purl.obolibrary.org/obo/NCBITaxon_6662) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Artemia parthenogenetica](http://purl.obolibrary.org/obo/NCBITaxon_6663) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachancea](http://purl.obolibrary.org/obo/NCBITaxon_300275) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum subgen. Lycopersicon](http://purl.obolibrary.org/obo/NCBITaxon_49274) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Deinagkistrodon](http://purl.obolibrary.org/obo/NCBITaxon_42170) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136027](http://purl.obolibrary.org/obo/NCBITaxon_3136027) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pteropodinae](http://purl.obolibrary.org/obo/NCBITaxon_77225) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kazachstania](http://purl.obolibrary.org/obo/NCBITaxon_71245) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_2236) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_38063](http://purl.obolibrary.org/obo/NCBITaxon_38063) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Dehalococcoides](http://purl.obolibrary.org/obo/NCBITaxon_61434) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Dehalogenimonas](http://purl.obolibrary.org/obo/NCBITaxon_670486) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Natrialbaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644061) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_1963270) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vampyressa](http://purl.obolibrary.org/obo/NCBITaxon_148031) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Osteoglossocephalai](http://purl.obolibrary.org/obo/NCBITaxon_1489341) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_70861](http://purl.obolibrary.org/obo/NCBITaxon_70861) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136026](http://purl.obolibrary.org/obo/NCBITaxon_3136026) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pteropodinae](http://purl.obolibrary.org/obo/NCBITaxon_77225) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus calidoustus](http://purl.obolibrary.org/obo/NCBITaxon_454130) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum okadae](http://purl.obolibrary.org/obo/NCBITaxon_73575) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Emballonuridae](http://purl.obolibrary.org/obo/NCBITaxon_30562) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lacrimispora](http://purl.obolibrary.org/obo/NCBITaxon_2719231) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Noctilionidae](http://purl.obolibrary.org/obo/NCBITaxon_94957) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachancea](http://purl.obolibrary.org/obo/NCBITaxon_300275) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Zunongwangia](http://purl.obolibrary.org/obo/NCBITaxon_417127) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Calloselasma](http://purl.obolibrary.org/obo/NCBITaxon_8774) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hyphomicrobiales incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_119042) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Foxtail mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12179) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [environmental samples <firmicutes,family Lachnospiraceae>](http://purl.obolibrary.org/obo/NCBITaxon_189703) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3137766](http://purl.obolibrary.org/obo/NCBITaxon_3137766) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Chromohalobacter](http://purl.obolibrary.org/obo/NCBITaxon_42054) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Furipteridae](http://purl.obolibrary.org/obo/NCBITaxon_148080) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Orthoflavivirus langatense](http://purl.obolibrary.org/obo/NCBITaxon_3048175) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3145177](http://purl.obolibrary.org/obo/NCBITaxon_3145177) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3145177](http://purl.obolibrary.org/obo/NCBITaxon_3145177))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Clonostachys](http://purl.obolibrary.org/obo/NCBITaxon_110564) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hapsidospora](http://purl.obolibrary.org/obo/NCBITaxon_95323) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cellulophaga](http://purl.obolibrary.org/obo/NCBITaxon_104264) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Potato virus X](http://purl.obolibrary.org/obo/NCBITaxon_12183) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum bulbocastanum](http://purl.obolibrary.org/obo/NCBITaxon_147425) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium camemberti](http://purl.obolibrary.org/obo/NCBITaxon_5075) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2576912](http://purl.obolibrary.org/obo/NCBITaxon_2576912) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Felis silvestris](http://purl.obolibrary.org/obo/NCBITaxon_9683) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Buthus paris](http://purl.obolibrary.org/obo/NCBITaxon_1388771) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2899555](http://purl.obolibrary.org/obo/NCBITaxon_2899555) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3137764](http://purl.obolibrary.org/obo/NCBITaxon_3137764) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Chromohalobacter](http://purl.obolibrary.org/obo/NCBITaxon_42054) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Strawberry mild yellow edge virus](http://purl.obolibrary.org/obo/NCBITaxon_12187) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pygoderma](http://purl.obolibrary.org/obo/NCBITaxon_148028) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_52207](http://purl.obolibrary.org/obo/NCBITaxon_52207) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_52207](http://purl.obolibrary.org/obo/NCBITaxon_52207))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136027](http://purl.obolibrary.org/obo/NCBITaxon_3136027) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Macroglossinae <bats>](http://purl.obolibrary.org/obo/NCBITaxon_77241) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136029](http://purl.obolibrary.org/obo/NCBITaxon_3136029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Macroglossinae <bats>](http://purl.obolibrary.org/obo/NCBITaxon_77241) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus mitchellii](http://purl.obolibrary.org/obo/NCBITaxon_384065) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Devosiaceae](http://purl.obolibrary.org/obo/NCBITaxon_2831106) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Furipteridae](http://purl.obolibrary.org/obo/NCBITaxon_148080) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nidulans](http://purl.obolibrary.org/obo/NCBITaxon_162425) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nonlabens](http://purl.obolibrary.org/obo/NCBITaxon_363408) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium digitatum](http://purl.obolibrary.org/obo/NCBITaxon_36651) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hyphomicrobiaceae](http://purl.obolibrary.org/obo/NCBITaxon_45401) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2171616](http://purl.obolibrary.org/obo/NCBITaxon_2171616) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_2171616](http://purl.obolibrary.org/obo/NCBITaxon_2171616))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136030](http://purl.obolibrary.org/obo/NCBITaxon_3136030) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Macroglossinae <bats>](http://purl.obolibrary.org/obo/NCBITaxon_77241) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Zygotorulaspora](http://purl.obolibrary.org/obo/NCBITaxon_1196389) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lelystad virus](http://purl.obolibrary.org/obo/NCBITaxon_11049) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Porcine reproductive and respiratory syndrome virus 1](http://purl.obolibrary.org/obo/NCBITaxon_1965066) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3148373](http://purl.obolibrary.org/obo/NCBITaxon_3148373) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3148373](http://purl.obolibrary.org/obo/NCBITaxon_3148373))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Dictyostelium sp.](http://purl.obolibrary.org/obo/NCBITaxon_5784) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Dictyostelium sp. (STRAIN GA11)](http://purl.obolibrary.org/obo/NCBITaxon_5785) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2792136](http://purl.obolibrary.org/obo/NCBITaxon_2792136) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_2792136](http://purl.obolibrary.org/obo/NCBITaxon_2792136))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Sistrurus](http://purl.obolibrary.org/obo/NCBITaxon_8755) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Flexibacteraceae](http://purl.obolibrary.org/obo/NCBITaxon_2762284) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2899558](http://purl.obolibrary.org/obo/NCBITaxon_2899558) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Leiurus quinquestriatus](http://purl.obolibrary.org/obo/NCBITaxon_6883) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2576912](http://purl.obolibrary.org/obo/NCBITaxon_2576912) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Felis catus](http://purl.obolibrary.org/obo/NCBITaxon_9685) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Herbinix](http://purl.obolibrary.org/obo/NCBITaxon_1663717) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mystacinidae](http://purl.obolibrary.org/obo/NCBITaxon_94959) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Simalia](http://purl.obolibrary.org/obo/NCBITaxon_1497996) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3144915](http://purl.obolibrary.org/obo/NCBITaxon_3144915) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhizobiaceae](http://purl.obolibrary.org/obo/NCBITaxon_82115) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium paxilli](http://purl.obolibrary.org/obo/NCBITaxon_70109) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136030](http://purl.obolibrary.org/obo/NCBITaxon_3136030) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3136030](http://purl.obolibrary.org/obo/NCBITaxon_3136030))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Avulavirinae](http://purl.obolibrary.org/obo/NCBITaxon_2560069) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3152209](http://purl.obolibrary.org/obo/NCBITaxon_3152209) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Orthoflavivirus louisense](http://purl.obolibrary.org/obo/NCBITaxon_3052468) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cobetia](http://purl.obolibrary.org/obo/NCBITaxon_204286) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3137766](http://purl.obolibrary.org/obo/NCBITaxon_3137766) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus vegrandis](http://purl.obolibrary.org/obo/NCBITaxon_184545) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum canense](http://purl.obolibrary.org/obo/NCBITaxon_421230) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Stenoderma](http://purl.obolibrary.org/obo/NCBITaxon_148030) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halomonas](http://purl.obolibrary.org/obo/NCBITaxon_2745) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3137764](http://purl.obolibrary.org/obo/NCBITaxon_3137764) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumigatus](http://purl.obolibrary.org/obo/NCBITaxon_746128) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Orthoflavivirus nilense](http://purl.obolibrary.org/obo/NCBITaxon_3048448) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Phyllobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_69277) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hypnale](http://purl.obolibrary.org/obo/NCBITaxon_44719) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Emballonuridae](http://purl.obolibrary.org/obo/NCBITaxon_30562) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus cerberus](http://purl.obolibrary.org/obo/NCBITaxon_36309) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Coprococcus](http://purl.obolibrary.org/obo/NCBITaxon_33042) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum lyratum](http://purl.obolibrary.org/obo/NCBITaxon_230192) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Porthidium](http://purl.obolibrary.org/obo/NCBITaxon_44715) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum crispum](http://purl.obolibrary.org/obo/NCBITaxon_4110) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium nalgiovense](http://purl.obolibrary.org/obo/NCBITaxon_60175) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Tyzzerella](http://purl.obolibrary.org/obo/NCBITaxon_1506577) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2782196](http://purl.obolibrary.org/obo/NCBITaxon_2782196) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Agkistrodon piscivorus](http://purl.obolibrary.org/obo/NCBITaxon_8715) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_61376](http://purl.obolibrary.org/obo/NCBITaxon_61376) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Felis catus](http://purl.obolibrary.org/obo/NCBITaxon_9685) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eremothecium](http://purl.obolibrary.org/obo/NCBITaxon_33170) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum chacoense](http://purl.obolibrary.org/obo/NCBITaxon_4108) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Thyropteridae](http://purl.obolibrary.org/obo/NCBITaxon_124757) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Phyllops](http://purl.obolibrary.org/obo/NCBITaxon_148027) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fischeri](http://purl.obolibrary.org/obo/NCBITaxon_36630) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus](http://purl.obolibrary.org/obo/NCBITaxon_332624) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum microdontum](http://purl.obolibrary.org/obo/NCBITaxon_73574) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3122392](http://purl.obolibrary.org/obo/NCBITaxon_3122392) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3122392](http://purl.obolibrary.org/obo/NCBITaxon_3122392))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136027](http://purl.obolibrary.org/obo/NCBITaxon_3136027) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3136027](http://purl.obolibrary.org/obo/NCBITaxon_3136027))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Terrapene](http://purl.obolibrary.org/obo/NCBITaxon_85610) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_85612](http://purl.obolibrary.org/obo/NCBITaxon_85612) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Uroderma](http://purl.obolibrary.org/obo/NCBITaxon_27662) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rhodobiaceae](http://purl.obolibrary.org/obo/NCBITaxon_119043) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium olsonii](http://purl.obolibrary.org/obo/NCBITaxon_99116) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Orthoflavivirus powassanense](http://purl.obolibrary.org/obo/NCBITaxon_3048287) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum palustre](http://purl.obolibrary.org/obo/NCBITaxon_4115) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumigatus](http://purl.obolibrary.org/obo/NCBITaxon_746128) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Parvibaculaceae](http://purl.obolibrary.org/obo/NCBITaxon_2813035) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium fellutanum](http://purl.obolibrary.org/obo/NCBITaxon_70095) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3132029](http://purl.obolibrary.org/obo/NCBITaxon_3132029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3132029](http://purl.obolibrary.org/obo/NCBITaxon_3132029))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Orthoflavivirus encephalitidis](http://purl.obolibrary.org/obo/NCBITaxon_3052465) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Naumovozyma](http://purl.obolibrary.org/obo/NCBITaxon_278028) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Microscillaceae](http://purl.obolibrary.org/obo/NCBITaxon_1937962) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lacinutrix](http://purl.obolibrary.org/obo/NCBITaxon_291183) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3148161](http://purl.obolibrary.org/obo/NCBITaxon_3148161) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius intermedius](http://purl.obolibrary.org/obo/NCBITaxon_44732) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Zymobacter group](http://purl.obolibrary.org/obo/NCBITaxon_114403) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3137764](http://purl.obolibrary.org/obo/NCBITaxon_3137764) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus eucalypticola](http://purl.obolibrary.org/obo/NCBITaxon_1340029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vespertilionidae](http://purl.obolibrary.org/obo/NCBITaxon_9431) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3147914](http://purl.obolibrary.org/obo/NCBITaxon_3147914) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3147916](http://purl.obolibrary.org/obo/NCBITaxon_3147916) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136027](http://purl.obolibrary.org/obo/NCBITaxon_3136027) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136030](http://purl.obolibrary.org/obo/NCBITaxon_3136030) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_38063](http://purl.obolibrary.org/obo/NCBITaxon_38063) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_38063](http://purl.obolibrary.org/obo/NCBITaxon_38063))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Dokdonia](http://purl.obolibrary.org/obo/NCBITaxon_326319) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mycoplasmataceae](http://purl.obolibrary.org/obo/NCBITaxon_2092) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3132029](http://purl.obolibrary.org/obo/NCBITaxon_3132029) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Zygotorulaspora](http://purl.obolibrary.org/obo/NCBITaxon_1196389) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Molossidae](http://purl.obolibrary.org/obo/NCBITaxon_9436) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fischeri](http://purl.obolibrary.org/obo/NCBITaxon_36630) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cyclobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_563798) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Zygosaccharomyces](http://purl.obolibrary.org/obo/NCBITaxon_4953) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Winogradskyella](http://purl.obolibrary.org/obo/NCBITaxon_286104) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136026](http://purl.obolibrary.org/obo/NCBITaxon_3136026) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136029](http://purl.obolibrary.org/obo/NCBITaxon_3136029) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Buthus](http://purl.obolibrary.org/obo/NCBITaxon_2618866) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2899555](http://purl.obolibrary.org/obo/NCBITaxon_2899555) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium griseoroseum](http://purl.obolibrary.org/obo/NCBITaxon_84562) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136023](http://purl.obolibrary.org/obo/NCBITaxon_3136023) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3136023](http://purl.obolibrary.org/obo/NCBITaxon_3136023))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Uromastycinae](http://purl.obolibrary.org/obo/NCBITaxon_145347) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_81954](http://purl.obolibrary.org/obo/NCBITaxon_81954) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ectophylla](http://purl.obolibrary.org/obo/NCBITaxon_148025) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nakaseomyces](http://purl.obolibrary.org/obo/NCBITaxon_374468) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Orthoflavivirus banziense](http://purl.obolibrary.org/obo/NCBITaxon_3047395) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ovophis](http://purl.obolibrary.org/obo/NCBITaxon_42183) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136298](http://purl.obolibrary.org/obo/NCBITaxon_3136298) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3136298](http://purl.obolibrary.org/obo/NCBITaxon_3136298))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus horridus](http://purl.obolibrary.org/obo/NCBITaxon_35024) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mystacinidae](http://purl.obolibrary.org/obo/NCBITaxon_94959) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus lepidus](http://purl.obolibrary.org/obo/NCBITaxon_44709) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum cardiophyllum](http://purl.obolibrary.org/obo/NCBITaxon_160510) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2899558](http://purl.obolibrary.org/obo/NCBITaxon_2899558) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_2899558](http://purl.obolibrary.org/obo/NCBITaxon_2899558))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Formosa](http://purl.obolibrary.org/obo/NCBITaxon_225842) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Natrialbaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644061) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_38063](http://purl.obolibrary.org/obo/NCBITaxon_38063) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus simus](http://purl.obolibrary.org/obo/NCBITaxon_1043007) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136026](http://purl.obolibrary.org/obo/NCBITaxon_3136026) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3136026](http://purl.obolibrary.org/obo/NCBITaxon_3136026))) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3144915](http://purl.obolibrary.org/obo/NCBITaxon_3144915) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bothrochilus](http://purl.obolibrary.org/obo/NCBITaxon_461340) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136029](http://purl.obolibrary.org/obo/NCBITaxon_3136029) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3136030](http://purl.obolibrary.org/obo/NCBITaxon_3136030) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus pseudoglaucus](http://purl.obolibrary.org/obo/NCBITaxon_1405805) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus glaucus](http://purl.obolibrary.org/obo/NCBITaxon_41413) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3147912](http://purl.obolibrary.org/obo/NCBITaxon_3147912) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3147912](http://purl.obolibrary.org/obo/NCBITaxon_3147912))) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nitrobacteraceae](http://purl.obolibrary.org/obo/NCBITaxon_41294) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3144915](http://purl.obolibrary.org/obo/NCBITaxon_3144915) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Python](http://purl.obolibrary.org/obo/NCBITaxon_37579) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Flammeovirgaceae](http://purl.obolibrary.org/obo/NCBITaxon_200667) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3144915](http://purl.obolibrary.org/obo/NCBITaxon_3144915) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Morelia <snakes>](http://purl.obolibrary.org/obo/NCBITaxon_51894) 
 
-- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Solanum agrimoniifolium](http://purl.obolibrary.org/obo/NCBITaxon_317816) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2994362](http://purl.obolibrary.org/obo/NCBITaxon_2994362) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_2994362](http://purl.obolibrary.org/obo/NCBITaxon_2994362))) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Tetrapisispora](http://purl.obolibrary.org/obo/NCBITaxon_113604) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) 
 
-### Geobacillus sp. MAS1 `http://purl.obolibrary.org/obo/NCBITaxon_1408282`
-#### Removed
-- [Geobacillus sp. MAS1](http://purl.obolibrary.org/obo/NCBITaxon_1408282) DisjointWith [Geobacillus sp. Y412MC61](http://purl.obolibrary.org/obo/NCBITaxon_544556) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Schwanniomyces](http://purl.obolibrary.org/obo/NCBITaxon_766758) 
 
-- [Geobacillus sp. MAS1](http://purl.obolibrary.org/obo/NCBITaxon_1408282) DisjointWith [Geobacillus sp. PA-9](http://purl.obolibrary.org/obo/NCBITaxon_278858) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3159504](http://purl.obolibrary.org/obo/NCBITaxon_3159504) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3159504](http://purl.obolibrary.org/obo/NCBITaxon_3159504))) 
 
-- [Geobacillus sp. MAS1](http://purl.obolibrary.org/obo/NCBITaxon_1408282) DisjointWith [Geobacillus sp. WCH70](http://purl.obolibrary.org/obo/NCBITaxon_471223) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus viridis](http://purl.obolibrary.org/obo/NCBITaxon_8739) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
 
-#### Added
-- [Geobacillus sp. MAS1](http://purl.obolibrary.org/obo/NCBITaxon_1408282) DisjointWith [unclassified Geobacillus](http://purl.obolibrary.org/obo/NCBITaxon_2642459) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
 
-- [Geobacillus sp. MAS1](http://purl.obolibrary.org/obo/NCBITaxon_1408282) DisjointWith [Geobacillus stearothermophilus](http://purl.obolibrary.org/obo/NCBITaxon_1422) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3148161](http://purl.obolibrary.org/obo/NCBITaxon_3148161) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius ussuriensis](http://purl.obolibrary.org/obo/NCBITaxon_35671) 
 
-- [Geobacillus sp. MAS1](http://purl.obolibrary.org/obo/NCBITaxon_1408282) DisjointWith [Geobacillus thermodenitrificans](http://purl.obolibrary.org/obo/NCBITaxon_33940) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Porthidium](http://purl.obolibrary.org/obo/NCBITaxon_44715) 
 
-- [Geobacillus sp. MAS1](http://purl.obolibrary.org/obo/NCBITaxon_1408282) DisjointWith [Geobacillus thermoleovorans group](http://purl.obolibrary.org/obo/NCBITaxon_1505648) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) 
 
-- [Geobacillus sp. MAS1](http://purl.obolibrary.org/obo/NCBITaxon_1408282) DisjointWith [Geobacillus genomosp. 3](http://purl.obolibrary.org/obo/NCBITaxon_1921421) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus calidoustus](http://purl.obolibrary.org/obo/NCBITaxon_454130) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus cerberus](http://purl.obolibrary.org/obo/NCBITaxon_36309) 
 
-### Glauconycteris `http://purl.obolibrary.org/obo/NCBITaxon_909366`
-#### Removed
-- [Glauconycteris](http://purl.obolibrary.org/obo/NCBITaxon_909366) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Actinemys](http://purl.obolibrary.org/obo/NCBITaxon_335394) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_85612](http://purl.obolibrary.org/obo/NCBITaxon_85612) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus molossus](http://purl.obolibrary.org/obo/NCBITaxon_8733) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
 
-### Halomonas `http://purl.obolibrary.org/obo/NCBITaxon_2745`
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kurtzmaniella](http://purl.obolibrary.org/obo/NCBITaxon_549703) 
 
-#### Added
-- [Halomonas](http://purl.obolibrary.org/obo/NCBITaxon_2745) DisjointWith [NCBITaxon_3137764](http://purl.obolibrary.org/obo/NCBITaxon_3137764) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Haloferacaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644056) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Natrialbaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644061) 
 
-- [Halomonas](http://purl.obolibrary.org/obo/NCBITaxon_2745) DisjointWith [NCBITaxon_3137766](http://purl.obolibrary.org/obo/NCBITaxon_3137766) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus versicolor](http://purl.obolibrary.org/obo/NCBITaxon_46472) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3147914](http://purl.obolibrary.org/obo/NCBITaxon_3147914) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3147914](http://purl.obolibrary.org/obo/NCBITaxon_3147914))) 
 
-### Halomonas anticariensis `http://purl.obolibrary.org/obo/NCBITaxon_258591`
-#### Removed
-- [Halomonas anticariensis](http://purl.obolibrary.org/obo/NCBITaxon_258591) DisjointWith [Halomonas elongata](http://purl.obolibrary.org/obo/NCBITaxon_2746) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ophryacus](http://purl.obolibrary.org/obo/NCBITaxon_88089) 
 
-- [Halomonas anticariensis](http://purl.obolibrary.org/obo/NCBITaxon_258591) DisjointWith [unclassified Halomonas](http://purl.obolibrary.org/obo/NCBITaxon_2609666) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186928) 
 
-- [Halomonas anticariensis](http://purl.obolibrary.org/obo/NCBITaxon_258591) DisjointWith [Halomonas eurihalina](http://purl.obolibrary.org/obo/NCBITaxon_42566) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus atrox](http://purl.obolibrary.org/obo/NCBITaxon_8730) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
 
-- [Halomonas anticariensis](http://purl.obolibrary.org/obo/NCBITaxon_258591) DisjointWith [Halomonas halodenitrificans](http://purl.obolibrary.org/obo/NCBITaxon_28252) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2782196](http://purl.obolibrary.org/obo/NCBITaxon_2782196) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_2782196](http://purl.obolibrary.org/obo/NCBITaxon_2782196))) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mediterraneibacter](http://purl.obolibrary.org/obo/NCBITaxon_2316020) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_70862](http://purl.obolibrary.org/obo/NCBITaxon_70862) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_70862](http://purl.obolibrary.org/obo/NCBITaxon_70862))) 
 
-### Halomonas campaniensis `http://purl.obolibrary.org/obo/NCBITaxon_213554`
-#### Removed
-- [Halomonas campaniensis](http://purl.obolibrary.org/obo/NCBITaxon_213554) DisjointWith [Halomonas anticariensis](http://purl.obolibrary.org/obo/NCBITaxon_258591) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Zygosaccharomyces](http://purl.obolibrary.org/obo/NCBITaxon_4953) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Sistrurus](http://purl.obolibrary.org/obo/NCBITaxon_8755) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eremothecium](http://purl.obolibrary.org/obo/NCBITaxon_33170) 
 
-### Halomonas zhaodongensis `http://purl.obolibrary.org/obo/NCBITaxon_1176240`
-#### Removed
-- [Halomonas zhaodongensis](http://purl.obolibrary.org/obo/NCBITaxon_1176240) DisjointWith [Halomonas eurihalina](http://purl.obolibrary.org/obo/NCBITaxon_42566) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2782196](http://purl.obolibrary.org/obo/NCBITaxon_2782196) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Agkistrodon bilineatus](http://purl.obolibrary.org/obo/NCBITaxon_8718) 
 
-- [Halomonas zhaodongensis](http://purl.obolibrary.org/obo/NCBITaxon_1176240) DisjointWith [Halomonas anticariensis](http://purl.obolibrary.org/obo/NCBITaxon_258591) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus neoniger](http://purl.obolibrary.org/obo/NCBITaxon_1196635) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
 
-- [Halomonas zhaodongensis](http://purl.obolibrary.org/obo/NCBITaxon_1176240) DisjointWith [Halomonas elongata](http://purl.obolibrary.org/obo/NCBITaxon_2746) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Scheffersomyces](http://purl.obolibrary.org/obo/NCBITaxon_766733) 
 
-- [Halomonas zhaodongensis](http://purl.obolibrary.org/obo/NCBITaxon_1176240) DisjointWith [unclassified Halomonas](http://purl.obolibrary.org/obo/NCBITaxon_2609666) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_433334](http://purl.obolibrary.org/obo/NCBITaxon_433334) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Erysipelotrichaceae](http://purl.obolibrary.org/obo/NCBITaxon_544447) 
 
-- [Halomonas zhaodongensis](http://purl.obolibrary.org/obo/NCBITaxon_1176240) DisjointWith [Halomonas campaniensis](http://purl.obolibrary.org/obo/NCBITaxon_213554) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2994362](http://purl.obolibrary.org/obo/NCBITaxon_2994362) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudofrankia](http://purl.obolibrary.org/obo/NCBITaxon_2994363) 
 
-- [Halomonas zhaodongensis](http://purl.obolibrary.org/obo/NCBITaxon_1176240) DisjointWith [Halomonas halodenitrificans](http://purl.obolibrary.org/obo/NCBITaxon_28252) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trimeresurus](http://purl.obolibrary.org/obo/NCBITaxon_8764) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Saccharomyces](http://purl.obolibrary.org/obo/NCBITaxon_4930) 
 
-### Harpiocephalus `http://purl.obolibrary.org/obo/NCBITaxon_124748`
-#### Removed
-- [Harpiocephalus](http://purl.obolibrary.org/obo/NCBITaxon_124748) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus oryzae](http://purl.obolibrary.org/obo/NCBITaxon_5062) 
 
-- [Harpiocephalus](http://purl.obolibrary.org/obo/NCBITaxon_124748) DisjointWith [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_1963270) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_38063](http://purl.obolibrary.org/obo/NCBITaxon_38063) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Haloferacaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644056) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_38063](http://purl.obolibrary.org/obo/NCBITaxon_38063) 
 
-### Hipposideridae `http://purl.obolibrary.org/obo/NCBITaxon_186994`
-#### Removed
-- [Hipposideridae](http://purl.obolibrary.org/obo/NCBITaxon_186994) DisjointWith [Vespertilionidae](http://purl.obolibrary.org/obo/NCBITaxon_9431) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus tzabcan](http://purl.obolibrary.org/obo/NCBITaxon_1043006) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
 
-- [Hipposideridae](http://purl.obolibrary.org/obo/NCBITaxon_186994) DisjointWith [Phyllostomidae](http://purl.obolibrary.org/obo/NCBITaxon_9415) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Diutina](http://purl.obolibrary.org/obo/NCBITaxon_1910789) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kodamaea](http://purl.obolibrary.org/obo/NCBITaxon_77850) 
 
-- [Hipposideridae](http://purl.obolibrary.org/obo/NCBITaxon_186994) DisjointWith [Noctilionidae](http://purl.obolibrary.org/obo/NCBITaxon_94957) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
-- [Hipposideridae](http://purl.obolibrary.org/obo/NCBITaxon_186994) DisjointWith [Mormoopidae](http://purl.obolibrary.org/obo/NCBITaxon_59445) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Anaerobutyricum](http://purl.obolibrary.org/obo/NCBITaxon_2569097) 
 
-- [Hipposideridae](http://purl.obolibrary.org/obo/NCBITaxon_186994) DisjointWith [Emballonuridae](http://purl.obolibrary.org/obo/NCBITaxon_30562) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nakaseomyces](http://purl.obolibrary.org/obo/NCBITaxon_374468) 
 
-- [Hipposideridae](http://purl.obolibrary.org/obo/NCBITaxon_186994) DisjointWith [Molossidae](http://purl.obolibrary.org/obo/NCBITaxon_9436) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vipera berus nikolskii](http://purl.obolibrary.org/obo/NCBITaxon_1808362) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Vipera renardi](http://purl.obolibrary.org/obo/NCBITaxon_927686) 
 
-- [Hipposideridae](http://purl.obolibrary.org/obo/NCBITaxon_186994) DisjointWith [Natalidae](http://purl.obolibrary.org/obo/NCBITaxon_59446) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) 
 
-- [Hipposideridae](http://purl.obolibrary.org/obo/NCBITaxon_186994) DisjointWith [Mystacinidae](http://purl.obolibrary.org/obo/NCBITaxon_94959) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3122391](http://purl.obolibrary.org/obo/NCBITaxon_3122391) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3122391](http://purl.obolibrary.org/obo/NCBITaxon_3122391))) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Zygosaccharomyces](http://purl.obolibrary.org/obo/NCBITaxon_4953) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium glabrum](http://purl.obolibrary.org/obo/NCBITaxon_69773) 
 
-### Hoeflea `http://purl.obolibrary.org/obo/NCBITaxon_274591`
-#### Removed
-- [Hoeflea](http://purl.obolibrary.org/obo/NCBITaxon_274591) DisjointWith [Mesorhizobium](http://purl.obolibrary.org/obo/NCBITaxon_68287) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Haloferacaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644056) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_1963270) 
 
-- [Hoeflea](http://purl.obolibrary.org/obo/NCBITaxon_274591) DisjointWith [Aminobacter](http://purl.obolibrary.org/obo/NCBITaxon_31988) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3145177](http://purl.obolibrary.org/obo/NCBITaxon_3145177) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aipysurus](http://purl.obolibrary.org/obo/NCBITaxon_8677) 
 
-- [Hoeflea](http://purl.obolibrary.org/obo/NCBITaxon_274591) DisjointWith [Pseudaminobacter](http://purl.obolibrary.org/obo/NCBITaxon_93368) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
 
-- [Hoeflea](http://purl.obolibrary.org/obo/NCBITaxon_274591) DisjointWith [Chelativorans](http://purl.obolibrary.org/obo/NCBITaxon_449972) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
 
-#### Added
-- [Hoeflea](http://purl.obolibrary.org/obo/NCBITaxon_274591) DisjointWith [Liberibacter](http://purl.obolibrary.org/obo/NCBITaxon_34019) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus atrox](http://purl.obolibrary.org/obo/NCBITaxon_8730) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
 
-### Hymenobacteraceae `http://purl.obolibrary.org/obo/NCBITaxon_1853232`
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cerrophidion](http://purl.obolibrary.org/obo/NCBITaxon_44721) 
 
-#### Added
-- [Hymenobacteraceae](http://purl.obolibrary.org/obo/NCBITaxon_1853232) DisjointWith [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Torulaspora](http://purl.obolibrary.org/obo/NCBITaxon_4948) 
 
-### Hyphomicrobiales incertae sedis `http://purl.obolibrary.org/obo/NCBITaxon_119042`
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2782196](http://purl.obolibrary.org/obo/NCBITaxon_2782196) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Agkistrodon contortrix](http://purl.obolibrary.org/obo/NCBITaxon_8720) 
 
-#### Added
-- [Hyphomicrobiales incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_119042) DisjointWith [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus scutulatus](http://purl.obolibrary.org/obo/NCBITaxon_8737) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium expansum](http://purl.obolibrary.org/obo/NCBITaxon_27334) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
-### Hypsugo `http://purl.obolibrary.org/obo/NCBITaxon_109484`
-#### Removed
-- [Hypsugo](http://purl.obolibrary.org/obo/NCBITaxon_109484) DisjointWith [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Tetrapisispora](http://purl.obolibrary.org/obo/NCBITaxon_113604) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) 
 
-- [Hypsugo](http://purl.obolibrary.org/obo/NCBITaxon_109484) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Ovophis](http://purl.obolibrary.org/obo/NCBITaxon_42183) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Trachemys](http://purl.obolibrary.org/obo/NCBITaxon_34902) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_85612](http://purl.obolibrary.org/obo/NCBITaxon_85612) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus scutulatus](http://purl.obolibrary.org/obo/NCBITaxon_8737) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
 
-### Idionycteris `http://purl.obolibrary.org/obo/NCBITaxon_27664`
-#### Removed
-- [Idionycteris](http://purl.obolibrary.org/obo/NCBITaxon_27664) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3159503](http://purl.obolibrary.org/obo/NCBITaxon_3159503) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3159503](http://purl.obolibrary.org/obo/NCBITaxon_3159503))) 
 
-- [Idionycteris](http://purl.obolibrary.org/obo/NCBITaxon_27664) DisjointWith [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Emys](http://purl.obolibrary.org/obo/NCBITaxon_82167) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_85612](http://purl.obolibrary.org/obo/NCBITaxon_85612) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus aculeatus](http://purl.obolibrary.org/obo/NCBITaxon_5053) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
 
-### Japanese encephalitis virus group `http://purl.obolibrary.org/obo/NCBITaxon_11071`
-#### Removed
-- [Japanese encephalitis virus group](http://purl.obolibrary.org/obo/NCBITaxon_11071) DisjointWith [unclassified Flavivirus](http://purl.obolibrary.org/obo/NCBITaxon_39686) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3148161](http://purl.obolibrary.org/obo/NCBITaxon_3148161) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Gloydius halys](http://purl.obolibrary.org/obo/NCBITaxon_8714) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Elopocephalai](http://purl.obolibrary.org/obo/NCBITaxon_1489340) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_70861](http://purl.obolibrary.org/obo/NCBITaxon_70861) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2732864](http://purl.obolibrary.org/obo/NCBITaxon_2732864) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Modestobacter multiseptatus](http://purl.obolibrary.org/obo/NCBITaxon_88139) 
 
-### Lachnospirales `http://purl.obolibrary.org/obo/NCBITaxon_3085636`
-#### Removed
-- Class: [Lachnospirales](http://purl.obolibrary.org/obo/NCBITaxon_3085636) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Plantago asiatica mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_28354) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nidulans](http://purl.obolibrary.org/obo/NCBITaxon_162425) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus desertorum](http://purl.obolibrary.org/obo/NCBITaxon_1810909) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus molossus](http://purl.obolibrary.org/obo/NCBITaxon_8733) 
 
-### Lacinutrix `http://purl.obolibrary.org/obo/NCBITaxon_291183`
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus clavatus](http://purl.obolibrary.org/obo/NCBITaxon_5057) 
 
-#### Added
-- [Lacinutrix](http://purl.obolibrary.org/obo/NCBITaxon_291183) DisjointWith [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3122391](http://purl.obolibrary.org/obo/NCBITaxon_3122391) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Tscherskia](http://purl.obolibrary.org/obo/NCBITaxon_329626) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
 
-### Laephotis `http://purl.obolibrary.org/obo/NCBITaxon_258926`
-#### Removed
-- [Laephotis](http://purl.obolibrary.org/obo/NCBITaxon_258926) DisjointWith [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Lachnoclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1506553) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) 
 
-- [Laephotis](http://purl.obolibrary.org/obo/NCBITaxon_258926) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus](http://purl.obolibrary.org/obo/NCBITaxon_8728) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus durissus](http://purl.obolibrary.org/obo/NCBITaxon_8731) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2899555](http://purl.obolibrary.org/obo/NCBITaxon_2899555) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_2899555](http://purl.obolibrary.org/obo/NCBITaxon_2899555))) 
 
-### Lasionycteris `http://purl.obolibrary.org/obo/NCBITaxon_27666`
-#### Removed
-- [Lasionycteris](http://purl.obolibrary.org/obo/NCBITaxon_27666) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
 
-- [Lasionycteris](http://purl.obolibrary.org/obo/NCBITaxon_27666) DisjointWith [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus cerastes](http://purl.obolibrary.org/obo/NCBITaxon_8746) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Naumovozyma](http://purl.obolibrary.org/obo/NCBITaxon_278028) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium janthinellum](http://purl.obolibrary.org/obo/NCBITaxon_5079) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
-### Leadbetterella `http://purl.obolibrary.org/obo/NCBITaxon_319458`
-#### Removed
-- [Leadbetterella](http://purl.obolibrary.org/obo/NCBITaxon_319458) DisjointWith [Fibrella](http://purl.obolibrary.org/obo/NCBITaxon_861914) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819))) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Glyptemys](http://purl.obolibrary.org/obo/NCBITaxon_335391) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_85612](http://purl.obolibrary.org/obo/NCBITaxon_85612) 
 
-### Lelystad virus `http://purl.obolibrary.org/obo/NCBITaxon_11049`
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
 
-#### Added
-- [Lelystad virus](http://purl.obolibrary.org/obo/NCBITaxon_11049) DisjointWith [Porcine reproductive and respiratory syndrome virus 1](http://purl.obolibrary.org/obo/NCBITaxon_1965066) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381))) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
 
-### Lingula anatina `http://purl.obolibrary.org/obo/NCBITaxon_7574`
-#### Removed
-- [Lingula anatina](http://purl.obolibrary.org/obo/NCBITaxon_7574) DisjointWith [Lingula reevii](http://purl.obolibrary.org/obo/NCBITaxon_7575) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus adamanteus](http://purl.obolibrary.org/obo/NCBITaxon_8729) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Pseudobutyrivibrio](http://purl.obolibrary.org/obo/NCBITaxon_46205) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Deinagkistrodon](http://purl.obolibrary.org/obo/NCBITaxon_42170) 
 
-### Macrococcoides `http://purl.obolibrary.org/obo/NCBITaxon_3076173`
-#### Removed
-- Class: [Macrococcoides](http://purl.obolibrary.org/obo/NCBITaxon_3076173) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_81954](http://purl.obolibrary.org/obo/NCBITaxon_81954) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_81954](http://purl.obolibrary.org/obo/NCBITaxon_81954))) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2732864](http://purl.obolibrary.org/obo/NCBITaxon_2732864) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_2732864](http://purl.obolibrary.org/obo/NCBITaxon_2732864))) 
 
-### Maribacter `http://purl.obolibrary.org/obo/NCBITaxon_252356`
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Potato aucuba mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12182) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
 
-#### Added
-- [Maribacter](http://purl.obolibrary.org/obo/NCBITaxon_252356) DisjointWith [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus niger](http://purl.obolibrary.org/obo/NCBITaxon_5061) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus adamanteus](http://purl.obolibrary.org/obo/NCBITaxon_8729) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
 
-### Marivirgaceae `http://purl.obolibrary.org/obo/NCBITaxon_2762301`
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [unclassified Penicillium](http://purl.obolibrary.org/obo/NCBITaxon_2593313) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
-#### Added
-- [Marivirgaceae](http://purl.obolibrary.org/obo/NCBITaxon_2762301) DisjointWith [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nanangensis](http://purl.obolibrary.org/obo/NCBITaxon_2582783) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Torulaspora](http://purl.obolibrary.org/obo/NCBITaxon_4948) 
 
-### Megadermatidae `http://purl.obolibrary.org/obo/NCBITaxon_9409`
-#### Removed
-- [Megadermatidae](http://purl.obolibrary.org/obo/NCBITaxon_9409) DisjointWith [Phyllostomidae](http://purl.obolibrary.org/obo/NCBITaxon_9415) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus versicolor](http://purl.obolibrary.org/obo/NCBITaxon_46472) 
 
-- [Megadermatidae](http://purl.obolibrary.org/obo/NCBITaxon_9409) DisjointWith [Molossidae](http://purl.obolibrary.org/obo/NCBITaxon_9436) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium cyclopium](http://purl.obolibrary.org/obo/NCBITaxon_60167) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
-- [Megadermatidae](http://purl.obolibrary.org/obo/NCBITaxon_9409) DisjointWith [Vespertilionidae](http://purl.obolibrary.org/obo/NCBITaxon_9431) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus luchuensis](http://purl.obolibrary.org/obo/NCBITaxon_1069201) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
 
-- [Megadermatidae](http://purl.obolibrary.org/obo/NCBITaxon_9409) DisjointWith [Mystacinidae](http://purl.obolibrary.org/obo/NCBITaxon_94959) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3122391](http://purl.obolibrary.org/obo/NCBITaxon_3122391) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cricetinae gen. sp.](http://purl.obolibrary.org/obo/NCBITaxon_36483) 
 
-- [Megadermatidae](http://purl.obolibrary.org/obo/NCBITaxon_9409) DisjointWith [Noctilionidae](http://purl.obolibrary.org/obo/NCBITaxon_94957) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus lepidus](http://purl.obolibrary.org/obo/NCBITaxon_44709) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus alliaceus](http://purl.obolibrary.org/obo/NCBITaxon_209559) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus hancockii](http://purl.obolibrary.org/obo/NCBITaxon_1873369) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
 
-### Mesophylla `http://purl.obolibrary.org/obo/NCBITaxon_148026`
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus terreus](http://purl.obolibrary.org/obo/NCBITaxon_33178) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
-#### Added
-- [Mesophylla](http://purl.obolibrary.org/obo/NCBITaxon_148026) DisjointWith [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Bothriechis](http://purl.obolibrary.org/obo/NCBITaxon_44726) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium simplicissimum](http://purl.obolibrary.org/obo/NCBITaxon_69488) 
 
-### Methylobacteriaceae `http://purl.obolibrary.org/obo/NCBITaxon_119045`
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium canescens](http://purl.obolibrary.org/obo/NCBITaxon_5083) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
-#### Added
-- [Methylobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_119045) DisjointWith [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus ruber](http://purl.obolibrary.org/obo/NCBITaxon_8735) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
 
-### Methylocella `http://purl.obolibrary.org/obo/NCBITaxon_120652`
-#### Removed
-- [Methylocella](http://purl.obolibrary.org/obo/NCBITaxon_120652) DisjointWith [Rhodoblastus](http://purl.obolibrary.org/obo/NCBITaxon_168658) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Agkistrodon conanti](http://purl.obolibrary.org/obo/NCBITaxon_2782195) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2782196](http://purl.obolibrary.org/obo/NCBITaxon_2782196) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Eremothecium](http://purl.obolibrary.org/obo/NCBITaxon_33170) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Tetrapisispora](http://purl.obolibrary.org/obo/NCBITaxon_113604) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) 
 
-### Microscillaceae `http://purl.obolibrary.org/obo/NCBITaxon_1937962`
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus basiliscus](http://purl.obolibrary.org/obo/NCBITaxon_8744) 
 
-#### Added
-- [Microscillaceae](http://purl.obolibrary.org/obo/NCBITaxon_1937962) DisjointWith [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Amedibacillus](http://purl.obolibrary.org/obo/NCBITaxon_2749846) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_433334](http://purl.obolibrary.org/obo/NCBITaxon_433334) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Nakaseomyces](http://purl.obolibrary.org/obo/NCBITaxon_374468) 
 
-### Molossidae `http://purl.obolibrary.org/obo/NCBITaxon_9436`
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Kluyveromyces](http://purl.obolibrary.org/obo/NCBITaxon_4910) 
 
-#### Added
-- [Molossidae](http://purl.obolibrary.org/obo/NCBITaxon_9436) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Cricetus](http://purl.obolibrary.org/obo/NCBITaxon_10033) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3122391](http://purl.obolibrary.org/obo/NCBITaxon_3122391) 
 
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Tropidolaemus](http://purl.obolibrary.org/obo/NCBITaxon_42184) 
 
-### Mormoopidae `http://purl.obolibrary.org/obo/NCBITaxon_59445`
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium brefeldianum](http://purl.obolibrary.org/obo/NCBITaxon_1131482) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Oribacterium](http://purl.obolibrary.org/obo/NCBITaxon_265975) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Rubulavirinae](http://purl.obolibrary.org/obo/NCBITaxon_2560080) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3152209](http://purl.obolibrary.org/obo/NCBITaxon_3152209) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus lutosus](http://purl.obolibrary.org/obo/NCBITaxon_332626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus cerastes](http://purl.obolibrary.org/obo/NCBITaxon_8746) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavipes](http://purl.obolibrary.org/obo/NCBITaxon_41900) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus stellatus](http://purl.obolibrary.org/obo/NCBITaxon_1549217) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus nidulans](http://purl.obolibrary.org/obo/NCBITaxon_162425) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Graptemys](http://purl.obolibrary.org/obo/NCBITaxon_8480) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_85612](http://purl.obolibrary.org/obo/NCBITaxon_85612) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Aspergillus flavus](http://purl.obolibrary.org/obo/NCBITaxon_5059) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Haloferacaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644056) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Halobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_2236) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3158386](http://purl.obolibrary.org/obo/NCBITaxon_3158386) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some (not ([NCBITaxon_3158386](http://purl.obolibrary.org/obo/NCBITaxon_3158386))) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Mandarivirus](http://purl.obolibrary.org/obo/NCBITaxon_249199) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus concolor](http://purl.obolibrary.org/obo/NCBITaxon_8740) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus cerastes](http://purl.obolibrary.org/obo/NCBITaxon_8746) 
+
+- [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus tzabcan](http://purl.obolibrary.org/obo/NCBITaxon_1043006) DisjointWith [in taxon](http://purl.obolibrary.org/obo/RO_0002162) some [Crotalus oreganus helleri](http://purl.obolibrary.org/obo/NCBITaxon_8741) 
+
+
+### Gloydius blomhoffii `http://purl.obolibrary.org/obo/NCBITaxon_242054`
 #### Removed
-- [Mormoopidae](http://purl.obolibrary.org/obo/NCBITaxon_59445) DisjointWith [Megadermatidae](http://purl.obolibrary.org/obo/NCBITaxon_9409) 
+- [Gloydius blomhoffii](http://purl.obolibrary.org/obo/NCBITaxon_242054) DisjointWith [Gloydius brevicaudus](http://purl.obolibrary.org/obo/NCBITaxon_259325) 
+
+- [Gloydius blomhoffii](http://purl.obolibrary.org/obo/NCBITaxon_242054) DisjointWith [Gloydius saxatilis](http://purl.obolibrary.org/obo/NCBITaxon_92067) 
 
 #### Added
-- [Mormoopidae](http://purl.obolibrary.org/obo/NCBITaxon_59445) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [Gloydius blomhoffii](http://purl.obolibrary.org/obo/NCBITaxon_242054) DisjointWith [NCBITaxon_3148161](http://purl.obolibrary.org/obo/NCBITaxon_3148161) 
 
 
-### Murina `http://purl.obolibrary.org/obo/NCBITaxon_59488`
+### Gloydius brevicaudus `http://purl.obolibrary.org/obo/NCBITaxon_259325`
 #### Removed
-- [Murina](http://purl.obolibrary.org/obo/NCBITaxon_59488) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [Gloydius brevicaudus](http://purl.obolibrary.org/obo/NCBITaxon_259325) DisjointWith [Gloydius saxatilis](http://purl.obolibrary.org/obo/NCBITaxon_92067) 
 
-- [Murina](http://purl.obolibrary.org/obo/NCBITaxon_59488) DisjointWith [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [Gloydius brevicaudus](http://purl.obolibrary.org/obo/NCBITaxon_259325) DisjointWith [Gloydius halys](http://purl.obolibrary.org/obo/NCBITaxon_8714) 
 
+- [Gloydius brevicaudus](http://purl.obolibrary.org/obo/NCBITaxon_259325) DisjointWith [Gloydius intermedius](http://purl.obolibrary.org/obo/NCBITaxon_44732) 
 
+- [Gloydius brevicaudus](http://purl.obolibrary.org/obo/NCBITaxon_259325) DisjointWith [Gloydius ussuriensis](http://purl.obolibrary.org/obo/NCBITaxon_35671) 
 
-### Mycoplana `http://purl.obolibrary.org/obo/NCBITaxon_13159`
+- [Gloydius brevicaudus](http://purl.obolibrary.org/obo/NCBITaxon_259325) DisjointWith [Gloydius shedaoensis](http://purl.obolibrary.org/obo/NCBITaxon_88083) 
 
-#### Added
-- [Mycoplana](http://purl.obolibrary.org/obo/NCBITaxon_13159) DisjointWith [Hoeflea](http://purl.obolibrary.org/obo/NCBITaxon_274591) 
 
 
-### Mycoplasma `http://purl.obolibrary.org/obo/NCBITaxon_2093`
+### Gloydius halys `http://purl.obolibrary.org/obo/NCBITaxon_8714`
 #### Removed
-- [Mycoplasma](http://purl.obolibrary.org/obo/NCBITaxon_2093) DisjointWith [Candidatus Hepatoplasma](http://purl.obolibrary.org/obo/NCBITaxon_295595) 
+- [Gloydius halys](http://purl.obolibrary.org/obo/NCBITaxon_8714) DisjointWith [Gloydius saxatilis](http://purl.obolibrary.org/obo/NCBITaxon_92067) 
+
 
 
+### Gloydius intermedius `http://purl.obolibrary.org/obo/NCBITaxon_44732`
+#### Removed
+- [Gloydius intermedius](http://purl.obolibrary.org/obo/NCBITaxon_44732) DisjointWith [Gloydius saxatilis](http://purl.obolibrary.org/obo/NCBITaxon_92067) 
 
-### Mycoplasmataceae `http://purl.obolibrary.org/obo/NCBITaxon_2092`
 
-#### Added
-- [Mycoplasmataceae](http://purl.obolibrary.org/obo/NCBITaxon_2092) DisjointWith [NCBITaxon_3132029](http://purl.obolibrary.org/obo/NCBITaxon_3132029) 
 
+### Gloydius shedaoensis `http://purl.obolibrary.org/obo/NCBITaxon_88083`
+#### Removed
+- [Gloydius shedaoensis](http://purl.obolibrary.org/obo/NCBITaxon_88083) DisjointWith [Gloydius saxatilis](http://purl.obolibrary.org/obo/NCBITaxon_92067) 
+
 
-### Myotis `http://purl.obolibrary.org/obo/NCBITaxon_9434`
+
+### Gloydius ussuriensis `http://purl.obolibrary.org/obo/NCBITaxon_35671`
 #### Removed
-- [Myotis](http://purl.obolibrary.org/obo/NCBITaxon_9434) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [Gloydius ussuriensis](http://purl.obolibrary.org/obo/NCBITaxon_35671) DisjointWith [Gloydius saxatilis](http://purl.obolibrary.org/obo/NCBITaxon_92067) 
 
 
 
-### Mystacinidae `http://purl.obolibrary.org/obo/NCBITaxon_94959`
+### Glyptemys `http://purl.obolibrary.org/obo/NCBITaxon_335391`
 
 #### Added
-- [Mystacinidae](http://purl.obolibrary.org/obo/NCBITaxon_94959) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [Glyptemys](http://purl.obolibrary.org/obo/NCBITaxon_335391) DisjointWith [NCBITaxon_85612](http://purl.obolibrary.org/obo/NCBITaxon_85612) 
 
 
-### NCBITaxon_223891 `http://purl.obolibrary.org/obo/NCBITaxon_223891`
+### Graptemys `http://purl.obolibrary.org/obo/NCBITaxon_8480`
 
 #### Added
-- Class: [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) 
+- [Graptemys](http://purl.obolibrary.org/obo/NCBITaxon_8480) DisjointWith [NCBITaxon_85612](http://purl.obolibrary.org/obo/NCBITaxon_85612) 
+
 
-- [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [Solanum crispum](http://purl.obolibrary.org/obo/NCBITaxon_4110) 
+### Haloarculaceae `http://purl.obolibrary.org/obo/NCBITaxon_1963268`
 
-- [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [Solanum agrimoniifolium](http://purl.obolibrary.org/obo/NCBITaxon_317816) 
+#### Added
+- [Haloarculaceae](http://purl.obolibrary.org/obo/NCBITaxon_1963268) DisjointWith [NCBITaxon_38063](http://purl.obolibrary.org/obo/NCBITaxon_38063) 
 
-- [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [Solanum subgen. Lycopersicon](http://purl.obolibrary.org/obo/NCBITaxon_49274) 
 
-- [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [Solanum palustre](http://purl.obolibrary.org/obo/NCBITaxon_4115) 
+### Halobacteriaceae `http://purl.obolibrary.org/obo/NCBITaxon_2236`
 
-- [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [Solanum chacoense](http://purl.obolibrary.org/obo/NCBITaxon_4108) 
+#### Added
+- [Halobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_2236) DisjointWith [NCBITaxon_38063](http://purl.obolibrary.org/obo/NCBITaxon_38063) 
 
-- [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [Solanum tuberosum](http://purl.obolibrary.org/obo/NCBITaxon_4113) 
 
-- [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [Solanum commersonii](http://purl.obolibrary.org/obo/NCBITaxon_4109) 
+### Halococcaceae `http://purl.obolibrary.org/obo/NCBITaxon_1963270`
 
-- [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [Solanum lyratum](http://purl.obolibrary.org/obo/NCBITaxon_230192) 
+#### Added
+- [Halococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_1963270) DisjointWith [NCBITaxon_38063](http://purl.obolibrary.org/obo/NCBITaxon_38063) 
 
-- [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [Solanum canense](http://purl.obolibrary.org/obo/NCBITaxon_421230) 
 
-- [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [Solanum demissum](http://purl.obolibrary.org/obo/NCBITaxon_50514) 
+### Haloferacaceae `http://purl.obolibrary.org/obo/NCBITaxon_1644056`
+#### Removed
+- [Haloferacaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644056) DisjointWith [unclassified Haloferacales](http://purl.obolibrary.org/obo/NCBITaxon_2678336) 
 
-- [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [Solanum nigrum](http://purl.obolibrary.org/obo/NCBITaxon_4112) 
+- [Haloferacaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644056) DisjointWith [Halorubraceae](http://purl.obolibrary.org/obo/NCBITaxon_1963271) 
 
-- [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [Solanum polyadenium](http://purl.obolibrary.org/obo/NCBITaxon_62893) 
+#### Added
+- [Haloferacaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644056) DisjointWith [Halococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_1963270) 
 
-- [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [Solanum okadae](http://purl.obolibrary.org/obo/NCBITaxon_73575) 
+- [Haloferacaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644056) DisjointWith [Natronoarchaeaceae](http://purl.obolibrary.org/obo/NCBITaxon_2976354) 
 
-- [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [Solanum lasiocarpum](http://purl.obolibrary.org/obo/NCBITaxon_227722) 
+- [Haloferacaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644056) DisjointWith [Natrialbaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644061) 
 
-- [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [Solanum microdontum](http://purl.obolibrary.org/obo/NCBITaxon_73574) 
+- [Haloferacaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644056) DisjointWith [Halobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_2236) 
 
-- [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [Solanum aculeatissimum](http://purl.obolibrary.org/obo/NCBITaxon_267265) 
+- [Haloferacaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644056) DisjointWith [Haloarculaceae](http://purl.obolibrary.org/obo/NCBITaxon_1963268) 
 
-- [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [Solanum abutiloides](http://purl.obolibrary.org/obo/NCBITaxon_45831) 
+- [Haloferacaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644056) DisjointWith [NCBITaxon_38063](http://purl.obolibrary.org/obo/NCBITaxon_38063) 
 
-- [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) DisjointWith [Solanum sogarandinum](http://purl.obolibrary.org/obo/NCBITaxon_52705) 
 
+### Haloferacales `http://purl.obolibrary.org/obo/NCBITaxon_1644055`
+#### Removed
+- [Haloferacales](http://purl.obolibrary.org/obo/NCBITaxon_1644055) DisjointWith [Natrialbales](http://purl.obolibrary.org/obo/NCBITaxon_1644060) 
 
-### NCBITaxon_2576912 `http://purl.obolibrary.org/obo/NCBITaxon_2576912`
+- [Haloferacales](http://purl.obolibrary.org/obo/NCBITaxon_1644055) DisjointWith [Halobacteriales](http://purl.obolibrary.org/obo/NCBITaxon_2235) 
 
-#### Added
-- Class: [NCBITaxon_2576912](http://purl.obolibrary.org/obo/NCBITaxon_2576912) 
 
-- [NCBITaxon_2576912](http://purl.obolibrary.org/obo/NCBITaxon_2576912) DisjointWith [NCBITaxon_61376](http://purl.obolibrary.org/obo/NCBITaxon_61376) 
 
-- [NCBITaxon_2576912](http://purl.obolibrary.org/obo/NCBITaxon_2576912) DisjointWith [Felis catus](http://purl.obolibrary.org/obo/NCBITaxon_9685) 
+### Haloferax `http://purl.obolibrary.org/obo/NCBITaxon_2251`
 
-- [NCBITaxon_2576912](http://purl.obolibrary.org/obo/NCBITaxon_2576912) DisjointWith [Felis silvestris](http://purl.obolibrary.org/obo/NCBITaxon_9683) 
+#### Added
+- [Haloferax](http://purl.obolibrary.org/obo/NCBITaxon_2251) DisjointWith [Halorubrum](http://purl.obolibrary.org/obo/NCBITaxon_56688) 
 
 
-### NCBITaxon_2792136 `http://purl.obolibrary.org/obo/NCBITaxon_2792136`
+### Haloquadratum `http://purl.obolibrary.org/obo/NCBITaxon_293431`
 
 #### Added
-- Class: [NCBITaxon_2792136](http://purl.obolibrary.org/obo/NCBITaxon_2792136) 
+- [Haloquadratum](http://purl.obolibrary.org/obo/NCBITaxon_293431) DisjointWith [Halorubrum](http://purl.obolibrary.org/obo/NCBITaxon_56688) 
+
 
-- [NCBITaxon_2792136](http://purl.obolibrary.org/obo/NCBITaxon_2792136) DisjointWith [Lingula anatina](http://purl.obolibrary.org/obo/NCBITaxon_7574) 
+### Halorubraceae `http://purl.obolibrary.org/obo/NCBITaxon_1963271`
+#### Removed
+- [Halorubraceae](http://purl.obolibrary.org/obo/NCBITaxon_1963271) DisjointWith [unclassified Haloferacales](http://purl.obolibrary.org/obo/NCBITaxon_2678336) 
+
 
 
-### NCBITaxon_3076163 `http://purl.obolibrary.org/obo/NCBITaxon_3076163`
+### Halorubrum `http://purl.obolibrary.org/obo/NCBITaxon_56688`
 
 #### Added
-- Class: [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- [Halorubrum](http://purl.obolibrary.org/obo/NCBITaxon_56688) DisjointWith [Halogeometricum](http://purl.obolibrary.org/obo/NCBITaxon_60846) 
+
+
+### Hungatella `http://purl.obolibrary.org/obo/NCBITaxon_1649459`
+#### Removed
+- [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [Hathewaya](http://purl.obolibrary.org/obo/NCBITaxon_1769729) 
 
+- [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [Caloramator](http://purl.obolibrary.org/obo/NCBITaxon_44258) 
 
-### NCBITaxon_3132029 `http://purl.obolibrary.org/obo/NCBITaxon_3132029`
+- [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [Candidatus Arthromitus](http://purl.obolibrary.org/obo/NCBITaxon_49082) 
 
 #### Added
-- Class: [NCBITaxon_3132029](http://purl.obolibrary.org/obo/NCBITaxon_3132029) 
+- [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [Mediterraneibacter](http://purl.obolibrary.org/obo/NCBITaxon_2316020) 
 
+- [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [Anaerostipes](http://purl.obolibrary.org/obo/NCBITaxon_207244) 
 
-### NCBITaxon_3136022 `http://purl.obolibrary.org/obo/NCBITaxon_3136022`
+- [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [Dorea](http://purl.obolibrary.org/obo/NCBITaxon_189330) 
 
-#### Added
-- Class: [NCBITaxon_3136022](http://purl.obolibrary.org/obo/NCBITaxon_3136022) 
+- [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [Roseburia](http://purl.obolibrary.org/obo/NCBITaxon_841) 
 
-- [NCBITaxon_3136022](http://purl.obolibrary.org/obo/NCBITaxon_3136022) DisjointWith [NCBITaxon_3136023](http://purl.obolibrary.org/obo/NCBITaxon_3136023) 
+- [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [Anaerobutyricum](http://purl.obolibrary.org/obo/NCBITaxon_2569097) 
 
+- [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [environmental samples <firmicutes,family Lachnospiraceae>](http://purl.obolibrary.org/obo/NCBITaxon_189703) 
 
-### NCBITaxon_3136023 `http://purl.obolibrary.org/obo/NCBITaxon_3136023`
+- [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [Enterocloster](http://purl.obolibrary.org/obo/NCBITaxon_2719313) 
 
-#### Added
-- Class: [NCBITaxon_3136023](http://purl.obolibrary.org/obo/NCBITaxon_3136023) 
+- [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [Lachnospira](http://purl.obolibrary.org/obo/NCBITaxon_28050) 
 
+- [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [Lacrimispora](http://purl.obolibrary.org/obo/NCBITaxon_2719231) 
 
-### NCBITaxon_3136025 `http://purl.obolibrary.org/obo/NCBITaxon_3136025`
+- [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [Herbinix](http://purl.obolibrary.org/obo/NCBITaxon_1663717) 
 
-#### Added
-- Class: [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) 
+- [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [Blautia](http://purl.obolibrary.org/obo/NCBITaxon_572511) 
 
-- [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) DisjointWith [Mormoopidae](http://purl.obolibrary.org/obo/NCBITaxon_59445) 
+- [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [Coprococcus](http://purl.obolibrary.org/obo/NCBITaxon_33042) 
 
-- [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) DisjointWith [Natalidae](http://purl.obolibrary.org/obo/NCBITaxon_59446) 
+- [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [unclassified Lachnospiraceae](http://purl.obolibrary.org/obo/NCBITaxon_186928) 
 
-- [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) DisjointWith [Vespertilionidae](http://purl.obolibrary.org/obo/NCBITaxon_9431) 
+- [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [Lachnospiraceae incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_2840493) 
 
-- [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) DisjointWith [Mystacinidae](http://purl.obolibrary.org/obo/NCBITaxon_94959) 
+- [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [Agathobacter](http://purl.obolibrary.org/obo/NCBITaxon_1766253) 
 
-- [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) DisjointWith [Molossidae](http://purl.obolibrary.org/obo/NCBITaxon_9436) 
+- [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [Oribacterium](http://purl.obolibrary.org/obo/NCBITaxon_265975) 
 
-- [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) DisjointWith [Phyllostomidae](http://purl.obolibrary.org/obo/NCBITaxon_9415) 
+- [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [Pseudobutyrivibrio](http://purl.obolibrary.org/obo/NCBITaxon_46205) 
 
-- [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) DisjointWith [Butyrivibrio](http://purl.obolibrary.org/obo/NCBITaxon_830) 
 
-- [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) DisjointWith [Noctilionidae](http://purl.obolibrary.org/obo/NCBITaxon_94957) 
 
+### Hydrophis gracilis `http://purl.obolibrary.org/obo/NCBITaxon_31162`
+#### Removed
+- [Hydrophis gracilis](http://purl.obolibrary.org/obo/NCBITaxon_31162) DisjointWith [Hydrophis platurus](http://purl.obolibrary.org/obo/NCBITaxon_8688) 
 
-### NCBITaxon_3136026 `http://purl.obolibrary.org/obo/NCBITaxon_3136026`
+- [Hydrophis gracilis](http://purl.obolibrary.org/obo/NCBITaxon_31162) DisjointWith [Hydrophis cyanocinctus](http://purl.obolibrary.org/obo/NCBITaxon_8686) 
 
-#### Added
-- Class: [NCBITaxon_3136026](http://purl.obolibrary.org/obo/NCBITaxon_3136026) 
+- [Hydrophis gracilis](http://purl.obolibrary.org/obo/NCBITaxon_31162) DisjointWith [Hydrophis torquatus](http://purl.obolibrary.org/obo/NCBITaxon_747462) 
 
-- [NCBITaxon_3136026](http://purl.obolibrary.org/obo/NCBITaxon_3136026) DisjointWith [NCBITaxon_3136029](http://purl.obolibrary.org/obo/NCBITaxon_3136029) 
+- [Hydrophis gracilis](http://purl.obolibrary.org/obo/NCBITaxon_31162) DisjointWith [Hydrophis stokesii](http://purl.obolibrary.org/obo/NCBITaxon_355677) 
 
-- [NCBITaxon_3136026](http://purl.obolibrary.org/obo/NCBITaxon_3136026) DisjointWith [Macroglossinae <bats>](http://purl.obolibrary.org/obo/NCBITaxon_77241) 
+- [Hydrophis gracilis](http://purl.obolibrary.org/obo/NCBITaxon_31162) DisjointWith [Hydrophis peronii](http://purl.obolibrary.org/obo/NCBITaxon_8676) 
 
-- [NCBITaxon_3136026](http://purl.obolibrary.org/obo/NCBITaxon_3136026) DisjointWith [NCBITaxon_3136027](http://purl.obolibrary.org/obo/NCBITaxon_3136027) 
+- [Hydrophis gracilis](http://purl.obolibrary.org/obo/NCBITaxon_31162) DisjointWith [Hydrophis schistosus](http://purl.obolibrary.org/obo/NCBITaxon_8682) 
 
-- [NCBITaxon_3136026](http://purl.obolibrary.org/obo/NCBITaxon_3136026) DisjointWith [Pteropodinae](http://purl.obolibrary.org/obo/NCBITaxon_77225) 
+- [Hydrophis gracilis](http://purl.obolibrary.org/obo/NCBITaxon_31162) DisjointWith [Hydrophis semperi](http://purl.obolibrary.org/obo/NCBITaxon_66179) 
 
-- [NCBITaxon_3136026](http://purl.obolibrary.org/obo/NCBITaxon_3136026) DisjointWith [NCBITaxon_3136030](http://purl.obolibrary.org/obo/NCBITaxon_3136030) 
+- [Hydrophis gracilis](http://purl.obolibrary.org/obo/NCBITaxon_31162) DisjointWith [Hydrophis ornatus](http://purl.obolibrary.org/obo/NCBITaxon_8685) 
 
+- [Hydrophis gracilis](http://purl.obolibrary.org/obo/NCBITaxon_31162) DisjointWith [Hydrophis hardwickii](http://purl.obolibrary.org/obo/NCBITaxon_8781) 
 
-### NCBITaxon_3136027 `http://purl.obolibrary.org/obo/NCBITaxon_3136027`
+- [Hydrophis gracilis](http://purl.obolibrary.org/obo/NCBITaxon_31162) DisjointWith [Hydrophis lapemoides](http://purl.obolibrary.org/obo/NCBITaxon_8684) 
 
-#### Added
-- Class: [NCBITaxon_3136027](http://purl.obolibrary.org/obo/NCBITaxon_3136027) 
 
-- [NCBITaxon_3136027](http://purl.obolibrary.org/obo/NCBITaxon_3136027) DisjointWith [Pteropodinae](http://purl.obolibrary.org/obo/NCBITaxon_77225) 
 
-- [NCBITaxon_3136027](http://purl.obolibrary.org/obo/NCBITaxon_3136027) DisjointWith [NCBITaxon_3136029](http://purl.obolibrary.org/obo/NCBITaxon_3136029) 
+### Kazachstania africana `http://purl.obolibrary.org/obo/NCBITaxon_432096`
+#### Removed
+- [Kazachstania africana](http://purl.obolibrary.org/obo/NCBITaxon_432096) DisjointWith [Kazachstania naganishii](http://purl.obolibrary.org/obo/NCBITaxon_588726) 
 
-- [NCBITaxon_3136027](http://purl.obolibrary.org/obo/NCBITaxon_3136027) DisjointWith [NCBITaxon_3136030](http://purl.obolibrary.org/obo/NCBITaxon_3136030) 
+- [Kazachstania africana](http://purl.obolibrary.org/obo/NCBITaxon_432096) DisjointWith [Kazachstania humilis](http://purl.obolibrary.org/obo/NCBITaxon_51915) 
 
-- [NCBITaxon_3136027](http://purl.obolibrary.org/obo/NCBITaxon_3136027) DisjointWith [Macroglossinae <bats>](http://purl.obolibrary.org/obo/NCBITaxon_77241) 
 
 
-### NCBITaxon_3136029 `http://purl.obolibrary.org/obo/NCBITaxon_3136029`
+### Kazachstania exigua `http://purl.obolibrary.org/obo/NCBITaxon_34358`
+#### Removed
+- [Kazachstania exigua](http://purl.obolibrary.org/obo/NCBITaxon_34358) DisjointWith [Kazachstania naganishii](http://purl.obolibrary.org/obo/NCBITaxon_588726) 
 
-#### Added
-- Class: [NCBITaxon_3136029](http://purl.obolibrary.org/obo/NCBITaxon_3136029) 
+- [Kazachstania exigua](http://purl.obolibrary.org/obo/NCBITaxon_34358) DisjointWith [Kazachstania africana](http://purl.obolibrary.org/obo/NCBITaxon_432096) 
 
-- [NCBITaxon_3136029](http://purl.obolibrary.org/obo/NCBITaxon_3136029) DisjointWith [NCBITaxon_3136030](http://purl.obolibrary.org/obo/NCBITaxon_3136030) 
 
-- [NCBITaxon_3136029](http://purl.obolibrary.org/obo/NCBITaxon_3136029) DisjointWith [Pteropodinae](http://purl.obolibrary.org/obo/NCBITaxon_77225) 
 
-- [NCBITaxon_3136029](http://purl.obolibrary.org/obo/NCBITaxon_3136029) DisjointWith [Macroglossinae <bats>](http://purl.obolibrary.org/obo/NCBITaxon_77241) 
+### Kazachstania humilis `http://purl.obolibrary.org/obo/NCBITaxon_51915`
+#### Removed
+- [Kazachstania humilis](http://purl.obolibrary.org/obo/NCBITaxon_51915) DisjointWith [Kazachstania naganishii](http://purl.obolibrary.org/obo/NCBITaxon_588726) 
 
 
-### NCBITaxon_3136030 `http://purl.obolibrary.org/obo/NCBITaxon_3136030`
 
-#### Added
-- Class: [NCBITaxon_3136030](http://purl.obolibrary.org/obo/NCBITaxon_3136030) 
+### Kazachstania servazzii `http://purl.obolibrary.org/obo/NCBITaxon_27293`
+#### Removed
+- [Kazachstania servazzii](http://purl.obolibrary.org/obo/NCBITaxon_27293) DisjointWith [Kazachstania naganishii](http://purl.obolibrary.org/obo/NCBITaxon_588726) 
+
+- [Kazachstania servazzii](http://purl.obolibrary.org/obo/NCBITaxon_27293) DisjointWith [Kazachstania africana](http://purl.obolibrary.org/obo/NCBITaxon_432096) 
 
-- [NCBITaxon_3136030](http://purl.obolibrary.org/obo/NCBITaxon_3136030) DisjointWith [Macroglossinae <bats>](http://purl.obolibrary.org/obo/NCBITaxon_77241) 
+- [Kazachstania servazzii](http://purl.obolibrary.org/obo/NCBITaxon_27293) DisjointWith [Kazachstania humilis](http://purl.obolibrary.org/obo/NCBITaxon_51915) 
 
-- [NCBITaxon_3136030](http://purl.obolibrary.org/obo/NCBITaxon_3136030) DisjointWith [Pteropodinae](http://purl.obolibrary.org/obo/NCBITaxon_77225) 
+- [Kazachstania servazzii](http://purl.obolibrary.org/obo/NCBITaxon_27293) DisjointWith [Kazachstania exigua](http://purl.obolibrary.org/obo/NCBITaxon_34358) 
 
 
-### NCBITaxon_3136119 `http://purl.obolibrary.org/obo/NCBITaxon_3136119`
 
+### Lachancea `http://purl.obolibrary.org/obo/NCBITaxon_300275`
+
 #### Added
-- Class: [NCBITaxon_3136119](http://purl.obolibrary.org/obo/NCBITaxon_3136119) 
+- [Lachancea](http://purl.obolibrary.org/obo/NCBITaxon_300275) DisjointWith [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) 
+
+- [Lachancea](http://purl.obolibrary.org/obo/NCBITaxon_300275) DisjointWith [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) 
 
+- [Lachancea](http://purl.obolibrary.org/obo/NCBITaxon_300275) DisjointWith [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) 
 
-### NCBITaxon_3136298 `http://purl.obolibrary.org/obo/NCBITaxon_3136298`
+- [Lachancea](http://purl.obolibrary.org/obo/NCBITaxon_300275) DisjointWith [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) 
 
+
+### Lachnoclostridium `http://purl.obolibrary.org/obo/NCBITaxon_1506553`
+
 #### Added
-- Class: [NCBITaxon_3136298](http://purl.obolibrary.org/obo/NCBITaxon_3136298) 
+- [Lachnoclostridium](http://purl.obolibrary.org/obo/NCBITaxon_1506553) DisjointWith [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) 
 
-- [NCBITaxon_3136298](http://purl.obolibrary.org/obo/NCBITaxon_3136298) DisjointWith [Pecari](http://purl.obolibrary.org/obo/NCBITaxon_35609) 
 
-- [NCBITaxon_3136298](http://purl.obolibrary.org/obo/NCBITaxon_3136298) DisjointWith [Tayassu](http://purl.obolibrary.org/obo/NCBITaxon_9828) 
+### Leadbetterellaceae `http://purl.obolibrary.org/obo/NCBITaxon_3141702`
+#### Removed
+- Class: [Leadbetterellaceae](http://purl.obolibrary.org/obo/NCBITaxon_3141702) 
 
 
-### NCBITaxon_3137121 `http://purl.obolibrary.org/obo/NCBITaxon_3137121`
 
-#### Added
-- Class: [NCBITaxon_3137121](http://purl.obolibrary.org/obo/NCBITaxon_3137121) 
+### Leiurus quinquestriatus hebraeus `http://purl.obolibrary.org/obo/NCBITaxon_6884`
+#### Removed
+- [Leiurus quinquestriatus hebraeus](http://purl.obolibrary.org/obo/NCBITaxon_6884) DisjointWith [Leiurus quinquestriatus quinquestriatus](http://purl.obolibrary.org/obo/NCBITaxon_6885) 
 
-- [NCBITaxon_3137121](http://purl.obolibrary.org/obo/NCBITaxon_3137121) DisjointWith [Clematis](http://purl.obolibrary.org/obo/NCBITaxon_3452) 
 
 
-### NCBITaxon_3137764 `http://purl.obolibrary.org/obo/NCBITaxon_3137764`
+### Lily virus X `http://purl.obolibrary.org/obo/NCBITaxon_12194`
+#### Removed
+- [Lily virus X](http://purl.obolibrary.org/obo/NCBITaxon_12194) DisjointWith [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
 
 #### Added
-- Class: [NCBITaxon_3137764](http://purl.obolibrary.org/obo/NCBITaxon_3137764) 
+- [Lily virus X](http://purl.obolibrary.org/obo/NCBITaxon_12194) DisjointWith [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
 
-- [NCBITaxon_3137764](http://purl.obolibrary.org/obo/NCBITaxon_3137764) DisjointWith [Chromohalobacter](http://purl.obolibrary.org/obo/NCBITaxon_42054) 
 
-- [NCBITaxon_3137764](http://purl.obolibrary.org/obo/NCBITaxon_3137764) DisjointWith [NCBITaxon_3137766](http://purl.obolibrary.org/obo/NCBITaxon_3137766) 
+### Limisphaerales incertae sedis `http://purl.obolibrary.org/obo/NCBITaxon_3141398`
+#### Removed
+- Class: [Limisphaerales incertae sedis](http://purl.obolibrary.org/obo/NCBITaxon_3141398) 
 
 
-### NCBITaxon_3137766 `http://purl.obolibrary.org/obo/NCBITaxon_3137766`
 
-#### Added
-- Class: [NCBITaxon_3137766](http://purl.obolibrary.org/obo/NCBITaxon_3137766) 
+### Lingula reevei `http://purl.obolibrary.org/obo/NCBITaxon_2792136`
+#### Removed
+- Class: [Lingula reevei](http://purl.obolibrary.org/obo/NCBITaxon_2792136) 
 
-- [NCBITaxon_3137766](http://purl.obolibrary.org/obo/NCBITaxon_3137766) DisjointWith [Chromohalobacter](http://purl.obolibrary.org/obo/NCBITaxon_42054) 
 
 
-### NCBITaxon_3141398 `http://purl.obolibrary.org/obo/NCBITaxon_3141398`
+### Litchfieldella `http://purl.obolibrary.org/obo/NCBITaxon_3137764`
+#### Removed
+- Class: [Litchfieldella](http://purl.obolibrary.org/obo/NCBITaxon_3137764) 
 
-#### Added
-- Class: [NCBITaxon_3141398](http://purl.obolibrary.org/obo/NCBITaxon_3141398) 
 
 
-### NCBITaxon_3141702 `http://purl.obolibrary.org/obo/NCBITaxon_3141702`
+### Malayopython `http://purl.obolibrary.org/obo/NCBITaxon_1496304`
 
 #### Added
-- Class: [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) 
+- [Malayopython](http://purl.obolibrary.org/obo/NCBITaxon_1496304) DisjointWith [NCBITaxon_3144915](http://purl.obolibrary.org/obo/NCBITaxon_3144915) 
 
-- [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) DisjointWith [Cytophagaceae](http://purl.obolibrary.org/obo/NCBITaxon_89373) 
+
+### Mandarivirus `http://purl.obolibrary.org/obo/NCBITaxon_249199`
+#### Removed
+- [Mandarivirus](http://purl.obolibrary.org/obo/NCBITaxon_249199) DisjointWith [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
 
-- [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) DisjointWith [Cyclobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_563798) 
+#### Added
+- [Mandarivirus](http://purl.obolibrary.org/obo/NCBITaxon_249199) DisjointWith [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
 
 
-### NCBITaxon_3142802 `http://purl.obolibrary.org/obo/NCBITaxon_3142802`
+### Mesocricetus `http://purl.obolibrary.org/obo/NCBITaxon_10035`
 
 #### Added
-- Class: [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) 
+- [Mesocricetus](http://purl.obolibrary.org/obo/NCBITaxon_10035) DisjointWith [NCBITaxon_3122391](http://purl.obolibrary.org/obo/NCBITaxon_3122391) 
 
-- [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) DisjointWith [Rhizobiaceae](http://purl.obolibrary.org/obo/NCBITaxon_82115) 
 
-- [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) DisjointWith [Bartonellaceae](http://purl.obolibrary.org/obo/NCBITaxon_772) 
+### Morbillivirus `http://purl.obolibrary.org/obo/NCBITaxon_11229`
+#### Removed
+- [Morbillivirus](http://purl.obolibrary.org/obo/NCBITaxon_11229) DisjointWith [Respirovirus](http://purl.obolibrary.org/obo/NCBITaxon_186938) 
 
-- [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) DisjointWith [Hyphomicrobiaceae](http://purl.obolibrary.org/obo/NCBITaxon_45401) 
 
-- [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) DisjointWith [Xanthobacteraceae](http://purl.obolibrary.org/obo/NCBITaxon_335928) 
 
-- [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) DisjointWith [Methylocystaceae](http://purl.obolibrary.org/obo/NCBITaxon_31993) 
+### NCBITaxon_2171616 `http://purl.obolibrary.org/obo/NCBITaxon_2171616`
 
-- [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) DisjointWith [Beijerinckiaceae](http://purl.obolibrary.org/obo/NCBITaxon_45404) 
+#### Added
+- Class: [NCBITaxon_2171616](http://purl.obolibrary.org/obo/NCBITaxon_2171616) 
 
-- [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) DisjointWith [Nitrobacteraceae](http://purl.obolibrary.org/obo/NCBITaxon_41294) 
+- [NCBITaxon_2171616](http://purl.obolibrary.org/obo/NCBITaxon_2171616) DisjointWith [Crassostrea](http://purl.obolibrary.org/obo/NCBITaxon_6564) 
 
-- [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) DisjointWith [Phyllobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_69277) 
+- [NCBITaxon_2171616](http://purl.obolibrary.org/obo/NCBITaxon_2171616) DisjointWith [Ostrea](http://purl.obolibrary.org/obo/NCBITaxon_37858) 
 
 
-### NCBITaxon_444459 `http://purl.obolibrary.org/obo/NCBITaxon_444459`
+### NCBITaxon_2732864 `http://purl.obolibrary.org/obo/NCBITaxon_2732864`
 
 #### Added
-- Class: [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- Class: [NCBITaxon_2732864](http://purl.obolibrary.org/obo/NCBITaxon_2732864) 
 
-- [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) DisjointWith [Psychroflexus](http://purl.obolibrary.org/obo/NCBITaxon_83612) 
+- [NCBITaxon_2732864](http://purl.obolibrary.org/obo/NCBITaxon_2732864) DisjointWith [Modestobacter multiseptatus](http://purl.obolibrary.org/obo/NCBITaxon_88139) 
 
-- [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) DisjointWith [Polaribacter](http://purl.obolibrary.org/obo/NCBITaxon_52959) 
+- [NCBITaxon_2732864](http://purl.obolibrary.org/obo/NCBITaxon_2732864) DisjointWith [Modestobacter marinus](http://purl.obolibrary.org/obo/NCBITaxon_477641) 
 
-- [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) DisjointWith [unclassified Flavobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_61432) 
 
-- [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) DisjointWith [Myroides](http://purl.obolibrary.org/obo/NCBITaxon_76831) 
+### NCBITaxon_2753819 `http://purl.obolibrary.org/obo/NCBITaxon_2753819`
 
+#### Added
+- Class: [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) 
 
-### NCBITaxon_563992 `http://purl.obolibrary.org/obo/NCBITaxon_563992`
+- [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [Atropoides](http://purl.obolibrary.org/obo/NCBITaxon_44728) 
 
-#### Added
-- Class: [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [Agkistrodon](http://purl.obolibrary.org/obo/NCBITaxon_8711) 
 
-- [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) DisjointWith [Artibeus](http://purl.obolibrary.org/obo/NCBITaxon_9416) 
+- [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [Sistrurus](http://purl.obolibrary.org/obo/NCBITaxon_8755) 
 
+- [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [Crotalus](http://purl.obolibrary.org/obo/NCBITaxon_8728) 
 
-### NCBITaxon_61376 `http://purl.obolibrary.org/obo/NCBITaxon_61376`
+- [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [Ovophis](http://purl.obolibrary.org/obo/NCBITaxon_42183) 
 
-#### Added
-- Class: [NCBITaxon_61376](http://purl.obolibrary.org/obo/NCBITaxon_61376) 
+- [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [Cerrophidion](http://purl.obolibrary.org/obo/NCBITaxon_44721) 
 
-- [NCBITaxon_61376](http://purl.obolibrary.org/obo/NCBITaxon_61376) DisjointWith [Felis silvestris](http://purl.obolibrary.org/obo/NCBITaxon_9683) 
+- [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) 
 
-- [NCBITaxon_61376](http://purl.obolibrary.org/obo/NCBITaxon_61376) DisjointWith [Felis catus](http://purl.obolibrary.org/obo/NCBITaxon_9685) 
+- [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [Porthidium](http://purl.obolibrary.org/obo/NCBITaxon_44715) 
 
+- [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [Ophryacus](http://purl.obolibrary.org/obo/NCBITaxon_88089) 
 
-### Natalidae `http://purl.obolibrary.org/obo/NCBITaxon_59446`
-#### Removed
-- [Natalidae](http://purl.obolibrary.org/obo/NCBITaxon_59446) DisjointWith [Megadermatidae](http://purl.obolibrary.org/obo/NCBITaxon_9409) 
+- [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [Gloydius](http://purl.obolibrary.org/obo/NCBITaxon_51647) 
 
-#### Added
-- [Natalidae](http://purl.obolibrary.org/obo/NCBITaxon_59446) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [Deinagkistrodon](http://purl.obolibrary.org/obo/NCBITaxon_42170) 
 
+- [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [Tropidolaemus](http://purl.obolibrary.org/obo/NCBITaxon_42184) 
 
-### Natronincolaceae `http://purl.obolibrary.org/obo/NCBITaxon_3118656`
-#### Removed
-- Class: [Natronincolaceae](http://purl.obolibrary.org/obo/NCBITaxon_3118656) 
+- [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [Lachesis](http://purl.obolibrary.org/obo/NCBITaxon_8751) 
 
+- [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [Hypnale](http://purl.obolibrary.org/obo/NCBITaxon_44719) 
 
+- [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [Bothriechis](http://purl.obolibrary.org/obo/NCBITaxon_44726) 
 
-### Neoromicia `http://purl.obolibrary.org/obo/NCBITaxon_568926`
-#### Removed
-- [Neoromicia](http://purl.obolibrary.org/obo/NCBITaxon_568926) DisjointWith [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [Calloselasma](http://purl.obolibrary.org/obo/NCBITaxon_8774) 
 
-- [Neoromicia](http://purl.obolibrary.org/obo/NCBITaxon_568926) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [Bothrops](http://purl.obolibrary.org/obo/NCBITaxon_8721) 
 
+- [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) DisjointWith [Trimeresurus](http://purl.obolibrary.org/obo/NCBITaxon_8764) 
 
 
-### Noctilionidae `http://purl.obolibrary.org/obo/NCBITaxon_94957`
+### NCBITaxon_2782196 `http://purl.obolibrary.org/obo/NCBITaxon_2782196`
 
 #### Added
-- [Noctilionidae](http://purl.obolibrary.org/obo/NCBITaxon_94957) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- Class: [NCBITaxon_2782196](http://purl.obolibrary.org/obo/NCBITaxon_2782196) 
+
+- [NCBITaxon_2782196](http://purl.obolibrary.org/obo/NCBITaxon_2782196) DisjointWith [Agkistrodon piscivorus](http://purl.obolibrary.org/obo/NCBITaxon_8715) 
+
+- [NCBITaxon_2782196](http://purl.obolibrary.org/obo/NCBITaxon_2782196) DisjointWith [Agkistrodon contortrix](http://purl.obolibrary.org/obo/NCBITaxon_8720) 
 
+- [NCBITaxon_2782196](http://purl.obolibrary.org/obo/NCBITaxon_2782196) DisjointWith [Agkistrodon bilineatus](http://purl.obolibrary.org/obo/NCBITaxon_8718) 
 
-### Nonlabens `http://purl.obolibrary.org/obo/NCBITaxon_363408`
 
+### NCBITaxon_2899555 `http://purl.obolibrary.org/obo/NCBITaxon_2899555`
+
 #### Added
-- [Nonlabens](http://purl.obolibrary.org/obo/NCBITaxon_363408) DisjointWith [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- Class: [NCBITaxon_2899555](http://purl.obolibrary.org/obo/NCBITaxon_2899555) 
 
+- [NCBITaxon_2899555](http://purl.obolibrary.org/obo/NCBITaxon_2899555) DisjointWith [Buthus occitanus](http://purl.obolibrary.org/obo/NCBITaxon_6868) 
 
-### Nyctalus `http://purl.obolibrary.org/obo/NCBITaxon_51299`
-#### Removed
-- [Nyctalus](http://purl.obolibrary.org/obo/NCBITaxon_51299) DisjointWith [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
 
-- [Nyctalus](http://purl.obolibrary.org/obo/NCBITaxon_51299) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+### NCBITaxon_2899558 `http://purl.obolibrary.org/obo/NCBITaxon_2899558`
 
+#### Added
+- Class: [NCBITaxon_2899558](http://purl.obolibrary.org/obo/NCBITaxon_2899558) 
 
+- [NCBITaxon_2899558](http://purl.obolibrary.org/obo/NCBITaxon_2899558) DisjointWith [Leiurus quinquestriatus](http://purl.obolibrary.org/obo/NCBITaxon_6883) 
 
-### Nycticeius `http://purl.obolibrary.org/obo/NCBITaxon_27669`
-#### Removed
-- [Nycticeius](http://purl.obolibrary.org/obo/NCBITaxon_27669) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+
+### NCBITaxon_2902643 `http://purl.obolibrary.org/obo/NCBITaxon_2902643`
 
-- [Nycticeius](http://purl.obolibrary.org/obo/NCBITaxon_27669) DisjointWith [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+#### Added
+- Class: [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) 
 
+- [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [Lachesis](http://purl.obolibrary.org/obo/NCBITaxon_8751) 
 
+- [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [Hypnale](http://purl.obolibrary.org/obo/NCBITaxon_44719) 
 
-### Nyctimene `http://purl.obolibrary.org/obo/NCBITaxon_48987`
-#### Removed
-- [Nyctimene](http://purl.obolibrary.org/obo/NCBITaxon_48987) DisjointWith [Eidolon](http://purl.obolibrary.org/obo/NCBITaxon_58062) 
+- [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [Porthidium](http://purl.obolibrary.org/obo/NCBITaxon_44715) 
 
-- [Nyctimene](http://purl.obolibrary.org/obo/NCBITaxon_48987) DisjointWith [Rousettus](http://purl.obolibrary.org/obo/NCBITaxon_9406) 
+- [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [Bothriechis](http://purl.obolibrary.org/obo/NCBITaxon_44726) 
 
-- [Nyctimene](http://purl.obolibrary.org/obo/NCBITaxon_48987) DisjointWith [Cynopterus](http://purl.obolibrary.org/obo/NCBITaxon_9399) 
+- [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [Sistrurus](http://purl.obolibrary.org/obo/NCBITaxon_8755) 
 
-- [Nyctimene](http://purl.obolibrary.org/obo/NCBITaxon_48987) DisjointWith [Pteropus](http://purl.obolibrary.org/obo/NCBITaxon_9401) 
+- [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [Cerrophidion](http://purl.obolibrary.org/obo/NCBITaxon_44721) 
 
-- [Nyctimene](http://purl.obolibrary.org/obo/NCBITaxon_48987) DisjointWith [Thoopterus](http://purl.obolibrary.org/obo/NCBITaxon_58086) 
+- [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [Tropidolaemus](http://purl.obolibrary.org/obo/NCBITaxon_42184) 
 
+- [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [Ophryacus](http://purl.obolibrary.org/obo/NCBITaxon_88089) 
 
+- [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [Bothrops](http://purl.obolibrary.org/obo/NCBITaxon_8721) 
 
-### Nyctophilus `http://purl.obolibrary.org/obo/NCBITaxon_59470`
-#### Removed
-- [Nyctophilus](http://purl.obolibrary.org/obo/NCBITaxon_59470) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [Calloselasma](http://purl.obolibrary.org/obo/NCBITaxon_8774) 
 
-- [Nyctophilus](http://purl.obolibrary.org/obo/NCBITaxon_59470) DisjointWith [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [Gloydius](http://purl.obolibrary.org/obo/NCBITaxon_51647) 
 
+- [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [Trimeresurus](http://purl.obolibrary.org/obo/NCBITaxon_8764) 
 
+- [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [Ovophis](http://purl.obolibrary.org/obo/NCBITaxon_42183) 
 
-### Orthoflavivirus aroaense `http://purl.obolibrary.org/obo/NCBITaxon_3047375`
+- [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [Agkistrodon](http://purl.obolibrary.org/obo/NCBITaxon_8711) 
 
-#### Added
-- [Orthoflavivirus aroaense](http://purl.obolibrary.org/obo/NCBITaxon_3047375) DisjointWith [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [Atropoides](http://purl.obolibrary.org/obo/NCBITaxon_44728) 
 
+- [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [Crotalus](http://purl.obolibrary.org/obo/NCBITaxon_8728) 
 
-### Orthoflavivirus banziense `http://purl.obolibrary.org/obo/NCBITaxon_3047395`
+- [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) DisjointWith [Deinagkistrodon](http://purl.obolibrary.org/obo/NCBITaxon_42170) 
 
+
+### NCBITaxon_2994362 `http://purl.obolibrary.org/obo/NCBITaxon_2994362`
+
 #### Added
-- [Orthoflavivirus banziense](http://purl.obolibrary.org/obo/NCBITaxon_3047395) DisjointWith [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- Class: [NCBITaxon_2994362](http://purl.obolibrary.org/obo/NCBITaxon_2994362) 
 
+- [NCBITaxon_2994362](http://purl.obolibrary.org/obo/NCBITaxon_2994362) DisjointWith [Pseudofrankia](http://purl.obolibrary.org/obo/NCBITaxon_2994363) 
 
-### Orthoflavivirus denguei `http://purl.obolibrary.org/obo/NCBITaxon_3052464`
 
+### NCBITaxon_2994368 `http://purl.obolibrary.org/obo/NCBITaxon_2994368`
+
 #### Added
-- [Orthoflavivirus denguei](http://purl.obolibrary.org/obo/NCBITaxon_3052464) DisjointWith [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- Class: [NCBITaxon_2994368](http://purl.obolibrary.org/obo/NCBITaxon_2994368) 
 
 
-### Orthoflavivirus edgehillense `http://purl.obolibrary.org/obo/NCBITaxon_3047817`
+### NCBITaxon_3122391 `http://purl.obolibrary.org/obo/NCBITaxon_3122391`
 
 #### Added
-- [Orthoflavivirus edgehillense](http://purl.obolibrary.org/obo/NCBITaxon_3047817) DisjointWith [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- Class: [NCBITaxon_3122391](http://purl.obolibrary.org/obo/NCBITaxon_3122391) 
+
+- [NCBITaxon_3122391](http://purl.obolibrary.org/obo/NCBITaxon_3122391) DisjointWith [Tscherskia](http://purl.obolibrary.org/obo/NCBITaxon_329626) 
 
+- [NCBITaxon_3122391](http://purl.obolibrary.org/obo/NCBITaxon_3122391) DisjointWith [Cricetinae gen. sp.](http://purl.obolibrary.org/obo/NCBITaxon_36483) 
 
-### Orthoflavivirus encephalitidis `http://purl.obolibrary.org/obo/NCBITaxon_3052465`
 
+### NCBITaxon_3122392 `http://purl.obolibrary.org/obo/NCBITaxon_3122392`
+
 #### Added
-- [Orthoflavivirus encephalitidis](http://purl.obolibrary.org/obo/NCBITaxon_3052465) DisjointWith [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- Class: [NCBITaxon_3122392](http://purl.obolibrary.org/obo/NCBITaxon_3122392) 
 
 
-### Orthoflavivirus flavi `http://purl.obolibrary.org/obo/NCBITaxon_3046277`
+### NCBITaxon_3144915 `http://purl.obolibrary.org/obo/NCBITaxon_3144915`
 
 #### Added
-- [Orthoflavivirus flavi](http://purl.obolibrary.org/obo/NCBITaxon_3046277) DisjointWith [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- Class: [NCBITaxon_3144915](http://purl.obolibrary.org/obo/NCBITaxon_3144915) 
 
+- [NCBITaxon_3144915](http://purl.obolibrary.org/obo/NCBITaxon_3144915) DisjointWith [Python](http://purl.obolibrary.org/obo/NCBITaxon_37579) 
 
-### Orthoflavivirus ilheusense `http://purl.obolibrary.org/obo/NCBITaxon_3052466`
+- [NCBITaxon_3144915](http://purl.obolibrary.org/obo/NCBITaxon_3144915) DisjointWith [Bothrochilus](http://purl.obolibrary.org/obo/NCBITaxon_461340) 
 
-#### Added
-- [Orthoflavivirus ilheusense](http://purl.obolibrary.org/obo/NCBITaxon_3052466) DisjointWith [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- [NCBITaxon_3144915](http://purl.obolibrary.org/obo/NCBITaxon_3144915) DisjointWith [Morelia <snakes>](http://purl.obolibrary.org/obo/NCBITaxon_51894) 
+
+- [NCBITaxon_3144915](http://purl.obolibrary.org/obo/NCBITaxon_3144915) DisjointWith [Aspidites](http://purl.obolibrary.org/obo/NCBITaxon_51882) 
+
+- [NCBITaxon_3144915](http://purl.obolibrary.org/obo/NCBITaxon_3144915) DisjointWith [Liasis](http://purl.obolibrary.org/obo/NCBITaxon_51886) 
 
 
-### Orthoflavivirus japonicum `http://purl.obolibrary.org/obo/NCBITaxon_3048158`
+### NCBITaxon_3145177 `http://purl.obolibrary.org/obo/NCBITaxon_3145177`
 
 #### Added
-- [Orthoflavivirus japonicum](http://purl.obolibrary.org/obo/NCBITaxon_3048158) DisjointWith [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- Class: [NCBITaxon_3145177](http://purl.obolibrary.org/obo/NCBITaxon_3145177) 
 
+- [NCBITaxon_3145177](http://purl.obolibrary.org/obo/NCBITaxon_3145177) DisjointWith [Aipysurus](http://purl.obolibrary.org/obo/NCBITaxon_8677) 
 
-### Orthoflavivirus kokoberaorum `http://purl.obolibrary.org/obo/NCBITaxon_3048168`
+- [NCBITaxon_3145177](http://purl.obolibrary.org/obo/NCBITaxon_3145177) DisjointWith [Hydrophis](http://purl.obolibrary.org/obo/NCBITaxon_8683) 
 
+
+### NCBITaxon_3147912 `http://purl.obolibrary.org/obo/NCBITaxon_3147912`
+
 #### Added
-- [Orthoflavivirus kokoberaorum](http://purl.obolibrary.org/obo/NCBITaxon_3048168) DisjointWith [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- Class: [NCBITaxon_3147912](http://purl.obolibrary.org/obo/NCBITaxon_3147912) 
 
+- [NCBITaxon_3147912](http://purl.obolibrary.org/obo/NCBITaxon_3147912) DisjointWith [Corallus caninus](http://purl.obolibrary.org/obo/NCBITaxon_51861) 
 
-### Orthoflavivirus kyasanurense `http://purl.obolibrary.org/obo/NCBITaxon_3048170`
 
+### NCBITaxon_3147914 `http://purl.obolibrary.org/obo/NCBITaxon_3147914`
+
 #### Added
-- [Orthoflavivirus kyasanurense](http://purl.obolibrary.org/obo/NCBITaxon_3048170) DisjointWith [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- Class: [NCBITaxon_3147914](http://purl.obolibrary.org/obo/NCBITaxon_3147914) 
+
+- [NCBITaxon_3147914](http://purl.obolibrary.org/obo/NCBITaxon_3147914) DisjointWith [Trimeresurus gramineus](http://purl.obolibrary.org/obo/NCBITaxon_8767) 
+
+- [NCBITaxon_3147914](http://purl.obolibrary.org/obo/NCBITaxon_3147914) DisjointWith [NCBITaxon_3147916](http://purl.obolibrary.org/obo/NCBITaxon_3147916) 
 
 
-### Orthoflavivirus langatense `http://purl.obolibrary.org/obo/NCBITaxon_3048175`
+### NCBITaxon_3147916 `http://purl.obolibrary.org/obo/NCBITaxon_3147916`
 
 #### Added
-- [Orthoflavivirus langatense](http://purl.obolibrary.org/obo/NCBITaxon_3048175) DisjointWith [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- Class: [NCBITaxon_3147916](http://purl.obolibrary.org/obo/NCBITaxon_3147916) 
 
+- [NCBITaxon_3147916](http://purl.obolibrary.org/obo/NCBITaxon_3147916) DisjointWith [Trimeresurus gramineus](http://purl.obolibrary.org/obo/NCBITaxon_8767) 
 
-### Orthoflavivirus louisense `http://purl.obolibrary.org/obo/NCBITaxon_3052468`
 
+### NCBITaxon_3148161 `http://purl.obolibrary.org/obo/NCBITaxon_3148161`
+
 #### Added
-- [Orthoflavivirus louisense](http://purl.obolibrary.org/obo/NCBITaxon_3052468) DisjointWith [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- Class: [NCBITaxon_3148161](http://purl.obolibrary.org/obo/NCBITaxon_3148161) 
+
+- [NCBITaxon_3148161](http://purl.obolibrary.org/obo/NCBITaxon_3148161) DisjointWith [Gloydius intermedius](http://purl.obolibrary.org/obo/NCBITaxon_44732) 
+
+- [NCBITaxon_3148161](http://purl.obolibrary.org/obo/NCBITaxon_3148161) DisjointWith [Gloydius ussuriensis](http://purl.obolibrary.org/obo/NCBITaxon_35671) 
+
+- [NCBITaxon_3148161](http://purl.obolibrary.org/obo/NCBITaxon_3148161) DisjointWith [Gloydius shedaoensis](http://purl.obolibrary.org/obo/NCBITaxon_88083) 
 
+- [NCBITaxon_3148161](http://purl.obolibrary.org/obo/NCBITaxon_3148161) DisjointWith [Gloydius halys](http://purl.obolibrary.org/obo/NCBITaxon_8714) 
 
-### Orthoflavivirus loupingi `http://purl.obolibrary.org/obo/NCBITaxon_3048184`
 
+### NCBITaxon_3148373 `http://purl.obolibrary.org/obo/NCBITaxon_3148373`
+
 #### Added
-- [Orthoflavivirus loupingi](http://purl.obolibrary.org/obo/NCBITaxon_3048184) DisjointWith [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- Class: [NCBITaxon_3148373](http://purl.obolibrary.org/obo/NCBITaxon_3148373) 
 
 
-### Orthoflavivirus murrayense `http://purl.obolibrary.org/obo/NCBITaxon_3048215`
+### NCBITaxon_3152209 `http://purl.obolibrary.org/obo/NCBITaxon_3152209`
 
 #### Added
-- [Orthoflavivirus murrayense](http://purl.obolibrary.org/obo/NCBITaxon_3048215) DisjointWith [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- Class: [NCBITaxon_3152209](http://purl.obolibrary.org/obo/NCBITaxon_3152209) 
+
+- [NCBITaxon_3152209](http://purl.obolibrary.org/obo/NCBITaxon_3152209) DisjointWith [unclassified Paramyxoviridae](http://purl.obolibrary.org/obo/NCBITaxon_336871) 
 
 
-### Orthoflavivirus nilense `http://purl.obolibrary.org/obo/NCBITaxon_3048448`
+### NCBITaxon_3158245 `http://purl.obolibrary.org/obo/NCBITaxon_3158245`
 
 #### Added
-- [Orthoflavivirus nilense](http://purl.obolibrary.org/obo/NCBITaxon_3048448) DisjointWith [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- Class: [NCBITaxon_3158245](http://purl.obolibrary.org/obo/NCBITaxon_3158245) 
 
 
-### Orthoflavivirus omskense `http://purl.obolibrary.org/obo/NCBITaxon_3048233`
+### NCBITaxon_3158381 `http://purl.obolibrary.org/obo/NCBITaxon_3158381`
 
 #### Added
-- [Orthoflavivirus omskense](http://purl.obolibrary.org/obo/NCBITaxon_3048233) DisjointWith [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- Class: [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
 
 
-### Orthoflavivirus powassanense `http://purl.obolibrary.org/obo/NCBITaxon_3048287`
+### NCBITaxon_3158386 `http://purl.obolibrary.org/obo/NCBITaxon_3158386`
 
 #### Added
-- [Orthoflavivirus powassanense](http://purl.obolibrary.org/obo/NCBITaxon_3048287) DisjointWith [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- Class: [NCBITaxon_3158386](http://purl.obolibrary.org/obo/NCBITaxon_3158386) 
 
 
-### Orthoflavivirus usutuense `http://purl.obolibrary.org/obo/NCBITaxon_3048443`
+### NCBITaxon_3159502 `http://purl.obolibrary.org/obo/NCBITaxon_3159502`
 
 #### Added
-- [Orthoflavivirus usutuense](http://purl.obolibrary.org/obo/NCBITaxon_3048443) DisjointWith [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- Class: [NCBITaxon_3159502](http://purl.obolibrary.org/obo/NCBITaxon_3159502) 
 
 
-### Orthoflavivirus wesselsbronense `http://purl.obolibrary.org/obo/NCBITaxon_3048447`
+### NCBITaxon_3159503 `http://purl.obolibrary.org/obo/NCBITaxon_3159503`
 
 #### Added
-- [Orthoflavivirus wesselsbronense](http://purl.obolibrary.org/obo/NCBITaxon_3048447) DisjointWith [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- Class: [NCBITaxon_3159503](http://purl.obolibrary.org/obo/NCBITaxon_3159503) 
 
 
-### Orthoflavivirus zikaense `http://purl.obolibrary.org/obo/NCBITaxon_3048459`
+### NCBITaxon_3159504 `http://purl.obolibrary.org/obo/NCBITaxon_3159504`
 
 #### Added
-- [Orthoflavivirus zikaense](http://purl.obolibrary.org/obo/NCBITaxon_3048459) DisjointWith [NCBITaxon_3076163](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
+- Class: [NCBITaxon_3159504](http://purl.obolibrary.org/obo/NCBITaxon_3159504) 
 
 
-### Otonycteris `http://purl.obolibrary.org/obo/NCBITaxon_153292`
-#### Removed
-- [Otonycteris](http://purl.obolibrary.org/obo/NCBITaxon_153292) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+### NCBITaxon_3162980 `http://purl.obolibrary.org/obo/NCBITaxon_3162980`
+
+#### Added
+- Class: [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) 
 
-- [Otonycteris](http://purl.obolibrary.org/obo/NCBITaxon_153292) DisjointWith [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) DisjointWith [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) 
 
+- [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) DisjointWith [Zygosaccharomyces](http://purl.obolibrary.org/obo/NCBITaxon_4953) 
 
+- [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) DisjointWith [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) 
 
-### Paranyctimene `http://purl.obolibrary.org/obo/NCBITaxon_270784`
-#### Removed
-- [Paranyctimene](http://purl.obolibrary.org/obo/NCBITaxon_270784) DisjointWith [Cynopterus](http://purl.obolibrary.org/obo/NCBITaxon_9399) 
+- [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) DisjointWith [Kazachstania](http://purl.obolibrary.org/obo/NCBITaxon_71245) 
 
-- [Paranyctimene](http://purl.obolibrary.org/obo/NCBITaxon_270784) DisjointWith [Thoopterus](http://purl.obolibrary.org/obo/NCBITaxon_58086) 
+- [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) DisjointWith [Nakaseomyces](http://purl.obolibrary.org/obo/NCBITaxon_374468) 
 
-- [Paranyctimene](http://purl.obolibrary.org/obo/NCBITaxon_270784) DisjointWith [Eidolon](http://purl.obolibrary.org/obo/NCBITaxon_58062) 
+- [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) DisjointWith [Eremothecium](http://purl.obolibrary.org/obo/NCBITaxon_33170) 
 
-- [Paranyctimene](http://purl.obolibrary.org/obo/NCBITaxon_270784) DisjointWith [Rousettus](http://purl.obolibrary.org/obo/NCBITaxon_9406) 
+- [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) DisjointWith [Torulaspora](http://purl.obolibrary.org/obo/NCBITaxon_4948) 
 
-- [Paranyctimene](http://purl.obolibrary.org/obo/NCBITaxon_270784) DisjointWith [Pteropus](http://purl.obolibrary.org/obo/NCBITaxon_9401) 
+- [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) DisjointWith [Vanderwaltozyma](http://purl.obolibrary.org/obo/NCBITaxon_374469) 
 
-- [Paranyctimene](http://purl.obolibrary.org/obo/NCBITaxon_270784) DisjointWith [Dobsonia](http://purl.obolibrary.org/obo/NCBITaxon_42146) 
+- [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) DisjointWith [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) 
 
+- [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) DisjointWith [Kluyveromyces](http://purl.obolibrary.org/obo/NCBITaxon_4910) 
 
+- [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) DisjointWith [Saccharomyces](http://purl.obolibrary.org/obo/NCBITaxon_4930) 
 
-### Parvibaculaceae `http://purl.obolibrary.org/obo/NCBITaxon_2813035`
 
+### NCBITaxon_3162981 `http://purl.obolibrary.org/obo/NCBITaxon_3162981`
+
 #### Added
-- [Parvibaculaceae](http://purl.obolibrary.org/obo/NCBITaxon_2813035) DisjointWith [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) 
+- Class: [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) 
 
+- [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) DisjointWith [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) 
 
-### Peptoclostridiaceae `http://purl.obolibrary.org/obo/NCBITaxon_3120161`
-#### Removed
-- Class: [Peptoclostridiaceae](http://purl.obolibrary.org/obo/NCBITaxon_3120161) 
+- [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) DisjointWith [Vanderwaltozyma](http://purl.obolibrary.org/obo/NCBITaxon_374469) 
 
+- [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) DisjointWith [Saccharomyces](http://purl.obolibrary.org/obo/NCBITaxon_4930) 
 
+- [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) DisjointWith [Nakaseomyces](http://purl.obolibrary.org/obo/NCBITaxon_374468) 
 
-### Peptostreptococcales `http://purl.obolibrary.org/obo/NCBITaxon_3082720`
-#### Removed
-- Class: [Peptostreptococcales](http://purl.obolibrary.org/obo/NCBITaxon_3082720) 
+- [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) DisjointWith [Eremothecium](http://purl.obolibrary.org/obo/NCBITaxon_33170) 
 
+- [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) DisjointWith [Kazachstania](http://purl.obolibrary.org/obo/NCBITaxon_71245) 
 
+- [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) DisjointWith [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) 
 
-### Perimyotis `http://purl.obolibrary.org/obo/NCBITaxon_2057181`
-#### Removed
-- [Perimyotis](http://purl.obolibrary.org/obo/NCBITaxon_2057181) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) DisjointWith [Zygosaccharomyces](http://purl.obolibrary.org/obo/NCBITaxon_4953) 
 
-- [Perimyotis](http://purl.obolibrary.org/obo/NCBITaxon_2057181) DisjointWith [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) DisjointWith [Kluyveromyces](http://purl.obolibrary.org/obo/NCBITaxon_4910) 
 
+- [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) DisjointWith [Torulaspora](http://purl.obolibrary.org/obo/NCBITaxon_4948) 
 
 
-### Phyllops `http://purl.obolibrary.org/obo/NCBITaxon_148027`
+### NCBITaxon_3163251 `http://purl.obolibrary.org/obo/NCBITaxon_3163251`
 
 #### Added
-- [Phyllops](http://purl.obolibrary.org/obo/NCBITaxon_148027) DisjointWith [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- Class: [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) 
+
+- [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) DisjointWith [Zygosaccharomyces](http://purl.obolibrary.org/obo/NCBITaxon_4953) 
+
+- [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) DisjointWith [Eremothecium](http://purl.obolibrary.org/obo/NCBITaxon_33170) 
 
+- [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) DisjointWith [Vanderwaltozyma](http://purl.obolibrary.org/obo/NCBITaxon_374469) 
 
-### Phyllostomidae `http://purl.obolibrary.org/obo/NCBITaxon_9415`
+- [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) DisjointWith [Kazachstania](http://purl.obolibrary.org/obo/NCBITaxon_71245) 
 
+- [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) DisjointWith [Saccharomyces](http://purl.obolibrary.org/obo/NCBITaxon_4930) 
+
+- [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) DisjointWith [Nakaseomyces](http://purl.obolibrary.org/obo/NCBITaxon_374468) 
+
+- [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) DisjointWith [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) 
+
+- [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) DisjointWith [Torulaspora](http://purl.obolibrary.org/obo/NCBITaxon_4948) 
+
+- [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) DisjointWith [Kluyveromyces](http://purl.obolibrary.org/obo/NCBITaxon_4910) 
+
+
+### NCBITaxon_3163253 `http://purl.obolibrary.org/obo/NCBITaxon_3163253`
+
 #### Added
-- [Phyllostomidae](http://purl.obolibrary.org/obo/NCBITaxon_9415) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- Class: [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) 
 
+- [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) DisjointWith [Vanderwaltozyma](http://purl.obolibrary.org/obo/NCBITaxon_374469) 
 
-### Pipistrellus `http://purl.obolibrary.org/obo/NCBITaxon_27671`
-#### Removed
-- [Pipistrellus](http://purl.obolibrary.org/obo/NCBITaxon_27671) DisjointWith [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) DisjointWith [Zygosaccharomyces](http://purl.obolibrary.org/obo/NCBITaxon_4953) 
 
-- [Pipistrellus](http://purl.obolibrary.org/obo/NCBITaxon_27671) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) DisjointWith [Torulaspora](http://purl.obolibrary.org/obo/NCBITaxon_4948) 
 
+- [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) DisjointWith [Saccharomyces](http://purl.obolibrary.org/obo/NCBITaxon_4930) 
 
+- [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) DisjointWith [Nakaseomyces](http://purl.obolibrary.org/obo/NCBITaxon_374468) 
 
-### Platyrrhinus `http://purl.obolibrary.org/obo/NCBITaxon_27657`
+- [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) DisjointWith [Eremothecium](http://purl.obolibrary.org/obo/NCBITaxon_33170) 
 
+- [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) DisjointWith [Kazachstania](http://purl.obolibrary.org/obo/NCBITaxon_71245) 
+
+- [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) DisjointWith [Kluyveromyces](http://purl.obolibrary.org/obo/NCBITaxon_4910) 
+
+
+### NCBITaxon_3228785 `http://purl.obolibrary.org/obo/NCBITaxon_3228785`
+
 #### Added
-- [Platyrrhinus](http://purl.obolibrary.org/obo/NCBITaxon_27657) DisjointWith [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- Class: [NCBITaxon_3228785](http://purl.obolibrary.org/obo/NCBITaxon_3228785) 
 
 
-### Plecotus `http://purl.obolibrary.org/obo/NCBITaxon_27673`
-#### Removed
-- [Plecotus](http://purl.obolibrary.org/obo/NCBITaxon_27673) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+### NCBITaxon_38063 `http://purl.obolibrary.org/obo/NCBITaxon_38063`
 
-- [Plecotus](http://purl.obolibrary.org/obo/NCBITaxon_27673) DisjointWith [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+#### Added
+- Class: [NCBITaxon_38063](http://purl.obolibrary.org/obo/NCBITaxon_38063) 
 
 
+### NCBITaxon_433334 `http://purl.obolibrary.org/obo/NCBITaxon_433334`
 
-### Prodigiosinella `http://purl.obolibrary.org/obo/NCBITaxon_3059405`
-#### Removed
-- Class: [Prodigiosinella](http://purl.obolibrary.org/obo/NCBITaxon_3059405) 
+#### Added
+- Class: [NCBITaxon_433334](http://purl.obolibrary.org/obo/NCBITaxon_433334) 
 
+- [NCBITaxon_433334](http://purl.obolibrary.org/obo/NCBITaxon_433334) DisjointWith [unclassified Erysipelotrichaceae](http://purl.obolibrary.org/obo/NCBITaxon_544447) 
 
 
-### Providence virus `http://purl.obolibrary.org/obo/NCBITaxon_213633`
-#### Removed
-- Class: [Providence virus](http://purl.obolibrary.org/obo/NCBITaxon_213633) 
+### NCBITaxon_52207 `http://purl.obolibrary.org/obo/NCBITaxon_52207`
 
+#### Added
+- Class: [NCBITaxon_52207](http://purl.obolibrary.org/obo/NCBITaxon_52207) 
 
 
-### Providence virus Helicoverpa zea /United States/vFLM1/- `http://purl.obolibrary.org/obo/NCBITaxon_1289469`
-#### Removed
-- Class: [Providence virus Helicoverpa zea /United States/vFLM1/-](http://purl.obolibrary.org/obo/NCBITaxon_1289469) 
+### NCBITaxon_70861 `http://purl.obolibrary.org/obo/NCBITaxon_70861`
 
+#### Added
+- Class: [NCBITaxon_70861](http://purl.obolibrary.org/obo/NCBITaxon_70861) 
 
 
-### Ptenochirus `http://purl.obolibrary.org/obo/NCBITaxon_132906`
-#### Removed
-- [Ptenochirus](http://purl.obolibrary.org/obo/NCBITaxon_132906) DisjointWith [Boneia](http://purl.obolibrary.org/obo/NCBITaxon_270781) 
+### NCBITaxon_70862 `http://purl.obolibrary.org/obo/NCBITaxon_70862`
 
-- [Ptenochirus](http://purl.obolibrary.org/obo/NCBITaxon_132906) DisjointWith [Dobsonia](http://purl.obolibrary.org/obo/NCBITaxon_42146) 
+#### Added
+- Class: [NCBITaxon_70862](http://purl.obolibrary.org/obo/NCBITaxon_70862) 
 
-- [Ptenochirus](http://purl.obolibrary.org/obo/NCBITaxon_132906) DisjointWith [Eidolon](http://purl.obolibrary.org/obo/NCBITaxon_58062) 
 
-- [Ptenochirus](http://purl.obolibrary.org/obo/NCBITaxon_132906) DisjointWith [Pteropus](http://purl.obolibrary.org/obo/NCBITaxon_9401) 
+### NCBITaxon_81954 `http://purl.obolibrary.org/obo/NCBITaxon_81954`
 
-- [Ptenochirus](http://purl.obolibrary.org/obo/NCBITaxon_132906) DisjointWith [Paranyctimene](http://purl.obolibrary.org/obo/NCBITaxon_270784) 
+#### Added
+- Class: [NCBITaxon_81954](http://purl.obolibrary.org/obo/NCBITaxon_81954) 
 
-- [Ptenochirus](http://purl.obolibrary.org/obo/NCBITaxon_132906) DisjointWith [Nyctimene](http://purl.obolibrary.org/obo/NCBITaxon_48987) 
 
-- [Ptenochirus](http://purl.obolibrary.org/obo/NCBITaxon_132906) DisjointWith [Rousettus](http://purl.obolibrary.org/obo/NCBITaxon_9406) 
+### NCBITaxon_85612 `http://purl.obolibrary.org/obo/NCBITaxon_85612`
 
+#### Added
+- Class: [NCBITaxon_85612](http://purl.obolibrary.org/obo/NCBITaxon_85612) 
 
 
-### Pteropus `http://purl.obolibrary.org/obo/NCBITaxon_9401`
+### Narcissus mosaic virus `http://purl.obolibrary.org/obo/NCBITaxon_12180`
 #### Removed
-- [Pteropus](http://purl.obolibrary.org/obo/NCBITaxon_9401) DisjointWith [Rousettus](http://purl.obolibrary.org/obo/NCBITaxon_9406) 
+- [Narcissus mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12180) DisjointWith [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
 
+#### Added
+- [Narcissus mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12180) DisjointWith [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
 
 
-### Pygoderma `http://purl.obolibrary.org/obo/NCBITaxon_148028`
+### Natrialbaceae `http://purl.obolibrary.org/obo/NCBITaxon_1644061`
 
 #### Added
-- [Pygoderma](http://purl.obolibrary.org/obo/NCBITaxon_148028) DisjointWith [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- [Natrialbaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644061) DisjointWith [Halobacteriaceae](http://purl.obolibrary.org/obo/NCBITaxon_2236) 
 
+- [Natrialbaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644061) DisjointWith [NCBITaxon_38063](http://purl.obolibrary.org/obo/NCBITaxon_38063) 
 
-### Radianthus `http://purl.obolibrary.org/obo/NCBITaxon_3122428`
-#### Removed
-- Class: [Radianthus](http://purl.obolibrary.org/obo/NCBITaxon_3122428) 
+- [Natrialbaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644061) DisjointWith [Natronoarchaeaceae](http://purl.obolibrary.org/obo/NCBITaxon_2976354) 
+
+- [Natrialbaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644061) DisjointWith [Haloarculaceae](http://purl.obolibrary.org/obo/NCBITaxon_1963268) 
 
+- [Natrialbaceae](http://purl.obolibrary.org/obo/NCBITaxon_1644061) DisjointWith [Halococcaceae](http://purl.obolibrary.org/obo/NCBITaxon_1963270) 
 
 
-### Radianthus crispa `http://purl.obolibrary.org/obo/NCBITaxon_3122430`
+### Natrialbales `http://purl.obolibrary.org/obo/NCBITaxon_1644060`
 #### Removed
-- Class: [Radianthus crispa](http://purl.obolibrary.org/obo/NCBITaxon_3122430) 
+- [Natrialbales](http://purl.obolibrary.org/obo/NCBITaxon_1644060) DisjointWith [Halobacteriales](http://purl.obolibrary.org/obo/NCBITaxon_2235) 
+
+
+
+### Natronoarchaeaceae `http://purl.obolibrary.org/obo/NCBITaxon_2976354`
+
+#### Added
+- [Natronoarchaeaceae](http://purl.obolibrary.org/obo/NCBITaxon_2976354) DisjointWith [NCBITaxon_38063](http://purl.obolibrary.org/obo/NCBITaxon_38063) 
+
+
+### Naumovozyma `http://purl.obolibrary.org/obo/NCBITaxon_278028`
 
+#### Added
+- [Naumovozyma](http://purl.obolibrary.org/obo/NCBITaxon_278028) DisjointWith [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) 
+
+- [Naumovozyma](http://purl.obolibrary.org/obo/NCBITaxon_278028) DisjointWith [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) 
+
+- [Naumovozyma](http://purl.obolibrary.org/obo/NCBITaxon_278028) DisjointWith [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) 
+
+- [Naumovozyma](http://purl.obolibrary.org/obo/NCBITaxon_278028) DisjointWith [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) 
 
 
-### Rhinolophidae `http://purl.obolibrary.org/obo/NCBITaxon_58055`
+### Nyctimeninae `http://purl.obolibrary.org/obo/NCBITaxon_3136026`
 #### Removed
-- [Rhinolophidae](http://purl.obolibrary.org/obo/NCBITaxon_58055) DisjointWith [Mormoopidae](http://purl.obolibrary.org/obo/NCBITaxon_59445) 
+- Class: [Nyctimeninae](http://purl.obolibrary.org/obo/NCBITaxon_3136026) 
 
-- [Rhinolophidae](http://purl.obolibrary.org/obo/NCBITaxon_58055) DisjointWith [Noctilionidae](http://purl.obolibrary.org/obo/NCBITaxon_94957) 
 
-- [Rhinolophidae](http://purl.obolibrary.org/obo/NCBITaxon_58055) DisjointWith [Mystacinidae](http://purl.obolibrary.org/obo/NCBITaxon_94959) 
 
-- [Rhinolophidae](http://purl.obolibrary.org/obo/NCBITaxon_58055) DisjointWith [Molossidae](http://purl.obolibrary.org/obo/NCBITaxon_9436) 
+### Orthoparamyxovirinae `http://purl.obolibrary.org/obo/NCBITaxon_2560076`
 
-- [Rhinolophidae](http://purl.obolibrary.org/obo/NCBITaxon_58055) DisjointWith [Vespertilionidae](http://purl.obolibrary.org/obo/NCBITaxon_9431) 
+#### Added
+- [Orthoparamyxovirinae](http://purl.obolibrary.org/obo/NCBITaxon_2560076) DisjointWith [NCBITaxon_3152209](http://purl.obolibrary.org/obo/NCBITaxon_3152209) 
 
-- [Rhinolophidae](http://purl.obolibrary.org/obo/NCBITaxon_58055) DisjointWith [Phyllostomidae](http://purl.obolibrary.org/obo/NCBITaxon_9415) 
 
-- [Rhinolophidae](http://purl.obolibrary.org/obo/NCBITaxon_58055) DisjointWith [Natalidae](http://purl.obolibrary.org/obo/NCBITaxon_59446) 
+### Osteoglossocephalai `http://purl.obolibrary.org/obo/NCBITaxon_1489341`
 
+#### Added
+- [Osteoglossocephalai](http://purl.obolibrary.org/obo/NCBITaxon_1489341) DisjointWith [NCBITaxon_70861](http://purl.obolibrary.org/obo/NCBITaxon_70861) 
 
 
-### Rhinopomatidae `http://purl.obolibrary.org/obo/NCBITaxon_124754`
+### Papaya mosaic virus `http://purl.obolibrary.org/obo/NCBITaxon_12181`
 #### Removed
-- [Rhinopomatidae](http://purl.obolibrary.org/obo/NCBITaxon_124754) DisjointWith [Emballonuridae](http://purl.obolibrary.org/obo/NCBITaxon_30562) 
+- [Papaya mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12181) DisjointWith [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
+
+#### Added
+- [Papaya mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12181) DisjointWith [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
 
-- [Rhinopomatidae](http://purl.obolibrary.org/obo/NCBITaxon_124754) DisjointWith [Molossidae](http://purl.obolibrary.org/obo/NCBITaxon_9436) 
 
-- [Rhinopomatidae](http://purl.obolibrary.org/obo/NCBITaxon_124754) DisjointWith [Natalidae](http://purl.obolibrary.org/obo/NCBITaxon_59446) 
+### Penicillium aethiopicum `http://purl.obolibrary.org/obo/NCBITaxon_36650`
 
-- [Rhinopomatidae](http://purl.obolibrary.org/obo/NCBITaxon_124754) DisjointWith [Furipteridae](http://purl.obolibrary.org/obo/NCBITaxon_148080) 
+#### Added
+- [Penicillium aethiopicum](http://purl.obolibrary.org/obo/NCBITaxon_36650) DisjointWith [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
-- [Rhinopomatidae](http://purl.obolibrary.org/obo/NCBITaxon_124754) DisjointWith [Phyllostomidae](http://purl.obolibrary.org/obo/NCBITaxon_9415) 
 
-- [Rhinopomatidae](http://purl.obolibrary.org/obo/NCBITaxon_124754) DisjointWith [Mormoopidae](http://purl.obolibrary.org/obo/NCBITaxon_59445) 
+### Penicillium brasilianum `http://purl.obolibrary.org/obo/NCBITaxon_104259`
 
-- [Rhinopomatidae](http://purl.obolibrary.org/obo/NCBITaxon_124754) DisjointWith [Noctilionidae](http://purl.obolibrary.org/obo/NCBITaxon_94957) 
+#### Added
+- [Penicillium brasilianum](http://purl.obolibrary.org/obo/NCBITaxon_104259) DisjointWith [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
-- [Rhinopomatidae](http://purl.obolibrary.org/obo/NCBITaxon_124754) DisjointWith [Vespertilionidae](http://purl.obolibrary.org/obo/NCBITaxon_9431) 
 
-- [Rhinopomatidae](http://purl.obolibrary.org/obo/NCBITaxon_124754) DisjointWith [Thyropteridae](http://purl.obolibrary.org/obo/NCBITaxon_124757) 
+### Penicillium brefeldianum `http://purl.obolibrary.org/obo/NCBITaxon_1131482`
 
-- [Rhinopomatidae](http://purl.obolibrary.org/obo/NCBITaxon_124754) DisjointWith [Mystacinidae](http://purl.obolibrary.org/obo/NCBITaxon_94959) 
+#### Added
+- [Penicillium brefeldianum](http://purl.obolibrary.org/obo/NCBITaxon_1131482) DisjointWith [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
 
+### Penicillium brevicompactum `http://purl.obolibrary.org/obo/NCBITaxon_5074`
 
-### Rhizobium phage 16-3 `http://purl.obolibrary.org/obo/NCBITaxon_10704`
-#### Removed
-- [Rhizobium phage 16-3](http://purl.obolibrary.org/obo/NCBITaxon_10704) DisjointWith [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) 
+#### Added
+- [Penicillium brevicompactum](http://purl.obolibrary.org/obo/NCBITaxon_5074) DisjointWith [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
+
 
+### Penicillium camemberti `http://purl.obolibrary.org/obo/NCBITaxon_5075`
 
+#### Added
+- [Penicillium camemberti](http://purl.obolibrary.org/obo/NCBITaxon_5075) DisjointWith [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
-### Rhizobium/Agrobacterium group `http://purl.obolibrary.org/obo/NCBITaxon_227290`
 
+### Penicillium canescens `http://purl.obolibrary.org/obo/NCBITaxon_5083`
+
 #### Added
-- [Rhizobium/Agrobacterium group](http://purl.obolibrary.org/obo/NCBITaxon_227290) DisjointWith [Hoeflea](http://purl.obolibrary.org/obo/NCBITaxon_274591) 
+- [Penicillium canescens](http://purl.obolibrary.org/obo/NCBITaxon_5083) DisjointWith [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
 
-### Rhodobiaceae `http://purl.obolibrary.org/obo/NCBITaxon_119043`
+### Penicillium chrysogenum species complex `http://purl.obolibrary.org/obo/NCBITaxon_254878`
 
 #### Added
-- [Rhodobiaceae](http://purl.obolibrary.org/obo/NCBITaxon_119043) DisjointWith [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) 
+- [Penicillium chrysogenum species complex](http://purl.obolibrary.org/obo/NCBITaxon_254878) DisjointWith [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
 
-### Rhodoblastus `http://purl.obolibrary.org/obo/NCBITaxon_168658`
-#### Removed
-- [Rhodoblastus](http://purl.obolibrary.org/obo/NCBITaxon_168658) DisjointWith [Methylocapsa](http://purl.obolibrary.org/obo/NCBITaxon_184923) 
+### Penicillium citrinum `http://purl.obolibrary.org/obo/NCBITaxon_5077`
 
-- [Rhodoblastus](http://purl.obolibrary.org/obo/NCBITaxon_168658) DisjointWith [Beijerinckia](http://purl.obolibrary.org/obo/NCBITaxon_532) 
+#### Added
+- [Penicillium citrinum](http://purl.obolibrary.org/obo/NCBITaxon_5077) DisjointWith [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
+
 
+### Penicillium crustosum `http://purl.obolibrary.org/obo/NCBITaxon_36656`
+
+#### Added
+- [Penicillium crustosum](http://purl.obolibrary.org/obo/NCBITaxon_36656) DisjointWith [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
 
-### Robiginitalea `http://purl.obolibrary.org/obo/NCBITaxon_252306`
+### Penicillium cyclopium `http://purl.obolibrary.org/obo/NCBITaxon_60167`
 
 #### Added
-- [Robiginitalea](http://purl.obolibrary.org/obo/NCBITaxon_252306) DisjointWith [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [Penicillium cyclopium](http://purl.obolibrary.org/obo/NCBITaxon_60167) DisjointWith [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
 
-### Roseivirgaceae `http://purl.obolibrary.org/obo/NCBITaxon_2762306`
+### Penicillium digitatum `http://purl.obolibrary.org/obo/NCBITaxon_36651`
 
 #### Added
-- [Roseivirgaceae](http://purl.obolibrary.org/obo/NCBITaxon_2762306) DisjointWith [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) 
+- [Penicillium digitatum](http://purl.obolibrary.org/obo/NCBITaxon_36651) DisjointWith [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
 
-### Runella `http://purl.obolibrary.org/obo/NCBITaxon_105`
-#### Removed
-- [Runella](http://purl.obolibrary.org/obo/NCBITaxon_105) DisjointWith [Leadbetterella](http://purl.obolibrary.org/obo/NCBITaxon_319458) 
+### Penicillium echinulatum (nom. illeg.) `http://purl.obolibrary.org/obo/NCBITaxon_60174`
+
+#### Added
+- [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [Penicillium glabrum](http://purl.obolibrary.org/obo/NCBITaxon_69773) 
 
-- [Runella](http://purl.obolibrary.org/obo/NCBITaxon_105) DisjointWith [Emticicia](http://purl.obolibrary.org/obo/NCBITaxon_312278) 
+- [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [Penicillium decumbens](http://purl.obolibrary.org/obo/NCBITaxon_69771) 
 
+- [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [Penicillium paxilli](http://purl.obolibrary.org/obo/NCBITaxon_70109) 
 
+- [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [Penicillium simplicissimum](http://purl.obolibrary.org/obo/NCBITaxon_69488) 
 
-### Scotophilus `http://purl.obolibrary.org/obo/NCBITaxon_153296`
-#### Removed
-- [Scotophilus](http://purl.obolibrary.org/obo/NCBITaxon_153296) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [Penicillium fellutanum](http://purl.obolibrary.org/obo/NCBITaxon_70095) 
 
-- [Scotophilus](http://purl.obolibrary.org/obo/NCBITaxon_153296) DisjointWith [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
+- [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [Penicillium olsonii](http://purl.obolibrary.org/obo/NCBITaxon_99116) 
 
+- [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [Penicillium amagasakiense](http://purl.obolibrary.org/obo/NCBITaxon_63559) 
 
+- [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [Penicillium griseoroseum](http://purl.obolibrary.org/obo/NCBITaxon_84562) 
 
-### Siansivirga `http://purl.obolibrary.org/obo/NCBITaxon_1204360`
+- [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [Penicillium soppii](http://purl.obolibrary.org/obo/NCBITaxon_69789) 
 
+- [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [Penicillium oxalicum](http://purl.obolibrary.org/obo/NCBITaxon_69781) 
+
+- [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [Penicillium herquei](http://purl.obolibrary.org/obo/NCBITaxon_69774) 
+
+- [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) DisjointWith [Penicillium nalgiovense](http://purl.obolibrary.org/obo/NCBITaxon_60175) 
+
+
+### Penicillium expansum `http://purl.obolibrary.org/obo/NCBITaxon_27334`
+
 #### Added
-- [Siansivirga](http://purl.obolibrary.org/obo/NCBITaxon_1204360) DisjointWith [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [Penicillium expansum](http://purl.obolibrary.org/obo/NCBITaxon_27334) DisjointWith [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
 
-### Sinorhizobium/Ensifer group `http://purl.obolibrary.org/obo/NCBITaxon_227292`
+### Penicillium griseofulvum `http://purl.obolibrary.org/obo/NCBITaxon_5078`
 
 #### Added
-- [Sinorhizobium/Ensifer group](http://purl.obolibrary.org/obo/NCBITaxon_227292) DisjointWith [Hoeflea](http://purl.obolibrary.org/obo/NCBITaxon_274591) 
+- [Penicillium griseofulvum](http://purl.obolibrary.org/obo/NCBITaxon_5078) DisjointWith [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
 
-### Solanum aculeatissimum `http://purl.obolibrary.org/obo/NCBITaxon_267265`
-#### Removed
-- [Solanum aculeatissimum](http://purl.obolibrary.org/obo/NCBITaxon_267265) DisjointWith [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
+### Penicillium italicum `http://purl.obolibrary.org/obo/NCBITaxon_40296`
 
+#### Added
+- [Penicillium italicum](http://purl.obolibrary.org/obo/NCBITaxon_40296) DisjointWith [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
 
-### Solanum agrimoniifolium `http://purl.obolibrary.org/obo/NCBITaxon_317816`
-#### Removed
-- [Solanum agrimoniifolium](http://purl.obolibrary.org/obo/NCBITaxon_317816) DisjointWith [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
+### Penicillium janthinellum `http://purl.obolibrary.org/obo/NCBITaxon_5079`
 
+#### Added
+- [Penicillium janthinellum](http://purl.obolibrary.org/obo/NCBITaxon_5079) DisjointWith [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
 
-### Solanum bulbocastanum `http://purl.obolibrary.org/obo/NCBITaxon_147425`
-#### Removed
-- [Solanum bulbocastanum](http://purl.obolibrary.org/obo/NCBITaxon_147425) DisjointWith [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
+### Penicillium roqueforti `http://purl.obolibrary.org/obo/NCBITaxon_5082`
 
 #### Added
-- [Solanum bulbocastanum](http://purl.obolibrary.org/obo/NCBITaxon_147425) DisjointWith [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) 
+- [Penicillium roqueforti](http://purl.obolibrary.org/obo/NCBITaxon_5082) DisjointWith [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
 
-### Solanum cardiophyllum `http://purl.obolibrary.org/obo/NCBITaxon_160510`
+### Penicillium sp. `http://purl.obolibrary.org/obo/NCBITaxon_5081`
 #### Removed
-- [Solanum cardiophyllum](http://purl.obolibrary.org/obo/NCBITaxon_160510) DisjointWith [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
+- [Penicillium sp.](http://purl.obolibrary.org/obo/NCBITaxon_5081) DisjointWith [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
+
+
+
+### Penicillium terrestre `http://purl.obolibrary.org/obo/NCBITaxon_374132`
 
 #### Added
-- [Solanum cardiophyllum](http://purl.obolibrary.org/obo/NCBITaxon_160510) DisjointWith [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) 
+- [Penicillium terrestre](http://purl.obolibrary.org/obo/NCBITaxon_374132) DisjointWith [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
 
-### Solanum chacoense `http://purl.obolibrary.org/obo/NCBITaxon_4108`
-#### Removed
-- [Solanum chacoense](http://purl.obolibrary.org/obo/NCBITaxon_4108) DisjointWith [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
+### Penicillium urticae `http://purl.obolibrary.org/obo/NCBITaxon_29844`
 
+#### Added
+- [Penicillium urticae](http://purl.obolibrary.org/obo/NCBITaxon_29844) DisjointWith [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
 
 
-### Solanum commersonii `http://purl.obolibrary.org/obo/NCBITaxon_4109`
-#### Removed
-- [Solanum commersonii](http://purl.obolibrary.org/obo/NCBITaxon_4109) DisjointWith [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
+### Phodopus `http://purl.obolibrary.org/obo/NCBITaxon_10043`
 
+#### Added
+- [Phodopus](http://purl.obolibrary.org/obo/NCBITaxon_10043) DisjointWith [NCBITaxon_3122391](http://purl.obolibrary.org/obo/NCBITaxon_3122391) 
 
 
-### Solanum crispum `http://purl.obolibrary.org/obo/NCBITaxon_4110`
+### Plantago asiatica mosaic virus `http://purl.obolibrary.org/obo/NCBITaxon_28354`
 #### Removed
-- [Solanum crispum](http://purl.obolibrary.org/obo/NCBITaxon_4110) DisjointWith [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
+- [Plantago asiatica mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_28354) DisjointWith [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
 
+#### Added
+- [Plantago asiatica mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_28354) DisjointWith [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
 
 
-### Solanum etuberosum `http://purl.obolibrary.org/obo/NCBITaxon_200525`
+### Porcine epidemic diarrhea virus `http://purl.obolibrary.org/obo/NCBITaxon_28295`
 #### Removed
-- [Solanum etuberosum](http://purl.obolibrary.org/obo/NCBITaxon_200525) DisjointWith [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
+- [Porcine epidemic diarrhea virus](http://purl.obolibrary.org/obo/NCBITaxon_28295) DisjointWith [Scotophilus bat coronavirus 512](http://purl.obolibrary.org/obo/NCBITaxon_693999) 
 
 #### Added
-- [Solanum etuberosum](http://purl.obolibrary.org/obo/NCBITaxon_200525) DisjointWith [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) 
+- [Porcine epidemic diarrhea virus](http://purl.obolibrary.org/obo/NCBITaxon_28295) DisjointWith [NCBITaxon_3158245](http://purl.obolibrary.org/obo/NCBITaxon_3158245) 
 
 
-### Solanum lasiocarpum `http://purl.obolibrary.org/obo/NCBITaxon_227722`
+### Potato aucuba mosaic virus `http://purl.obolibrary.org/obo/NCBITaxon_12182`
 #### Removed
-- [Solanum lasiocarpum](http://purl.obolibrary.org/obo/NCBITaxon_227722) DisjointWith [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
+- [Potato aucuba mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12182) DisjointWith [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
 
+#### Added
+- [Potato aucuba mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12182) DisjointWith [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
 
 
-### Solanum lyratum `http://purl.obolibrary.org/obo/NCBITaxon_230192`
+### Potato virus X `http://purl.obolibrary.org/obo/NCBITaxon_12183`
 #### Removed
-- [Solanum lyratum](http://purl.obolibrary.org/obo/NCBITaxon_230192) DisjointWith [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
+- [Potato virus X](http://purl.obolibrary.org/obo/NCBITaxon_12183) DisjointWith [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
 
+#### Added
+- [Potato virus X](http://purl.obolibrary.org/obo/NCBITaxon_12183) DisjointWith [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
 
 
-### Solanum melongena `http://purl.obolibrary.org/obo/NCBITaxon_4111`
-#### Removed
-- [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) DisjointWith [Solanum microdontum](http://purl.obolibrary.org/obo/NCBITaxon_73574) 
+### Protobothrops `http://purl.obolibrary.org/obo/NCBITaxon_103943`
 
-- [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) DisjointWith [Solanum nigrum](http://purl.obolibrary.org/obo/NCBITaxon_4112) 
+#### Added
+- [Protobothrops](http://purl.obolibrary.org/obo/NCBITaxon_103943) DisjointWith [NCBITaxon_2753819](http://purl.obolibrary.org/obo/NCBITaxon_2753819) 
+
+- [Protobothrops](http://purl.obolibrary.org/obo/NCBITaxon_103943) DisjointWith [NCBITaxon_2902643](http://purl.obolibrary.org/obo/NCBITaxon_2902643) 
 
-- [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) DisjointWith [Solanum tuberosum](http://purl.obolibrary.org/obo/NCBITaxon_4113) 
 
-- [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) DisjointWith [Solanum abutiloides](http://purl.obolibrary.org/obo/NCBITaxon_45831) 
+### Pteropodoidea `http://purl.obolibrary.org/obo/NCBITaxon_3136023`
+#### Removed
+- Class: [Pteropodoidea](http://purl.obolibrary.org/obo/NCBITaxon_3136023) 
 
-- [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) DisjointWith [Solanum okadae](http://purl.obolibrary.org/obo/NCBITaxon_73575) 
 
-- [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) DisjointWith [Solanum demissum](http://purl.obolibrary.org/obo/NCBITaxon_50514) 
 
-- [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) DisjointWith [Solanum canense](http://purl.obolibrary.org/obo/NCBITaxon_421230) 
+### Respirovirus `http://purl.obolibrary.org/obo/NCBITaxon_186938`
+#### Removed
+- [Respirovirus](http://purl.obolibrary.org/obo/NCBITaxon_186938) DisjointWith [Henipavirus](http://purl.obolibrary.org/obo/NCBITaxon_260964) 
 
-- [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) DisjointWith [Solanum subgen. Lycopersicon](http://purl.obolibrary.org/obo/NCBITaxon_49274) 
+- [Respirovirus](http://purl.obolibrary.org/obo/NCBITaxon_186938) DisjointWith [Narmovirus](http://purl.obolibrary.org/obo/NCBITaxon_2560185) 
 
-- [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) DisjointWith [Solanum polyadenium](http://purl.obolibrary.org/obo/NCBITaxon_62893) 
 
-- [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) DisjointWith [Solanum palustre](http://purl.obolibrary.org/obo/NCBITaxon_4115) 
 
-- [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) DisjointWith [Solanum sogarandinum](http://purl.obolibrary.org/obo/NCBITaxon_52705) 
+### Rhinolophoidea `http://purl.obolibrary.org/obo/NCBITaxon_3136022`
+#### Removed
+- Class: [Rhinolophoidea](http://purl.obolibrary.org/obo/NCBITaxon_3136022) 
 
 
 
-### Solanum sucrense `http://purl.obolibrary.org/obo/NCBITaxon_162494`
+### Rhodoblastaceae `http://purl.obolibrary.org/obo/NCBITaxon_3142802`
 #### Removed
-- [Solanum sucrense](http://purl.obolibrary.org/obo/NCBITaxon_162494) DisjointWith [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
+- Class: [Rhodoblastaceae](http://purl.obolibrary.org/obo/NCBITaxon_3142802) 
 
-#### Added
-- [Solanum sucrense](http://purl.obolibrary.org/obo/NCBITaxon_162494) DisjointWith [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) 
 
 
-### Solanum torvum `http://purl.obolibrary.org/obo/NCBITaxon_119830`
+### Rousettinae `http://purl.obolibrary.org/obo/NCBITaxon_3136029`
 #### Removed
-- [Solanum torvum](http://purl.obolibrary.org/obo/NCBITaxon_119830) DisjointWith [Solanum melongena](http://purl.obolibrary.org/obo/NCBITaxon_4111) 
+- Class: [Rousettinae](http://purl.obolibrary.org/obo/NCBITaxon_3136029) 
+
+
+
+### Rubulavirinae `http://purl.obolibrary.org/obo/NCBITaxon_2560080`
 
 #### Added
-- [Solanum torvum](http://purl.obolibrary.org/obo/NCBITaxon_119830) DisjointWith [NCBITaxon_223891](http://purl.obolibrary.org/obo/NCBITaxon_223891) 
+- [Rubulavirinae](http://purl.obolibrary.org/obo/NCBITaxon_2560080) DisjointWith [NCBITaxon_3152209](http://purl.obolibrary.org/obo/NCBITaxon_3152209) 
 
 
-### Spirosomataceae `http://purl.obolibrary.org/obo/NCBITaxon_2896860`
+### Simalia `http://purl.obolibrary.org/obo/NCBITaxon_1497996`
 
 #### Added
-- [Spirosomataceae](http://purl.obolibrary.org/obo/NCBITaxon_2896860) DisjointWith [NCBITaxon_3141702](http://purl.obolibrary.org/obo/NCBITaxon_3141702) 
+- [Simalia](http://purl.obolibrary.org/obo/NCBITaxon_1497996) DisjointWith [NCBITaxon_3144915](http://purl.obolibrary.org/obo/NCBITaxon_3144915) 
 
 
-### Staphylococcus phage Twort `http://purl.obolibrary.org/obo/NCBITaxon_2908167`
+### Solanum virginianum `http://purl.obolibrary.org/obo/NCBITaxon_223891`
 #### Removed
-- Class: [Staphylococcus phage Twort](http://purl.obolibrary.org/obo/NCBITaxon_2908167) 
+- Class: [Solanum virginianum](http://purl.obolibrary.org/obo/NCBITaxon_223891) 
 
 
 
-### Stappiaceae `http://purl.obolibrary.org/obo/NCBITaxon_2821832`
+### Strawberry mild yellow edge virus `http://purl.obolibrary.org/obo/NCBITaxon_12187`
+#### Removed
+- [Strawberry mild yellow edge virus](http://purl.obolibrary.org/obo/NCBITaxon_12187) DisjointWith [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
 
 #### Added
-- [Stappiaceae](http://purl.obolibrary.org/obo/NCBITaxon_2821832) DisjointWith [NCBITaxon_3142802](http://purl.obolibrary.org/obo/NCBITaxon_3142802) 
+- [Strawberry mild yellow edge virus](http://purl.obolibrary.org/obo/NCBITaxon_12187) DisjointWith [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
 
 
-### Stenoderma `http://purl.obolibrary.org/obo/NCBITaxon_148030`
+### Terrapene `http://purl.obolibrary.org/obo/NCBITaxon_85610`
 
 #### Added
-- [Stenoderma](http://purl.obolibrary.org/obo/NCBITaxon_148030) DisjointWith [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- [Terrapene](http://purl.obolibrary.org/obo/NCBITaxon_85610) DisjointWith [NCBITaxon_85612](http://purl.obolibrary.org/obo/NCBITaxon_85612) 
 
 
-### Sturnira `http://purl.obolibrary.org/obo/NCBITaxon_27659`
+### Tetrapisispora `http://purl.obolibrary.org/obo/NCBITaxon_113604`
 
 #### Added
-- [Sturnira](http://purl.obolibrary.org/obo/NCBITaxon_27659) DisjointWith [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+- [Tetrapisispora](http://purl.obolibrary.org/obo/NCBITaxon_113604) DisjointWith [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) 
 
+- [Tetrapisispora](http://purl.obolibrary.org/obo/NCBITaxon_113604) DisjointWith [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) 
 
-### Tepidibacteraceae `http://purl.obolibrary.org/obo/NCBITaxon_3120162`
-#### Removed
-- Class: [Tepidibacteraceae](http://purl.obolibrary.org/obo/NCBITaxon_3120162) 
+- [Tetrapisispora](http://purl.obolibrary.org/obo/NCBITaxon_113604) DisjointWith [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) 
 
+- [Tetrapisispora](http://purl.obolibrary.org/obo/NCBITaxon_113604) DisjointWith [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) 
 
 
-### Thermosulfidibacteraceae `http://purl.obolibrary.org/obo/NCBITaxon_3120748`
+### Tetrapisispora blattae `http://purl.obolibrary.org/obo/NCBITaxon_1071379`
 #### Removed
-- Class: [Thermosulfidibacteraceae](http://purl.obolibrary.org/obo/NCBITaxon_3120748) 
+- [Tetrapisispora blattae](http://purl.obolibrary.org/obo/NCBITaxon_1071379) DisjointWith [Tetrapisispora phaffii](http://purl.obolibrary.org/obo/NCBITaxon_113608) 
+
+
 
+### Trachemys `http://purl.obolibrary.org/obo/NCBITaxon_34902`
 
+#### Added
+- [Trachemys](http://purl.obolibrary.org/obo/NCBITaxon_34902) DisjointWith [NCBITaxon_85612](http://purl.obolibrary.org/obo/NCBITaxon_85612) 
+
 
-### Thermosulfidibacterales `http://purl.obolibrary.org/obo/NCBITaxon_3120453`
+### Trimeresurus albolabris `http://purl.obolibrary.org/obo/NCBITaxon_8765`
 #### Removed
-- Class: [Thermosulfidibacterales](http://purl.obolibrary.org/obo/NCBITaxon_3120453) 
+- [Trimeresurus albolabris](http://purl.obolibrary.org/obo/NCBITaxon_8765) DisjointWith [Trimeresurus gramineus](http://purl.obolibrary.org/obo/NCBITaxon_8767) 
 
 
 
-### Thermosulfidibacteria `http://purl.obolibrary.org/obo/NCBITaxon_3118679`
+### Trimeresurus borneensis `http://purl.obolibrary.org/obo/NCBITaxon_109778`
 #### Removed
-- Class: [Thermosulfidibacteria](http://purl.obolibrary.org/obo/NCBITaxon_3118679) 
+- [Trimeresurus borneensis](http://purl.obolibrary.org/obo/NCBITaxon_109778) DisjointWith [Trimeresurus albolabris](http://purl.obolibrary.org/obo/NCBITaxon_8765) 
+
+- [Trimeresurus borneensis](http://purl.obolibrary.org/obo/NCBITaxon_109778) DisjointWith [Trimeresurus stejnegeri](http://purl.obolibrary.org/obo/NCBITaxon_39682) 
+
+- [Trimeresurus borneensis](http://purl.obolibrary.org/obo/NCBITaxon_109778) DisjointWith [Trimeresurus puniceus](http://purl.obolibrary.org/obo/NCBITaxon_197218) 
 
+- [Trimeresurus borneensis](http://purl.obolibrary.org/obo/NCBITaxon_109778) DisjointWith [Trimeresurus gracilis](http://purl.obolibrary.org/obo/NCBITaxon_109781) 
 
+- [Trimeresurus borneensis](http://purl.obolibrary.org/obo/NCBITaxon_109778) DisjointWith [Trimeresurus cantori](http://purl.obolibrary.org/obo/NCBITaxon_44711) 
 
-### Thermosulfidibacterota `http://purl.obolibrary.org/obo/NCBITaxon_3123113`
+- [Trimeresurus borneensis](http://purl.obolibrary.org/obo/NCBITaxon_109778) DisjointWith [Trimeresurus gramineus](http://purl.obolibrary.org/obo/NCBITaxon_8767) 
+
+
+
+### Trimeresurus cantori `http://purl.obolibrary.org/obo/NCBITaxon_44711`
 #### Removed
-- Class: [Thermosulfidibacterota](http://purl.obolibrary.org/obo/NCBITaxon_3123113) 
+- [Trimeresurus cantori](http://purl.obolibrary.org/obo/NCBITaxon_44711) DisjointWith [Trimeresurus gramineus](http://purl.obolibrary.org/obo/NCBITaxon_8767) 
 
 
 
-### Thoopterus `http://purl.obolibrary.org/obo/NCBITaxon_58086`
+### Trimeresurus gracilis `http://purl.obolibrary.org/obo/NCBITaxon_109781`
 #### Removed
-- [Thoopterus](http://purl.obolibrary.org/obo/NCBITaxon_58086) DisjointWith [Pteropus](http://purl.obolibrary.org/obo/NCBITaxon_9401) 
+- [Trimeresurus gracilis](http://purl.obolibrary.org/obo/NCBITaxon_109781) DisjointWith [Trimeresurus gramineus](http://purl.obolibrary.org/obo/NCBITaxon_8767) 
 
-- [Thoopterus](http://purl.obolibrary.org/obo/NCBITaxon_58086) DisjointWith [Rousettus](http://purl.obolibrary.org/obo/NCBITaxon_9406) 
+- [Trimeresurus gracilis](http://purl.obolibrary.org/obo/NCBITaxon_109781) DisjointWith [Trimeresurus puniceus](http://purl.obolibrary.org/obo/NCBITaxon_197218) 
 
 
 
-### Thyropteridae `http://purl.obolibrary.org/obo/NCBITaxon_124757`
+### Trimeresurus puniceus `http://purl.obolibrary.org/obo/NCBITaxon_197218`
 #### Removed
-- [Thyropteridae](http://purl.obolibrary.org/obo/NCBITaxon_124757) DisjointWith [Megadermatidae](http://purl.obolibrary.org/obo/NCBITaxon_9409) 
+- [Trimeresurus puniceus](http://purl.obolibrary.org/obo/NCBITaxon_197218) DisjointWith [Trimeresurus gramineus](http://purl.obolibrary.org/obo/NCBITaxon_8767) 
 
-- [Thyropteridae](http://purl.obolibrary.org/obo/NCBITaxon_124757) DisjointWith [Hipposideridae](http://purl.obolibrary.org/obo/NCBITaxon_186994) 
+- [Trimeresurus puniceus](http://purl.obolibrary.org/obo/NCBITaxon_197218) DisjointWith [Trimeresurus cantori](http://purl.obolibrary.org/obo/NCBITaxon_44711) 
 
-- [Thyropteridae](http://purl.obolibrary.org/obo/NCBITaxon_124757) DisjointWith [Rhinolophidae](http://purl.obolibrary.org/obo/NCBITaxon_58055) 
-
-#### Added
-- [Thyropteridae](http://purl.obolibrary.org/obo/NCBITaxon_124757) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [Trimeresurus puniceus](http://purl.obolibrary.org/obo/NCBITaxon_197218) DisjointWith [Trimeresurus stejnegeri](http://purl.obolibrary.org/obo/NCBITaxon_39682) 
 
-- [Thyropteridae](http://purl.obolibrary.org/obo/NCBITaxon_124757) DisjointWith [NCBITaxon_3136025](http://purl.obolibrary.org/obo/NCBITaxon_3136025) 
+- [Trimeresurus puniceus](http://purl.obolibrary.org/obo/NCBITaxon_197218) DisjointWith [Trimeresurus albolabris](http://purl.obolibrary.org/obo/NCBITaxon_8765) 
 
 
-### Uroderma `http://purl.obolibrary.org/obo/NCBITaxon_27662`
 
-#### Added
-- [Uroderma](http://purl.obolibrary.org/obo/NCBITaxon_27662) DisjointWith [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
+### Trimeresurus purpureomaculatus `http://purl.obolibrary.org/obo/NCBITaxon_101163`
+#### Removed
+- [Trimeresurus purpureomaculatus](http://purl.obolibrary.org/obo/NCBITaxon_101163) DisjointWith [Trimeresurus puniceus](http://purl.obolibrary.org/obo/NCBITaxon_197218) 
 
+- [Trimeresurus purpureomaculatus](http://purl.obolibrary.org/obo/NCBITaxon_101163) DisjointWith [Trimeresurus gramineus](http://purl.obolibrary.org/obo/NCBITaxon_8767) 
 
-### Vampyressa `http://purl.obolibrary.org/obo/NCBITaxon_148031`
+- [Trimeresurus purpureomaculatus](http://purl.obolibrary.org/obo/NCBITaxon_101163) DisjointWith [Trimeresurus borneensis](http://purl.obolibrary.org/obo/NCBITaxon_109778) 
 
-#### Added
-- [Vampyressa](http://purl.obolibrary.org/obo/NCBITaxon_148031) DisjointWith [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
 
 
-### Vampyrodes `http://purl.obolibrary.org/obo/NCBITaxon_148032`
+### Trimeresurus stejnegeri `http://purl.obolibrary.org/obo/NCBITaxon_39682`
+#### Removed
+- [Trimeresurus stejnegeri](http://purl.obolibrary.org/obo/NCBITaxon_39682) DisjointWith [Trimeresurus gramineus](http://purl.obolibrary.org/obo/NCBITaxon_8767) 
 
-#### Added
-- [Vampyrodes](http://purl.obolibrary.org/obo/NCBITaxon_148032) DisjointWith [NCBITaxon_563992](http://purl.obolibrary.org/obo/NCBITaxon_563992) 
 
 
-### Vespertilio `http://purl.obolibrary.org/obo/NCBITaxon_59484`
+### Tropidurus hispidus `http://purl.obolibrary.org/obo/NCBITaxon_44142`
 #### Removed
-- [Vespertilio](http://purl.obolibrary.org/obo/NCBITaxon_59484) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [Tropidurus hispidus](http://purl.obolibrary.org/obo/NCBITaxon_44142) DisjointWith [Tropidurus montanus](http://purl.obolibrary.org/obo/NCBITaxon_56116) 
+
 
-- [Vespertilio](http://purl.obolibrary.org/obo/NCBITaxon_59484) DisjointWith [Cistugo](http://purl.obolibrary.org/obo/NCBITaxon_712047) 
 
+### Tyzzerella `http://purl.obolibrary.org/obo/NCBITaxon_1506577`
+
+#### Added
+- [Tyzzerella](http://purl.obolibrary.org/obo/NCBITaxon_1506577) DisjointWith [Hungatella](http://purl.obolibrary.org/obo/NCBITaxon_1649459) 
 
 
-### Vespertilionidae `http://purl.obolibrary.org/obo/NCBITaxon_9431`
+### Uromastycinae `http://purl.obolibrary.org/obo/NCBITaxon_145347`
 
 #### Added
-- [Vespertilionidae](http://purl.obolibrary.org/obo/NCBITaxon_9431) DisjointWith [Miniopterinae](http://purl.obolibrary.org/obo/NCBITaxon_981671) 
+- [Uromastycinae](http://purl.obolibrary.org/obo/NCBITaxon_145347) DisjointWith [NCBITaxon_81954](http://purl.obolibrary.org/obo/NCBITaxon_81954) 
 
 
-### Vibrio phage CP-T1 `http://purl.obolibrary.org/obo/NCBITaxon_10689`
+### Vipera berus nikolskii `http://purl.obolibrary.org/obo/NCBITaxon_1808362`
 #### Removed
-- [Vibrio phage CP-T1](http://purl.obolibrary.org/obo/NCBITaxon_10689) DisjointWith [Bacillus phage SPR](http://purl.obolibrary.org/obo/NCBITaxon_10725) 
+- [Vipera berus nikolskii](http://purl.obolibrary.org/obo/NCBITaxon_1808362) DisjointWith [Vipera berus berus](http://purl.obolibrary.org/obo/NCBITaxon_31156) 
 
+#### Added
+- [Vipera berus nikolskii](http://purl.obolibrary.org/obo/NCBITaxon_1808362) DisjointWith [Vipera renardi](http://purl.obolibrary.org/obo/NCBITaxon_927686) 
 
+- [Vipera berus nikolskii](http://purl.obolibrary.org/obo/NCBITaxon_1808362) DisjointWith [Vipera ammodytes](http://purl.obolibrary.org/obo/NCBITaxon_8704) 
 
-### Winogradskyella `http://purl.obolibrary.org/obo/NCBITaxon_286104`
+- [Vipera berus nikolskii](http://purl.obolibrary.org/obo/NCBITaxon_1808362) DisjointWith [Vipera berus](http://purl.obolibrary.org/obo/NCBITaxon_31155) 
 
-#### Added
-- [Winogradskyella](http://purl.obolibrary.org/obo/NCBITaxon_286104) DisjointWith [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [Vipera berus nikolskii](http://purl.obolibrary.org/obo/NCBITaxon_1808362) DisjointWith [Vipera aspis](http://purl.obolibrary.org/obo/NCBITaxon_8706) 
 
 
-### Zobellia `http://purl.obolibrary.org/obo/NCBITaxon_112040`
+### Vreelandella `http://purl.obolibrary.org/obo/NCBITaxon_3137766`
+#### Removed
+- Class: [Vreelandella](http://purl.obolibrary.org/obo/NCBITaxon_3137766) 
 
-#### Added
-- [Zobellia](http://purl.obolibrary.org/obo/NCBITaxon_112040) DisjointWith [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
 
 
-### Zunongwangia `http://purl.obolibrary.org/obo/NCBITaxon_417127`
+### White clover mosaic virus `http://purl.obolibrary.org/obo/NCBITaxon_12188`
+#### Removed
+- [White clover mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12188) DisjointWith [Bamboo mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_35286) 
 
 #### Added
-- [Zunongwangia](http://purl.obolibrary.org/obo/NCBITaxon_417127) DisjointWith [NCBITaxon_444459](http://purl.obolibrary.org/obo/NCBITaxon_444459) 
+- [White clover mosaic virus](http://purl.obolibrary.org/obo/NCBITaxon_12188) DisjointWith [NCBITaxon_3158381](http://purl.obolibrary.org/obo/NCBITaxon_3158381) 
 
 
-### Zymobacter group `http://purl.obolibrary.org/obo/NCBITaxon_114403`
+### Zygotorulaspora `http://purl.obolibrary.org/obo/NCBITaxon_1196389`
 
 #### Added
-- [Zymobacter group](http://purl.obolibrary.org/obo/NCBITaxon_114403) DisjointWith [NCBITaxon_3137764](http://purl.obolibrary.org/obo/NCBITaxon_3137764) 
+- [Zygotorulaspora](http://purl.obolibrary.org/obo/NCBITaxon_1196389) DisjointWith [NCBITaxon_3162981](http://purl.obolibrary.org/obo/NCBITaxon_3162981) 
+
+- [Zygotorulaspora](http://purl.obolibrary.org/obo/NCBITaxon_1196389) DisjointWith [NCBITaxon_3163251](http://purl.obolibrary.org/obo/NCBITaxon_3163251) 
 
-- [Zymobacter group](http://purl.obolibrary.org/obo/NCBITaxon_114403) DisjointWith [NCBITaxon_3137766](http://purl.obolibrary.org/obo/NCBITaxon_3137766) 
+- [Zygotorulaspora](http://purl.obolibrary.org/obo/NCBITaxon_1196389) DisjointWith [NCBITaxon_3163253](http://purl.obolibrary.org/obo/NCBITaxon_3163253) 
 
+- [Zygotorulaspora](http://purl.obolibrary.org/obo/NCBITaxon_1196389) DisjointWith [NCBITaxon_3162980](http://purl.obolibrary.org/obo/NCBITaxon_3162980) 
 
-### tick-borne encephalitis virus group `http://purl.obolibrary.org/obo/NCBITaxon_29263`
+
+### bovine respiratory syncytial virus `http://purl.obolibrary.org/obo/NCBITaxon_3136119`
 #### Removed
-- [tick-borne encephalitis virus group](http://purl.obolibrary.org/obo/NCBITaxon_29263) DisjointWith [unclassified Flavivirus](http://purl.obolibrary.org/obo/NCBITaxon_39686) 
+- Class: [bovine respiratory syncytial virus](http://purl.obolibrary.org/obo/NCBITaxon_3136119) 
 
 
 
-### unclassified Artemia `http://purl.obolibrary.org/obo/NCBITaxon_2632105`
-#### Removed
-- [unclassified Artemia](http://purl.obolibrary.org/obo/NCBITaxon_2632105) DisjointWith [Artemia parthenogenetica](http://purl.obolibrary.org/obo/NCBITaxon_6663) 
+### environmental samples <firmicutes,family Erysipelotrichaceae> `http://purl.obolibrary.org/obo/NCBITaxon_134224`
 
+#### Added
+- [environmental samples <firmicutes,family Erysipelotrichaceae>](http://purl.obolibrary.org/obo/NCBITaxon_134224) DisjointWith [NCBITaxon_433334](http://purl.obolibrary.org/obo/NCBITaxon_433334) 
 
 
 ### unclassified Aspergillus `http://purl.obolibrary.org/obo/NCBITaxon_2606521`
 #### Removed
-- [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [Aspergillus vadensis](http://purl.obolibrary.org/obo/NCBITaxon_288669) 
+- [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [Aspergillus fumisynnematus](http://purl.obolibrary.org/obo/NCBITaxon_286432) 
 
-- [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [Aspergillus tubingensis](http://purl.obolibrary.org/obo/NCBITaxon_5068) 
+- [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [Aspergillus parasiticus](http://purl.obolibrary.org/obo/NCBITaxon_5067) 
 
-- [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [Aspergillus brasiliensis](http://purl.obolibrary.org/obo/NCBITaxon_319629) 
+- [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [Aspergillus japonicus](http://purl.obolibrary.org/obo/NCBITaxon_34381) 
+
+- [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [Aspergillus sclerotiicarbonarius](http://purl.obolibrary.org/obo/NCBITaxon_487660) 
+
+- [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [Aspergillus giganteus](http://purl.obolibrary.org/obo/NCBITaxon_5060) 
+
+- [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [Aspergillus novofumigatus](http://purl.obolibrary.org/obo/NCBITaxon_340412) 
+
+- [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [Aspergillus rugulosus](http://purl.obolibrary.org/obo/NCBITaxon_41736) 
+
+- [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [Aspergillus ustus](http://purl.obolibrary.org/obo/NCBITaxon_40382) 
+
+- [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [Aspergillus homomorphus](http://purl.obolibrary.org/obo/NCBITaxon_319626) 
+
+- [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [Aspergillus sojae](http://purl.obolibrary.org/obo/NCBITaxon_41058) 
+
+- [unclassified Aspergillus](http://purl.obolibrary.org/obo/NCBITaxon_2606521) DisjointWith [Aspergillus carbonarius](http://purl.obolibrary.org/obo/NCBITaxon_40993) 
 
 
 
-### unclassified Flavivirus `http://purl.obolibrary.org/obo/NCBITaxon_39686`
+### unclassified Buthus `http://purl.obolibrary.org/obo/NCBITaxon_2618866`
+
+#### Added
+- [unclassified Buthus](http://purl.obolibrary.org/obo/NCBITaxon_2618866) DisjointWith [NCBITaxon_2899555](http://purl.obolibrary.org/obo/NCBITaxon_2899555) 
+
+
+### unclassified Orthoflavivirus `http://purl.obolibrary.org/obo/NCBITaxon_3076163`
 #### Removed
-- [unclassified Flavivirus](http://purl.obolibrary.org/obo/NCBITaxon_39686) DisjointWith [Yellow fever virus group](http://purl.obolibrary.org/obo/NCBITaxon_40005) 
+- Class: [unclassified Orthoflavivirus](http://purl.obolibrary.org/obo/NCBITaxon_3076163) 
 
+
+
+### unclassified Penicillium `http://purl.obolibrary.org/obo/NCBITaxon_2593313`
+
+#### Added
+- [unclassified Penicillium](http://purl.obolibrary.org/obo/NCBITaxon_2593313) DisjointWith [Penicillium echinulatum (nom. illeg.)](http://purl.obolibrary.org/obo/NCBITaxon_60174) 
