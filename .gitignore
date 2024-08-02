@@ -13,7 +13,6 @@ ncbitaxon.obo.gz
 ncbitaxon.owl
 ncbitaxon.owl.gz
 ncbitaxon.ttl
-odk.sh
 subsets/taxslim-disjoint-over-in-taxon.owl
 subsets/taxslim.owl
 subsets/current_taxslim-disjoint.owl
