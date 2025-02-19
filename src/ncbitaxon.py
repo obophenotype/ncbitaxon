@@ -162,10 +162,6 @@ def convert_node(node, label, merged, synonyms, citations):
 
     rank = node["rank"]
     if rank and rank != "" and rank != "no rank":
-        if rank not in ranks:
-            if rank not in UNRECOGNIZED_RANKS:
-                print(f"unrecognized rank: '{rank}'")
-            UNRECOGNIZED_RANKS[rank] += 1
         rank = label_to_id(rank)
         # WARN: This is a special case for backward compatibility
         if rank in ["species_group", "species_subgroup"]:
@@ -182,12 +178,12 @@ def convert_node(node, label, merged, synonyms, citations):
                 print(f"unrecognized rank: '{rank}'")
             UNRECOGNIZED_RANKS[rank] += 1
         else:
-            RECOGNIZED_RANKS[rank_curie] += 1
+            RECOGNIZED_RANKS[rank] += 1
             output.append(f"; TAXRANK:1000000 {rank_curie}")
 
         # Keep track of examples of each rank for making tables later
         if rank not in RANK_EXAMPLES:
-            RANK_EXAMPLES[rank_curie] = f"NCBITaxon:{tax_id}", label
+            RANK_EXAMPLES[rank] = f"NCBITaxon:{tax_id}", label
 
     gc_id = node["genetic_code_id"]
     if gc_id:
@@ -374,8 +370,8 @@ oboInOwl:{predicate} a owl:AnnotationProperty
             print(
                 tabulate(
                     [
-                        (rank, curie, count, *RANK_EXAMPLES[rank])
-                        for (rank, curie), count in RECOGNIZED_RANKS.most_common()
+                        (rank, ranks[rank], count, *RANK_EXAMPLES[rank])
+                        for rank, count in RECOGNIZED_RANKS.most_common()
                     ],
                     headers=["NCBI Rank", "CURIE", "Count", "Example CURIE", "Example Name"],
                     tablefmt="github",
