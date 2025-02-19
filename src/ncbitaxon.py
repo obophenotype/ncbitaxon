@@ -161,6 +161,20 @@ def convert_node(node, label, merged, synonyms, citations):
         output.append(f"; rdfs:subClassOf NCBITaxon:{parent_tax_id}")
 
     rank = node["rank"]
+    if rank and rank != "" and rank != "no rank":
+        if rank not in ranks:
+            if rank not in UNRECOGNIZED_RANKS:
+                print(f"unrecognized rank: '{rank}'")
+            UNRECOGNIZED_RANKS[rank] += 1
+        rank = label_to_id(rank)
+        # WARN: This is a special case for backward compatibility
+        if rank in ["species_group", "species_subgroup"]:
+            output.append(
+                f"; ncbitaxon:has_rank <http://purl.obolibrary.org/obo/NCBITaxon#_{rank}>"
+            )
+        else:
+            output.append(f"; ncbitaxon:has_rank NCBITaxon:{rank}")
+
     if rank:
         rank_curie = ranks.get(rank)
         if not rank_curie:
