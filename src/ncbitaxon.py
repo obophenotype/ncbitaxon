@@ -360,9 +360,8 @@ oboInOwl:{predicate} a owl:AnnotationProperty
                     )
                     output.write(result)
 
-            if UNRECOGNIZED_RANKS:
-                print("\nSummary of unrecognized ranks:\n")
-                print(tabulate(UNRECOGNIZED_RANKS.most_common(), tablefmt="github"))
+            print("\nSummary of unrecognized ranks:\n")
+            print(UNRECOGNIZED_RANKS)
 
             try:
                 from tabulate import tabulate
