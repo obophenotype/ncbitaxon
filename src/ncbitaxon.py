@@ -7,8 +7,6 @@ from collections import Counter, defaultdict
 from datetime import date
 from textwrap import dedent
 
-from tabulate import tabulate
-
 oboInOwl = {
     "SynonymTypeProperty": "synonym_type_property",
     "hasAlternativeId": "has_alternative_id",
@@ -366,17 +364,22 @@ oboInOwl:{predicate} a owl:AnnotationProperty
                 print("\nSummary of unrecognized ranks:\n")
                 print(tabulate(UNRECOGNIZED_RANKS.most_common(), tablefmt="github"))
 
-            print("\nSummary of rank usage:\n")
-            print(
-                tabulate(
-                    [
-                        (rank, ranks[rank], count, *RANK_EXAMPLES[rank])
-                        for rank, count in RECOGNIZED_RANKS.most_common()
-                    ],
-                    headers=["NCBI Rank", "CURIE", "Count", "Example CURIE", "Example Name"],
-                    tablefmt="github",
+            try:
+                from tabulate import tabulate
+            except ImportError:
+                print("pip install tabulate to get a rank usage summary")
+            else:
+                print("\nSummary of rank usage:\n")
+                print(
+                    tabulate(
+                        [
+                            (rank, ranks[rank], count, *RANK_EXAMPLES[rank])
+                            for rank, count in RECOGNIZED_RANKS.most_common()
+                        ],
+                        headers=["NCBI Rank", "CURIE", "Count", "Example CURIE", "Example Name"],
+                        tablefmt="github",
+                    )
                 )
-            )
             # TODO: delnodes
 
         output.write(
