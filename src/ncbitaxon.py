@@ -385,6 +385,23 @@ TAXRANK:0000000 a owl:Class ;
 """
         )
         for label, rank_curie in ranks.items():
+            rank = label_to_id(label)
+            if rank in ["species_group", "species_subgroup"]:
+                iri = f"<http://purl.obolibrary.org/obo/NCBITaxon#_{rank}>"
+            else:
+                iri = f"NCBITaxon:{rank}"
+            output.write(
+                f"""
+{iri} a owl:Class
+; rdfs:label "{label}"^^xsd:string
+; rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank>
+; oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string
+; owl:deprecated "true"^^xsd:boolean
+; obo:IAO_0100001 {rank_curie}
+.
+"""
+            )
+
             output.write(
                 dedent(f"""\
                     {rank_curie} a owl:Class ; 
