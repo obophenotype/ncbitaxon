@@ -141,7 +141,7 @@ NCBITaxon:{tax_id} {predicate} "{synonym}"^^xsd:string .
     return output
 
 
-def convert_node(node, label, merged, synonyms, citations):
+def convert_node(node, label, synonyms, citations):
     """Given a node dictionary, a label string, and lists for merged, synonyms, and citations,
     return a Turtle string representing this tax_id."""
     tax_id = node["tax_id"]
@@ -172,9 +172,6 @@ def convert_node(node, label, merged, synonyms, citations):
     gc_id = node["genetic_code_id"]
     if gc_id:
         output.append(f'; oboInOwl:hasDbXref "GC_ID:{gc_id}"^^xsd:string')
-
-    for merge in merged:
-        output.append(f'; oboInOwl:hasAlternativeId "NCBITaxon:{merge}"^^xsd:string')
 
     for pubmed_id in citations:
         output.append(f'; oboInOwl:hasDbXref "PMID:{pubmed_id}"^^xsd:string')
@@ -216,7 +213,6 @@ def convert(taxdmp_path, output_path, taxa=None):
     scientific_names = defaultdict(list)
     labels = {}
     synonyms = defaultdict(list)
-    merged = defaultdict(list)
     citations = defaultdict(list)
     with open(output_path, "w") as output:
         isodate = date.today().isoformat()
@@ -310,7 +306,6 @@ oboInOwl:{predicate} a owl:AnnotationProperty
             with taxdmp.open("merged.dmp") as dmp:
                 for line in io.TextIOWrapper(dmp):
                     old_tax_id, new_tax_id, _ = split_line(line)
-                    merged[new_tax_id].append(old_tax_id)
                     result = convert_obsolete_node(old_tax_id, new_tax_id)
                     output.write(result)
 
@@ -346,7 +341,6 @@ oboInOwl:{predicate} a owl:AnnotationProperty
                     result = convert_node(
                         node,
                         labels[tax_id],
-                        merged[tax_id],
                         synonyms[tax_id],
                         citations[tax_id],
                     )
