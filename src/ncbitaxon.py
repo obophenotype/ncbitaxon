@@ -268,7 +268,7 @@ obo:IAO_0100001 a owl:AnnotationProperty;
 
 ncbitaxon:has_rank a owl:AnnotationProperty
 ; obo:IAO_0000115 "A metadata relation between a class and its taxonomic rank (eg species, family)"^^xsd:string
-; rdfs:label "has_rank"^^xsd:string
+; rdfs:label "obsolete has_rank"^^xsd:string
 ; rdfs:comment "This is an abstract class for use with the NCBI taxonomy to name the depth of the node within the tree. The link between the node term and the rank is only visible if you are using an obo 1.3 aware browser/editor; otherwise this can be ignored"^^xsd:string
 ; oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string
 ; owl:deprecated "true"^^xsd:boolean
@@ -409,7 +409,7 @@ oboInOwl:{predicate} a owl:AnnotationProperty
         output.write(
             """
 <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> a owl:Class
-; rdfs:label "taxonomic rank"^^xsd:string
+; rdfs:label "obsolete taxonomic rank"^^xsd:string
 ; rdfs:comment "This is an abstract class for use with the NCBI taxonomy to name the depth of the node within the tree. The link between the node term and the rank is only visible if you are using an obo 1.3 aware browser/editor; otherwise this can be ignored."^^xsd:string
 ; oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string
 ; owl:deprecated "true"^^xsd:boolean
@@ -430,8 +430,7 @@ TAXRANK:0000000 a owl:Class ;
             output.write(
                 f"""
 {iri} a owl:Class
-; rdfs:label "{label}"^^xsd:string
-; rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank>
+; rdfs:label "obsolete {label}"^^xsd:string
 ; oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string
 ; owl:deprecated "true"^^xsd:boolean
 ; obo:IAO_0100001 {rank_curie}
