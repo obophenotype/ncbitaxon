@@ -311,8 +311,6 @@ oboInOwl:{predicate} a owl:AnnotationProperty
                 for line in io.TextIOWrapper(dmp):
                     old_tax_id, new_tax_id, _ = split_line(line)
                     merged[new_tax_id].append(old_tax_id)
-                    result = convert_obsolete_node(old_tax_id, new_tax_id)
-                    output.write(result)
 
             with taxdmp.open("citations.dmp") as dmp:
                 for line in io.TextIOWrapper(dmp):
