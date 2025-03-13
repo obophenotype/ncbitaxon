@@ -187,21 +187,6 @@ def convert_node(node, label, merged, synonyms, citations):
     return "\n".join(output)
 
 
-def convert_obsolete_node(tax_id, replacement=None):
-    """Given a tax_id and an optional replacement tax_id,
-    return a Turtle string representing an obsolete taxon."""
-    output = [f"""NCBITaxon:{tax_id} a owl:Class
-        ; rdfs:label "obsolete taxon {tax_id}"^^xsd:string
-        ; owl:deprecated "true"^^xsd:boolean"""]
-
-    if replacement:
-        output.append(f'; obo:IAO_0100001 NCBITaxon:{replacement}')
-
-    output.append(".")
-
-    return "\n".join(output)
-
-
 def split_line(line):
     """Split a line from a .dmp file"""
     return [x.strip() for x in line.split("	|")]
@@ -311,8 +296,6 @@ oboInOwl:{predicate} a owl:AnnotationProperty
                 for line in io.TextIOWrapper(dmp):
                     old_tax_id, new_tax_id, _ = split_line(line)
                     merged[new_tax_id].append(old_tax_id)
-                    result = convert_obsolete_node(old_tax_id, new_tax_id)
-                    output.write(result)
 
             with taxdmp.open("citations.dmp") as dmp:
                 for line in io.TextIOWrapper(dmp):
@@ -352,14 +335,9 @@ oboInOwl:{predicate} a owl:AnnotationProperty
                     )
                     output.write(result)
 
-            with taxdmp.open("delnodes.dmp") as dmp:
-                for line in io.TextIOWrapper(dmp):
-                    tax_id, _ = split_line(line)
-                    result = convert_obsolete_node(tax_id)
-                    output.write(result)
-
             print("Summary of unrecognized ranks:")
             print(UNRECOGNIZED_RANKS)
+            # TODO: delnodes
 
         output.write(
             """
