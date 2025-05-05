@@ -272,6 +272,7 @@ TAXRANK:1000000 a owl:AnnotationProperty;
 oboInOwl:{predicate} a owl:AnnotationProperty
 ; rdfs:label "{label}"^^xsd:string
 .
+
 """
             )
 
@@ -393,6 +394,7 @@ oboInOwl:{predicate} a owl:AnnotationProperty
 TAXRANK:0000000 a owl:Class ;
     rdfs:label "taxonomic_rank"^^xsd:string ;
     oboInOwl:hasOBONamespace "taxonomic_rank"^^xsd:string .
+
 """
         )
         for label, rank_curie in ranks.items():
