@@ -420,6 +420,7 @@ TAXRANK:0000000 a owl:Class ;
                         rdfs:label "{label}"^^xsd:string ; 
                         rdfs:subClassOf TAXRANK:0000000 ;
                         oboInOwl:hasOBONamespace "taxonomic_rank"^^xsd:string .
+
                 """)
             )
 
