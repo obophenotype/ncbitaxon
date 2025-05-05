@@ -380,12 +380,6 @@ oboInOwl:{predicate} a owl:AnnotationProperty
                     )
                 )
 
-            with taxdmp.open("delnodes.dmp") as dmp:
-                for line in io.TextIOWrapper(dmp):
-                    tax_id, _ = split_line(line)
-                    result = convert_obsolete_node(tax_id)
-                    output.write(result)
-
         output.write(
             """
 <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> a owl:Class
