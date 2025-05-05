@@ -391,7 +391,7 @@ oboInOwl:{predicate} a owl:AnnotationProperty
 .
 
 TAXRANK:0000000 a owl:Class ;
-    rdfs:label "taxonomic_rank"^^xsd:string 
+    rdfs:label "taxonomic_rank"^^xsd:string ;
     oboInOwl:hasOBONamespace "taxonomic_rank"^^xsd:string .
 """
         )
