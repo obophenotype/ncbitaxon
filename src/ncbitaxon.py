@@ -264,6 +264,7 @@ TAXRANK:1000000 a owl:AnnotationProperty;
     obo:IAO_0000115 "A metadata relation between a class and its taxonomic rank (e.g., species, family)"^^xsd:string ; 
     rdfs:label "has_rank"^^xsd:string; 
     oboInOwl:hasOBONamespace "taxonomic_rank"^^xsd:string .
+
 """
         )
         for predicate, label in oboInOwl.items():
