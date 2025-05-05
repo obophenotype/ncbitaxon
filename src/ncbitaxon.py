@@ -273,7 +273,6 @@ TAXRANK:1000000 a owl:AnnotationProperty;
 oboInOwl:{predicate} a owl:AnnotationProperty
 ; rdfs:label "{label}"^^xsd:string
 .
-
 """
             )
 
