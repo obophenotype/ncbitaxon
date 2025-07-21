@@ -141,8 +141,9 @@ NCBITaxon:{tax_id} {predicate} "{synonym}"^^xsd:string .
     return output
 
 
-def convert_node(node, label, merged, synonyms, citations):
+def convert_node(node, label, merged, synonyms, citations, divisions):
     """Given a node dictionary, a label string, and lists for merged, synonyms, and citations,
+    and a divisions dictionary mapping division IDs to names,
     return a Turtle string representing this tax_id."""
     tax_id = node["tax_id"]
     output = [f"NCBITaxon:{tax_id} a owl:Class"]
@@ -172,6 +173,11 @@ def convert_node(node, label, merged, synonyms, citations):
     gc_id = node["genetic_code_id"]
     if gc_id:
         output.append(f'; oboInOwl:hasDbXref "GC_ID:{gc_id}"^^xsd:string')
+    
+    div_id = node["division_id"]
+    if div_id and div_id in divisions:
+        division_name= escape_literal(divisions[div_id])
+        output.append(f'; ncbitaxon:has_division "{division_name}"^^xsd:string')
 
     for merge in merged:
         output.append(f'; oboInOwl:hasAlternativeId "NCBITaxon:{merge}"^^xsd:string')
@@ -203,6 +209,7 @@ def convert(taxdmp_path, output_path, taxa=None):
     synonyms = defaultdict(list)
     merged = defaultdict(list)
     citations = defaultdict(list)
+    divisions = defaultdict(str)
     with open(output_path, "w") as output:
         isodate = date.today().isoformat()
         ncbi_date = date.today().replace(day=1)
@@ -266,7 +273,18 @@ oboInOwl:{predicate} a owl:AnnotationProperty
                         rdfs:subPropertyOf oboInOwl:SynonymTypeProperty .
                 """))
 
+        output.write("""ncbitaxon:has_division a owl:AnnotationProperty
+; rdfs:label "has division"^^xsd:string
+; rdfs:comment "A metadata relation indicating taxonomic division (eg Bacteria, Eukaryota)"^^xsd:string
+; oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string
+.
+""")
         with zipfile.ZipFile(taxdmp_path) as taxdmp:
+            with taxdmp.open("division.dmp") as dmp:
+                for line in io.TextIOWrapper(dmp):
+                    div_id, _div_code, name, _comments , _ = split_line(line)
+                    divisions[div_id] = name
+
             with taxdmp.open("names.dmp") as dmp:
                 for line in io.TextIOWrapper(dmp):
                     tax_id, name, unique, name_class, _ = split_line(line)
@@ -332,6 +350,7 @@ oboInOwl:{predicate} a owl:AnnotationProperty
                         merged[tax_id],
                         synonyms[tax_id],
                         citations[tax_id],
+                        divisions,
                     )
                     output.write(result)
 
