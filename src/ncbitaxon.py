@@ -176,8 +176,10 @@ def convert_node(node, label, merged, synonyms, citations, divisions):
     
     div_id = node["division_id"]
     if div_id and div_id in divisions:
-        division_name= escape_literal(divisions[div_id])
-        output.append(f'; ncbitaxon:has_division "{division_name}"^^xsd:string')
+        # division_name= escape_literal(divisions[div_id])
+        # output.append(f'; ncbitaxon:has_division "{division_name}"^^xsd:string')
+        division_id = label_to_id(divisions[div_id])
+        output.append(f'; ncbitaxon:has_division NCBITaxon:{division_id}')
 
     for merge in merged:
         output.append(f'; oboInOwl:hasAlternativeId "NCBITaxon:{merge}"^^xsd:string')
@@ -365,6 +367,12 @@ oboInOwl:{predicate} a owl:AnnotationProperty
 ; rdfs:comment "This is an abstract class for use with the NCBI taxonomy to name the depth of the node within the tree. The link between the node term and the rank is only visible if you are using an obo 1.3 aware browser/editor; otherwise this can be ignored."^^xsd:string
 ; oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string
 .
+
+<http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_division> a owl:Class
+; rdfs:label "taxonomic division"^^xsd:string
+; rdfs:comment "This is an abstract class for NCBI taxonomic divisions."^^xsd:string
+; oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string
+.
 """
         )
         for label in ranks:
@@ -382,7 +390,17 @@ oboInOwl:{predicate} a owl:AnnotationProperty
 .
 """
             )
-
+        # Add division classes
+        for division_id, division_name in divisions.items():
+            division_class_id = label_to_id(division_name)
+            output.write(
+                f"""NCBITaxon:{division_class_id} a owl:Class
+; rdfs:label "{division_name}"^^xsd:string
+; rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_division>
+; oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string
+.
+"""
+            )
 
 def main():
     parser = argparse.ArgumentParser(
