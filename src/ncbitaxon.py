@@ -44,52 +44,54 @@ predicates = {
     "teleomorph": (related_synonym, None, None),
 }
 
-
-ranks = [
-    "class",
-    "cohort",
-    "family",
-    "forma",
-    "genus",
-    "infraclass",
-    "infraorder",
-    "kingdom",
-    "order",
-    "parvorder",
-    "phylum",
-    "section",
-    "series",
-    "species group",
-    "species subgroup",
-    "species",
-    "subclass",
-    "subcohort",
-    "subfamily",
-    "subgenus",
-    "subkingdom",
-    "suborder",
-    "subphylum",
-    "subsection",
-    "subspecies",
-    "subtribe",
-    "superclass",
-    "superfamily",
-    "superkingdom",
-    "superorder",
-    "superphylum",
-    "tribe",
-    "varietas",
-    "strain",
-    "serogroup",
-    "biotype",
-    "clade",
-    "forma specialis",
-    "isolate",
-    "serotype",
-    "genotype",
-    "morph",
-    "pathogroup",
-]
+#: A mapping from ranks appearing in the NCBI Taxonomy database
+#: to CURIEs for terms in the TAXRANK ontology.
+ranks: dict[str, str] = {
+    "class": "TAXRANK:0000002",
+    "family": "TAXRANK:0000004",
+    "forma": "TAXRANK:0000026",
+    "genus": "TAXRANK:0000005",
+    "infraclass": "TAXRANK:0000019",
+    "infraorder": "TAXRANK:0000013",
+    "kingdom": "TAXRANK:0000017",
+    "order": "TAXRANK:0000003",
+    "parvorder": "TAXRANK:0000021",
+    "phylum": "TAXRANK:0000001",
+    "section": "TAXRANK:0000030",
+    "series": "TAXRANK:0000031",
+    "species group": "TAXRANK:0000010",
+    "species subgroup": "TAXRANK:0000011",
+    "species": "TAXRANK:0000006",
+    "subclass": "TAXRANK:0000007",
+    "subfamily": "TAXRANK:0000024",
+    "subgenus": "TAXRANK:0000009",
+    "subkingdom": "TAXRANK:0000029",
+    "suborder": "TAXRANK:0000014",
+    "subphylum": "TAXRANK:0000008",
+    "subsection": "TAXRANK:0000053",
+    "subspecies": "TAXRANK:0000023",
+    "subtribe": "TAXRANK:0000028",
+    "superclass": "TAXRANK:0000015",
+    "superfamily": "TAXRANK:0000018",
+    "superkingdom": "TAXRANK:0000022",
+    "superorder": "TAXRANK:0000020",
+    "superphylum": "TAXRANK:0000027",
+    "tribe": "TAXRANK:0000025",
+    "varietas": "TAXRANK:0000016",
+    "cohort": "TAXRANK:0001010",
+    "subcohort": "TAXRANK:0001012",
+    "strain": "TAXRANK:0001001",
+    "serogroup": "TAXRANK:0001006",
+    "biotype": "TAXRANK:0001008",
+    "clade": "TAXRANK:0001004",
+    "forma specialis": "TAXRANK:0001005",
+    "isolate": "TAXRANK:0001002",
+    "serotype": "TAXRANK:0001003",
+    "genotype": "TAXRANK:0001007",
+    "morph": "TAXRANK:0001009",
+    "pathogroup": "TAXRANK:0001011",
+    "no rank": "TAXRANK:0000060",
+}
 
 nodes_fields = [
     "tax_id",  # node id in GenBank taxonomy database
@@ -108,6 +110,8 @@ nodes_fields = [
 ]
 
 UNRECOGNIZED_RANKS = Counter()
+RECOGNIZED_RANKS = Counter()
+RANK_EXAMPLES = {}
 
 
 def escape_literal(text):
@@ -155,11 +159,21 @@ def convert_node(node, label, merged, synonyms, citations):
         output.append(f"; rdfs:subClassOf NCBITaxon:{parent_tax_id}")
 
     rank = node["rank"]
-    if rank and rank != "" and rank != "no rank":
-        if rank not in ranks:
+    if rank:
+        rank_curie = ranks.get(rank)
+        if not rank_curie:
             if rank not in UNRECOGNIZED_RANKS:
                 print(f"unrecognized rank: '{rank}'")
             UNRECOGNIZED_RANKS[rank] += 1
+        else:
+            RECOGNIZED_RANKS[rank] += 1
+            output.append(f"; TAXRANK:1000000 {rank_curie}")
+
+        # Keep track of examples of each rank for making tables later
+        if rank not in RANK_EXAMPLES:
+            RANK_EXAMPLES[rank] = f"NCBITaxon:{tax_id}", label
+
+    if rank and rank != "" and rank != "no rank":
         rank = label_to_id(rank)
         # WARN: This is a special case for backward compatibility
         if rank in ["species_group", "species_subgroup"]:
@@ -217,6 +231,7 @@ def convert(taxdmp_path, output_path, taxa=None):
 @prefix terms: <http://purl.org/dc/terms/> .
 @prefix ncbitaxon: <http://purl.obolibrary.org/obo/ncbitaxon#> .
 @prefix NCBITaxon: <http://purl.obolibrary.org/obo/NCBITaxon_> .
+@prefix TAXRANK: <http://purl.obolibrary.org/obo/TAXRANK_> .
 @prefix : <http://purl.obolibrary.org/obo/ncbitaxon.owl#> .
 
 <http://purl.obolibrary.org/obo/ncbitaxon.owl> a owl:Ontology
@@ -233,12 +248,23 @@ obo:IAO_0000115 a owl:AnnotationProperty
 ; rdfs:label "definition"^^xsd:string
 .
 
+obo:IAO_0100001 a owl:AnnotationProperty; 
+    rdfs:label "term replaced by"^^xsd:string .
+
 ncbitaxon:has_rank a owl:AnnotationProperty
 ; obo:IAO_0000115 "A metadata relation between a class and its taxonomic rank (eg species, family)"^^xsd:string
-; rdfs:label "has_rank"^^xsd:string
+; rdfs:label "obsolete has_rank"^^xsd:string
 ; rdfs:comment "This is an abstract class for use with the NCBI taxonomy to name the depth of the node within the tree. The link between the node term and the rank is only visible if you are using an obo 1.3 aware browser/editor; otherwise this can be ignored"^^xsd:string
 ; oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string
+; owl:deprecated "true"^^xsd:boolean
+; obo:IAO_0100001 TAXRANK:1000000
 .
+
+TAXRANK:1000000 a owl:AnnotationProperty;
+    obo:IAO_0000115 "A metadata relation between a class and its taxonomic rank (e.g., species, family)"^^xsd:string ; 
+    rdfs:label "has_rank"^^xsd:string; 
+    oboInOwl:hasOBONamespace "taxonomic_rank"^^xsd:string .
+
 """
         )
         for predicate, label in oboInOwl.items():
@@ -335,20 +361,44 @@ oboInOwl:{predicate} a owl:AnnotationProperty
                     )
                     output.write(result)
 
-            print("Summary of unrecognized ranks:")
+            print("\nSummary of unrecognized ranks:\n")
             print(UNRECOGNIZED_RANKS)
+
+            try:
+                from tabulate import tabulate
+            except ImportError:
+                print("pip install tabulate to get a rank usage summary")
+            else:
+                print("\nSummary of rank usage:\n")
+                print(
+                    tabulate(
+                        [
+                            (rank, ranks[rank], count, *RANK_EXAMPLES[rank])
+                            for rank, count in RECOGNIZED_RANKS.most_common()
+                        ],
+                        headers=["NCBI Rank", "CURIE", "Count", "Example CURIE", "Example Name"],
+                        tablefmt="github",
+                    )
+                )
             # TODO: delnodes
 
         output.write(
             """
 <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank> a owl:Class
-; rdfs:label "taxonomic rank"^^xsd:string
+; rdfs:label "obsolete taxonomic rank"^^xsd:string
 ; rdfs:comment "This is an abstract class for use with the NCBI taxonomy to name the depth of the node within the tree. The link between the node term and the rank is only visible if you are using an obo 1.3 aware browser/editor; otherwise this can be ignored."^^xsd:string
 ; oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string
+; owl:deprecated "true"^^xsd:boolean
+; obo:IAO_0100001 TAXRANK:0000000
 .
+
+TAXRANK:0000000 a owl:Class ;
+    rdfs:label "taxonomic_rank"^^xsd:string ;
+    oboInOwl:hasOBONamespace "taxonomic_rank"^^xsd:string .
+
 """
         )
-        for label in ranks:
+        for label, rank_curie in ranks.items():
             rank = label_to_id(label)
             if rank in ["species_group", "species_subgroup"]:
                 iri = f"<http://purl.obolibrary.org/obo/NCBITaxon#_{rank}>"
@@ -357,11 +407,22 @@ oboInOwl:{predicate} a owl:AnnotationProperty
             output.write(
                 f"""
 {iri} a owl:Class
-; rdfs:label "{label}"^^xsd:string
-; rdfs:subClassOf <http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank>
+; rdfs:label "obsolete {label}"^^xsd:string
 ; oboInOwl:hasOBONamespace "ncbi_taxonomy"^^xsd:string
+; owl:deprecated "true"^^xsd:boolean
+; obo:IAO_0100001 {rank_curie}
 .
 """
+            )
+
+            output.write(
+                dedent(f"""\
+                    {rank_curie} a owl:Class ; 
+                        rdfs:label "{label}"^^xsd:string ; 
+                        rdfs:subClassOf TAXRANK:0000000 ;
+                        oboInOwl:hasOBONamespace "taxonomic_rank"^^xsd:string .
+
+                """)
             )
 
 
