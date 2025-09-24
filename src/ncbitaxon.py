@@ -171,7 +171,7 @@ def convert_node(node, label, merged, synonyms, citations):
     if rank and rank != "" and rank != "no rank":
         if rank not in ranks:
             if rank not in UNRECOGNIZED_RANKS:
-                print(f"unrecognized rank: '{rank}'")
+                print(f"unrecognized rank: '{rank}', which e.g. appears in NCBITaxon:{tax_id} ({label})")
             UNRECOGNIZED_RANKS[rank] += 1
         else:
             RECOGNIZED_RANKS[rank] += 1
