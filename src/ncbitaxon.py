@@ -97,6 +97,10 @@ ranks: dict[str, str] = {
     "acellular root": "TAXRANK:9000001",  # https://github.com/phenoscape/taxrank/pull/11
     "cellular root": "TAXRANK:9000002",  # https://github.com/phenoscape/taxrank/pull/11
 }
+pseudo_ranks = {
+    "acellular root",
+    "cellular root",
+}
 
 nodes_fields = [
     "tax_id",  # node id in GenBank taxonomy database
@@ -399,6 +403,10 @@ TAXRANK:0000000 a owl:Class ;
     rdfs:label "taxonomic_rank"^^xsd:string ;
     oboInOwl:hasOBONamespace "taxonomic_rank"^^xsd:string .
 
+TAXRANK:9000000 a owl:Class ;
+    rdfs:label "pseudorank"^^xsd:string ;
+    oboInOwl:hasOBONamespace "taxonomic_rank"^^xsd:string .
+
 """
         )
         for label, rank_curie in ranks.items():
@@ -418,11 +426,12 @@ TAXRANK:0000000 a owl:Class ;
 """
             )
 
+            parent_taxrank_id = "9000000" if label in pseudo_ranks else "0000000"
             output.write(
                 dedent(f"""\
                     {rank_curie} a owl:Class ; 
                         rdfs:label "{label}"^^xsd:string ; 
-                        rdfs:subClassOf TAXRANK:0000000 ;
+                        rdfs:subClassOf TAXRANK:{parent_taxrank_id} ;
                         oboInOwl:hasOBONamespace "taxonomic_rank"^^xsd:string .
 
                 """)
