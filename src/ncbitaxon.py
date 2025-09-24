@@ -90,7 +90,7 @@ ranks: dict[str, str] = {
     "genotype": "TAXRANK:0001007",
     "morph": "TAXRANK:0001009",
     "pathogroup": "TAXRANK:0001011",
-    "no rank": "TAXRANK:0000060",
+    # "no rank": "TAXRANK:0000060",
     "domain": "TAXRANK:0000037",  # see https://github.com/phenoscape/taxrank/pull/10
     "realm": "TAXRANK:0001013",  # see https://github.com/phenoscape/taxrank/pull/10
     "subvariety": "TAXRANK:0000051",  # see https://github.com/phenoscape/taxrank/pull/10
@@ -164,9 +164,9 @@ def convert_node(node, label, merged, synonyms, citations):
         output.append(f"; rdfs:subClassOf NCBITaxon:{parent_tax_id}")
 
     rank = node["rank"]
-    if rank:
         rank_curie = ranks.get(rank)
         if not rank_curie:
+    if rank and rank != "" and rank != "no rank":
             if rank not in UNRECOGNIZED_RANKS:
                 print(f"unrecognized rank: '{rank}'")
             UNRECOGNIZED_RANKS[rank] += 1
