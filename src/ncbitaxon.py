@@ -164,21 +164,19 @@ def convert_node(node, label, merged, synonyms, citations):
         output.append(f"; rdfs:subClassOf NCBITaxon:{parent_tax_id}")
 
     rank = node["rank"]
-        rank_curie = ranks.get(rank)
-        if not rank_curie:
     if rank and rank != "" and rank != "no rank":
+        if rank not in ranks:
             if rank not in UNRECOGNIZED_RANKS:
                 print(f"unrecognized rank: '{rank}'")
             UNRECOGNIZED_RANKS[rank] += 1
         else:
             RECOGNIZED_RANKS[rank] += 1
-            output.append(f"; TAXRANK:1000000 {rank_curie}")
+            output.append(f"; TAXRANK:1000000 {ranks[rank]}")
 
         # Keep track of examples of each rank for making tables later
         if rank not in RANK_EXAMPLES:
             RANK_EXAMPLES[rank] = f"NCBITaxon:{tax_id}", label
 
-    if rank and rank != "" and rank != "no rank":
         rank = label_to_id(rank)
         # WARN: This is a special case for backward compatibility
         if rank in ["species_group", "species_subgroup"]:
@@ -366,7 +364,7 @@ oboInOwl:{predicate} a owl:AnnotationProperty
                     )
                     output.write(result)
 
-            print("\nSummary of unrecognized ranks:\n")
+            print("Summary of unrecognized ranks:")
             print(UNRECOGNIZED_RANKS)
 
             try:
