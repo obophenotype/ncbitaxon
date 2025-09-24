@@ -91,6 +91,11 @@ ranks: dict[str, str] = {
     "morph": "TAXRANK:0001009",
     "pathogroup": "TAXRANK:0001011",
     "no rank": "TAXRANK:0000060",
+    "domain": "TAXRANK:0000037",  # see https://github.com/phenoscape/taxrank/pull/10
+    "realm": "TAXRANK:0001013",  # see https://github.com/phenoscape/taxrank/pull/10
+    "subvariety": "TAXRANK:0000051",  # see https://github.com/phenoscape/taxrank/pull/10
+    "acellular root": "TAXRANK:9000001",  # https://github.com/phenoscape/taxrank/pull/11
+    "cellular root": "TAXRANK:9000002",  # https://github.com/phenoscape/taxrank/pull/11
 }
 
 nodes_fields = [
