@@ -5,6 +5,15 @@ all: ncbitaxon.owl.gz ncbitaxon.obo.gz ncbitaxon.json.gz
 ROBOT=robot
 DATE=$(shell date '+%Y-%m-01')
 
+# Per-target timing/memory log (mirrors ODK convention).
+# Run with: ODK_DEBUG=yes ./odk.sh make <target>
+# Stats are appended to $(ODK_DEBUG_FILE) by src/scripts/run-command.sh.
+SCRIPTSDIR = src/scripts
+ifeq ($(ODK_DEBUG),yes)
+ODK_DEBUG_FILE = debug.log
+SHELL = $(SCRIPTSDIR)/run-command.sh
+endif
+
 .PHONY: clean
 clean:
 	rm -rf build
