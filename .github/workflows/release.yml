@@ -64,7 +64,7 @@ jobs:
 
       - name: List built artifacts
         run: |
-          ls -lh ncbitaxon.json ncbitaxon.json.gz \
+          ls -lh ncbitaxon.json.gz \
                  ncbitaxon.obo  ncbitaxon.obo.gz \
                  ncbitaxon.owl  ncbitaxon.owl.gz
           ls -lh subsets/taxslim-disjoint-over-in-taxon.owl \
@@ -88,7 +88,6 @@ jobs:
           name: ${{ steps.relname.outputs.name }}
           draft: true
           files: |
-            ncbitaxon.json
             ncbitaxon.json.gz
             ncbitaxon.obo
             ncbitaxon.obo.gz
