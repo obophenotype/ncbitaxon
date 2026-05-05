@@ -1,0 +1,100 @@
+name: Release NCBITaxon
+
+# Executes the full release workflow documented in README.md:
+#   1. make clean all -B            (build ncbitaxon.{owl,obo,json}{,.gz} + diff)
+#   2. cd subsets && make all -B    (build taxslim subset products)
+#   3. Upload all artifacts as a draft GitHub release for review.
+#
+# This is intentionally manual-only (workflow_dispatch). NCBITaxon is huge and
+# downloads the live NCBI taxdump, so we don't want it firing on every push.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write  # required by softprops/action-gh-release to create the release
+
+jobs:
+  release:
+    name: Build and publish NCBITaxon release
+    # NOTE on runner sizing:
+    #   * ubuntu-latest on public repos = 4 vCPU / 16 GB RAM / 14 GB SSD.
+    #   * The historical Jenkins build uses ROBOT_JAVA_ARGS=-Xmx30G; odk.sh
+    #     requests -Xmx20G. 16 GB is the bare minimum and will likely OOM on
+    #     `robot convert` of the full ncbitaxon.ttl.
+    #   * If this fails with OOMKilled or "Java heap space", switch to a
+    #     larger runner label configured at the obophenotype org level
+    #     (e.g. ubuntu-latest-8-cores, ubuntu-22.04-large) or a self-hosted
+    #     runner with >=32 GB RAM and >=50 GB disk.
+    runs-on: ubuntu-latest
+    container:
+      image: obolibrary/odkfull:v1.6
+    timeout-minutes: 360
+
+    steps:
+      - name: Report runner resources
+        run: |
+          echo "=== Memory ==="
+          free -h || true
+          echo "=== Disk ==="
+          df -h
+          echo "=== CPU ==="
+          nproc
+          cat /proc/cpuinfo | grep -m1 'model name' || true
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Work around git safe.directory inside container
+        run: git config --global --add safe.directory "$GITHUB_WORKSPACE"
+
+      - name: Build ontology (make clean all -B)
+        env:
+          # Conservative heap: leave room for OS + container overhead in 16 GB.
+          # Bump this (and the runner) if you move to a larger runner.
+          ROBOT_JAVA_ARGS: '-Xmx12G'
+          JAVA_OPTS: '-Xmx12G'
+        run: make clean all -B
+
+      - name: Build subsets (cd subsets && make all -B)
+        env:
+          ROBOT_JAVA_ARGS: '-Xmx12G'
+          JAVA_OPTS: '-Xmx12G'
+        run: cd subsets && make all -B
+
+      - name: List built artifacts
+        run: |
+          ls -lh ncbitaxon.json ncbitaxon.json.gz \
+                 ncbitaxon.obo  ncbitaxon.obo.gz \
+                 ncbitaxon.owl  ncbitaxon.owl.gz
+          ls -lh subsets/taxslim-disjoint-over-in-taxon.owl \
+                 subsets/taxslim.obo \
+                 subsets/taxslim.owl \
+                 subsets/taxslim.json
+          df -h
+
+      - name: Compute default release name
+        id: relname
+        # GitHub's REST API requires a tag_name even for drafts. We default
+        # to today's date (v<YYYY-MM-DD>); the actual tag is chosen in the
+        # GitHub UI when the draft is published ("Choose a tag" -> "Create
+        # new tag on publish").
+        run: echo "name=v$(date +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+
+      - name: Create draft GitHub release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.relname.outputs.name }}
+          name: ${{ steps.relname.outputs.name }}
+          draft: true
+          files: |
+            ncbitaxon.json
+            ncbitaxon.json.gz
+            ncbitaxon.obo
+            ncbitaxon.obo.gz
+            ncbitaxon.owl
+            ncbitaxon.owl.gz
+            subsets/taxslim-disjoint-over-in-taxon.owl
+            subsets/taxslim.obo
+            subsets/taxslim.owl
+            subsets/taxslim.json
