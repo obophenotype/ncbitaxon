@@ -4,7 +4,15 @@
 TODAY ?=                    $(shell date +%Y-%m-%d)
 VERSION=                    $(TODAY)
 ONTBASE= http://purl.obolibrary.org/obo/ncbitaxon
- 
+
+# Per-target timing/memory log (mirrors ODK convention).
+# Run with: ODK_DEBUG=yes ./odk.sh bash -c "cd subsets && make <target>"
+SCRIPTSDIR = ../src/scripts
+ifeq ($(ODK_DEBUG),yes)
+ODK_DEBUG_FILE = debug.log
+SHELL = $(SCRIPTSDIR)/run-command.sh
+endif
+
 all: taxslim taxslim-disjoint-over-in-taxon.owl taxslim-disjoint-diff.md
 
 taxslim: taxon-subset-ids.txt

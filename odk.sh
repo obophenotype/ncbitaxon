@@ -20,6 +20,8 @@ if [ x$ODK_DEBUG = xyes ]; then
     # The format string uses non-breaking spaces (U+00A0) instead of
     # normal spaces, to prevent the shell from tokenizing it.
     TIMECMD="/usr/bin/time -f ### DEBUG STATS ###\nElapsed time: %E\nPeak memory: %M kb"
+    # Reset the per-target debug log written by src/scripts/run-command.sh.
+    rm -f tmp/debug.log subsets/tmp/debug.log
 fi
 
 docker run -v $PWD/:/work -w /work/ -e ROBOT_JAVA_ARGS='-Xmx20G' -e JAVA_OPTS='-Xmx16G' -e ODK_DEBUG=$ODK_DEBUG --rm -ti obolibrary/odkfull:$ODK_TAG $TIMECMD "$@"
