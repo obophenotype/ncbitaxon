@@ -7,10 +7,10 @@ DATE=$(shell date '+%Y-%m-01')
 
 # Per-target timing/memory log (mirrors ODK convention).
 # Run with: ODK_DEBUG=yes ./odk.sh make <target>
-# Stats are appended to $(ODK_DEBUG_FILE) by src/scripts/run-command.sh.
+# odk.sh sets ODK_DEBUG_FILE in the env to a single absolute path so
+# this Makefile and subsets/Makefile both append to the same log.
 SCRIPTSDIR = src/scripts
 ifeq ($(ODK_DEBUG),yes)
-ODK_DEBUG_FILE = debug.log
 SHELL = $(SCRIPTSDIR)/run-command.sh
 endif
 

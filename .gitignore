@@ -16,3 +16,4 @@ ncbitaxon.ttl
 subsets/taxslim-disjoint-over-in-taxon.owl
 subsets/taxslim.owl
 subsets/current_taxslim-disjoint.owl
+subsets/current_taxslim.obo

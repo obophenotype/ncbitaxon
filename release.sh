@@ -21,6 +21,10 @@ TAG="${1:-v$(date +%Y-%m-%d)}"
 
 export ODK_DEBUG=yes
 
+# Reset the consolidated per-target debug log once at the start.
+# odk.sh appends to it across both make invocations below.
+rm -f debug.log
+
 echo ">>> [1/4] Building ontology: make clean all -B"
 ./odk.sh make clean all -B
 
