@@ -7,16 +7,18 @@ ONTBASE= http://purl.obolibrary.org/obo/ncbitaxon
 
 # Per-target timing/memory log (mirrors ODK convention).
 # Run with: ODK_DEBUG=yes ./odk.sh bash -c "cd subsets && make <target>"
+# odk.sh sets ODK_DEBUG_FILE in the env to a single absolute path so
+# this Makefile and the root Makefile both append to the same log.
 SCRIPTSDIR = ../src/scripts
 ifeq ($(ODK_DEBUG),yes)
-ODK_DEBUG_FILE = debug.log
 SHELL = $(SCRIPTSDIR)/run-command.sh
 endif
 
 all: taxslim taxslim-disjoint-over-in-taxon.owl taxslim-disjoint-diff.md
 
 taxslim: taxon-subset-ids.txt
-	OWLTOOLS_MEMORY=8G owltools ../ncbitaxon.obo --create-slim --output-owl taxslim.owl --output-obo taxslim.obo --old-obo taxslim.obo --iri $(ONTBASE)/subsets/taxslim.owl --ids taxon-subset-ids.txt
+	wget http://purl.obolibrary.org/obo/ncbitaxon/subsets/taxslim.obo -O current_taxslim.obo
+	OWLTOOLS_MEMORY=8G owltools ../ncbitaxon.obo --create-slim --output-owl taxslim.owl --output-obo taxslim.obo --old-obo current_taxslim.obo --iri $(ONTBASE)/subsets/taxslim.owl --ids taxon-subset-ids.txt
 	robot annotate -i taxslim.owl --ontology-iri $(ONTBASE)/subsets/taxslim.owl annotate -V $(ONTBASE)/releases/$(VERSION)/subsets/taxslim.owl --annotation owl:versionInfo $(VERSION) -o taxslim.owl
 	robot annotate -i taxslim.obo --ontology-iri $(ONTBASE)/subsets/taxslim.obo annotate -V $(ONTBASE)/releases/$(VERSION)/subsets/taxslim.obo --annotation owl:versionInfo $(VERSION) -o taxslim.obo
 	robot convert -i taxslim.owl -f json -o taxslim.json
