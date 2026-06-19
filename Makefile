@@ -1,6 +1,6 @@
 .PHONY: all
-all: ncbitaxon.owl ncbitaxon.obo ncbitaxon.json ncbi_diff_latest_current_obo.txt
-all: ncbitaxon.owl.gz ncbitaxon.obo.gz ncbitaxon.json.gz
+all: ncbitaxon.owl ncbitaxon.obo ncbitaxon.json ncbi_diff_latest_current_obo.txt ncbitaxon-minimal.owl
+all: ncbitaxon.owl.gz ncbitaxon.obo.gz ncbitaxon.json.gz ncbitaxon-minimal.owl.gz
 
 ROBOT=robot
 DATE=$(shell date '+%Y-%m-01')
@@ -32,8 +32,15 @@ ncbitaxon.%.gz: ncbitaxon.%
 
 .PRECIOUS: ncbitaxon.owl
 .PRECIOUS: ncbitaxon.obo
+.PRECIOUS: ncbitaxon-minimal.owl
 ncbitaxon.owl ncbitaxon.obo ncbitaxon.json: ncbitaxon.ttl
 	$(ROBOT) convert -i $< -o $@
+
+ncbitaxon-minimal.owl: ncbitaxon.ttl src/queries/ncbitaxon-minimal.ru
+	$(ROBOT) query --input $< --format xml --query $(word 2,$^) $@.tmp && mv $@.tmp $@
+
+ncbitaxon-minimal.owl.gz: ncbitaxon-minimal.owl
+	gzip -c $< > $@.tmp && mv $@.tmp $@
 
 ncbi_diff_latest_current_%.txt: ncbitaxon.%
 	wget http://purl.obolibrary.org/obo/ncbitaxon.$* -O current_ncbitaxon.$*
