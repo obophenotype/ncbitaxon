@@ -1,7 +1,7 @@
 name: Release NCBITaxon
 
 # Executes the full release workflow documented in README.md:
-#   1. make clean all -B            (build ncbitaxon.{owl,obo,json}{,.gz}, ncbitaxon-minimal.owl{,.gz} + diff)
+#   1. make clean all -B            (build ncbitaxon.{owl,obo,json}{,.gz}, ncbitaxon/ncbitaxon-minimal.owl{,.gz} + diff)
 #   2. cd subsets && make all -B    (build taxslim subset products)
 #   3. Upload all artifacts as a draft GitHub release for review.
 #
@@ -66,8 +66,9 @@ jobs:
         run: |
           ls -lh ncbitaxon.json.gz \
                  ncbitaxon.obo  ncbitaxon.obo.gz \
-                 ncbitaxon-minimal.owl ncbitaxon-minimal.owl.gz \
                  ncbitaxon.owl  ncbitaxon.owl.gz
+          ls -lh ncbitaxon/ncbitaxon-minimal.owl \
+                 ncbitaxon/ncbitaxon-minimal.owl.gz
           ls -lh subsets/taxslim-disjoint-over-in-taxon.owl \
                  subsets/taxslim.obo \
                  subsets/taxslim.owl \
@@ -92,8 +93,8 @@ jobs:
             ncbitaxon.json.gz
             ncbitaxon.obo
             ncbitaxon.obo.gz
-            ncbitaxon-minimal.owl
-            ncbitaxon-minimal.owl.gz
+            ncbitaxon/ncbitaxon-minimal.owl
+            ncbitaxon/ncbitaxon-minimal.owl.gz
             ncbitaxon.owl
             ncbitaxon.owl.gz
             subsets/taxslim-disjoint-over-in-taxon.owl

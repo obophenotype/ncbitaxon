@@ -130,9 +130,9 @@ pipeline {
 					onlyIfSuccessful: true
 					archiveArtifacts artifacts: "ncbitaxon.obo.gz",
 					onlyIfSuccessful: true
-					archiveArtifacts artifacts: "ncbitaxon-minimal.owl",
+					archiveArtifacts artifacts: "ncbitaxon/ncbitaxon-minimal.owl",
 					onlyIfSuccessful: true
-					archiveArtifacts artifacts: "ncbitaxon-minimal.owl.gz",
+					archiveArtifacts artifacts: "ncbitaxon/ncbitaxon-minimal.owl.gz",
 					onlyIfSuccessful: true
 					archiveArtifacts artifacts: "ncbitaxon.owl.gz",
 					onlyIfSuccessful: true

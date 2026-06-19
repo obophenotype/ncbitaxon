@@ -35,8 +35,8 @@ ARTIFACTS=(
   ncbitaxon.json.gz
   ncbitaxon.obo
   ncbitaxon.obo.gz
-  ncbitaxon-minimal.owl
-  ncbitaxon-minimal.owl.gz
+  ncbitaxon/ncbitaxon-minimal.owl
+  ncbitaxon/ncbitaxon-minimal.owl.gz
   ncbitaxon.owl
   ncbitaxon.owl.gz
   subsets/taxslim-disjoint-over-in-taxon.owl

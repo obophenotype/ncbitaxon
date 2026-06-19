@@ -1,9 +1,10 @@
 .PHONY: all
-all: ncbitaxon.owl ncbitaxon.obo ncbitaxon.json ncbi_diff_latest_current_obo.txt ncbitaxon-minimal.owl
-all: ncbitaxon.owl.gz ncbitaxon.obo.gz ncbitaxon.json.gz ncbitaxon-minimal.owl.gz
+all: ncbitaxon.owl ncbitaxon.obo ncbitaxon.json ncbi_diff_latest_current_obo.txt ncbitaxon/ncbitaxon-minimal.owl
+all: ncbitaxon.owl.gz ncbitaxon.obo.gz ncbitaxon.json.gz ncbitaxon/ncbitaxon-minimal.owl.gz
 
 ROBOT=robot
 DATE=$(shell date '+%Y-%m-01')
+VARIANTDIR=ncbitaxon
 
 # Per-target timing/memory log (mirrors ODK convention).
 # Run with: ODK_DEBUG=yes ./odk.sh make <target>
@@ -21,6 +22,9 @@ clean:
 build:
 	mkdir -p $@
 
+$(VARIANTDIR):
+	mkdir -p $@
+
 build/taxdmp.zip: | build
 	curl -L -o $@ https://ftp.ncbi.nih.gov/pub/taxonomy/taxdump_archive/taxdmp_$(DATE).zip
 
@@ -32,14 +36,14 @@ ncbitaxon.%.gz: ncbitaxon.%
 
 .PRECIOUS: ncbitaxon.owl
 .PRECIOUS: ncbitaxon.obo
-.PRECIOUS: ncbitaxon-minimal.owl
+.PRECIOUS: $(VARIANTDIR)/ncbitaxon-minimal.owl
 ncbitaxon.owl ncbitaxon.obo ncbitaxon.json: ncbitaxon.ttl
 	$(ROBOT) convert -i $< -o $@
 
-ncbitaxon-minimal.owl: ncbitaxon.ttl src/queries/ncbitaxon-minimal.ru
+$(VARIANTDIR)/ncbitaxon-minimal.owl: ncbitaxon.ttl src/queries/ncbitaxon-minimal.ru | $(VARIANTDIR)
 	$(ROBOT) query --input $< --format xml --query $(word 2,$^) $@.tmp && mv $@.tmp $@
 
-ncbitaxon-minimal.owl.gz: ncbitaxon-minimal.owl
+$(VARIANTDIR)/ncbitaxon-minimal.owl.gz: $(VARIANTDIR)/ncbitaxon-minimal.owl
 	gzip -c $< > $@.tmp && mv $@.tmp $@
 
 ncbi_diff_latest_current_%.txt: ncbitaxon.%

@@ -18,7 +18,7 @@ This README details with technical aspects of the build
 
 Currently there is one taxon subset slim, `ncbitaxon/subsets/taxslim` - for details, see [subsets/README.md](subsets/README.md). This slim is built from the seed terms in [subsets/taxon-subset-ids.txt](subsets/taxon-subset-ids.txt) plus ancestors. The `taxslim-disjoint-over-in-taxon.owl` artifact is a disjointness-augmented OWL variant derived from `taxslim`.
 
-There is also one axiom slim, `ncbitaxon-minimal.owl`. This is the full NCBITaxon graph filtered to only `rdfs:label` and `rdfs:subClassOf` axioms; it is not based on a taxon branch or subset seed list.
+There is also one axiom slim, `ncbitaxon/ncbitaxon-minimal.owl`. This is the full NCBITaxon graph filtered to only `rdfs:label` and `rdfs:subClassOf` axioms; it is not based on a taxon branch or subset seed list.
 
 ## Licensing
 
@@ -49,7 +49,7 @@ If you specifically wish to cite the OBO/OWL translation, use the URL for this p
    3. `make all -B`
    4. `cd ..`
 2. gh release create v2021-06-10
-3. gh release upload v2021-06-10  ncbitaxon.json ncbitaxon.json.gz ncbitaxon.obo ncbitaxon.obo.gz ncbitaxon-minimal.owl ncbitaxon-minimal.owl.gz ncbitaxon.owl ncbitaxon.owl.gz subsets/taxslim-disjoint-over-in-taxon.owl subsets/taxslim.obo subsets/taxslim.owl subsets/taxslim.json
+3. gh release upload v2021-06-10  ncbitaxon.json ncbitaxon.json.gz ncbitaxon.obo ncbitaxon.obo.gz ncbitaxon/ncbitaxon-minimal.owl ncbitaxon/ncbitaxon-minimal.owl.gz ncbitaxon.owl ncbitaxon.owl.gz subsets/taxslim-disjoint-over-in-taxon.owl subsets/taxslim.obo subsets/taxslim.owl subsets/taxslim.json
 
 ### Using Monarch Jenkins
 
