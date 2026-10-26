@@ -14,9 +14,11 @@ http://obofoundry.org/ontology/ncbitaxon.html
 
 This README details with technical aspects of the build
 
-## Subsets
+## Slim Products
 
-Currently there is one subset, ncbitaxon/subsets/taxslim - for details, see [subsets/README.md](subsets/README.md)
+Currently there is one taxon subset slim, `ncbitaxon/subsets/taxslim` - for details, see [subsets/README.md](subsets/README.md). This slim is built from the seed terms in [subsets/taxon-subset-ids.txt](subsets/taxon-subset-ids.txt) plus ancestors. The `taxslim-disjoint-over-in-taxon.owl` artifact is a disjointness-augmented OWL variant derived from `taxslim`.
+
+There is also one axiom slim, `ncbitaxon/ncbitaxon-minimal.owl`. This is the full NCBITaxon graph filtered to only `rdfs:label` and `rdfs:subClassOf` axioms; it is not based on a taxon branch or subset seed list.
 
 ## Licensing
 
@@ -47,7 +49,7 @@ If you specifically wish to cite the OBO/OWL translation, use the URL for this p
    3. `make all -B`
    4. `cd ..`
 2. gh release create v2021-06-10
-3. gh release upload v2021-06-10  ncbitaxon.json ncbitaxon.json.gz ncbitaxon.obo ncbitaxon.obo.gz ncbitaxon.owl ncbitaxon.owl.gz subsets/taxslim-disjoint-over-in-taxon.owl subsets/taxslim.obo subsets/taxslim.owl subsets/taxslim.json
+3. gh release upload v2021-06-10  ncbitaxon.json ncbitaxon.json.gz ncbitaxon.obo ncbitaxon.obo.gz ncbitaxon/ncbitaxon-minimal.owl ncbitaxon/ncbitaxon-minimal.owl.gz ncbitaxon.owl ncbitaxon.owl.gz subsets/taxslim-disjoint-over-in-taxon.owl subsets/taxslim.obo subsets/taxslim.owl subsets/taxslim.json
 
 ### Using Monarch Jenkins
 
@@ -55,4 +57,3 @@ If you specifically wish to cite the OBO/OWL translation, use the URL for this p
 2. Download all generated files from the Jenkins job (except for env.txt), including the files in the [subset](https://ci.monarchinitiative.org/view/pipelines/job/ncbi_taxon/lastSuccessfulBuild/artifact/subsets/) directory.
 3. On GitHub, go to [Code](https://github.com/obophenotype/ncbitaxon), and click on [releases](https://github.com/obophenotype/ncbitaxon/releases).
 4. Click "Draft a new release". The tag is something like `v2020-02-28`. Provide a title and a meaningful description, and upload all the files downloaded from the Jenkins job above. Hit `Publish release`.
-
